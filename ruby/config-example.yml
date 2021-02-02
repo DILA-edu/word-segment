@@ -1,0 +1,5 @@
+cbeta_xml_p5a: /home/ray/git-repos/cbeta-xml-p5a
+gaiji: /home/ray/git-repos/cbeta_gaiji
+cbeta_taf_xml: ../out/taf
+seged_taf: ../out/seged-taf
+seged_txt: ../out/seged-txt

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">CBETA電子佛典(量化分析版)</title>
+        <title type="subordinate">佛說戒德香經</title>
+        <author>Dharma Drum Institute of Liberal Arts, Library and Information Center, Digital Archives Section 法鼓文理學院 圖書資訊館 數位典藏組</author>
+        <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+        <respStmt>
+          <resp>資料轉換</resp>
+          <name>周邦信</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>法鼓文理學院</publisher>
+        <address>
+          <addrLine>20842 新北市金山區法鼓路700號</addrLine>
+          <addrLine>da@dila.edu.tw</addrLine>
+        </address>
+        <date>2012-2021</date>
+        <availability>
+          <p>This document is published under a CC Attribution-Share Alike License</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title type="main">CBETA 電子佛典集成</title>
+          <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+          <pubPlace>臺灣‧臺北</pubPlace>
+          <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+          <date>2021-02-02</date>
+          <biblScope type="vol">T02</biblScope>
+          <idno type="Taisho">T02n0116</idno>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+/<div type="jing" level="1">
+<ab type="juan" subtype="open">/佛/說/戒德/香/經/</ab><byline>/東晉/天竺/三藏/竺曇無蘭/譯/</byline><ab type="prose">/聞/如是/：/一時/，/佛/遊/舍衛國/祇樹/給孤獨園/。/時/，/賢者/阿難/閑/居/獨思/：/「/世/有/三/香/，/一/曰/根/香/，/二/曰/枝香/，/三/曰/華香/，/是/三/品/香/唯/隨/風/香/不能/逆風/，/寧/有/雅/香/隨/風/逆/風/者/乎/？/」/賢者/阿難/獨處/思惟/此/義/所/歸/，/不/知/所/趣/，/即/從/坐/起/往/詣/佛/所/，/稽首/佛/足/下/，/長跪/叉手/而/白/佛/言/：/「/我/獨/處/思惟/，/世/有/三/香/，/一/曰/根/香/，/二/曰/枝香/，/三/曰/華香/，/此/三/品/香/唯/能/隨/風/不能/逆風/，/寧/有/雅/香/隨/風/逆/風/者/乎/？/」/佛/告/阿難/：/「/善哉/！/善哉/！/誠/如/汝/問/，/有/香/真正/隨/風/逆/風/。/」/阿難/白/佛/：/「/願/聞/其/香/。/」/佛/言/：/「/若/於/郡國/縣邑/村落/，/有/善男子/善女人/，/修行/十善/，/身/不/殺/、/盜/、/淫/，/口/不/妄/言/、/兩舌/、/惡口/、/綺語/，/意/不/嫉妬/、/恚/、/癡/，/孝順/父母/，/奉事/三尊/，/仁慈/道德/威儀/禮節/，/東方/無數/沙門/梵志/歌頌/其/德/，/南/西/北方/四維/上下/沙門/梵志/咸/歌/其/德/：/『/某/郡/國土/縣邑/村落/，/有/善男子/善女人/，/奉行/十善/敬/事/三寶/，/孝順/仁慈/道德/恩義/不/失/禮節/。/』/是/香/名/曰/隨/風/逆/風/靡不/周照/，/十方/宣/德/一切/蒙/賴/。/」/佛/時/頌/曰/：/</ab>
+<ab type="verse">
+/「/雖/有/美/香花/，/不能/逆/風/熏/，/　/　/不/息/名/栴檀/，/眾/雨/一切/香/。/　/　/志性/能/和雅/，/爾乃/逆/風/香/，/　/　/正士/名/丈夫/，/普熏/于/十方/。/　/　/木/蜜/及/栴檀/，/青/蓮/諸/雨/香/，/　/　/一切/此/眾/香/，/戒香/最/無上/。/　/　/是/等/清淨/者/，/所/行/無/放逸/，/　/　/不/知/魔/徑路/，/不/見/所/歸趣/。/　/　/此/道/至/永安/，/此/道/最/無上/，/　/　/所/獲/斷/穢源/，/降伏/絕/魔網/。/　/　/用/上/佛/道堂/，/昇/無窮/之/慧/，/　/　/以/此/宣/經義/，/除/去/一切/弊/。/」/　/　/
+</ab><ab type="prose">/佛/告/阿難/：/「/是/香/所/布/，/不/礙/須彌山/川/天地/，/不/礙/四/種/地/水/火/風/，/通達/八/極/上下/亦/然/，/無窮/之/界/咸/歌/其/德/。/一/身/不/殺生/，/世世/長壽/，/其/命/無/橫/。/不/盜竊/者/，/世世/富饒/又/不/妄遺/財寶/常/存/，/施/為/道根/。/不/婬/色/者/，/人/不犯/妻/，/所/在/化生/蓮華/之/中/。/不/妄言/者/，/口氣/香/好/言/輒/信/之/。/不/兩舌/者/，/家/常/和合/無有/別離/。/不/惡口/者/，/其/舌/常/好/言辭/辯通/。/不/綺語/者/，/人/聞/其/言/莫不/諮受/宣用/為/珍/。/不/嫉妬/者/，/世世/所/生/眾/人/所/敬/。/不/瞋恚/者/，/世世/端正/人/見/歡喜/。/除/愚癡/者/，/所/生/智慧/靡不/諮請/，/捨/于/邪見/常住/正道/，/從/行/所/得/各自/然/生/，/故/當/棄/邪/從/其/真妙/。/」/佛/說/如是/。/時/，/諸/比丘/聞/之/歡喜/，/作禮/而/去/。/
+</ab><ab type="juan" subtype="close">/佛/說/戒德/香/經/</ab></div>
+/</body>
+  </text>
+</TEI>

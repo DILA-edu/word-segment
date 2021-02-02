@@ -1,0 +1,15 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    cbeta (2.7.11)
+    open3 (0.1.1)
+
+PLATFORMS
+  x86_64-linux
+
+DEPENDENCIES
+  cbeta
+  open3
+
+BUNDLED WITH
+   2.2.7

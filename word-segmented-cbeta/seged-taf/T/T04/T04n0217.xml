@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">CBETA電子佛典(量化分析版)</title>
+        <title type="subordinate">譬喻經</title>
+        <author>Dharma Drum Institute of Liberal Arts, Library and Information Center, Digital Archives Section 法鼓文理學院 圖書資訊館 數位典藏組</author>
+        <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+        <respStmt>
+          <resp>資料轉換</resp>
+          <name>周邦信</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>法鼓文理學院</publisher>
+        <address>
+          <addrLine>20842 新北市金山區法鼓路700號</addrLine>
+          <addrLine>da@dila.edu.tw</addrLine>
+        </address>
+        <date>2012-2021</date>
+        <availability>
+          <p>This document is published under a CC Attribution-Share Alike License</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title type="main">CBETA 電子佛典集成</title>
+          <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+          <pubPlace>臺灣‧臺北</pubPlace>
+          <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+          <date>2021-02-02</date>
+          <biblScope type="vol">T04</biblScope>
+          <idno type="Taisho">T04n0217</idno>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+/
+<ab type="juan" subtype="open">/佛/說/譬喻/經/</ab><byline>/大唐/三藏法師/義淨/譯/</byline><div type="jing" level="1"><ab type="prose">/如是我聞/：/一時/薄伽梵/，/在/室羅伐城/逝多林/給孤獨園/。/爾時/世尊/於/大眾/中/，/告/勝光王/曰/：/「/大王/！/我/今/為/王/略說/譬喻/，/諸/有/生死/味/著/過患/，/王/今/諦聽/！/善/思念/之/。/乃往/過去/，/於/無量/劫/，/時/有/一/人/，/遊/於/曠野/，/為/惡/象/所/逐/，/怖走/無依/，/見/一/空/井/，/傍/有/樹根/，/即/尋/根/下/，/潛身/井/中/。/有/黑白/二/鼠/，/互齧/樹根/；/於/井/四邊/有/四/毒蛇/，/欲/螫/其/人/；/下/有/毒/龍/。/心/畏/龍/蛇/，/恐/樹根/斷/。/樹根/蜂/蜜/，/五/滴/墮/口/，/樹/搖/蜂/散/，/下/螫/斯/人/，/野火/復/來/，/燒然/此/樹/。/」/王/曰/：/「/是/人/云何/受/無量/苦/貪/彼/少/味/？/」/爾時/世尊/告/言/：/「/大王/！/曠野/者/喻/於/無明/長夜/曠遠/，/言/彼/人/者/喻/於/異生/，/象/喻/無常/，/井/喻/生死/，/險岸/樹根/喻/命/，/黑白/二/鼠/以/喻/晝夜/，/齧/樹根/者/喻/念念/滅/，/其/四/毒蛇/喻/於/四大/，/蜜/喻/五欲/，/蜂/喻/邪/思/，/火/喻/老病/，/毒/龍/喻/死/。/是故/大王/！/當/知/生老病死/，/甚/可/怖畏/，/常/應/思念/，/勿/被/五欲/之/所/吞迫/。/」/爾時/世尊/重/說/頌/曰/：/</ab>
+<ab type="verse">
+/「/曠野/無明/路/，/人/走/喻/凡夫/，/　/　/大象/比/無常/，/井/喻/生死/岸/；/　/　/樹根/喻/於/命/，/二/鼠/晝夜/同/，/　/　/齧/根/念念/衰/，/四/蛇/同/四大/；/　/　/蜜/滴/喻/五欲/，/蜂/螫/比/邪/思/，/　/　/火/同/於/老病/，/毒/龍/方/死/苦/。/　/　/智者/觀/斯/事/，/象/可/厭/生津/，/　/　/五欲/心/無著/，/方/名/解脫/人/。/　/　/鎮/處/無明/海/，/常/為/死王/驅/，/　/　/寧/知/戀/聲色/，/不/樂/離/凡夫/。/」/　/　/
+</ab><ab type="prose">/爾時/勝/光/大王/聞/佛/為/說/生死/過患/，/得/未曾有/，/深/生/厭離/，/合掌/恭敬/，/一心/瞻仰/，/白/佛/言/：/「/世尊/！/如來/大慈/，/為/說/如是/微妙/法義/，/我/今/頂戴/。/」/佛/言/：/「/善哉/，/善哉/！/大王/！/當/如/說/行/，/勿/為/放逸/。/」/時/勝光王/及/諸/大眾/，/皆悉/歡喜/，/信受奉行/。/
+</ab><ab type="juan" subtype="close">/佛/說/譬喻/經/</ab></div>
+/</body>
+  </text>
+</TEI>

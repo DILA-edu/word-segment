@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">CBETA電子佛典(量化分析版)</title>
+        <title type="subordinate">%{title}</title>
+        <author>Dharma Drum Institute of Liberal Arts, Library and Information Center, Digital Archives Section 法鼓文理學院 圖書資訊館 數位典藏組</author>
+        <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+        <respStmt>
+          <resp>資料轉換</resp>
+          <name>周邦信</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>法鼓文理學院</publisher>
+        <address>
+          <addrLine>20842 新北市金山區法鼓路700號</addrLine>
+          <addrLine>da@dila.edu.tw</addrLine>
+        </address>
+        <date>2012-2021</date>
+        <availability>
+          <p>This document is published under a CC Attribution-Share Alike License</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title type="main">CBETA 電子佛典集成</title>
+          <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+          <pubPlace>臺灣‧臺北</pubPlace>
+          <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+          <date>%{date}</date>
+          <biblScope type="vol">%{vol}</biblScope>
+          <idno type="Taisho">%{work}</idno>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+    %{body}
+    </body>
+  </text>
+</TEI>

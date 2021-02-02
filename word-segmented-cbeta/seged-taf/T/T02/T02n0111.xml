@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">CBETA電子佛典(量化分析版)</title>
+        <title type="subordinate">佛說相應相可經</title>
+        <author>Dharma Drum Institute of Liberal Arts, Library and Information Center, Digital Archives Section 法鼓文理學院 圖書資訊館 數位典藏組</author>
+        <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+        <respStmt>
+          <resp>資料轉換</resp>
+          <name>周邦信</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>法鼓文理學院</publisher>
+        <address>
+          <addrLine>20842 新北市金山區法鼓路700號</addrLine>
+          <addrLine>da@dila.edu.tw</addrLine>
+        </address>
+        <date>2012-2021</date>
+        <availability>
+          <p>This document is published under a CC Attribution-Share Alike License</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title type="main">CBETA 電子佛典集成</title>
+          <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+          <pubPlace>臺灣‧臺北</pubPlace>
+          <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+          <date>2021-02-02</date>
+          <biblScope type="vol">T02</biblScope>
+          <idno type="Taisho">T02n0111</idno>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+/<div type="jing" level="1">
+<ab type="juan" subtype="open">/佛/說/相應/相/可/經/</ab><byline>/西晉/沙門/法炬/譯/</byline><ab type="prose">/佛/在/舍衛國/請/諸/比丘/，/比丘/即/到/。/佛/告/比丘/，/比丘/應/：/「/唯然/，/從/佛/聞/。/」/佛/便/說/：/「/是/不/聞/者/，/不/聞/者/俱/，/相/類/、/相/聚/、/相應/、/相/可/；/多聞/者/，/多聞/者/俱/，/相/類/、/相/聚/、/相應/、/相/可/。/貪婬/者/，/貪婬/者/俱/，/相/類/、/相/聚/、/相應/、/相/可/；/不/貪婬/者/，/不/貪婬/者/俱/相/類/、/相/聚/、/相應/、/相/可/。/瞋恚/者/，/瞋恚/者/俱/，/相/類/、/相/聚/、/相應/、/相/可/；/不/瞋恚/者/，/不/瞋恚/者/俱/，/相/類/、/相/聚/、/相應/、/相/可/。/愚癡/者/，/愚癡/者/俱/，/相/類/、/相/聚/、/相應/、/相/可/；/慧/者/，/慧/者/俱/，/相/類/、/相/聚/、/相應/、/相/可/。/布施/者/，/布施/者/俱/，/相/類/、/相/聚/、/相應/、/相/可/；/慳貪/者/，/慳貪/者/俱/，/相/類/、/相/聚/、/相應/、/相/可/。/少/欲/者/，/少/欲/者/俱/，/相/類/、/相/聚/、/相應/、/相/可/；/多/欲/者/，/多/欲/者/俱/，/相/類/、/相/聚/、/相應/、/相/可/。/不/持戒/者/，/不/持戒/者/俱/，/相/類/、/相/聚/、/相應/、/相/可/；/持戒/者/，/持戒/者/俱/，/相/類/、/相/聚/、/相應/、/相/可/。/難/給/者/，/難/給/者/俱/，/相/類/、/相/聚/、/相應/、/相/可/；/易/給/者/，/易/給/者/俱/，/相/類/、/相/聚/、/相應/、/相/可/。/不/知足/者/，/不/知足/者/俱/，/相/類/、/相/聚/、/相應/、/相/可/；/知足/者/，/知足/者/俱/，/相/類/、/相/聚/、/相應/、/相/可/。/不/自/守/者/，/不/自/守/者/俱/，/相/類/、/相/聚/、/相應/、/相/可/；/自/守/者/，/自/守/者/俱/，/相/類/、/相/聚/、/相應/、/相/可/。/」/佛/說/：/「/比丘/！/如是/慧/人/當/分別/是/因緣/，/可/行/者/行/之/，/不可/行/者/莫/行/。/」/佛/說/如是/。/比丘/受/行/著意/。/
+</ab><ab type="juan" subtype="close">/佛/說/相應/相/可/經/</ab></div>
+/</body>
+  </text>
+</TEI>

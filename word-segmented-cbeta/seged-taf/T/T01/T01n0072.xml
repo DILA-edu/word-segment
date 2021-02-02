@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">CBETA電子佛典(量化分析版)</title>
+        <title type="subordinate">三歸五戒慈心厭離功德經</title>
+        <author>Dharma Drum Institute of Liberal Arts, Library and Information Center, Digital Archives Section 法鼓文理學院 圖書資訊館 數位典藏組</author>
+        <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+        <respStmt>
+          <resp>資料轉換</resp>
+          <name>周邦信</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>法鼓文理學院</publisher>
+        <address>
+          <addrLine>20842 新北市金山區法鼓路700號</addrLine>
+          <addrLine>da@dila.edu.tw</addrLine>
+        </address>
+        <date>2012-2021</date>
+        <availability>
+          <p>This document is published under a CC Attribution-Share Alike License</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title type="main">CBETA 電子佛典集成</title>
+          <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+          <pubPlace>臺灣‧臺北</pubPlace>
+          <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+          <date>2021-02-02</date>
+          <biblScope type="vol">T01</biblScope>
+          <idno type="Taisho">T01n0072</idno>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+/<div type="jing" level="1">
+<ab type="juan" subtype="open">/佛/說/三歸/五戒/慈心/厭離/功德/經/</ab>
+<byline>/失譯/人名/今/附/東晉/錄/</byline>
+<ab type="prose">/聞/如是/：/一時/，/佛/在/舍衛國/祇樹/給孤獨園/。/佛/為/阿那邠邸/長者/說/：/「/過去/久遠/，/有/梵志/名/毗羅摩/，/饒/財/多/寶/。/若/布施/時/，/用/八萬四千/金/鉢/盛滿/碎/銀/，/八萬四千/銀/鉢/盛滿/碎/金/，/復/以/八萬四千/金銀/澡罐/，/復/以/八萬四千/牛/皆/以/金銀/覆/角/，/復/以/八萬四千/玉女/莊嚴/具足/，/復/以/八萬四千/臥具/眾/綵/自覆/，/復/以/八萬四千/衣裳/，/復/以/八萬四千/象/馬/皆/以/金銀/鞍勒/，/復/以/八萬四千/房舍/布施/；/復/於/四/城門/中/布施/，/隨/其/所/欲/皆悉/與/之/；/復/以/一/房舍/施/招提/僧/。/如/上/施/福/，/不如/受/三自歸/。/所以/然/者/，/受/三歸/者/，/施/一切/眾生/無畏/。/是故/歸/佛/、/法/、/僧/，/其/福/不可/計量/也/。/「/如/上/布施/及/受/三歸/福/，/復/不如/受/五戒/福/。/受/五戒/者/，/功德/滿具/，/其/福/勝/也/。/如/上/布施/及/受/三歸/、/五戒/福/，/復/不如/彈指/頃/慈念/眾生/福/也/。/如/上/布施/，/及/受/三歸/、/五戒/，/慈念/眾生/福/，/復/不如/起/一切/世間/不可/樂/想/福/。/所以/然/者/，/起/一切/世間/不可/樂/想/福/，/能/令/行/者/滅/生死/苦/，/終/成/佛道/，/故/其/福/最勝/也/。/」/爾時/長者/聞/佛/所/說/，/歡喜/奉行/。/
+</ab><ab type="juan" subtype="close">/佛/說/三歸/五戒/慈心/厭離/功德/經/</ab></div>
+/</body>
+  </text>
+</TEI>
