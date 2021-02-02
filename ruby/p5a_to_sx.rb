@@ -80,7 +80,7 @@ class P5aToSimpleXML
       # 如果 body 只有一個 div, 而這個 div 的 type 是 other, 
       # 這個 div 會被忽略, 所以還是要在最外層再包一個大 div
       div = e.at('div')
-      if div.key?('type') and div['type'] == 'other'
+      if div.nil? or (div.key?('type') and div['type'] == 'other')
         @div_level = 1
         r += "<div level='1'>" + traverse(e)
         r += close_ab + '</div>'
