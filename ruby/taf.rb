@@ -19,8 +19,9 @@ def convert_all
 end
 
 def convert_canon(c)
+  puts "convert_canon #{c}"
   src = File.join($in, c)
-  Dir.entries($in).sort.each do |f|
+  Dir.entries(src).sort.each do |f|
     next if f.start_with?('.')
     convert_vol(c, f)
   end
