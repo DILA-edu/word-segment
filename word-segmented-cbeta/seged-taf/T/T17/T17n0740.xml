@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">CBETA電子佛典(量化分析版)</title>
+        <title type="subordinate">佛說頞多和多耆經</title>
+        <author>Dharma Drum Institute of Liberal Arts, Library and Information Center, Digital Archives Section 法鼓文理學院 圖書資訊館 數位典藏組</author>
+        <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+        <respStmt>
+          <resp>資料轉換</resp>
+          <name>周邦信</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>法鼓文理學院</publisher>
+        <address>
+          <addrLine>20842 新北市金山區法鼓路700號</addrLine>
+          <addrLine>da@dila.edu.tw</addrLine>
+        </address>
+        <date>2012-2021</date>
+        <availability>
+          <p>This document is published under a CC Attribution-Share Alike License</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title type="main">CBETA 電子佛典集成</title>
+          <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+          <pubPlace>臺灣‧臺北</pubPlace>
+          <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+          <date>2021-02-03</date>
+          <biblScope type="vol">T17</biblScope>
+          <idno type="Taisho">T17n0740</idno>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+    
+<ab type="juan" subtype="open">/佛/說/頞多和多耆經/</ab>
+<byline>/失譯/人/今/附/西晉/錄/</byline>
+<div type="jing" level="1">
+<ab type="prose">/聞/如是/：/</ab>
+<ab type="prose">/一時/佛/在/為/耶/國/時/有/多/樹木/處/，/與/眾/比丘/僧/俱/，/比丘/有/五百/人/。/月/十五日/盛滿/時/，/夜半/寂然/安靜/，/比丘/僧/自相/難/問/。/時/栴檀/調弗/天人/，/持/天/形狀/威神/光耀/來/，/直/前/趣/佛/。/至/佛/前/已/，/悉/脫/身/上/珍寶/著/一面/，/但/披/一/領/衣/，/前/以/頭面/著/佛/足/，/禮/畢/問/佛/言/：/「/諸/可/過去/佛/正覺/弟子/有/經/，/經/名/《/頞多和多耆/》/，/佛/弟子/今/亦復/說/是/頞多和多耆經/。/願/佛/為/我/說/是/經/，/當/使/弟子/奉持/。/」/佛/默然/不/應/。/栴檀/調弗/稽首/而/却坐/。/</ab>
+<ab type="prose">/佛/即/為/比丘/僧/說經/言/：/「/我/為/若/說/《/頞多和多耆經/》/，/皆/聽/著/心/中/，/念/之/勿/得/忘/。/」/</ab>
+<ab type="prose">/比丘/言/：/「/願/佛/說/，/我/皆/當/受/經戒/。/」/</ab>
+<ab type="prose">/佛/言/：/「/布施/有/八/事/。/何謂/為/八/？/愚癡/人/布施/但/布施/，/不/知/其/恩/善/所/在/。/既/布施/不/達/世間/無有/常/，/癡/人/持/作/常/。/世間/苦/無極/，/愚人/持/作/樂/。/世間/所有/，/愚人/言/『/是/我/所有/，/可/常/得/』/。/世間人/皆/顛倒/，/不淨/、/臭/處/、/惡露/，/愚人/用/作/好/；/不/知/作/善/得/善/，/作/惡/得/惡/，/愚人/施與/人/，/不/知/其/人/德/深淺/，/持/善心/施與/得道/者/，/福/不可/量/。/」/</ab>
+<ab type="prose">/佛/告/諸/比丘/：/「/何以/知/愚人/不/知/布施/？/有/十/因緣/。/何等/為/十/？/愚人/布施/不/知/為/尊/，/自用/所/與/者/得/善/；/愚人/不/至心/施與/人/也/；/愚人/既/施與/人/，/與/時/不/敬重/；/不/自/手/與/，/傳/教/人/與/，/施/人/不/欲/望/其/福/；/不/即/得/其/福/者/，/自用/忘/其/福/；/愚人/施與/佛/、/辟支佛/、/阿羅漢/，/不能/自/知/其/福/大/；/愚人/施與/，/不/信/佛/、/辟支佛/、/阿羅漢/、/阿那含/、/斯陀含/、/須陀洹/；/皆/用/為/棄損/，/無有/後生/；/愚人/施與/，/欲/但/得/名字/，/欲/使/人/稱譽/。/是/為/愚人/布施/。/」/</ab>
+<ab type="prose">/佛/說/經/已/，/栴檀/調弗/及/諸/比丘/，/皆/歡喜/，/前/為/佛/作禮/。/</ab></div>
+<ab type="juan" subtype="close">/佛/說/頞多和多耆經/</ab>
+    </body>
+  </text>
+</TEI>

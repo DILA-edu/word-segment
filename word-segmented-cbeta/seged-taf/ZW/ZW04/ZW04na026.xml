@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">CBETA電子佛典(量化分析版)</title>
+        <title type="subordinate">編委會名單</title>
+        <author>Dharma Drum Institute of Liberal Arts, Library and Information Center, Digital Archives Section 法鼓文理學院 圖書資訊館 數位典藏組</author>
+        <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+        <respStmt>
+          <resp>資料轉換</resp>
+          <name>周邦信</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>法鼓文理學院</publisher>
+        <address>
+          <addrLine>20842 新北市金山區法鼓路700號</addrLine>
+          <addrLine>da@dila.edu.tw</addrLine>
+        </address>
+        <date>2012-2021</date>
+        <availability>
+          <p>This document is published under a CC Attribution-Share Alike License</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title type="main">CBETA 電子佛典集成</title>
+          <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+          <pubPlace>臺灣‧臺北</pubPlace>
+          <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+          <date>2021-02-03</date>
+          <biblScope type="vol">ZW04</biblScope>
+          <idno type="Taisho">ZW04na026</idno>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+    <div level="1"><head>/編/委會/名/單/</head>
+<ab type="prose">/顧/　/問/：/趙樸/初/　/任/繼/愈/　/　/　/　/周紹/良/　/吳/立/民/主/　/編/：/方廣/錩副/主/編/：/姚/長壽/　/　/　/　/蘇/　/軍/　/華方/田/常/務/編委/（/以/姓氏/筆/劃/為/序/）/：/　/　/　/　/方廣/錩/　/李家/振/　/李際/寧/　/　/　/　/姚/長壽/　/華方/田/　/黃維/中/　/　/　/　/黎/　/明/　/蘇/　/軍/編委/（/以/姓氏/筆/劃/為/序/）/：/　/　/　/　/方廣/錩/　/史/　/平/　/李家/振/　/　/　/　/李際/寧/　/何/　/雲/　/姚/長壽/　/　/　/　/徐/建/華/　/張文良/　/張/新/鷹/　/　/　/　/華方/田/　/黃/夏/年/　/黎/　/明/　/　/　/　/蘇/　/軍海/外/編/委/：/　/　/　/　/落/合/俊/典/（/日/本/）/　/　/　/　/胡/海/燕/（/德/國/）/　/　/　/　/陳/金/華/（/加/拿/大/）/</ab><head>/《/Buddhist/Texts/Not/Contained/in/the/Tr/i/p/i/ṭ/a/ka/》/Editorial/Board/</head>
+<ab type="list">
+/A/d/v/i/s/e/r/s:/ZHAO/Puchu/./REN/Jiyu/./ZHOU/Shaoliang/./WU/Limin/./
+/Editor/-/in/-/C/h/i/e/f:/FANG/Guangchang/./
+/Joint/Ed/i/t/o/r/s:/Li/Jiazhen/./YAO/Changshou/./SU/Jun/./HUA/Fangtian/./
+/Board/of/Consulting/Ed/i/t/o/r/s:/FANG/Guangchang/./HUA/Fangtian/./HUANG/Weizhong/./LI/Jining/./LI/Jiazhen/./LI/Ming/./SU/Jun/./YAO/Changshou/./
+/Editors/ab/r/o/a/d/:/
+/　/J/a/p/a/n:/Toshinori/OCHIAI/./
+/　/Germany/Eu/r/o/p/a:/Haiyan/HU/-/VON/HI/N/Ü/B/ER/./
+/　/Canada/Am/e/r/i/c/a:/CHEN/Jinhua/./</ab>
+<ab type="prose">/Publication/pr/o/g/r/a/m/m/e/,/1/9/9/8:/Volume/4/(/ISBN/7/-/80123/-/152/-/X/K/./49,/CIP/(/98/)/25232/)/./</ab>
+<ab type="prose">/Subscription/pr/i/c/e/s,/per/vo/l/u/m/e:/USD/20/./00,/including/postage/(/sea/mail/)/./</ab>
+<ab type="prose">/Prices/for/single/vo/l/u/m/e/s:/USD/20/./00/plus/USD/2/./00/postage/(/sea/mail/)/or/USD/6/./00/(/air/mail/)/./</ab>
+<ab type="prose">/Subscriptions/should/be/sent/to/FANG/Gu/a/n/g/c/h/a/n/g,/Institute/for/Research/on/world/Re/l/i/g/i/o/n/s,/Chinese/Academy/of/Social/Sc/i/e/n/c/e/s,/5/Jian/Guo/Men/Nei/St/r/e/e/t,/Beijing/100732,/or/to/any/of/our/editors/abroad/./</ab>
+<ab type="prose">/Changes/of/mailing/address/should/be/notified/together/with/our/latest/label/./</ab>
+<ab type="prose">/It/would/be/appreciated/if/correspondence/relation/to/editorial/ma/t/t/e/r/s,/as/well/as/articles/for/pu/b/l/i/c/a/t/i/o/n/s,/were/addressed/as/fo/l/l/o/w/s:/</ab>
+<ab type="prose">/FANG/Gu/a/n/g/c/h/a/n/g/,/I/n/s/t/i/t/u/te/for/Research/on/World/Re/l/i/g/i/o/n/s,/Chinese/Academy/of/Social/Sc/i/e/n/c/e/s,/5/Jian/Guo/Men/Nei/St/r/e/e/t,/Beijing/100732/./</ab>
+<ab type="prose">/Toshinori/OC/H/I/A/I/,/C/o/l/l/e/g/e/:/3/-/456/RI/N/K/A/C/H/O/,/H/I/G/A/S/H/I/Y/A/M/A/,/K/Y/O/T/O,/P/-/605,/JAPAN/./</ab>
+<ab type="prose">/Haiyan/HU/-/VON/HI/N/Ü/B/E/R/,/K/a/r/t/ä/u/s/e/r/s/t/r/a/B/e/1/3/8,/D/-/79102/Fr/e/i/b/u/r/g,/Germany/./</ab></div>
+    </body>
+  </text>
+</TEI>

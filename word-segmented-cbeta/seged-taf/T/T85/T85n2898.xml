@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">CBETA電子佛典(量化分析版)</title>
+        <title type="subordinate">高王觀世音經</title>
+        <author>Dharma Drum Institute of Liberal Arts, Library and Information Center, Digital Archives Section 法鼓文理學院 圖書資訊館 數位典藏組</author>
+        <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+        <respStmt>
+          <resp>資料轉換</resp>
+          <name>周邦信</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>法鼓文理學院</publisher>
+        <address>
+          <addrLine>20842 新北市金山區法鼓路700號</addrLine>
+          <addrLine>da@dila.edu.tw</addrLine>
+        </address>
+        <date>2012-2021</date>
+        <availability>
+          <p>This document is published under a CC Attribution-Share Alike License</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title type="main">CBETA 電子佛典集成</title>
+          <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+          <pubPlace>臺灣‧臺北</pubPlace>
+          <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+          <date>2021-02-03</date>
+          <biblScope type="vol">T85</biblScope>
+          <idno type="Taisho">T85n2898</idno>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+    
+<ab type="juan" subtype="open">/佛/說/高王/觀世音/經/</ab>
+<div type="jing" level="1">
+<ab type="prose">/觀世音/菩薩/。/南無/佛/。/南無/法/。/南無/僧/。/佛國/有/緣/。/佛法/相因/。/常/樂/我/淨/。/有/緣/佛法/。/南無/摩訶/般若波羅蜜/。/是/大/神呪/。/南無/摩訶/般若波羅蜜/。/是/大/明/呪/。/南無/摩訶/般若波羅蜜/。/是/無上/呪/。/南無/摩訶/般若波羅蜜/。/是/無等等/呪/。/南無/淨/光/祕密/佛/。/法藏/佛/。/師子吼/神足/由/王/佛/。/佛/告/須彌/登/王/佛/。/法/護/佛/。/金剛藏/師子/游/戲/佛/。/寶/勝/佛/。/神通/佛/。/藥師/琉璃/光/王/佛/。/普/光/功德山/王/佛/。/善住/功德/寶王/佛/。/過去/七佛/。/未來/賢劫/千/佛/。/千五百/佛/。/萬五千/佛/。/五百/花/勝/佛/。/百億/金剛藏/佛/。/定光/佛/。/六方/六/佛/名號/。/東方/寶/光/月/殿/月/妙/尊/音/王/佛/。/南方/樹根/花/王/佛/。/西方/皂王/神通/焰/花/王/佛/。/北方/月/殿/清淨/佛/。/上方/無數/精進/寶首/佛/。/下方/善寂/月/音/王/佛/。/無量/諸/佛/。/多寶/佛/。/釋迦牟尼/佛/。/彌勒/佛/。/阿閦/佛/。/彌陀佛/。/中央/一切/眾生/。/在/佛/世界/中/者/。/行住/於/地上/。/及/在/虛空/中/。/慈/憂/於/一切/眾生/。/各/令/安穩/休息/。/晝夜/修持/。/心/常/求/誦/此/經/。/能/滅/生死/苦/。/消伏/於/毒害/。/那摩/大/明/觀世音/。/觀/明/觀世音/。/高明/觀世音/。/開明/觀世音/。/藥王/菩薩/。/藥上/菩薩/。/文殊師利/菩薩/。/普賢/菩薩/。/虛空/藏/菩薩/。/地藏/菩薩/。/清涼/寶/山/億萬/菩薩/。/普光/如來/化/勝/菩薩/。/念念/誦/此/偈/。/七/佛/世尊/。/即/說/呪/曰/。/</ab>
+<ab type="dharani">離波離波帝。求訶求訶帝。陀羅尼帝。尼訶羅帝。毘離尼帝。摩訶迦帝。真靈虔帝。娑婆訶。</ab>
+<ab type="verse">/十方/觀世音/　/一切/諸/菩薩/　/誓願/救/眾生/
+/稱/名/悉/解脫/　/若/有/智慧/者/　/慇懃/為/解脫/
+/但/是/有/因緣/　/讀誦/口/不/綴/　/誦/經/滿/千/遍/
+/念念/心/不/絕/　/火焰/不能/傷/　/刀兵/立/摧折/
+/恚怒/生/歡喜/　/死/者/變/成/活/　/莫/言/此/是/虛
+/諸/佛/不/妄說/
+</ab>
+<ab type="prose">/佛/說/高王/觀世音/經/</ab>
+<ab type="verse">/高/王/觀世音/　/能/救/諸/苦危/　/臨/危/急/難/中/
+/死/者/變/成/活/　/諸/佛/語/不/虛/　/是故/應/頂禮/
+持/誦/滿/千/遍/　/重罪/皆/消滅/　/薄福/不/信/者/
+/專/貢/受持/經/
+</ab>
+<ab type="prose">/念/八/大/菩薩/名號/。/</ab>
+<ab type="prose">/南無/觀世音/菩薩/摩訶薩/。/南無/彌勒/菩薩/摩訶薩/。/南無/虛空/藏/菩薩/摩訶薩/。/南無/普賢/菩薩/摩訶薩/。/南無/金剛手/菩薩/摩訶薩/。/南無/妙吉祥/菩薩/摩訶薩/。/南無/除/蓋障/菩薩/摩訶薩/。/南無/地藏王/菩薩/摩訶薩/。/南無/諸/尊/菩薩/摩訶薩/。/</ab>
+<ab type="verse">/願/以/此/功德/　/普/及/於/一切/
+/誦/滿/一千/遍/　/重罪/皆/消滅/
+</ab>
+<ab type="juan" subtype="close">/佛/說/高王/觀世音/經/(/終/)/</ab></div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">CBETA電子佛典(量化分析版)</title>
+        <title type="subordinate">幻師颰陀神呪經</title>
+        <author>Dharma Drum Institute of Liberal Arts, Library and Information Center, Digital Archives Section 法鼓文理學院 圖書資訊館 數位典藏組</author>
+        <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+        <respStmt>
+          <resp>資料轉換</resp>
+          <name>周邦信</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>法鼓文理學院</publisher>
+        <address>
+          <addrLine>20842 新北市金山區法鼓路700號</addrLine>
+          <addrLine>da@dila.edu.tw</addrLine>
+        </address>
+        <date>2012-2021</date>
+        <availability>
+          <p>This document is published under a CC Attribution-Share Alike License</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title type="main">CBETA 電子佛典集成</title>
+          <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+          <pubPlace>臺灣‧臺北</pubPlace>
+          <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+          <date>2021-02-03</date>
+          <biblScope type="vol">T21</biblScope>
+          <idno type="Taisho">T21n1378b</idno>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+    
+<ab type="juan" subtype="open">/幻師/颰陀神/呪/經/(/亦/云/玄師/颰陀/所/說/神呪/經/)/</ab>
+<byline>/東晉/西域/三藏/竺曇無蘭/譯/</byline>
+<div type="jing" level="1">
+<ab type="prose">/聞/如是/。/一時/佛/遊/於/羅閱祇國/竹園/中/鸚鵡樹/間/。/是時/有/一/異/比丘/。/於/竹園/中/去/羅閱祇國/。/適/在/中間/道/為/毒蛇/所/齧/。/復/為/鬼神/所/嬈/。/復/為/賊/所/見/劫/。/佛/見/爾時/便/往到/是/比丘/所/時/。/幻師/颰陀/隨/佛/俱/往/。/幻師/颰陀/即/白/佛/言/。/我/有/術/甚/大/神妙/。/今/欲/為/呪/。/佛/言/止/止/颰陀/。/汝/所/說/莫/使/有/所/傷害/。/颰陀/白/佛/言/。/後/當來世/。/當/國/國/相/攻伐/賊/賊/更相/劫/。/相憎/者/復更/相劫/。/鬼神/亦/更相/劫/。/毒/毒/更/相害/。/若/有/比丘/在/山/中/樹/下/坐/。/披/五/納衣/若/在/露地/坐/。/四輩/弟子/當/令/無有/能/嬈害/者/。/皆/令/安隱/當/令/無有/病痛/如是/。/</ab>
+<ab type="dharani">僧莎梨嗪呢　欝遮梨　首黎　首黎　拔提珊提波陀尼　阿裴耶　達予　乙致䩚闍耶兮拔蹄樓󱁔陀僧莎傺𩋋　散提波陀尼曼陀羅睺那　比闍睺那</ab>
+<ab type="prose">/如是/祝/　/斷/口/語/斷/諸/術/斷/諸/病痛/。/是/諸/閱叉/皆/作/此/術/　/須摩鬼/　/摩訶閱叉/　/瞿沙/難/摩訶閱叉/　/梵摩/具/摩閱叉/　/因/阿羅/具/摩訶閱叉/　/阿祇/眵/摩訶閱叉/。/</ab>
+<ab type="prose">/是/諸/閱叉/在/鬼神/中/尊/。/我/字/因/偷/諸/相/求/者/。/使/諸/欲/病人/者/害/人/者/。/我/皆/使/不/知/處/。/障蔽/亂/眼/令/不/見/。/一切/人/皆/使/不/得/其/便/。/當/爾時/呼/言/來/。/還/持/鬼神/摩訶/還/持/鬼神/來/。/兜勒摩訶兜勒/來/。/因/持/兜勒羅摩訶因/持/兜勒羅/來/。/梵摩兜羅摩訶梵摩兜羅/來/。/因/持/兜羅摩訶因/持/兜羅/來/。/菩陀/兜羅摩訶菩陀/兜羅/來/。/閱叉/兜羅/摩訶閱叉/兜羅/來/。/阿多得/兜勒/摩訶阿多得/兜勒/來/。/首羅瞿沙/兜勒/摩訶首羅瞿沙/兜勒/。/我/字/因/偷/諸/怨家/相/求/便/者/。/我/皆/救/之/覆蔽/。/使/兩/不/相/見/。/為/繩/索/所/繫縛/。/消滅/所/繫縛/。/惡/意/所/繫縛/。/欲/醉/意/所/繫縛/。/亂/意/所/繫縛/。/但/歸命/佛/一切/皆/得/解脫/。/歸命/佛/時/言/南無/佛/告/起/作禮/而/去/。/</ab>
+<ab type="juan" subtype="close">/幻師/颰陀神/呪/經/</ab></div>
+    </body>
+  </text>
+</TEI>

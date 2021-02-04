@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">CBETA電子佛典(量化分析版)</title>
+        <title type="subordinate">佛頂尊勝陀羅尼</title>
+        <author>Dharma Drum Institute of Liberal Arts, Library and Information Center, Digital Archives Section 法鼓文理學院 圖書資訊館 數位典藏組</author>
+        <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+        <respStmt>
+          <resp>資料轉換</resp>
+          <name>周邦信</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>法鼓文理學院</publisher>
+        <address>
+          <addrLine>20842 新北市金山區法鼓路700號</addrLine>
+          <addrLine>da@dila.edu.tw</addrLine>
+        </address>
+        <date>2012-2021</date>
+        <availability>
+          <p>This document is published under a CC Attribution-Share Alike License</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title type="main">CBETA 電子佛典集成</title>
+          <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+          <pubPlace>臺灣‧臺北</pubPlace>
+          <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+          <date>2021-02-03</date>
+          <biblScope type="vol">T19</biblScope>
+          <idno type="Taisho">T19n0974B</idno>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+    <div level="1">
+<ab type="juan" subtype="open">/佛頂/尊勝/陀羅尼/</ab>
+<div type="dharani" level="2">
+<ab type="dharani">􇖵　na　mo　bha　ga　va　te　trai　lo　
+　曩　謨　婆　誐　縛　帝(歸命世尊)　怛𡂖　路　
+kyā　pra　ti　vi　śi　ṣṭa　
+枳也(三世亦云三界)　鉢羅　底　尾　始　瑟吒　
+ya　bu　ddhā　ya　bha　ga　va　te　
+野(最殊勝也)　沒　馱　野(大覺)　婆　誐　縛　帝(世尊。已上第一歸敬尊德門)　
+ta　dya　thā　oṃ　
+怛　儞也　他(所謂之義。即說之義)　唵(三身無見頂相義。已上第二影表法身門)　
+vi　śo　dha　ya　vi　śo　dha　ya　sa　
+尾　戍　馱　野　尾　戍　馱　野(清淨)　娑　
+ma　sa　ma　sa　ma　ntā　va　bha　sa　
+麼　娑　麼　三　滿　跢　縛　婆　薩(普遍照曜)　
+spha　ra　ṇa　ga　ti　ga　hā　na　
+婆頗　羅　拏(舒遍)　誐　底　誐　賀　曩(六種稠林)　
+svā　bhā　va　vi　śu　ddhe􇟄　
+娑縛　婆　縛　尾　秼　第(自然清淨。已上第三淨除惡趣門)　
+a　bhi　ṣiṃ　ca　tu　māṃ　su　ga　ta　
+阿　鼻　詵　左　覩　𤚥(灌頂我)　素　誐　哆(善逝)　
+va　ra　va　ca　na　a　mṛ　tā　bhi　
+縛　羅　縛　左　曩(殊勝言教)　阿　蜜㗚　多　鼻　
+ṣai　kai　ma　hā　ma　ntra　pa　dai􇟄　
+麗　罽　摩　訶　曼　怛羅　跛　乃(甘露。又云灌頂不死句)　
+ā　ha　ra　a　ha　ra　
+阿　賀　羅　阿　賀　羅(唯願攝受攝受攝受又三遍攘勝諸苦惱)　
+ā　yuḥ　sa　ndhā　ra　ṇi　śo　
+阿　庾　散　馱　羅　抳(堅住持壽命。已上第四善明灌頂門)　戍　
+dha　ya　śo　dha　ya　ga　ga　na　vi　śu　ddhe　
+馱　野　戍　馱　野　誐　誐　曩　尾　秼　第(如虛空清淨)　
+u　ṣṇī　ṣa　vi　ja　ya　vi　śu　
+鄔　瑟抳　灑(佛頂)　尾　惹　野　尾　秼　
+ddhe　sa　ha　sra　ra　smi　saṃ　
+第(最勝清淨)　娑　賀　娑羅　羅　濕茗(千光明)　散　
+co　di　te　sa　rva　ta　thā　ga　tā　va　
+祖　儞　帝(驚覺)　薩　縛　怛　多　誐　多　縛　
+lo　ka　ni　ṣa　ddhā　ra　mi　tā　
+路　伽　𩕳　娑　吒憣　羅　𭤶　哆　
+pa　ri　pra　ra　ṇi　sa　rva　ta　thā　ga　ta　
+跛　哩　布　羅　抳　薩　縛　怛　他　誐　多　
+hṛ　da　yā　dhi　ṣṭa　na　dhi　ṣṭi　
+仡哩　娜　野　地　瑟姹　曩　地　瑟恥　
+ta􇟄　ma　hā　mu　dri　va　
+哆(一切如來神力所加持)　摩　賀　母　捺隷(印契)　縛　
+jra　kā　ya　saṃ　hā　ta　na　vi　śu　
+曰羅　迦　野　僧　賀　哆　曩　尾　秼　
+ddhe　sa　rva　va　ra　ṇi􇟄　pa　ya　dra　
+第(金剛鉤鎖身清淨)　薩　縛　縛　羅　拏　播　野　訥　
+　rga　ti　pa　ri　vi　śu　ddhe　
+哩　󰵲　底　跛　哩　尾　秼　第(一切障清淨也。所謂業障報障煩惱障也。得清淨云云。已上第五神力加持門)　
+pra　ti　ni　va　
+鉢羅　底　𩕳　𮧬　
+rtta　􇟄　ya　ā　yuḥ　śu　ddhe　sa　
+囉　多　野　阿　欲　秼　第(壽命增長皆得清淨)　三　
+ma　ya　dhi　ṣṭa　te　ma　ṇi　ma　ṇi　
+麼　野　地　瑟恥　帝(誓願加持)　麼　抳　麼　抳　
+ma　hā　ma　ṇi　ta　
+麼　賀　麼　尼(世寶亦云法寶。所謂福惠二種資糧。已上第六壽命增長門)　怛　
+thā　tā　bhū　ta　ko　ṭi　pa　ri　śu　ddhe　
+闥　哆　部　多　句　致　跛　哩　秼　第(真如實際遍滿清淨)　
+vi　sphu　ṭa􇟄　bu　ddhi　śu　ddhe　ja　
+尾　娑普　吒　沒　地　秼　第(顯現智惠清淨)　惹　
+ya　ja　ya􇟄　vi　ja　ya　vi　ja　ya　
+野　惹　野　尾　惹　野　尾　惹　野(最勝最勝即是真俗二諦法門)　
+sma　ra　sma　ra　sa　
+娑麼　羅　娑麼　羅(念持定惠相應。已上第七定惠相應門)　薩　
+rva　bu　ddhā　na　mo　vi　pa　śya　ne　ta　thā　
+嚩　沒　馱(一切諸佛)　曩　謨　毘　婆　尸　寧　怛　他　
+ga　tā　ya􇟄　na　mo　śi　khi　ne　ta　thā　
+󰵲　多　野(敬禮毘婆尸如來)　曩　謨　尸　棄　曩　怛　他　
+ga　tā　ya􇟄　na　mo　vi　śa　bhū　ta　thā　
+󰵲　多　野(敬禮尸棄如來)　曩　謨　毘　舍　浮吠　怛　他　
+ga　tā　ya􇟄　na　mo　kra　ka　saṃ　dha　
+󰵲　多　野(敬禮毘沙浮如來)　曩　謨　迦羅　拘　孫　馱　
+ya　ta　thā　ga　tā　ya　na　mo　ka　na　
+野　怛　他　󰵲　多　野(敬禮拘樓孫如來)　曩　謨　迦　曩　
+ka　mu　ṇi　ye　ta　thā　ga　tā　ya　na　
+迦　牟　曩　曳　怛　他　󰵲　多　野(敬禮拘那含牟尼如來)　曩　
+mo　ka　śya　pa　yā　ta　thā　ga　tā　ya􇟄　
+謨　迦　葉　婆　野　怛　他　󰵲　多　野(敬禮迦葉如來)　
+na　mo　śa　kya　mu　ni　ye　ta　thā　ga　tā　ya　
+曩　謨　尺　迦　牟　曩　曳　怛　他　󰵲　多　野(敬禮尺迦牟尼如來)　
+na　mo　ā　rya　va　lo　ki　te　
+曩　謨　阿　利耶　縛　路　枳　帝　
+śva　ra　ya　bo　dhi　sa　tva􇟄　dhi　
+濕縛　羅　野　冐　地　薩　多縛(敬禮聖觀自在菩薩)　地　
+ṣṭi　ta　śu　ddhe　va　jri　va　
+瑟恥　多　秼　第(加持清淨)　縛　曰哩　縛　
+jra　ga　rbhe　va　jrāṃ　bhā　va　
+曰羅　󰵲　陛(金剛藏)　縛　曰覽　婆　浮　
+tu　ma　ma　śa　
+覩(願成金剛)　麼　麼(是我之義自稱姓名。為他人即稱他姓名。已上第八金剛供養門)　設　
+ri　raṃ　sa　rva　sa　tva　naṃ　ca　ka　ya　
+哩　覽　薩　縛　薩　怛縛　難　左　迦　野　
+pa　ri　vi　śu　ddhe　sa　rva　ga　ti　pa　
+跛　哩　尾　秼　第(一切有情身得清淨)　薩　縛　誐　底　跛　
+ri　śu　ddhe􇟄　sa　rva　ta　thā　ga　tā　
+哩　秼　第(一切趣皆清淨)　薩　縛　怛　他　󰵲　多　
+śca　me　sa　ma　śva　sa　yaṃ　tu　
+室者　銘　三　麼　濕縛　娑　琰　覩　
+sa　rva　ta　thā　ga　ta　sa　mā　śva　
+薩　縛　怛　他　󰵲　多　三　麼　濕縛　
+sā　dhi　ṣṭa　te　bu　ddhya　
+娑　地　瑟恥　帝(一切如來安慰令得加持)　沒　地野　
+bu　ddhya　vi　bu　ddhya　vi　bu　
+沒　地野　尾　沒　地野　尾　沒　
+ddhya􇟄　bo　dha　ya　bo　dha　ya　vi　bo　dha　
+地野(所覺所覺)　冐　馱　野　冐　馱　野　尾　冐　馱　
+ya　vi　bo　dha　ya􇟄　sa　ma　nta　
+野　尾　冐　馱　野(能令覺悟。能令有情速得覺悟)　三　滿　跛　
+pa　ri　śu　ddhe􇟄　sa　rva　ta　thā　ga　ta　
+跛　哩　秼　第(普遍清淨)　薩　縛　怛　他　󰵲　多　
+hṛ　da　yā　dhi　ṣṭa　na　dhi　
+仡哩　娜　野　地　瑟姹　曩　地　
+ṣṭa　ta􇟄　ma　hā　mu　dri　􇟄　
+瑟恥　多(一切如來神力所加持)　麼　賀　母　捺　哩(大印。所謂如來大印。已上第九普證清淨門)　
+svā　hā􇥐samapta　</ab>
+/娑縛/　/賀/(/吉祥/之/句/。/又/云/成就/之/義/。/已/上/第十/成就/涅槃門/)/　/
+
+<ab type="prose">/師/云/。/此/陀羅尼/凡/有/九/本/。/所謂/杜行/鎧/月/照/三藏/。/義淨/三藏/。/佛陀波利/善/無畏/三藏/。/金剛智/三藏/。/不/空/三藏/等/所/譯/本/。/及/法/崇/注/釋/。/弘法/大師/所/傳/梵/本/等/也/。/之/中/今/以/弘法/大師/梵本/。/與/金剛智/三藏/所/譯/加/字/具足/漢/字/本/所/雙/書/也/。/件/梵/本/是/弘/法/大師/在/唐/之/日/。/惠/果/阿闍梨/所/授/多羅/葉/梵本/也/。/七/佛/及/觀音/梵號/裁干/此/中/。/異/他/梵本/也/。/後/人/知/之/。/</ab></div>
+<ab type="juan" subtype="close">/佛頂/尊勝/陀羅尼/</ab>
+<div type="w" level="2">
+<ab type="prose">/　/建/久/二/年/辛/</ab></div></div>
+    </body>
+  </text>
+</TEI>

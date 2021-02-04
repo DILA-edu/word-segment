@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">CBETA電子佛典(量化分析版)</title>
+        <title type="subordinate">大乘二十頌論</title>
+        <author>Dharma Drum Institute of Liberal Arts, Library and Information Center, Digital Archives Section 法鼓文理學院 圖書資訊館 數位典藏組</author>
+        <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+        <respStmt>
+          <resp>資料轉換</resp>
+          <name>周邦信</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>法鼓文理學院</publisher>
+        <address>
+          <addrLine>20842 新北市金山區法鼓路700號</addrLine>
+          <addrLine>da@dila.edu.tw</addrLine>
+        </address>
+        <date>2012-2021</date>
+        <availability>
+          <p>This document is published under a CC Attribution-Share Alike License</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title type="main">CBETA 電子佛典集成</title>
+          <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+          <pubPlace>臺灣‧臺北</pubPlace>
+          <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+          <date>2021-02-03</date>
+          <biblScope type="vol">T30</biblScope>
+          <idno type="Taisho">T30n1576</idno>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+    
+<ab type="juan" subtype="open">/大乘/二十頌論/</ab>
+<byline>/龍/樹/菩薩/造/</byline>
+<byline>/西天/譯經/三藏/朝奉大夫/試/光祿卿/傳法/大師/賜紫/臣/施護/奉/　/詔/譯/</byline>
+<div type="jing" level="1">
+<ab type="verse">/歸命/不可思議/性/，/　/諸/佛/無著/真實/智/，/
+/諸/法/非/言/非/無/言/，/　/佛/悲愍/故/善/宣說/。/
+</ab>
+<ab type="verse">/第一義/無生/，/　/隨/轉/而/無性/，/
+/佛/眾生/一/相/，/　/如/虛空/平等/。/
+/此/彼岸/無生/，/　/自性/緣/所/生/，/
+/彼/諸/行/皆/空/，/　/一切智智/行/。/
+/無/染/真如/性/，/　/無/二/等/寂靜/，/
+/諸/法性/自性/，/　/如/影像/無異/。/
+/凡夫/分別/心/，/　/無/實/我/計/我/，/
+/故/起/諸/煩性/，/　/及/苦樂/捨/等/。/
+/世間/老病死/，/　/為/苦/不可愛/，/
+/隨/諸/業/墜墮/，/　/此/實/無有/樂/。/
+/天/趣/勝妙/樂/，/　/地獄/極/大/苦/，/
+/皆/不/實/境界/，/　/六趣/常/輪轉/。/
+/眾生/妄/分別/，/　/煩惱/火/燒/燃/，/
+/墮/地獄/等/趣/，/　/如/野火/燒/林/。/
+/眾生/本/如幻/，/　/復/取/幻/境界/，/
+/履/幻/所/成/道/，/　/不/了/從/緣/生/。/
+/如/世間/畫師/，/　/畫作/夜叉/相/，/
+/自/畫/己/自/怖/，/　/此/名/無/智/者/。/
+/眾生/自/起/染/，/　/造/彼/輪迴/因/，/
+/造/已/怖/墜墮/，/　/無/智/不/解脫/。/
+/眾生/虛妄/心/，/　/起/疑惑/垢/染/，/
+/無/性計/有/性/，/　/受/苦/中/極/苦/。/
+/佛/見/彼/無/救/，/　/乃/起/悲愍/意/，/
+/故/發/菩提心/，/　/廣/修/菩提/行/。/
+/得/無上/智/果/，/　/即/觀察/世間/，/
+/分別/所/纏縛/，/　/故/為/作/利益/。/
+/從/生/及/生/已/，/　/悉/示/正真/義/，/
+/後/觀/世間/空/，/　/離/初/中/後/際/。/
+/觀/生死/涅盤/，/　/是/二/俱/無我/，/
+/無/染/亦/無/壞/，/　/本/清淨/常/寂/。/
+/夢/中/諸/境界/，/　/覺/已/悉/無/見/，/
+/智者/寤/癡/睡/，/　/亦/不/見/生死/。/
+/愚癡/闇蔽/者/，/　/墜墮/生死海/，/
+/無/生計/有/生/，/　/起/世間/分別/。/
+/若/分別/有/生/，/　/眾生/不如/理/，/
+/於/生死/法/中/，/　/起/常/樂/我/想/。/
+/此/一切/唯/心/，/　/安立/幻化/相/，/
+/作/善/不善/業/，/　/感/善/不善/生/。/
+/若/滅/於/心/輪/，/　/即/滅/一切/法/，/
+/是/諸/法/無我/，/　/諸/法/悉/清淨/。/
+</ab>
+<ab type="verse">/佛/廣/宣說/世間法/，/　/當/知/即是/無明/緣/，/
+/若/能/不/起/分別/心/，/　/一切/眾生/何/所/生/？/
+/於/彼/諸/法/法性/中/，/　/實/求/少/法/不可/得/，/
+/如/世/幻師/作/幻事/，/　/智者/應當/如是/知/。/
+/生死/輪迴/大海/中/，/　/眾生/煩惱/水/充滿/，/
+/若/不/運/載/以/大乘/，/　/畢竟/何/能/到/彼岸/？/
+</ab></div>
+<ab type="juan" subtype="close">/大乘/二十頌論/</ab>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">CBETA電子佛典(量化分析版)</title>
+        <title type="subordinate">佛說摩利支天陀羅尼呪經</title>
+        <author>Dharma Drum Institute of Liberal Arts, Library and Information Center, Digital Archives Section 法鼓文理學院 圖書資訊館 數位典藏組</author>
+        <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+        <respStmt>
+          <resp>資料轉換</resp>
+          <name>周邦信</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>法鼓文理學院</publisher>
+        <address>
+          <addrLine>20842 新北市金山區法鼓路700號</addrLine>
+          <addrLine>da@dila.edu.tw</addrLine>
+        </address>
+        <date>2012-2021</date>
+        <availability>
+          <p>This document is published under a CC Attribution-Share Alike License</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title type="main">CBETA 電子佛典集成</title>
+          <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+          <pubPlace>臺灣‧臺北</pubPlace>
+          <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+          <date>2021-02-03</date>
+          <biblScope type="vol">T21</biblScope>
+          <idno type="Taisho">T21n1256</idno>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+    
+<div type="jing" level="1">
+<ab type="juan" subtype="open">/佛/說/摩利支/天陀羅尼/呪/經/</ab>
+<byline>/失譯/人名/今/附/梁錄/</byline>
+<ab type="prose">/如是我聞/。/一時/婆伽婆/。/在/舍衛國/祇樹/給孤獨園/。/與/大/比丘/眾/千二百五十/人/俱/。/爾時/世尊/告/諸/比丘/。/有/天/名/摩利支天/。/常/行/日月/前/。/彼/摩利支天/。/無/人/能/見/無/人/能/捉/。/不/為/人/欺誑/不/為/人/縛/。/不/為/人/債/其/財物/。/不/為/怨家/能/得/其/便/。/</ab>
+<ab type="prose">/佛/告/諸/比丘/。/若/有/人/知/彼/摩利支/天/名/者/。/彼/人/亦/不可/見/亦/不可/捉/。/不/為/人/欺誑/不/為/人/債/其/財物/。/不/為/怨家/能/得/其/便/。/佛/告/諸/比丘/。/若/有/善男子/善女人/。/知/彼/摩利支/天/名/者/。/應/作/是/言/。/我/弟子/某/乙/。/知/彼/摩利支/天/名/故/。/無/人/能/見/我/無/人/能/捉/我/。/不/為/人/能/欺誑/我/不/為/人/能/縛/我/。/不/為/人/能/債/我/財物/。/不/為/怨家/能/得/我/便/。/爾時/世尊/告/諸/比丘/。/是/摩利支天/有/陀羅尼/呪/。/能/守護/人/即/說/呪/曰/。/</ab>
+<ab type="dharani">多姪他遏迦摩私末迦摩私支婆羅摩私支婆羅摩私摩訶支婆羅摩私安陀利陀那摩私</ab>
+<ab type="prose">/於/行/路/中/護/我/。/非/行/路/中/護/我/。/晝日/中/護/我/夜/中/護/我/。/於/怨家/中/護/我/於/王/難/中/護/我/。/於/賊/難/中/護/我/。/於/水/難/中/護/我/於/火/難/中/護/我/。/於/疫病/中/護/我/於/阿鳩隷/阿鳩隷/無/利/支帝/。/吉利/吉利/安帝/安帝/於/一切/處/一切/時/。/護/我/弟子/某/乙/。/娑婆訶/。/</ab>
+<ab type="prose">/佛/告/諸/比丘/。/若/有/善男子/善女人/。/比丘/比丘尼/優婆塞/優婆夷/。/國王/大臣/及/諸/人民/。/聞/是/摩利支/天陀羅尼/呪/。/一心/受持/者/。/不/為/如/上/諸/惡/所/害/。/</ab>
+<ab type="prose">/佛/告/諸/比丘/。/若/有/善男子/善女人/。/書寫/是/經/受持/讀誦/者/。/一心/齋戒/淨/治/一/室/。/以/香/泥/塗/地/。/七/日/七/夜/誦持/是/摩利支/天陀羅尼/呪/。/滿/一百八/遍/。/所/經/諸/陣/一切/怨賊/。/並皆/息/刃/。/行/時/書寫/是/陀羅尼/。/若/有/著/髻/中/若/著衣/中/隨/身/行/。/一切/諸/惡/不能/加害/。/悉皆/退散/無/敢/當/者/。/若/遇/疾病/。/當/請/一/淨戒/比丘/及/比丘尼/優婆塞/優婆夷/。/如/前/淨/治/一/室/香/泥/塗/地/。/燒/種種/名/香/設/七/盤/果/餅/。/布/五/色/壓/設/五/色/飯/。/請/摩利支天/。/然/燈/續/明/七/日/七/夜/。/誦/是/摩利支/天陀羅尼/呪/經/。/滿/二百/遍/。/一切/病/鬼/皆/生/慈心/。/放/於/病人/即/得/除差/。/若/遭/縣官/所/拘錄/者/。/亦/如/前/淨/室/如/法/設/供/敷/座/。/然/燈/續/明/七/日/七/夜/。/誦/是/摩利支/天陀羅尼/呪/經/五百/遍/。/得/如/願/已/設/齋/散/座/。/一切/厄難/無不/滅除/。/爾時/諸/比丘/聞/佛/所/說/。/皆大歡喜/信受奉持/。/</ab>
+<ab type="juan" subtype="close">/佛/說/摩利支/天陀羅尼/呪/經/</ab></div>
+    </body>
+  </text>
+</TEI>

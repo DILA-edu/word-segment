@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">CBETA電子佛典(量化分析版)</title>
+        <title type="subordinate">千手觀音造次第法儀軌</title>
+        <author>Dharma Drum Institute of Liberal Arts, Library and Information Center, Digital Archives Section 法鼓文理學院 圖書資訊館 數位典藏組</author>
+        <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+        <respStmt>
+          <resp>資料轉換</resp>
+          <name>周邦信</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>法鼓文理學院</publisher>
+        <address>
+          <addrLine>20842 新北市金山區法鼓路700號</addrLine>
+          <addrLine>da@dila.edu.tw</addrLine>
+        </address>
+        <date>2012-2021</date>
+        <availability>
+          <p>This document is published under a CC Attribution-Share Alike License</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title type="main">CBETA 電子佛典集成</title>
+          <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+          <pubPlace>臺灣‧臺北</pubPlace>
+          <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+          <date>2021-02-03</date>
+          <biblScope type="vol">T20</biblScope>
+          <idno type="Taisho">T20n1068</idno>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+    <div level="1">
+<ab type="juan" subtype="open">/千/手/觀音/造/次第/法/儀軌/</ab>
+<byline>/中/天竺國/三藏/善/無畏/奉/　/詔/譯/</byline>
+<div type="jing" level="2">
+<ab type="prose">/上首/正/體/身/大/黃色/。/結跏趺座/大/寶/蓮華臺/上/。/其/華/三十二/葉/。/其/一一/間/有/諸/小/葉/。/以/無量/百千/大/摩尼/寶/為/莊嚴/也/。/其/尊/之/正面/天冠/上/有/三/重/。/諸/頭面/之/數/有/五百/。/當/面/之/左右/造/兩/面/。/右/名/蓮華/面/。/左/名/金剛面/也/。/右/者/青/碧貌/。/左紺/白色/也/。/正面/者/表/佛/部/。/是/大士/有/大/身/故/。/三/部/海/會/備具/也/。/八/大/菩薩/以為/眷屬/。/大士/前/有/童目/天女/持/可愛華/。/乃/童子/并/持/經/僧/座/。/其/形/七/歲/童子/貌/。/第三/重/有/二十八部/眾/。/有/各各/本/形/。/真言/曰/。/</ab>
+<ab type="prose">/一/密/迹/金剛士/。/赤/紅/色/具/三/眼/。/右/持/金剛杵/。/左/手/拳/安腰/。/</ab>
+<ab type="prose">/二/烏芻/君/荼央/俱尸/。/左/手/持/一/股/金剛杵/。/右/手/拳/安腰/。/八/部/力士/賞/迦羅/綠/色/。/右/手/持/慧劍/。/左/手/三/股/印/作/也/。/</ab>
+<ab type="prose">/三/魔醯/那羅達/。/黑/赤/紅色/具/三/眼/瞋怒/相/也/。/以/三/股/揭/為/天冠/。/及/金剛/寶/以為/瓔珞/。/左/手/持/杵/。/右/手/把/寶盤/。/內/赤/外/黑色/也/。/</ab>
+<ab type="prose">/四/金毘羅陀/迦毘羅/。/白/紅色/。/左/手/把/寶/弓/。/右/手/把/寶/箭/。/</ab>
+<ab type="prose">/五/婆馺婆樓那/。/白/紅色/。/左/手/索/。/右/手/安腰/。/</ab>
+<ab type="prose">/六/滿/善/車/鉢/真陀羅/。/左/手/金剛/輪/。/右/手/拳/印/。/紅色/。/</ab>
+<ab type="prose">/七/薩遮/摩和羅/。/左/手/把/寶幢/。/上/有/鳳鳥/。/右/手/施/願/印/。/</ab>
+<ab type="prose">/八/鳩蘭單吒/半/祇羅/。/左/手/金剛/鐸/。/右/手/金剛/拳/。/白/紅色/。/</ab>
+<ab type="prose">/九/畢/婆伽羅/王/。/左/手/把/刀/。/右/手/安腰/。/</ab>
+<ab type="prose">/十/應/德/毘多薩和羅/。/左/手/持/弓/。/右/手/三叉/杵/箭/。/色/黃/黑/也/。/</ab>
+<ab type="prose">/十一/梵摩三鉢羅/。/色/紅/白/。/左/手/持/寶/瓶/。/右/手/三/股/杵/。/</ab>
+<ab type="prose">/十二/五/部/淨居/炎摩羅/。/色/紫/白/。/左/手/持/炎摩幢/。/右/手/女/竿/。/</ab>
+<ab type="prose">/十三/釋/王/三十三/。/色/白/紅/。/左/手/安腰/。/右/手/持/金剛杵/。/</ab>
+<ab type="prose">/十四/大/辨/功德/娑怛那/。/帝釋天王/主/之/女子/大德/天女/也/。/多聞/天/之/大妃/也/。/左/手/把/如意珠/。/紫紺色/也/。/右/手/金剛/劍/。/</ab>
+<ab type="prose">/十五/提頭賴吒王/。/赤/紅/色/又/青白色/。/左/手/執/如意/寶王/色/黃/青/八/角/。/右/手/刀/。/</ab>
+<ab type="prose">/十六/神/母/女/等/大力/眾/。/色/如/。/</ab>
+<ab type="prose">/十七/毘樓勒叉王/。/色/赤/。/左/手/執/杵/。/右/手/把/劍/。/</ab>
+<ab type="prose">/十八/毘樓博叉/王/。/色/白/。/左/手/執/杵/。/右/手/把/金/索/青色/。/</ab>
+<ab type="prose">/十九/毘沙門天王/。/色/紺青/。/左/手/持/寶/塔/。/右/手/杵/。/</ab>
+<ab type="prose">/二十/金色/孔雀王/。/身色/黃金/。/左/手/執/寶幢/。/上/有/孔雀/鳥/細/妙/色/也/。/說/無量/妙/言/。/</ab>
+<ab type="prose">/二十一/二十八部/大仙/眾/者/。/二十八/天神/也/。/伊舍那/神/以為/上首/。/身色/黑/赤/白/也/。/左/手/執/杵/。/右/手/取/朱盤器/。/金剛/寶/以為/瓔珞/。/</ab>
+<ab type="prose">/二十二/摩尼跋陀羅/。/色/白/紅/。/左/手/執/寶幢/。/上/有/如意玉/。/右/手/施/願/印/也/。/</ab>
+<ab type="prose">/二十三/散/脂/大/將/弗羅婆/。/身/色/赤/紅/。/左/手/執/金剛/。/右/手/安腰/。/</ab>
+<ab type="prose">/二十四/難陀/跋難陀/。/身色/上/赤色/。/左/手/執/赤索/。/右/手/劍/頭/各/有/五/龍/下/黑/青色/。/左/手/青/索/。/右/手/刀/。/娑伽羅/龍/伊鉢羅/。/上/色/赤/白/。/左/手/執/赤/龍/。/右/手/刀/。/下/色/青/白/。/左/手/白/龍/也/。/</ab>
+<ab type="prose">/二十五/修羅/。/所謂/大/身/修羅/也/。/身/赤/紅色/。/左/手/持/日輪/。/右/手/月輪/。/乾闥婆/。/左/手/執/歌琴/。/右/手/舞/印/。/身/色/白/紅/也/。/迦樓羅/王/。/金色/兩/羽具/。/左/手/貝/。/右/手/執/寶/螺/笛/。/緊那羅/摩睺羅伽/。/此/兩/王/形/白色/如/羅剎/女/。/有/二/眼/乃至/三/四/五/眼/。/持/諸/藥器/等/。/具足/二/四/六/八/臂/。/天冠/天衣/諸/寶珠/以為/身/嚴/。/</ab>
+<ab type="prose">/二十六/水火/雷電/神/。/此/四/神/皆/備/夫妻/。/雷/者/天/雷神/。/電/者/地/電/也/。/此/餘/者/水火/以為/身/嚴/。/</ab>
+<ab type="prose">/二十七鳩槃荼/王/。/長/鼻/瞋怒/形/也/。/黑色/。/左/手/戰/大/器/。/右/手/執/索/。/</ab>
+<ab type="prose">/二十八/毘舍闍/。/大/目/瞋怒/形/。/黑赤色/。/左/手/火/玉/也/。/</ab>
+<ab type="prose">/一/密/迹/金剛/十密語/。/</ab>
+<ab type="dharani">唵阿艮阿艮沙耶多他蘖他耶娑婆訶</ab>
+<ab type="prose">/二/烏/瑟/君荼/密語/。/</ab>
+<ab type="dharani">唵毘瑟他耶良他羅阿羅乞叉多耶娑婆訶</ab>
+<ab type="prose">/三/魔醯/那羅達/密語/。/</ab>
+<ab type="dharani">唵阿三沒遲良多那娑婆訶</ab>
+<ab type="prose">/四/金毘羅陀/密/語/。/</ab>
+<ab type="dharani">唵嚩悉儞阿利夜三曼他娑婆訶</ab>
+<ab type="prose">/五/婆馺婆樓那密語/。/</ab>
+<ab type="dharani">唵烏瑟三昧耶毘秡羅尾秡羅娑婆訶</ab>
+<ab type="prose">/六/滿/善/車/鉢/密語/。/</ab>
+<ab type="dharani">唵富樓娑多娑多加那加那阿羅瑟尼耶娑婆訶</ab>
+<ab type="prose">/七/薩遮/摩和羅/密/語/。/</ab>
+<ab type="dharani">唵貝檀遲揭帝阿羅叉娑婆訶</ab>
+<ab type="prose">/八/鳩蘭單吒/密/語/。/</ab>
+<ab type="dharani">唵蘖那耶豹他野囉叉娑婆訶</ab>
+<ab type="prose">/九/畢/婆伽羅/密/語/。/</ab>
+<ab type="dharani">唵末羅伽叉耶阿知羅叉耶南謨室利耶曳娑婆訶</ab>
+<ab type="prose">/十/應/德/毘多密語/。/</ab>
+<ab type="dharani">唵摩訶帝弊曳娑婆訶</ab>
+<ab type="prose">/十一/梵摩三鉢羅/密/語/。/</ab>
+<ab type="dharani">唵伐羅伐羅藥率帝藥率帝娑婆訶</ab>
+<ab type="prose">/十二/五/部/淨居/密語/。/</ab>
+<ab type="dharani">唵伐羅伐羅吽𠰢吒𠰢吒娑婆訶</ab>
+<ab type="prose">/十三/釋/王/三十三/密/語/。/</ab>
+<ab type="dharani">唵末尼迦釋迦跋折羅壁瑠璃耶娑婆訶</ab>
+<ab type="prose">/十四/大/辨/功德/密語/。/</ab>
+<ab type="dharani">唵摩訶具陵吉利他曳娑婆訶</ab>
+<ab type="prose">/十五/提頭賴吒王/密/語/。/</ab>
+<ab type="dharani">唵剎利耶曳薩婆訶薩婆訶薩多毘犀耶瑟吒娑婆訶</ab>
+<ab type="prose">/十六/神/母/等/密/語/。/</ab>
+<ab type="dharani">唵醯利醯利多醯徒醯娑婆訶</ab>
+<ab type="prose">/十七/毘樓勒叉密語/。/</ab>
+<ab type="dharani">唵醯伊吽吽娑婆訶</ab>
+<ab type="prose">/十八/毘樓博叉/密語/。/</ab>
+<ab type="dharani">唵摩兜祇浦屈沙底娑婆訶</ab>
+<ab type="prose">/十九/毘沙門/天密語/。/</ab>
+<ab type="dharani">唵南無帝南跋折羅祇叉婆羅弭他南南壁室良半拏耶婆良耶娑婆訶</ab>
+<ab type="prose">/二十/金色/孔雀/密/語/。/</ab>
+<ab type="dharani">唵具光𠰢吒沙羅迦羅放光𠰢吒沙羅迦羅周遍吽羅迦唵𠰢吒娑婆訶</ab>
+<ab type="prose">/二十一/二十八部/大仙/密語/。/</ab>
+<ab type="dharani">唵南無佛法僧因他羅也縛悉儞曳娑婆訶</ab>
+<ab type="prose">/二十二/摩尼跋陀羅/密/語/。/</ab>
+<ab type="dharani">唵陀羅迦羅夾曼陀娑婆訶</ab>
+<ab type="prose">/二十三/散/脂/大將/密語/。/</ab>
+<ab type="dharani">唵阿利耶三昧曳娑婆訶</ab>
+<ab type="prose">/二十四/難陀/跋難陀/密/語/。/</ab>
+<ab type="dharani">唵苦摩尼豹商娑婆訶</ab>
+<ab type="prose">/二十五/修羅/乾闥婆/密語/。/</ab>
+<ab type="dharani">唵展若展具末利迦娑婆訶</ab>
+<ab type="prose">/二十六/水火/雷電/密/語/。/</ab>
+<ab type="dharani">唵具羅婆曳油娑婆訶</ab>
+<ab type="prose">/二十七鳩槃荼/王/密語/。/</ab>
+<ab type="dharani">唵闍曳阿闍曳娑婆訶</ab>
+<ab type="prose">/二十八/毘沙闍密語/。/</ab>
+<ab type="dharani">唵帝曳帝曳隣陀隣陀娑婆訶</ab>
+<ab type="prose">/如是/善/神/異口同音/。/各各/誓言/顯說/釋/名/密語/神呪/。/領/諸/眷屬/。/左右/前後/圍繞/守護/。/受持/娑婆訶/。/若/有/善男子/善女人/持/呪/者/。/可/誦/善/神/呪/。/有/大/威德/勢/云/云/。/</ab></div>
+<div type="w" level="2">
+<ab type="prose">/延寶/三/年/。/淨/嚴/和尚/染筆/之/。/天/明/元丑/歲/慈忍/師/寫/宇治/慧心/院/藏/本/。/今/得/彼/本/。/當/山/慈心/院/傳燈/等/一挍/。/予/復/校/之/壽/梓/</ab>
+<ab type="prose">/享和/改元/八/月/　/　/　/長谷/總持/院/快/道/誌/</ab>
+<ab type="prose">/(/對/校訶/正/畢/。/享和/癸亥/四月/十四日/　/　/慈順/)/</ab>
+<ab type="prose">/(/文政/三/年/庚辰/仲秋/二十六/日/右/以/下/總/千/葉/妙見寺/秀陽/闍梨/所/傳/寫/本校/之/了/。/龍肝/)/</ab></div></div>
+    </body>
+  </text>
+</TEI>

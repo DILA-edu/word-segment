@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">CBETA電子佛典(量化分析版)</title>
+        <title type="subordinate">後出阿彌陀佛偈</title>
+        <author>Dharma Drum Institute of Liberal Arts, Library and Information Center, Digital Archives Section 法鼓文理學院 圖書資訊館 數位典藏組</author>
+        <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+        <respStmt>
+          <resp>資料轉換</resp>
+          <name>周邦信</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>法鼓文理學院</publisher>
+        <address>
+          <addrLine>20842 新北市金山區法鼓路700號</addrLine>
+          <addrLine>da@dila.edu.tw</addrLine>
+        </address>
+        <date>2012-2021</date>
+        <availability>
+          <p>This document is published under a CC Attribution-Share Alike License</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title type="main">CBETA 電子佛典集成</title>
+          <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+          <pubPlace>臺灣‧臺北</pubPlace>
+          <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+          <date>2021-02-03</date>
+          <biblScope type="vol">T12</biblScope>
+          <idno type="Taisho">T12n0373</idno>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+    
+<ab type="juan" subtype="open">/後/出/阿彌陀/佛/偈/</ab>
+<byline>/古舊/錄/云/闕譯/人名/，/今/紀/後漢/錄/</byline>
+<div type="jing" level="1">
+<ab type="verse">/惟念法/比丘/，/　/乃/從/世饒王/，/
+/發/願/喻/諸/佛/，/　/誓/二十四/章/。/
+/世世/見/諸/佛/，/　/姟數/無有量/；/
+/不/廢/宿命/行/，/　/功德/遂/具/成/。/
+/世界/名/清淨/，/　/得/佛/號/無量/，/
+/國界/平夷/易/，/　/豐樂/多/上人/。/
+/寶/樹/若干/種/，/　/羅列/叢/相/生/，/
+/本/莖/枝葉/花/，/　/種種/各/異/香/。/
+/順/風/日/三動/，/　/翕習/如/花/生/，/
+/墮/地/如/手/布/，/　/雜/廁/上/普平/。/
+/一切/無/諸/山/、/　/海水/及/諸/源/，/
+/但/有/河水/流/，/　/音響/如/說/經/。/
+/天人/入/水/戲/，/　/在/意/所/欲/望/，/
+/令/水/齊/胳/肩/，/　/意願/隨/念/得/。/
+/佛/壽/十方沙/，/　/光明/普/無邊/，/
+/菩薩/及/弟子/，/　/不可/算/稱量/。/
+/若/欲/見/彼/佛/，/　/莫/疑/亦/莫/忘/；/
+/有/疑/在/胎/中/，/　/不/合/五百/年/。/
+/不/疑/生/基/坐/，/　/叉手/無量/前/，/
+/願欲/遍/十方/，/　/須臾/則/旋/還/。/
+/惟/念/彼/菩薩/，/　/姟劫/作/功勤/，/
+/本/行/如此/致/，/　/得/號/懀/世尊/！/
+/佛/興/難得/值/，/　/須臾/會/難/聞/，/
+/講說/士/難/遇/，/　/受/學人/難/得/。/
+/若/後/遭/末世/，/　/法/欲/衰微/時/，/
+/當/共/建/擁護/，/　/行/佛/無/欲/法/。/
+/佛/能/說/此/要/，/　/各各/勤思/行/；/
+/受/此/無量/福/，/　/世世/稽首/行/。/
+</ab></div>
+<ab type="juan" subtype="close">/後/出/阿彌陀/佛/偈/</ab>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">CBETA電子佛典(量化分析版)</title>
+        <title type="subordinate">佛說進學經</title>
+        <author>Dharma Drum Institute of Liberal Arts, Library and Information Center, Digital Archives Section 法鼓文理學院 圖書資訊館 數位典藏組</author>
+        <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+        <respStmt>
+          <resp>資料轉換</resp>
+          <name>周邦信</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>法鼓文理學院</publisher>
+        <address>
+          <addrLine>20842 新北市金山區法鼓路700號</addrLine>
+          <addrLine>da@dila.edu.tw</addrLine>
+        </address>
+        <date>2012-2021</date>
+        <availability>
+          <p>This document is published under a CC Attribution-Share Alike License</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title type="main">CBETA 電子佛典集成</title>
+          <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+          <pubPlace>臺灣‧臺北</pubPlace>
+          <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+          <date>2021-02-03</date>
+          <biblScope type="vol">T17</biblScope>
+          <idno type="Taisho">T17n0798</idno>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+    
+<ab type="juan" subtype="open">/佛/說/進學/經/</ab>
+<byline>/宋/居士/沮渠京聲/譯/</byline>
+<div type="jing" level="1">
+<ab type="prose">/聞/如是/：/</ab>
+<ab type="prose">/一時/佛/遊/舍衛/祇樹/之/園/須達/精舍/，/大賢/眾/千二百五十/人/。/佛/告/諸/比丘/：/「/有/四/雅/行/，/智者/常/遵/、/丈夫/所/修/、/達士/恒/奉/，/不才/愚夫/所/不/好樂/。/何等/為/四/？/孝事/父母/，/悅色/養足/；/守/仁/行/慈/，/終始/不/殺/；/惠施/濟/乏/，/未曾/悋逆/；/遭值/聖世/，/捐/榮/履/道/。/是/四/雅/行/，/智者/所/遵/、/丈夫/所/修/、/達士/所/奉/，/不才/愚夫/所/不/好樂/。/」/</ab>
+<ab type="prose">/佛/時/頌/曰/：/</ab>
+<ab type="verse">/「/智者/稱/孝/，/　/愍/命/慈/活/，/　/放/施/普給/，/
+/超/俗/崇/寂/。/　/如是/正業/，/　/明士/所/習/，/
+/聖/見/已/具/，/　/定/至/無為/。/」/
+</ab>
+<ab type="prose">/佛/告/比丘/：/「/復/有/二/法/，/若/在/閑/宴/，/或/處/大眾/，/心行/莫/懈/：/一/者/靜寂/，/賢聖/默/定/；/二/者/博/學/，/講論/邃/義/。/又/有/二/施/：/飲食/美味/以/安/身命/；/敷散/經典/開/微/悅/聽/。/食/施/安/身/，/法施/遷/神/；/一/事/雖/快/，/法施/為/最/。/是以/比丘/念/演/妙/法/，/宣/慧/莫/癡/；/既/自/洗濯/，/并/淨/塵/著/。/如是/道法/，/永度/無窮/，/乃/名/出家/，/具足/覺了/。/」/</ab>
+<ab type="prose">/佛/說/經/竟/，/比丘/歡喜/，/作禮/受教/。/</ab></div>
+<ab type="juan" subtype="close">/佛/說/進學/經/</ab>
+    </body>
+  </text>
+</TEI>

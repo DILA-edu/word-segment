@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">CBETA電子佛典(量化分析版)</title>
+        <title type="subordinate">佛說賢者五福德經</title>
+        <author>Dharma Drum Institute of Liberal Arts, Library and Information Center, Digital Archives Section 法鼓文理學院 圖書資訊館 數位典藏組</author>
+        <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+        <respStmt>
+          <resp>資料轉換</resp>
+          <name>周邦信</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>法鼓文理學院</publisher>
+        <address>
+          <addrLine>20842 新北市金山區法鼓路700號</addrLine>
+          <addrLine>da@dila.edu.tw</addrLine>
+        </address>
+        <date>2012-2021</date>
+        <availability>
+          <p>This document is published under a CC Attribution-Share Alike License</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title type="main">CBETA 電子佛典集成</title>
+          <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+          <pubPlace>臺灣‧臺北</pubPlace>
+          <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+          <date>2021-02-03</date>
+          <biblScope type="vol">T17</biblScope>
+          <idno type="Taisho">T17n0777</idno>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+    
+<ab type="juan" subtype="open">/佛/說/賢者/五/福德/經/</ab>
+<byline>/西晉/河內/沙門/白法祖/譯/</byline>
+<div type="jing" level="1">
+<ab type="prose">/聞/如是/：/</ab>
+<ab type="prose">/一時/佛/在/舍衛國/祇樹/給孤獨園/。/佛/告/諸/比丘/：/「/賢者/說法/時/，/有/五/福德/。/何謂/為/五/？/其/人/所/生/則/得/長壽/，/是/為/一/福德/；/其/人/所/生/即/得/大/富/，/饒/財/多/寶/，/是/為/二/福德/；/其/人/所/生/即/端正/無比/，/是/為/三/福德/；/其/人/所/生/即/名譽/遠聞/，/是/為/四/福德/；/其/人/所/生/即/聰明/大智/，/是/為/五/福德/。/</ab>
+<ab type="prose">/「/何/因/賢者/說法/得/長壽/？/用/前世/說法/時/，/上/語/亦/善/，/中/語/亦/善/，/下/語/亦/善/，/其/義/備足/，/歸寂/無為/，/好/殺/之/人/聞法/，/即/止/不/殺/，/用/是/故/得/長壽/。/</ab>
+<ab type="prose">/「/何/因/說法/之/人/得/大/富/，/饒/財/多/寶/？/用/前世/說法/時/，/上/、/中/、/下/語/其/義/備悉/，/歸寂/無為/，/盜竊/之/人/聞/經/，/即/止/不/盜/，/便/能/施與/，/用/是/故/得/大/富/。/</ab>
+<ab type="prose">/「/何/因/說法/之/人/得/端正/無比/？/用/前世/說法/時/，/上/、/中/、/下/語/其/義/備悉/，/歸寂/無為/，/令/聞法/者/和氣/安/之/，/即/顏色/悅/，/自/生/光澤/，/用/是/故/得/端正/。/</ab>
+<ab type="prose">/「/何/因/說法/之/人/，/得/名譽/遠聞/？/用/前世/說法/時/，/上/、/中/、/下/語/其/義/備悉/，/歸寂/無為/，/令/聞法/者/敬/佛/、/敬/法/、/敬/比丘/僧/，/用/是/故/得/名聞/。/</ab>
+<ab type="prose">/「/何/因/說法/之/人/得/聰明/大智/？/用/前世/說法/時/，/上/、/中/、/下/語/其/義/備悉/，/歸寂/無為/，/令/聞法/者/曉了/妙/慧/，/用/是/故/得/聰明/大智/。/是/為/五/法/，/說/經/者/得/福/也/。/」/</ab>
+<ab type="prose">/諸/比丘/聞/經/歡喜/，/前/為/佛/作禮/。/</ab></div>
+<ab type="juan" subtype="close">/佛/說/賢者/五/福德/經/</ab>
+    </body>
+  </text>
+</TEI>

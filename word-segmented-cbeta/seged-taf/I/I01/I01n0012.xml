@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">CBETA電子佛典(量化分析版)</title>
+        <title type="subordinate">嵩顯寺碑</title>
+        <author>Dharma Drum Institute of Liberal Arts, Library and Information Center, Digital Archives Section 法鼓文理學院 圖書資訊館 數位典藏組</author>
+        <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+        <respStmt>
+          <resp>資料轉換</resp>
+          <name>周邦信</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>法鼓文理學院</publisher>
+        <address>
+          <addrLine>20842 新北市金山區法鼓路700號</addrLine>
+          <addrLine>da@dila.edu.tw</addrLine>
+        </address>
+        <date>2012-2021</date>
+        <availability>
+          <p>This document is published under a CC Attribution-Share Alike License</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title type="main">CBETA 電子佛典集成</title>
+          <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+          <pubPlace>臺灣‧臺北</pubPlace>
+          <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+          <date>2021-02-03</date>
+          <biblScope type="vol">I01</biblScope>
+          <idno type="Taisho">I01n0012</idno>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+    <div level="1">
+<div type="" level="2">
+<ab type="juan" subtype="open">/嵩顯寺/碑/</ab>
+<div type="" level="3">
+<ab type="prose">/敕賜/嵩/顯禪寺/碑記/</ab></div>
+<div type="" level="3">
+<ab type="prose">/□/□/□/□/□/□/□/□/□/□/□/□/□/□/□/□/□/□/□/□/□/□/□/□/□/□/□/□/□/□/□/□/神/□/□/□/□/□/□/□/不/夜/者/也/□/□/□/□/垂/慈/暉/□/□/□/□/□/之/上/久/□/□/□/□/□/化/於/億/載/□/□/之/下/。/大千/燭/茲/昏/□/且/隱/顯弗/恒契/乎/。/□/□/□/□/□/□/□/□/□/非/運/資廣/因/。/樹/應/曩/世/。/豈/能/開/扇/道/風/。/施/沾/法雨/者/哉/。/仰/惟/皇帝/陛下/。/纂統/重/光/。/紹/隆累/聖/。/德洽/三才/。/道/均/五緯/。/政/極/辰/□/。/□/□/□/□/乃/□/□/□/源/。/遊/神/法菀/。/慧/鼓/既/振/。/普天/聞/般若/之/音/。/頹/綱/更/開/。/率土/悟/火宅/之/□/□/□/□/□/□/場/斯/趣/矣/。/自/惟/啓/蹤/。/冀/方/樹/基/。/勃海/并/世/。/□/宛著/姓/。/神州/靈降/。/盛/□/□/□/□/□/□/□/淂戚/聯/。/朝/旭昵/親夕/容/。/內/秉/望/舒/之/讚/。/外/憖/阿衡/之/翼/。/入/總/謀議/出/□/□/□/□/□/□/沖/波坤/津/潛/液/寒/。/族/貫/春/日/之/榮/幽/。/附沾/夏/辰/之/蔚輝/。/顯/哉/□/而/□/□/□/□/□/□/□/渥/而/溳/心/罔謝/。/遂/仰/慕/皇緯/報/施/之/功/。/亦/尋/聖/經/緣/果/之/旨/。/□/詳/群/□/□/□/□/□/□蘭/厥/靈/岑/。/擇/茲/飃嶺/。/上/涌/沖/天/之/峰/。/下/帶/□/岫/之/險/。/重/基/雲/構/。/飛/級/□/□/□/□/□/□/槃/屈/虯/電/暐豔/琨/成/。/瑍/若/資神/。/乃/□/□/質沉/。/堅/翠/□/外/。/□麗/炎新/至/□/之/□/□/□/在/希世/之/相/。/千/像/吐/琦/。/万/形/挺妙/。/苕/苕/焉/。/暉赫/萃/乎/兆/日/。/修/修/焉/。/感/發/□/□/□/□/□/□/斯/誠/。/冀/微/功/鍾/於/至/德/。/顯/福/應/於/道祚/。/述遵/休風/。/遂/興/頌/曰/。/修/哉/渾源/。/冥/化/琨/成/。/道氣/既/開/。/□/像/垂/形/。/紛華/競耀/。/至/猷/淹/經/。/聖覺/匪/□/。/□/□/□/□/恢恢/至/謨/。/苕苕/遐/宣/。/道/流/三界/。/化溢/大千/。/幽衢/啓轍/。/靜/境/亟埏/隱顯/弗/恒/□/□/□/□/聖/皇沖/感/。/靈液/遐融/。/潤均/法海/。/扇/協/道/風/。/悟/因/訓萃/。/果/隨/業/崇/。/□/區/萇/□/□/□/□/□/靈/降/盛/德/。/二/后/經/綸/。/內/光/椒/掖/。/外/允/九/臣/。/齊/思/渭陽/。/嘉爵/交/臻/。/誓/被/□/□/□/□/□/□/沉/谿/賁壑/。/峰/山/霄/星/。/風/雲/交/液/。/吐/化/蚕類/。/玄堂/暐豔/。/聖容/啟靈/。/樹/銘/興/□/□/□/□/□/大魏/永平/二年/歲/在/己/丑/四/月/戊/申/朔/八日/乙卯/使/持節/都督/涇/□/□/□/□/□/</ab></div></div></div>
+    </body>
+  </text>
+</TEI>

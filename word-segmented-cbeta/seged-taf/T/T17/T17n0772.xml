@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">CBETA電子佛典(量化分析版)</title>
+        <title type="subordinate">大乘四法經</title>
+        <author>Dharma Drum Institute of Liberal Arts, Library and Information Center, Digital Archives Section 法鼓文理學院 圖書資訊館 數位典藏組</author>
+        <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+        <respStmt>
+          <resp>資料轉換</resp>
+          <name>周邦信</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>法鼓文理學院</publisher>
+        <address>
+          <addrLine>20842 新北市金山區法鼓路700號</addrLine>
+          <addrLine>da@dila.edu.tw</addrLine>
+        </address>
+        <date>2012-2021</date>
+        <availability>
+          <p>This document is published under a CC Attribution-Share Alike License</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title type="main">CBETA 電子佛典集成</title>
+          <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+          <pubPlace>臺灣‧臺北</pubPlace>
+          <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+          <date>2021-02-03</date>
+          <biblScope type="vol">T17</biblScope>
+          <idno type="Taisho">T17n0772</idno>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+    
+<ab type="juan" subtype="open">/大乘/四/法/經/</ab>
+<byline>/大唐/天竺/三藏/地婆訶羅/譯/</byline>
+<div type="jing" level="1">
+<ab type="prose">/如是我聞/：/</ab>
+<ab type="prose">/一時/薄伽梵/在/室羅筏/，/住/誓多林/給孤獨園/，/與/大/苾芻/眾/千二百五十/人/俱/，/復/有/無量/菩薩/摩訶薩/眾/。/</ab>
+<ab type="prose">/爾時/世尊/告/諸/苾芻/：/「/有/四/種/法/，/菩薩/摩訶薩/盡/其/壽量/，/常/應/修行/，/乃至/雖/遇/喪命/因緣/，/亦/不得/捨/。/何/者/為/四/？/諸/苾芻/、/菩薩/盡/壽/，/乃至/逢遇/喪命/因緣/，/必定/不得/捨/菩提心/；/諸/苾芻/、/菩薩/盡/壽/，/乃至/逢遇/喪命/因緣/，/必定/不得/捨/善知識/；/諸/苾芻/、/菩薩/盡/壽/，/乃至/逢遇/喪命/因緣/，/不得/棄捨/堪忍/愛樂/；/諸/苾芻/、/菩薩/盡/壽/，/乃至/逢遇/喪命/因緣/，/必定/不得/捨/阿練若/。/諸/苾芻/！/如是/四/法/，/菩薩/盡/壽/，/常/應/堅持/，/寧/喪/身命/而/不/捨離/。/」/</ab>
+<ab type="prose">/爾時/世尊/重/演/其/義/，/說/伽他/曰/：/</ab>
+<ab type="verse">/「/世間/明慧/者/，/　/應/發/菩提心/，/
+/常/思/一切智/，/　/恒/近/善知識/，/
+/住/堪忍/愛樂/，/　/依止/阿練若/，/
+/猶如/師子王/，/　/遠離/諸/驚怖/。/
+</ab>
+<ab type="prose">/「/諸/明慧/者/修行/此/法/，/速/能/超出/眾/魔/羅網/，/疾/證/無上/正等/菩提/。/」/</ab>
+<ab type="prose">/時/薄伽梵/說/此/經/已/，/諸/苾芻/等/歡喜/奉行/。/</ab></div>
+<ab type="juan" subtype="close">/大乘/四/法/經/</ab>
+    </body>
+  </text>
+</TEI>

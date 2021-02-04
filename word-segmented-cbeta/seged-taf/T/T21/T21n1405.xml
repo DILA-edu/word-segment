@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">CBETA電子佛典(量化分析版)</title>
+        <title type="subordinate">佛說息除賊難陀羅尼經</title>
+        <author>Dharma Drum Institute of Liberal Arts, Library and Information Center, Digital Archives Section 法鼓文理學院 圖書資訊館 數位典藏組</author>
+        <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+        <respStmt>
+          <resp>資料轉換</resp>
+          <name>周邦信</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>法鼓文理學院</publisher>
+        <address>
+          <addrLine>20842 新北市金山區法鼓路700號</addrLine>
+          <addrLine>da@dila.edu.tw</addrLine>
+        </address>
+        <date>2012-2021</date>
+        <availability>
+          <p>This document is published under a CC Attribution-Share Alike License</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title type="main">CBETA 電子佛典集成</title>
+          <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+          <pubPlace>臺灣‧臺北</pubPlace>
+          <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+          <date>2021-02-03</date>
+          <biblScope type="vol">T21</biblScope>
+          <idno type="Taisho">T21n1405</idno>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+    
+<div type="jing" level="1">
+<ab type="juan" subtype="open">/佛/說/息/除/賊/難/陀羅尼/經/</ab>
+<byline>/西天/譯經/三藏/朝散大夫/試/光祿卿/明教/大師/臣/法賢/奉/　/詔/譯/</byline>
+<ab type="prose">/如是我聞/。/一時/佛/在/摩伽陀國/。/與/諸/大眾/圍繞/經行/。/到/於/菴羅樹園/側/韋提呬/山/帝釋巖/中/。/時/尊者/阿難/。/忽/見/大/惡/賊/眾/遙遠/而/來/。/見/已/生/大/恐怖/。/心懷/憂惱/身毛/皆/竪/。/時/尊者/阿難/疾/往/佛/所/。/到/已/合掌/而/白/佛/言/。/世尊/我/今/遙/見/有/大/惡/賊/。/唯/願/世尊/為/作/救護/。/</ab>
+<ab type="prose">/爾時/世尊/聞/尊者/阿難/言/已/。/告/阿難/言/汝/怖賊/耶/。/阿難/白/佛/言/甚/怖/世尊/。/佛/言/阿難/汝/勿/得/怖/。/我/有/陀羅尼/能/除/賊/難/。/是時/尊者/阿難/聞/佛/語/已/心/生/歡喜/。/作/如是/言/唯/願/世尊/為/我/宣說/。/</ab>
+<ab type="prose">/爾時/世尊/即/說/大輪/結界/陀羅尼/曰/。/</ab>
+<ab type="dharani">怛𭔞(切身下同)他(一)阿焬路哥(二)鉢囉路計(三)伊該阿提鉢底(四)藕(引)哩巘馱(引)哩(五)贊拏哩(六)摩登儗(七)惹虞哩(八)補哥細(九)</ab>
+<ab type="prose">/爾時/世尊/說/是/陀羅尼/已/。/告/尊者/阿難/汝/今/可/往/。/以/此/陀羅尼/。/面/十二/由旬/當/作/結界/。/令/得/安隱/息/除/賊/難/。/乃至/刀劍/器/杖/等/悉/不能/侵/。/又復/能/令/彼/諸/惡/賊/。/不/離/本處/旋/如/陶家/輪/。/又復/阿難/若/人/遇/賊/難/時/。/當/用/淨/白/線/。/以/此/陀羅尼/加持/七/遍/。/結作/七/結/過/難/即/解/。/所有/賊/眾/皆/如/禁縛/不能/為/難/。/</ab>
+<ab type="prose">/爾時/世尊/說/是/經/已/。/尊者/阿難/及/諸/大眾/。/聞/佛/所/說/皆大歡喜/信受奉行/。/</ab>
+<ab type="juan" subtype="close">/佛/說/息/除/賊/難/陀羅尼/經/</ab></div>
+    </body>
+  </text>
+</TEI>

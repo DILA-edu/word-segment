@@ -1,0 +1,764 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">CBETA電子佛典(量化分析版)</title>
+        <title type="subordinate">阿彌陀經句解</title>
+        <author>Dharma Drum Institute of Liberal Arts, Library and Information Center, Digital Archives Section 法鼓文理學院 圖書資訊館 數位典藏組</author>
+        <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+        <respStmt>
+          <resp>資料轉換</resp>
+          <name>周邦信</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>法鼓文理學院</publisher>
+        <address>
+          <addrLine>20842 新北市金山區法鼓路700號</addrLine>
+          <addrLine>da@dila.edu.tw</addrLine>
+        </address>
+        <date>2012-2021</date>
+        <availability>
+          <p>This document is published under a CC Attribution-Share Alike License</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title type="main">CBETA 電子佛典集成</title>
+          <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+          <pubPlace>臺灣‧臺北</pubPlace>
+          <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+          <date>2021-02-03</date>
+          <biblScope type="vol">X22</biblScope>
+          <idno type="Taisho">X22n0421</idno>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+    <div level="1">
+<div type="xu" level="2"><head>/No/./421/-/A/阿彌陀經/句/解/序/</head>
+<ab type="prose">/夫/同/生/五濁/念/佛/勤/求/出離/苟/非/解/法/逗根/何以/頓/釋/疑/情/而/獲/大/受用/(/余/)/寓德/藏/琅/函閣/適/正宗/上人/出元/稟/天/台/妙觀/越溪/澄師/句/解/佛/說/阿彌陀經/一/袠/集/緣/梓/行/遂/一/披閱/開卷/了然/雖/云/至/簡/至/易/即/此/可以/融通/至/奧/至/深/昔/清涼/判/華/嚴/為/極/談/天/台/標/法華/最/無上/然/二/經/皆/以/淨土/終/焉/至/永明延/壽/禪/師/嗣/法眼/之/宗著/宗鏡/錄/一百/卷/研/窮/禪/髓/復/立/四/料簡/懇懇/以/淨土/為/歸/因/斯/流通/快/覩/廬/山/遠/公/蓮灟/遍/注/寰區/如/曰/徹/法/遡源/詳具/智者/大師/玄義/等/諸/詮/正/宗始/自/太虗/師/開發/以/清/象/先/為/兄/又/參依/妙峯法師/有/年/波瀾/授/受/的/非/孟浪/雖/然/解誠/妙/矣/傳/更/廣/矣/惟/願/導/之/者/忍耐/洞達/既/不/失/之/縱/習氣/以/動/正念/又/不/失/之/蓄/纖疑/以/茁業/根/轉/娑婆/而/為/極樂特/在/伸/臂/間/爾/頃/因/問/序/直/以/忠讜/諗/之/云/。/</ab>
+<ab type="prose">/萬曆/甲申/圓通/成/道/日/方/道/成/熏/沐百/拜/譔/</ab></div>
+<ab type="juan" subtype="open">/佛/說/阿彌陀經/句解/</ab>
+<div type="orig" level="2">
+<ab type="prose">/佛/說/阿彌陀經/</ab></div>
+<byline>/越/溪/沙門/　/性澄/　/句解/</byline>
+<div type="commentary" level="2">
+<ab type="prose">/夫/天/台/釋/經/以/五/章/釋/總/題/三/分/分/經/文總別相/須/教/觀/可/識/此/經/以/單人/為/名/實相/為/體/勸/脩行/願/為/宗捨/苦/得/樂/為/用/生/酥/大乘/為/教相/。/</ab>
+<ab type="prose">/第一/釋/名/者/諸/經/皆/有/通別/二/名/通/則/經/之/一/字/別/則/有/七/單/三/複/三/具足/者/一/今/經/乃/屬/單人/佛/即/此/土/教/主/能/說/釋迦/之/通/名/阿彌陀/即/彼/土/教/主/所/說/彌陀/之/別/號/經/同/一/化/故/為/通/也/初/別/名/者/梵語/佛陀/此/翻/覺/者/又/翻/知/者/智/論/云/知/三世/眾生/數/非/眾生/數/常/無常/等/一切/諸/法/菩提樹/下/了了/覺知/故/名為/佛/說/者/悅/也/孤山/云/得/機設/教/稱/悅/佛/懷/故/阿彌陀翻/無量/壽/佛/有/三/身/謂/法/報應/一/法身/者/師軌/法性/以/法/為/身/二/報/身/者/脩行/感報/以/如如/智/照/如如/境/也/三/應/身/者/應/同/萬物/為/身/也/三/義/皆/有/身/壽量/三/今/言/其/量/必/攝/前/二/無量/者/此/是/應/身/其/實/有量/但/其/壽/長/人/天/莫/數/故/云/無量/具/如/法華/文句/四/句/分別/(/云/云/)/然/佛/之/三/身/三/壽/三量/不可/並/別/一/異/法體/融妙/即/一/而/三/即/三/而/一/也/次/通/名/者/梵/語/脩/多羅/此/翻契經/契理/契機/故/訓/法訓/常/十界/同/遵/三世/不/易/故/言/經/也/。/</ab>
+<ab type="prose">/第二/辨/體/者/即/一/實相/為/經/正/體/無量/功德/共/莊嚴/種種/眾/行/之/歸趣/言說/問答/而/詮/辨/譬/眾/星/之/環/北辰/如/萬/派/之/宗/東海/故/以/實/相/為/經/體/也/。/</ab>
+<ab type="prose">/第三/明宗/者/此/經/以/勸/脩行/願/為/宗由/佛/無/問/自說/不/待/發起/故/曰/勸/脩/言/行願/者/淨土/之/行/要/在/於/願/如此/土/人/稟/教/脩行/無/往生/願/多/致/退屈/故/佛/勸/云/眾生/聞/者/應當/發/願/生/彼/國土/故/以/行/願/為/宗/也/。/</ab>
+<ab type="prose">/第四/論/用/者/用/謂/力/用/此/經/以/捨/苦/得/樂/為/用/以/欣厭/二/門/依/經/脩習/能/捨/娑婆/之/眾/苦/得/安養/之/極/樂/斯/經/力/用/其/在/茲/焉/。/</ab>
+<ab type="prose">/第五/判/教相/者/此/經/部/屬/生/酥/大乘/教/攝/二/藏/明/義/菩薩藏/收/四/教/脩/法/正/意/在/圓/而/通/被/四/教/之/機/乃至/博地/凡夫/稱/名/願/生/皆/獲/果/遂/蓋/部屬/方等/調機/入/頓/故/機/雖/有/四/教/自/是/圓權/巧/方便/其/妙/若/此/淨/名/略記/云/三藏/教/中/無/淨土/教/通/別/二/教/猶/非/正/意/秪/可/汎論/以為/格量/(/文/)/或/問/教/既/是/圓/前/三/教/人/如何/用/觀/答/雖/未/能/稱性/繫念/以/迴向/發願/求/生/之/心/即是/圓心/雖/被/四機/同/一/願/行/此/經/凡/有/兩/譯/一/什師/即/今/本/也/二/唐/奘師/譯名/稱讚/淨土/佛/攝受/經/釋/題/竟/。/</ab></div>
+<div type="orig" level="2">
+<ab type="prose">/姚秦/三藏/法師/鳩摩羅什/奉/　/詔/譯/</ab></div>
+<div type="commentary" level="2">
+<ab type="prose">/秦/有/四/今/云/姚/秦/即/後秦/姚氏/也/鳩摩羅/翻/童壽/什/是/華/言/以/深/善/此/方/文字/之/什/得/名/本丘/慈/國人/後秦/弘始/三/年/入/長安/譯經/論/凡/九十八部/合/四百二十一/卷/位/證/三/賢/南山/感應/傳/云/七佛/已來/譯/經師/也/。/</ab>
+<ab type="prose">/○/初/序/分/六/。/</ab>
+<ab type="prose">/△/初/所/聞/法體/。/</ab></div>
+<div type="orig" level="2">
+<ab type="prose">/如是/。/</ab></div>
+<div type="commentary" level="2">
+<ab type="prose">/經/前/六/事/名/證/信序/如來/滅/後/阿難/結集/奉/教/安列/以為/證/信/如是/者/指/下/一/經/所/聞/法體/也/天/台/云/諸/法/實相/古今/不/異/名/如如/理/而/說/名/是/四明/云/四/教/言/理/皆/稱/如是/而/有/淺深/唯/圓/初/心/即/了/諸/法/一一/中/實/當/處/皆/如/稱理/而/談/無/非/曰/是/。/</ab>
+<ab type="prose">/△/二/舉/能/持/人/。/</ab></div>
+<div type="orig" level="2">
+<ab type="prose">/我/聞/。/</ab></div>
+<div type="commentary" level="2">
+<ab type="prose">/阿難/無/見/我慢/我/為/傳/化/不/絕/順俗/立/名字/我/指/如是/之/法/我/親/從/佛/而/聞/也/。/</ab>
+<ab type="prose">/△/三/聞/持/和合/。/</ab></div>
+<div type="orig" level="2">
+<ab type="prose">/一時/。/</ab></div>
+<div type="commentary" level="2">
+<ab type="prose">/如來/說法/機/應/和合會/在/一時/天/台/云/今/不/論/長短/說/此/經/竟/總/為/一時/也/。/</ab>
+<ab type="prose">/△/四/明/化/主/。/</ab></div>
+<div type="orig" level="2">
+<ab type="prose">/佛/。/</ab></div>
+<div type="commentary" level="2">
+<ab type="prose">/此/云/覺/者/自/覺/覺/他/覺行/圓滿/一切智/異/外道/慈悲/異/二乘/平等/異/小/菩薩/尊/極/名為/佛/。/</ab>
+<ab type="prose">/△/五/論/住處/。/</ab></div>
+<div type="orig" level="2">
+<ab type="prose">/在/舍衛國/祇樹/給孤獨園/。/</ab></div>
+<div type="commentary" level="2">
+<ab type="prose">/舍衛/翻/聞/物/謂/具足/欲/塵/財寶/物/多聞/解脫/人/也/祇樹/即/祇陀/太子/所/施/之/樹/給孤獨/園/乃/須達多/長者/側布/黃金/從/太子/所/買/之/園/祇陀/翻/戰勝波斯匿王/之/子/須達多/翻/善勝/祇陀/施/樹/長者/買/園/共/造/伽藍/請/佛/供養/故/云/祇樹/給孤獨/園/也/。/</ab>
+<ab type="prose">/△/六列/同/聞/三/初/聲聞/六/。/</ab>
+<ab type="prose">/初/明類/。/</ab></div>
+<div type="orig" level="2">
+<ab type="prose">/與/大/比丘/僧/。/</ab></div>
+<div type="commentary" level="2">
+<ab type="prose">/與/者/共/也/今/經/阿難/與/眾/同聞/故/云/共/也/大/有/三/義/謂/大/多/勝/天王/大人/所/敬/故/大/徧解/內外/經書/名/多/出/九十五/種/上/故/號/勝/此/等/無學/小乘/中/極/故/云/大/也/比丘/翻/乞士/又/破/惡/又/怖/魔/僧/者/具/云/僧伽/此/翻/眾/和合/也/。/</ab>
+<ab type="prose">/△/二/列/數/。/</ab></div>
+<div type="orig" level="2">
+<ab type="prose">/千二百五十/人/俱/。/</ab></div>
+<div type="commentary" level="2">
+<ab type="prose">/三/迦葉/兄弟/有/千/弟子/身/子/目連/共/二百五十/人/此等/先/並/事/火/艱苦/累載/都/無/所/獲/翻/邪/入/正/一/遇/見/佛/便/得/上/果/感/佛/深/恩/常/隨/侍/佛/為/同聞/眾/。/</ab>
+<ab type="prose">/△/三明位/。/</ab></div>
+<div type="orig" level="2">
+<ab type="prose">/皆是/大/阿羅漢/。/</ab></div>
+<div type="commentary" level="2">
+<ab type="prose">/阿羅漢/含/三/義/一/應供/為/人/天/福田/此/乃/乞士/之/果/也/二/殺/賊/斷盡/煩惱/故/此/乃/破/惡/果/也/三/無/生/不/受/後有/故/此/乃/怖/魔/之/果/也/。/</ab>
+<ab type="prose">/△/四/歎/德/。/</ab></div>
+<div type="orig" level="2">
+<ab type="prose">/眾/所/知識/。/</ab></div>
+<div type="commentary" level="2">
+<ab type="prose">/天台/云/聞/名/欽德/名/知/觀/形/敬/奉/為/識/或/云/見/形/為/知見/心/為/識/或/云/知/即是/識/。/</ab>
+<ab type="prose">/△/五/列/名/。/</ab></div>
+<div type="orig" level="2">
+<ab type="prose">/長老/。/</ab></div>
+<div type="commentary" level="2">
+<ab type="prose">/年/高/臘/長/學/解/廣/深/故/通/貫/下/文/十六/尊者/也/。/</ab></div>
+<div type="orig" level="2">
+<ab type="prose">/舍利弗/。/</ab></div>
+<div type="commentary" level="2">
+<ab type="prose">/翻/身/子/母/好/形/身/身/之/所/生/故/云/身/子/又/翻珠/子/其/母/聰明/相在/眼珠/以/子/顯/母/為/作/此/名/七/歲/登/議論/床/十六/大/國/議論/無雙/至/佛/所/七/日/徧達/佛法/得/阿羅漢/。/</ab></div>
+<div type="orig" level="2">
+<ab type="prose">/摩訶目犍連/。/</ab></div>
+<div type="commentary" level="2">
+<ab type="prose">/摩訶翻/大目犍連/姓/也/翻/讚/誦/神通/第一/。/</ab></div>
+<div type="orig" level="2">
+<ab type="prose">/摩訶迦葉/。/</ab></div>
+<div type="commentary" level="2">
+<ab type="prose">/此/云/大/龜氏/其/先/代/學/道/靈/龜/負/仙圖/而/應/從/德/命/族/真諦/翻/飲/光/迦葉/身/光/能/暎/物/故/頭陀/苦行/最/為/第一/。/</ab></div>
+<div type="orig" level="2">
+<ab type="prose">/摩訶迦旃延/。/</ab></div>
+<div type="commentary" level="2">
+<ab type="prose">/此/翻/文飾/善/分別/義/敷演/第一/。/</ab></div>
+<div type="orig" level="2">
+<ab type="prose">/摩訶俱絺羅/。/</ab></div>
+<div type="commentary" level="2">
+<ab type="prose">/此/翻/大/膝/舍利弗/舅/增/一/云/得/四/辨/才觸/難/能/答/第一/。/</ab></div>
+<div type="orig" level="2">
+<ab type="prose">/離婆多/。/</ab></div>
+<div type="commentary" level="2">
+<ab type="prose">/此/翻/星宿/父母/從/星辰/乞/子/既/其/感/獲/因/星/作/名/。/</ab></div>
+<div type="orig" level="2">
+<ab type="prose">/周利槃陀伽/。/</ab></div>
+<div type="commentary" level="2">
+<ab type="prose">/亦/名/槃特/此/云/路/邊/生/母/懷孕/還/家/路/邊/誕子/因/名/路/邊/出家/以/愚暗/時/久/都/無/所/解/兄/槃陀伽/先/入/道恠/曰/徒淹/歲/月/全/無/知/會/遣/歸俗/舍/弟/倚/寺/門/嗟嘆/流/涕/佛/見/令/付/掃帚/每日/誦習/記/一/忘/一/後/乃/省/悟/掃帚/除/穢/令/淨/為/義/佛/令/我/除/斷/身/中/惑/垢/也/因/茲/證果/。/</ab></div>
+<div type="orig" level="2">
+<ab type="prose">/難陀/。/</ab></div>
+<div type="commentary" level="2">
+<ab type="prose">/此/云/善/懽/喜/淨飯王/偪/十萬/釋/出家/即/一/人/也/。/</ab></div>
+<div type="orig" level="2">
+<ab type="prose">/阿難陀/。/</ab></div>
+<div type="commentary" level="2">
+<ab type="prose">/此/云/歡喜/淨飯王/太子/出家/成佛/王/大/歡喜/白飯王/奏/云/生/子/舉/國/忻忻/因/名/歡喜/二十五/為/佛/侍者/侍/佛/二十五/年/佛/所/說法/記憶/不/忘/。/</ab></div>
+<div type="orig" level="2">
+<ab type="prose">/羅睺羅/。/</ab></div>
+<div type="commentary" level="2">
+<ab type="prose">/此/云/覆障/太子/求/出家/父王/不/許/殷勤/不已王/言/汝/若/有/子/聽/汝/出家/菩薩/以/指/指/妃/腹/却後/六/年/汝/當/生/子/在/胎/六/年/故/言/覆障/佛/索/出家/父王/不/許/耶輸將/上/高/樓/目連/飛/空/來/取/佛/度/出家/既/出家/已/王位/亦/失/故/言/覆障/。/</ab></div>
+<div type="orig" level="2">
+<ab type="prose">/憍梵波提/。/</ab></div>
+<div type="commentary" level="2">
+<ab type="prose">/此/云/牛呞/音/寺/增/一/云/昔/五百/世/曾/為/牛王/牛/若/食/後/恒/事/虗/哨/餘/報/未/夷/唼/唼/常/嚼/時人/稱/為/牛呞/。/</ab></div>
+<div type="orig" level="2">
+<ab type="prose">/賓頭盧頗羅墮/。/</ab></div>
+<div type="commentary" level="2">
+<ab type="prose">/上/是/名/翻/不/動/下/是/姓翻/捷疾/柰耶律/云/樹提/長者/以/旃檀/鉢/置/於/剎/上/告/云/有/神通/能/取/便/與/尊者/騁/通/取/之/佛/呵責/已/云/汝/自/今/後/不得/入/滅/留/身/久/住/受/請/應供/今/時/齊/會/所/供/聖/僧/是/也/。/</ab></div>
+<div type="orig" level="2">
+<ab type="prose">/迦留陀夷/。/</ab></div>
+<div type="commentary" level="2">
+<ab type="prose">/此/云/麤黑/顏色/因/夜/行/乞食/人/驚戒/禁夜/行/乞食/。/</ab></div>
+<div type="orig" level="2">
+<ab type="prose">/摩訶劫賓那/。/</ab></div>
+<div type="commentary" level="2">
+<ab type="prose">/此/云/房宿/父母/禱/房宿/感子/因/名/房宿/又/初/出家/未/見/佛/始/向/佛/所/值/雨/寄/食/陶師/家/後/比丘/來/共/宿/即是/佛/聞法/得道/從/得道/處/為/名/也/。/</ab></div>
+<div type="orig" level="2">
+<ab type="prose">/薄拘羅/。/</ab></div>
+<div type="commentary" level="2">
+<ab type="prose">/此/翻/善容/色貌/端正/故/言/善容/年/一百六十/歲/無/病/不/夭/有/五/不/死/報/母/置/熬盤/釜/中/水/中/魚/食/刀/破/皆/不/死/昔/持/不/殺/戒/故/九十一/劫/命/不/中/夭/。/</ab></div>
+<div type="orig" level="2">
+<ab type="prose">/阿㝹樓陀/。/</ab></div>
+<div type="commentary" level="2">
+<ab type="prose">/亦/云/阿那律/此/云/無/貧/是/解飯王/次子/出家/多/睡/佛/乃/呵責/七/日/七/夜/眼睫/不/交/因/喪/肉眼/佛/令/求/天眼/增/一/云/我/佛法/中/天眼/那律/第一/。/</ab>
+<ab type="prose">/△/六/總/結/。/</ab></div>
+<div type="orig" level="2">
+<ab type="prose">/如是/等/諸/大/弟子/。/</ab></div>
+<div type="commentary" level="2">
+<ab type="prose">/學/在/師/後/稱/弟/解/從/師/生/稱/子/弟/則/顯師/謙讓/子/乃/明資/尊仰/。/</ab>
+<ab type="prose">/△/二/菩薩/三/。/</ab>
+<ab type="prose">/初/明類/。/</ab></div>
+<div type="orig" level="2">
+<ab type="prose">/并/諸/菩薩/摩訶薩/。/</ab></div>
+<div type="commentary" level="2">
+<ab type="prose">/天/台/云/具/存/云/菩提薩埵/什師/嫌/煩略/提埵/二/字/菩提/翻/道/薩埵/翻心/摩訶翻/大/此/諸/人/等/皆/求/廣博/大道/又/能/成熟/眾生/是/大/道心/之/氣類/故/云/諸/菩薩/等/。/</ab>
+<ab type="prose">/△/二/列/名/。/</ab></div>
+<div type="orig" level="2">
+<ab type="prose">/文殊師利/。/</ab></div>
+<div type="commentary" level="2">
+<ab type="prose">/此/翻/妙/德/又/妙吉祥/。/</ab></div>
+<div type="orig" level="2">
+<ab type="prose">/法王子/。/</ab></div>
+<div type="commentary" level="2">
+<ab type="prose">/大/論/云/佛/為/法王/菩薩/入/正法/位/乃至/十地/悉/名/法王子/荊溪/云/文殊/稱/法王/子/此/諸/菩薩/何/人/非/法王子/答/有/二/一/於/王子/中/德/推/文殊/二/諸/經/中/文殊/並/為/菩薩/眾/首/(/文/)/。/</ab></div>
+<div type="orig" level="2">
+<ab type="prose">/阿逸多/菩薩/。/</ab></div>
+<div type="commentary" level="2">
+<ab type="prose">/阿逸多/名/也/翻/無/勝/彌勒/姓/也/翻/慈氏/。/</ab></div>
+<div type="orig" level="2">
+<ab type="prose">/乾陀訶提/菩薩/。/</ab></div>
+<div type="commentary" level="2">
+<ab type="prose">/此/翻/不/休息/行/諸/梵行/過/恒河沙/劫/然後/授/記/心/不/休息/故/。/</ab></div>
+<div type="orig" level="2">
+<ab type="prose">/常/精進/菩薩/。/</ab></div>
+<div type="commentary" level="2">
+<ab type="prose">/寶/積/經/云/是/菩薩/為/一/眾生/經/無量/劫/隨逐/不/捨/猶/不/受/化/無/一/念/棄捨/以/身心/俱/進/名/常精進天/台/云/常/精進/者/見/法性/常/住/成/無作/正勤/。/</ab>
+<ab type="prose">/△/二/總/結/。/</ab></div>
+<div type="orig" level="2">
+<ab type="prose">/與/如是/等/諸/大/菩薩/。/</ab></div>
+<div type="commentary" level="2">
+<ab type="prose">/靈芝/云/菩薩/名/通/初/後/如/上/莫/非/深位/補處/或/權/現/影響/故/稱/大/也/。/</ab>
+<ab type="prose">/△/三/雜/眾/。/</ab></div>
+<div type="orig" level="2">
+<ab type="prose">/及/釋提桓因/等/無量/諸/天/大眾/俱/。/</ab></div>
+<div type="commentary" level="2">
+<ab type="prose">/釋提桓因/翻/能/作/能/作/忉利/欲界/天主/三界/天/眾/甚/多/故/云/無量/更/兼/道俗/四眾/天龍八部/故/云/大眾/俱/若/據/結/文/既/云/一切/世間/則/何/趣/不/攝/耶/。/</ab>
+<ab type="prose">/○/二/正/宗分/三/此/下/依/慈雲/科/。/</ab>
+<ab type="prose">/△/初/廣讚/依/正/引/物/忻求/二/初/廣讚/二/報/二/。/</ab>
+<ab type="prose">/初/標列/所/讚/。/</ab></div>
+<div type="orig" level="2">
+<ab type="prose">/爾時/佛/告/長老/舍利弗/。/</ab></div>
+<div type="commentary" level="2">
+<ab type="prose">/爾時/者/機/應/和合/佛/初/說/經/之/時/也/告/舍利/者/經/家/敘/對/告/人/也/不/告/菩薩/天/龍/者/淨/覺/云/應/有/四/悉/意/一/是/左面/弟子/大小/法集/多/居/其/首/故/二/由/智慧/第一/四眾/八/部/罔/不/欽仰/故/三/為/令/四眾/聞/佛/淨土/自/鄙/絕/分/故/四/復/欲/小乘/未/取/證/者/回/心/向/大/故/佛/凡/說法/必/獲/四/悉/檀益/。/</ab></div>
+<div type="orig" level="2">
+<ab type="prose">/從/是/西方/過/十萬億/佛土/。/</ab></div>
+<div type="commentary" level="2">
+<ab type="prose">/一/佛土/是/大千界/即/過/十萬億/大千界/也/或/問/淨土/既/居/十萬億/剎/之/外/眾生/一/念/安/得/往生/曰/有/二/義/故/一/者/眾生/念/力/十/疑/論/云/但/使/眾生/淨業/成就/臨終/在/定/之/心/即是/淨土/受/生/之/心/動/念/即是/生/淨土/時/如/人/有/夢/身/雖/在/床/而/心意/識徧/至/他/方/生/淨土/亦爾/動/念/即/至/不/須/疑/也/二/者/如來/願力/四十八/願/經/云/設/我/成佛/十方/眾生/至心/信樂/欲/生/我/國/乃至/十/念/若/不/生/者/不/取/正覺/然/此/二/義/不/出/感應/皆/由/眾生/心性/本/具/塵剎/雖/十萬億/之/遙/無/非/性/具/此/心/如/帝網/之/一/珠/影/含/眾/珠/如/大海/之/一/浪/具/全/潮體/非但/互具/亦/乃/互/即/故/四/明/云/若/心性/不/具/塵/剎/則/生/無/感/見/之/功/佛/無/應/現/之/理/。/</ab></div>
+<div type="orig" level="2">
+<ab type="prose">/有/世界/名/曰/極樂/。/</ab></div>
+<div type="commentary" level="2">
+<ab type="prose">/極樂/者/對/此/娑婆/極/苦/而/得/名/也/或/問/四土/各/有/淨穢天/台/云/五濁/輕重/同/居/淨/穢/體/析/巧拙/方便/淨穢/次第/頓/入/實/報/淨/穢/分/證/究竟/寂光/淨穢/今/云/極/樂/於/四/種/中/何/淨土/耶/答/答/所/談/依/正屬/同居/淨土/若/眾生/念/力/淺/深/不/同/如/病/須/藥/本/為/身/安/求/得/仙/方/脩/合/服/之/不但/身/安/兼/得/輕/骨/身/安/可/喻/生/同/居/淨土/輕/骨/可/喻/感/上/三/土/又復/散/心/稱念/雖/則/多/感/同居/淨土/既/生/彼/國/任/運/增進/感/上/三土/亦/義/通/四/種/淨土/也/。/</ab></div>
+<div type="orig" level="2">
+<ab type="prose">/其/土/有/佛/號/阿彌陀/今/現在/說法/。/</ab></div>
+<div type="commentary" level="2">
+<ab type="prose">/佛/有/三/身/名/法報應/荊溪/云/法/定/不/說/報/通/二/義/應化/定/說/今/言/說法/即是/應/身/然/淨土/教/主/有/二/不/同/如/觀/經/所/說/佛身/高/六十萬億/那由他/由旬/乃/他/報/尊特/勝/應/身/也/三十二相/八十/隨/形/好/丈/六/身/佛/乃/劣/應/身/也/勝/應/之/身/乃/圓/七/信/之/所/感/見/今/經/通/被/四機/正/是/劣/應/常/所/見/身/繫念/稱/名/心/存/目/想/為/所/對/境/圓/名字/人/雖/知/佛身/全/法界/作/而/見/思/尚/熾事/識/彌隆/所/見/佛身/無/非劣/應/圓/人/尚/爾/況/前/三/教/若/五/品/人/能/以/一心/三/觀/圓伏/五/住/煩惱/雖/未/能/見/六十萬億/勝/應/尊特/之/身/以/三十二相/常/所/見/身/相/相/達/無邊/故/也/。/</ab>
+<ab type="prose">/△/二/正/讚/依/正/二/初/讚/依/果/四/。/</ab>
+<ab type="prose">/初/珠/網/瓊林/。/</ab></div>
+<div type="orig" level="2">
+<ab type="prose">/舍利弗/彼/土/何故/名為/極樂/。/</ab></div>
+<div type="commentary" level="2">
+<ab type="prose">/初/且/徵/名/。/</ab></div>
+<div type="orig" level="2">
+<ab type="prose">/其/國/眾生/無有/眾/苦/但/受/諸/樂/故/名/極樂/。/</ab></div>
+<div type="commentary" level="2">
+<ab type="prose">/總/釋/名/義/。/</ab></div>
+<div type="orig" level="2">
+<ab type="prose">/又/舍利弗/極樂/國土/七/重/欄楯/。/</ab></div>
+<div type="commentary" level="2">
+<ab type="prose">/寶/樹/周圍/有/七/重/欄楯/也/橫/曰/欄竪曰/楯欄檻/也/莊嚴/寶/樹/繞/圍華/叢/。/</ab></div>
+<div type="orig" level="2">
+<ab type="prose">/七/重/羅網/。/</ab></div>
+<div type="commentary" level="2">
+<ab type="prose">/瑞相/經/云/無量/寶網/皆/以/金/縷/珍珠/百千/雜/寶/奇/妙/珍異/莊嚴/校飾/周匝/四面/垂/以/寶/鈴/光色/異/曜/盡/極/嚴麗/羅覆/樹林/。/</ab></div>
+<div type="orig" level="2">
+<ab type="prose">/七/重/行樹/。/</ab></div>
+<div type="commentary" level="2">
+<ab type="prose">/七/重/寶樹/行列/國/中/長/開/異/華/更/無/凋瘦/。/</ab></div>
+<div type="orig" level="2">
+<ab type="prose">/皆/以/四/寶/周帀/圍繞/是故/彼/國/名為/極樂/。/</ab></div>
+<div type="commentary" level="2">
+<ab type="prose">/四/寶/者/金銀/琉璃/玻瓈/也/慈恩/云/欄楯/羅網/行樹/各/有/七/重/者/表/生/彼/國/得/七覺支/故/身/口/七/支/無/諸/過/故/有/七/聖財/故/靈芝/云/凡/佛/菩薩/居/處/皆/然/非/謂/一/國/只/有/七/重/耳/。/</ab>
+<ab type="prose">/△/二/寶/池/蓮華/。/</ab></div>
+<div type="orig" level="2">
+<ab type="prose">/又/舍利弗/極樂/國土/有/七寶/池/。/</ab></div>
+<div type="commentary" level="2">
+<ab type="prose">/彼/國/有/八/池/七寶/所/成/池/中/之/水/亦/七寶/色/。/</ab></div>
+<div type="orig" level="2">
+<ab type="prose">/八/功德水/充滿/其中/。/</ab></div>
+<div type="commentary" level="2">
+<ab type="prose">/八/德/者/天/台/云/一/輕/二/清/三/冷/四/軟/五/美/六/不/臭/七/飲/時/調適/八/飲/已/無/患/清/是/色/入/不/臰/是/香/入/輕軟/冷/是/觸/入/美/是/味/入/調適/無/患/是/法/入/故/四/明/云/八/德/而/對/五/入/水/流/說法/即/聲/入/雖/成/六入/無/非/妙/境/故/令/行/者/速證/無生/諸/疏/所/列/八/德/依/稱讚/淨土/經/列/法相/少/不/同/經/中/輕軟/為/一/天/台/開/為/二/經/中/開/潤澤/安和/二/天/台/合/一/不/臭/恐/諸/譯/不/同/今/且/依/天台/所/列/。/</ab></div>
+<div type="orig" level="2">
+<ab type="prose">/池/底/純/以/金/砂/布/地/。/</ab></div>
+<div type="commentary" level="2">
+<ab type="prose">/觀/經/去/渠/下/皆/以/雜色/金剛/以為/底/砂/。/</ab></div>
+<div type="orig" level="2">
+<ab type="prose">/四邊/階道/金銀/琉璃/。/</ab></div>
+<div type="commentary" level="2">
+<ab type="prose">/此/云/不/遠/以/西域/有/此/山/至/波羅奈城/不/遠/山/出/此/寶/故/以/名/之/。/</ab></div>
+<div type="orig" level="2">
+<ab type="prose">/玻瓈/合成/。/</ab></div>
+<div type="commentary" level="2">
+<ab type="prose">/亦/云/頗胝迦/此/云/水玉/或/云/水精/。/</ab></div>
+<div type="orig" level="2">
+<ab type="prose">/上/有/樓閣/亦/以/金銀/琉瑙/玻瓈/𤥭璖/。/</ab></div>
+<div type="commentary" level="2">
+<ab type="prose">/如/大/車/之/渠/故/曰/車磲/謂/車/輞/也/。/</ab></div>
+<div type="orig" level="2">
+<ab type="prose">/赤珠/。/</ab></div>
+<div type="commentary" level="2">
+<ab type="prose">/佛/地/論/云/赤/虫/所/出/大/論/云/真珠/出/魚腹/中/或/竹/中/或/蛇腦/中/不必/唯/生/蚌胎/也/。/</ab></div>
+<div type="orig" level="2">
+<ab type="prose">/碼碯/。/</ab></div>
+<div type="commentary" level="2">
+<ab type="prose">/此/寶/色/如/馬/之/腦/因/為/其/名/。/</ab></div>
+<div type="orig" level="2">
+<ab type="prose">/而/嚴飾/之/。/</ab></div>
+<div type="commentary" level="2">
+<ab type="prose">/然/眾/寶/且/就/此/土/釋/其/所/出/淨土/乃/自然/而/有/者/。/</ab></div>
+<div type="orig" level="2">
+<ab type="prose">/池/中/蓮華/大/如/車輪/。/</ab></div>
+<div type="commentary" level="2">
+<ab type="prose">/靈芝/云/車/有/大小/難/為/定/準/此/方/極/大/不/過/數/尺/可/依/輪王/為/量/十住婆沙/云/輪王/千/輻/金輪/種種/珍寶/莊嚴/其/輞/琉璃/為/轂/周圓/十五/里/準/此/未/及/半/由旬/亦/約/小/者/耳/或/問/觀/經/云/一一/池/中/有/六十億/七寶/蓮華/團圓/正等/十二/由旬/何/與/今/經/優劣/不/同/耶/曰/觀/經/蓮華/是/第四/觀/觀力/稍/著/行/者/到/此/已/能/圓伏/五/住/當/五/品/初/心/所/見/豈/比/今/經/通/被/散/心/眾生/忻樂/求/生/之/境/大/本/云/池/中/蓮華/或/一/由旬/乃至/百千/由旬/亦/是/被/四/教/機/約機/所/見/故/有/一/由旬/乃至/百千/之/不/同/也/夫/佛/之/依/正/本/無數/量/約機/淺/深/所/見/高下/耳/四/明/云/大/本/中/說/佛/所/浴池/廣/四萬八千/里/小/本/蓮華/大/如/車輪/鼓/音/王/等/經/說/安養/依/正/雖/淨/雖/勝/但/與/娑婆/分/於/五濁/輕重/而已/豈/比/觀/經/專明/妙觀/所/顯/法身/尊特/身量/相好/逈/拔/非/常/耶/。/</ab></div>
+<div type="orig" level="2">
+<ab type="prose">/青色/青/光/黃/色/黃/光/赤/色/赤/光/白/色/白/光/微妙/香潔/。/</ab></div>
+<div type="commentary" level="2">
+<ab type="prose">/此/列/蓮華/色/香/也/。/</ab></div>
+<div type="orig" level="2">
+<ab type="prose">/舍利弗/極樂/國土/成就/如是/功德/莊嚴/。/</ab></div>
+<div type="commentary" level="2">
+<ab type="prose">/四十八/願/經/云/彼/佛/於/大眾/建/此/願/已/一向/專/志/莊嚴/妙/土/等/功德/者/有/功/之/德/也/功/收/願/行/德/歸/三/諦/下/文/皆/然/。/</ab>
+<ab type="prose">/△/三/天樂/裓/衣/。/</ab></div>
+<div type="orig" level="2">
+<ab type="prose">/又/舍利弗/彼/佛/國土/常/作/天樂/。/</ab></div>
+<div type="commentary" level="2">
+<ab type="prose">/觀/經/云/無量/樂器/懸/處/虗/空/不/鼓/自鳴/或/林/或/幢/皆/懸/樂器/悉/自/和鳴/隨/眾生/意/皆/奏/法音/人/天/聞/者/俱/發/道心/或/歌/六度/或/讚/三乘/。/</ab></div>
+<div type="orig" level="2">
+<ab type="prose">/黃金/為/地/。/</ab></div>
+<div type="commentary" level="2">
+<ab type="prose">/準觀/經/彼/國/以/琉璃/為/地/以/黃金/繩/雜/廁/間錯/兼/以/七寶/界/其/分齊/今/言/黃金/乃/地/面/莊嚴/耳/。/</ab></div>
+<div type="orig" level="2">
+<ab type="prose">/晝夜/六/時/雨/天/曼陀羅華/。/</ab></div>
+<div type="commentary" level="2">
+<ab type="prose">/彼/國/光明/常/照/無/日月/光/准/大/本/經/彼/以/華/開鳥/鳴/為/曉/蓮合/鳥/棲/為/夜/曼/它羅/此/翻/適/意/又/翻/白/華/。/</ab></div>
+<div type="orig" level="2">
+<ab type="prose">/其/土/眾生/常/以/清旦/各/以/衣裓/盛/眾/妙/華/。/</ab></div>
+<div type="commentary" level="2">
+<ab type="prose">/衣裓/者/真諦/云/外/國/盛/華/器/也/。/</ab></div>
+<div type="orig" level="2">
+<ab type="prose">/供養/他/方/十萬億/佛/。/</ab></div>
+<div type="commentary" level="2">
+<ab type="prose">/蓋/遊歷/十方/佛/前/聞法/進/登/深/位/也/此/據/生/彼/破惑/得/道人/言/若/未/破惑/未必/能/也/如/觀/經/九品/唯/上/三/品/皆/云/遊歷/十方/中/三/品/下/三/品/皆/不/云/遊歷/未/破/惑/故/也/。/</ab></div>
+<div type="orig" level="2">
+<ab type="prose">/即/以/食時/還/到/本/國/飯食/經行/。/</ab></div>
+<div type="commentary" level="2">
+<ab type="prose">/飯食/者/大/本/云/宮殿/衣服/飯食/猶/第六/天/自然/之/物/若/欲/食時/七寶/應器/自然/在/前/百味/飲食/自然/盈滿/雖/有/此/食/實/無/食/者/但/見/色/聞/香/自然/飽足/食/已/化/去/時/至/復/現/也/。/</ab></div>
+<div type="orig" level="2">
+<ab type="prose">/舍利弗/極樂/國土/成就/如是/功德/莊嚴/。/</ab></div>
+<div type="commentary" level="2">
+<ab type="prose">/△/四/化/禽風/樹/二/初/化/禽二/。/</ab>
+<ab type="prose">/初列/。/</ab></div>
+<div type="orig" level="2">
+<ab type="prose">/復次/舍利弗/彼/國/常/有/種種/奇妙/雜色/之/鳥/白/鶴/孔雀/鸚鵡/。/</ab></div>
+<div type="commentary" level="2">
+<ab type="prose">/此/三/可/曉/。/</ab></div>
+<div type="orig" level="2">
+<ab type="prose">/舍利/。/</ab></div>
+<div type="commentary" level="2">
+<ab type="prose">/此/云/春/鶯/或/翻/鶖鷺/。/</ab></div>
+<div type="orig" level="2">
+<ab type="prose">/迦陵頻伽/。/</ab></div>
+<div type="commentary" level="2">
+<ab type="prose">/此/云/妙/聲/在/㲉/中/其/音/已/起/眾/鳥/。/</ab></div>
+<div type="orig" level="2">
+<ab type="prose">/共/命/之/鳥/。/</ab></div>
+<div type="commentary" level="2">
+<ab type="prose">/兩/首/一/身/異/神識/同/報/命/故/名/共命/法華經/名/命命/。/</ab></div>
+<div type="orig" level="2">
+<ab type="prose">/是/諸/眾/鳥/晝夜/六/時/出/和雅/音/其/音/演暢/。/</ab></div>
+<div type="commentary" level="2">
+<ab type="prose">/和雅/謂/音聲/悅/人/演暢/謂/說法/無/滯/。/</ab></div>
+<div type="orig" level="2">
+<ab type="prose">/五根/五力/。/</ab></div>
+<div type="commentary" level="2">
+<ab type="prose">/五根/謂/信/進/念/定/慧/也/能/生/名根/五根/增進/堪任/排障/故/曰/五力/。/</ab></div>
+<div type="orig" level="2">
+<ab type="prose">/七菩提分/。/</ab></div>
+<div type="commentary" level="2">
+<ab type="prose">/菩提/翻覺分/亦/支/也/謂/念/擇/進/喜/輕/定/捨/。/</ab></div>
+<div type="orig" level="2">
+<ab type="prose">/八聖道分/。/</ab></div>
+<div type="commentary" level="2">
+<ab type="prose">/諸/經/或/云/八正道/謂/正見/正思惟/正語/正業/正精進/正定/正念/正/命/。/</ab></div>
+<div type="orig" level="2">
+<ab type="prose">/如是/等/法/。/</ab></div>
+<div type="commentary" level="2">
+<ab type="prose">/慈恩/云/三十七道品/文缺/四念處/四正勤/四/如意足/三/科/以/等/字/兼/之/。/</ab></div>
+<div type="orig" level="2">
+<ab type="prose">/其/土/眾生/聞/是/音/已/皆悉/念/佛/念/法/念/僧/。/</ab></div>
+<div type="commentary" level="2">
+<ab type="prose">/孤山/云/念/佛/如/醫王/念法/如/良/藥/念/僧/如/瞻視/人/三/者/既/備/則/煩惱/之/病/可/瘥/也/此/念/別/相/三寶/又/觀/自/心/寂/而/常/照/則/諸/法/炳然/名/念/佛/照/而/常/寂/無/法/可/得/名/念法/寂照/不二/即/存/而/亡/亡/存/和合/名/念僧/此/同/體/三寶/也/古/崖/云/道品/三寶/皆/通/四/教/隨機/各/解/。/</ab>
+<ab type="prose">/△/二/釋/疑/。/</ab></div>
+<div type="orig" level="2">
+<ab type="prose">/舍利弗/汝/勿/謂/此/鳥/實/是/罪報/所/生/。/</ab></div>
+<div type="commentary" level="2">
+<ab type="prose">/恐/身/子/心/疑/既/有/雜/鳥/則/有/畜/趣/此/三惡道/之/一/何/名/淨土/耶/。/</ab></div>
+<div type="orig" level="2">
+<ab type="prose">/所以/者/何/彼/佛/國土/無/三惡道/。/</ab></div>
+<div type="commentary" level="2">
+<ab type="prose">/大/本/法藏/願/云/設/我/成佛/國土/有/地獄/畜生/餓鬼/者/不/取/正覺/。/</ab></div>
+<div type="orig" level="2">
+<ab type="prose">/舍利弗/其/佛/國土/尚/無/惡道/之/名/何況/有/實/。/</ab></div>
+<div type="commentary" level="2">
+<ab type="prose">/大/本/云/彼/國/無有/三/途/苦難/之/名/但/有/自然/快樂/之/音/是故/其/國/名/曰/安養/。/</ab></div>
+<div type="orig" level="2">
+<ab type="prose">/是/諸/眾/鳥/皆是/阿彌陀/佛/欲/令/法音/宣流/變化/所/作/。/</ab></div>
+<div type="commentary" level="2">
+<ab type="prose">/此/增廣/化/事/也/豈/唯/珍禽/說法/抑/亦/風/樹/水/聲/皆/演/妙音/若/非/眾生/性/具/安/能/果/上色心/互融/依/正/皆/妙/。/</ab>
+<ab type="prose">/△/二/風/樹/。/</ab></div>
+<div type="orig" level="2">
+<ab type="prose">/舍利弗/彼/佛/國土/微/風/吹/動/諸/寶/行樹/及/寶/羅網/出/微妙/音/譬如/百千/種/樂/同時/俱/作/聞/是/音/者/自然/皆/生/念/佛/念/法/念/僧/之/心/。/</ab></div>
+<div type="commentary" level="2">
+<ab type="prose">/諸/寶/樹/等/即/前/七/重/樹/網/風/動/成/音/準/觀/經/水/流/成/音/演說/苦空/無常/無/我/諸/波羅蜜/驗/此/樹/音/無不/演/法/否/則/可/令/國/中/眾生/聞/音/皆/生/念/佛/念/法/念/僧/之/心/耶/。/</ab></div>
+<div type="orig" level="2">
+<ab type="prose">/舍利弗/其/佛/國土/成就/如是/功德/莊嚴/。/</ab></div>
+<div type="commentary" level="2">
+<ab type="prose">/△/二/讚/正報二/。/</ab>
+<ab type="prose">/初/讚/化主/。/</ab></div>
+<div type="orig" level="2">
+<ab type="prose">/舍利弗/於/汝/意/云何/彼/佛/何故/號/阿彌陀/。/</ab></div>
+<div type="commentary" level="2">
+<ab type="prose">/審/問/別/號/既/無/所/對/故/為/釋/通/。/</ab></div>
+<div type="orig" level="2">
+<ab type="prose">/舍利弗/彼/佛/光明/無量/照/十方/國/無/所/障礙/是故/號/為/阿彌陁/。/</ab></div>
+<div type="commentary" level="2">
+<ab type="prose">/梵/語/阿彌陀/此/翻/無量/一/光明/無量/二/壽命/無量義/如/經列/或/問/只/一/梵/語/何/翻/二/義/私/謂/彌陀法/身體/德/明/靜寂/而/常/照/故/光/而/明照/而/常/寂/故/靜/而/壽/光/即/般若/壽/即/解脫/即/一/而/二/即/二/而/一/法相/融妙/故/得/經/中/二/義/釋/之/初/無量/光/者/大/本/云/無量/壽/佛/威神/光明/最/尊/第一/諸/佛/光明/所/不能/及/是故/號/為/無量光/佛/。/</ab></div>
+<div type="orig" level="2">
+<ab type="prose">/又/舍利弗/彼/佛/壽命/及/其/人民/無量/無邊/阿僧祇/劫/故/名/阿彌陀/。/</ab></div>
+<div type="commentary" level="2">
+<ab type="prose">/二/無量/壽者/大/本/云/彼/佛/壽命/長久/不可/稱計/假使/十方/無量/眾生/皆/成/聲聞/緣覺/都/共/集會/竭/其/智力/百千萬/劫/悉/共/推筭/不能/窮盡/又/云/聲聞/菩薩/人/天/之/眾/壽命/長遠/亦復/如是/阿僧祇/此/云/無數/然/約/光/壽/雖/稱/無量/乃/是/三十二相/常/所/見/身/與/觀/經/勝/應/尊/特/身/不/同/。/</ab></div>
+<div type="orig" level="2">
+<ab type="prose">/舍利弗/阿彌陀/佛/成佛/以來/於/今/十/劫/。/</ab></div>
+<div type="commentary" level="2">
+<ab type="prose">/今/經/部屬/方等/乃/是/一時/赴/機/之/說/若/依/法華/顯/本/必/長/以/迹/門/所/說/彌陀/既/在/十六/王子/之/數/釋迦/本門/開顯/壽量/塵/劫/彌陀/顯/本/壽/亦/難/思/也/。/</ab>
+<ab type="prose">/△/二/讚/眷屬/二/。/</ab>
+<ab type="prose">/初/列/三乘/。/</ab></div>
+<div type="orig" level="2">
+<ab type="prose">/又/舍利弗/彼/佛/有/無量/無邊/聲聞/弟子/皆/阿羅漢/。/</ab></div>
+<div type="commentary" level="2">
+<ab type="prose">/阿羅漢/揀異/前/三/果/也/不/言/緣覺/攝/在/聲聞/數/中/亦/可以/弟子/二/字/總/收/三乘/也/。/</ab></div>
+<div type="orig" level="2">
+<ab type="prose">/非/是/算數/之/所/能/知/諸/菩薩/眾/亦復/如是/。/</ab></div>
+<div type="commentary" level="2">
+<ab type="prose">/聲聞/兼/藏/通/兩/教/菩薩/則/通/四/教/或/問/今/經/正/意/在/圓/何/關/二乘耶/曰/彼/佛/為/慣/習/小/者/成就/小/果/示/聲聞/法/然後/引/小/入/大/或/問/往生/論/云/二/乘/種/不/生/何/耶/天/台/云/正/處/小/行/不/生/要/由/臨終/發/大乘/種/亦/乃/得/生/以/先/學/小/故/至/彼/聞/苦空/無常/發/其/本/解/先/證/小/果證/已/不/住/於/小/必/還/入/大/。/</ab></div>
+<div type="orig" level="2">
+<ab type="prose">/舍利弗/彼/佛/國土/成就/如是/功德/莊嚴/。/</ab></div>
+<div type="commentary" level="2">
+<ab type="prose">/靈芝/云/此/亦/彌陀/所/化/來/生/彼/國/脩/因/證/果/為/國/莊嚴/。/</ab>
+<ab type="prose">/△/二/生/不退/。/</ab></div>
+<div type="orig" level="2">
+<ab type="prose">/又/舍利弗/極樂/國土/眾生/生/者/皆是/阿鞞䟦致/。/</ab></div>
+<div type="commentary" level="2">
+<ab type="prose">/眾生/亦/可/義/通/九品/阿鞞䟦致/云/不退轉/十/疑/論/云/彼/國/有/五/因緣/故/不退/一/彌陀願力/攝持/二/佛光/常/照/三/水/鳥/樹林/常/演說/法四/純/諸/菩薩/為/友/五/壽命/永劫/。/</ab></div>
+<div type="orig" level="2">
+<ab type="prose">/其中/多/有/一生補處/其/數/甚/多/非/是/算數/所/能/知/之/但/可以/無量/無邊/阿僧祇/說/。/</ab></div>
+<div type="commentary" level="2">
+<ab type="prose">/若/此/娑婆/生/彼/土/者/多/未/破/惑/不/論/位/次/如/前/云/五/種/因緣/故/得/不退/若/到/彼/已/聞法/入/真方/可/論/位/行/念/三/不退/也/若/不/爾/者/文/云/多/有/一生補處/豈/此/土/初/生/之/人/便/登/等覺/耶/一生補處/如/觀音/勢/至/位/隣/妙/覺/次/補/佛/處/無量/無邊/亦/顯/其/多/也/廣讚/依/正/竟/。/</ab>
+<ab type="prose">/△/二/勸/修/願/行/二/。/</ab>
+<ab type="prose">/初/願/。/</ab></div>
+<div type="orig" level="2">
+<ab type="prose">/舍利弗/眾生/聞/者/應當/發願/願/生/彼/國/。/</ab></div>
+<div type="commentary" level="2">
+<ab type="prose">/勸/修行/願/正/明/一/經/宗要/願/行/本/一/今/先/願/後/行/者/揀/異/此/土/行人/稟/教/脩行/無/往生/願/故/於/此/土/聞法/入/真/多/致/退失/故/須/先/願/夫/願/有/總/有/別/菩薩/多/發/四/弘/及/總/願/也/今/求/生/淨土/乃/別/願/也/以/此/土/塵/境/麤強/聖果/難/成/願/生/淨土/速/證/菩提/。/</ab></div>
+<div type="orig" level="2">
+<ab type="prose">/所以/者/何/得/與/如是/諸/上/善/人/俱/會/一處/。/</ab></div>
+<div type="commentary" level="2">
+<ab type="prose">/諸/上/善/人/指/上/三乘/聖眾/欲/顯/此/土/三惡/充滿/皆/不善/聚/為/可/厭耳/一處/者/古/崖/云/雖/是/同居/淨土/指/此/無/非/寂/光/理/土/而/此/寂/光/全/是/眾生/三/德/理/藏/不/指/此/藏/何/得/名/一處/哉/。/</ab>
+<ab type="prose">/△/二/行/四/。/</ab>
+<ab type="prose">/初/揀勉/。/</ab></div>
+<div type="orig" level="2">
+<ab type="prose">/舍利弗/不可/以/少/善根/福德/因緣/得/生/彼/國/。/</ab></div>
+<div type="commentary" level="2">
+<ab type="prose">/少/善根/等/者/此/土/四/教/脩行/之/人/若/無/正/信/迴向/發願/求/生/淨土/皆/名為/少少/之/一/字/貫/下/二/句/亦/云/少/福德/少/因緣/善根/明/正行/福德/約/助/行/如/觀/經/云/欲/生/彼/國/當/脩/三福/一/者/孝養/父母/奉事/師長/慈心/不/殺/二/者/受持/三歸/具足/眾/戒/三/者/發/菩提心/深信/因果/讀誦/大乘/等/乃至/立/寺/造像/禮誦/坐禪/懺念/若/行/一切/福業/皆/助/行/也/因緣/二/字/總/結正/助/正行/為/因/助/行/為/緣/也/下/科/經文/但/明/正行/不/明/助/行/者/蓋/文義/互現/譯人/之/巧/耳/或/問/此/土/脩/圓頓/者/亦/名/少/善根/耶/曰/娑婆縱/稟/圓頓/修行/亦/多/退失/若/不/求/生/淨土/亦/名/善根/涼薄/故/勉/進/須/求/生/也/。/</ab>
+<ab type="prose">/△/二/正/明/行/。/</ab></div>
+<div type="orig" level="2">
+<ab type="prose">/舍利弗/若/有/善男子/善女人/。/</ab></div>
+<div type="commentary" level="2">
+<ab type="prose">/即/能/脩/之/機該/乎/四/教/及/博地/凡夫/。/</ab></div>
+<div type="orig" level="2">
+<ab type="prose">/聞說/阿彌陀/佛/執持/名號/若/一/日/若/二/日/若/三/日/若/四/日/若/五/日/若/六/日/若/七/日/一心/不/亂/。/</ab></div>
+<div type="commentary" level="2">
+<ab type="prose">/此/正/明/脩行/應/有/三/意/初/明/所/念/境/二/正/明/繫念/三/制/明限/初/意/者/先/須/了知/彌陀/世尊/雖/居/十萬億/剎/之/外/全/我/一心/本/具/但/為/久迷/背/於/本/性/今/欲/稱/念/正/為/顯/自/心性/此/之/心性/不/出/三諦/妙/境/故/果/上/所/顯/三身/四土/不/離/心性/故/經/聞說/阿彌陀/佛/若/不/因/聞/妙/解/本/具/則/佛/從/外/來/是/因緣/法/二/正/明/繫念/者/經/云/執持/名號/即/繫念/聖/號/也/言/一心/不/亂/者/有/事/一心/有/理/一心/初/事/者/先/須/斂/念/面/向/西方/合掌/正/身/遙/想/彼/佛/丈/六/金容/三十二相/八十種好/現/坐/道場/依/正/莊嚴/光明/無量/自慨/此/身/久/沉/苦海/漂流/生死/孤露/無依/譬如/嬰兒/墮/在/坑穽/叫呼/父母/急/救/危亡/一/志/依/投/懇求/免脫/聲/聲/相/續/念念/不/移/感/佛/哀/憐/此/心/專注/不/為/塵/緣/之/所/擾亂/故/曰/一心/不/亂/二/理/一心/者/體/達/事/中/一心/稱/名/能/念/之/心/本/無/自性/所/念/之/佛/當/體/空寂/聲/相/亦/空/呼/響/不/實/所/稱/能/稱/既/絕/思議/皆/不可/得/名為/即/空/雖/即/本空/而/我/此/心/能/成/妙/感/彌陀/妙/應/全/心/所/現/如/水/不/上/升/月/不/下降/感應/道/交任/運/顯益/名為/妙/假/假/不定/假/空/亦/非/空/空/假/不二/顯/於/中/道/由/此/心性/是/毗盧/體/體/非/能/所/亦/非/形相/非/不/形相/名為/即/中/中/以/不/偏/為/義/絕/待/為/功/既/無/待/對/空/假/叵/得/中/道/不/存/不/一/不/異/思議/泯亡/故/名/一心/不/亂/又/分/字/解/者/圓觀/妙/境/三/諦/皆/空/三/諦/皆/假/三/諦/皆/中/體/既/無異/故/曰/一心/雖/則/本/融/空/彰蕩/相/假/彰立/法/中/彰絕/待/於/一心/中/有/三/德/用/不可/混/雜/故/曰/不/亂/如是/觀/念/圓/脩/三/觀/圓念/三身/圓破/三惑/圓證/三/德/豈/但/得/生/同/居/淨土/亦/能/分/證/寂光/理/體/但/觀/有/微/著/念力/偏/強/惑/有/厚薄/故/成/觀/行/相似/分/證/之/殊/又復/此/文/非但/明/於/一/念/事理/亦/顯/一心/三/慧/具足/如/云/聞說/阿彌陀/佛/執持/名號/聞/即/聞/慧/執/謂/執/受/在/心/即是/思慧/持/謂/任持/不/忘/即是/脩慧/即/聞/而/思/二/慧/導/行/任持/不失/故/於/一心/顯圓/三/慧/若/無/聞/慧/無/受/潤/因/聞/而/不/思/無/深/旨/趣/思/而/不/脩/終/無/證理/三/慧/若/備/得道/不/疑/三明/期/限/者/利根/一/日/鈍/或/至/七/故/言/若/一/日/二/日/等/七/日/行/成/縱/未/破/惑/定/為/往生/之/因/又/此/一心/不/亂/之/句/文/有/兩/屬/若/論/正/明/觀/法/一/經/唯/指/此/句/若/論/行/成/功顯/亦/指/此/之/一/句/以/淨業/既/成/故/我/一心/不/為/煩惑/所/亂/得/感/臨終/往生/故/曰/臨/命/終/時/等/則/屬/下/科/得/果/也/或/問/四/教/人/稱/名/前/三/如何/能/脩/三/觀/曰/前/三/稱/名/唯/得/事/中/一心/則/屬/散/善/若/圓人/稱/名/非但/事理/俱/得/亦/顯/事理/不/二/則/屬/定/善/前/三/但/以/迴向/發願/得/往生/耳/。/</ab>
+<ab type="prose">/△/三/得/果/。/</ab></div>
+<div type="orig" level="2">
+<ab type="prose">/其/人/臨/命/終/時/阿彌陀佛/與/諸/聖眾/現在/其/前/。/</ab></div>
+<div type="commentary" level="2">
+<ab type="prose">/行者/臨終/以/脩願/行/定力/所/持/感/佛/來/迎/亦/是/彌陀/大願/願力/攝受/大/本/云/十方/眾生/至心/發/願欲/生/我/國/臨/命/終/時/假令/不/與/大眾/圍繞/現在/其/前/者/不/取/正覺/靈芝/云/聖眾/現前/亦/有/多/別/或/真/佛/化佛/觀音/勢/至/隨/其/品/位/委/在/觀/經/或/謂/臨終/見/佛/以為/魔/者/或/謂/自/心/業/現/無/他/佛/來/者/斯/蓋/不/知/生/佛/一/體/感應/道/交/自/障/障/他/為/過/不/淺/矣/。/</ab></div>
+<div type="orig" level="2">
+<ab type="prose">/是/人/終/時/心/不/顛倒/即/得/往生/阿彌陀佛/極樂/國土/。/</ab></div>
+<div type="commentary" level="2">
+<ab type="prose">/靈芝/云/凡人/臨終/識神/無/主/善惡/業行/無不/發/現/或/起/惡/念/或/起/邪見/或/生/貪戀/或/發/猖/狂/惡/相/非/一/皆/名/顛倒/因/前/誦習/罪/滅/障/除/淨業/內/熏/慈光/外/攝/脫/苦/得/樂/一剎那/間頓/超樂/土/下/文/勸/生/其/利/在/此/。/</ab>
+<ab type="prose">/△/四/結/勸/。/</ab></div>
+<div type="orig" level="2">
+<ab type="prose">/舍利弗/我/見/是/利/故/說/此/言/若/有/眾生/聞/是/說/者/應當/發/願/生/彼/國土/。/</ab></div>
+<div type="commentary" level="2">
+<ab type="prose">/此/經/無/發起/序/不/同/他/經/當/機/辨/道/乃/無/問/自/說/故/云/我/見/是/利/故/說/此/言/如/竹/菴/云/不/待/發起/如/急/救/法/也/應當/發願/淨土/之/行/要/在/於/願/故/重/叮嚀/。/</ab>
+<ab type="prose">/△/二/六方/引/同/敦勉/生/信/二/初/引/同/二/。/</ab>
+<ab type="prose">/初/釋迦/讚歎/。/</ab></div>
+<div type="orig" level="2">
+<ab type="prose">/舍利弗/如/我/今/者/讚歎/阿彌陀佛/不可思議/功德/之/利/。/</ab></div>
+<div type="commentary" level="2">
+<ab type="prose">/欲/明/六/方/同/讚/先/結/釋迦/稱揚/故/云/如/我/今/者/等/功德/不可/同/福德/之/名/福德/屬/事/功德/屬/理/有/功/之/德/故/曰/功德/功/收願/行/德/歸/三/諦/若/不/爾/者/安/云/不可思議/耶/前/文/頻/云/功德/莊嚴/當/依/此/釋/。/</ab>
+<ab type="prose">/△/二/諸/佛/讚歎/六/。/</ab>
+<ab type="prose">/初/東方/。/</ab></div>
+<div type="orig" level="2">
+<ab type="prose">/東方/亦/有/阿閦鞞/佛/。/</ab></div>
+<div type="commentary" level="2">
+<ab type="prose">/唐譯/具有/十方秦/譯略/明/六/方/亦/有/者/領/上/之/詞/非但/我/釋迦/稱讚/十方/諸/佛/亦/現/稱讚/諸/佛/別/名/靈芝/云/相/承/不/釋/今/以/義/詳/或/從/色相/或/取/言/音/或/約/行業/或/從/譬喻/大/略/不/出/果/德/三/身/收/無不/盡/文/或/偏/舉/義/必/兼/含/古/崖/云/凡/釋/經/必/約/教/觀/二/義/不/約/教/則/不/識/能/詮/之/名/被機/之/相/不/約/觀/則/如/貧/數/寶/於/我/何為/如/約/教/先/明/因緣/事相/考尋/經論/所/出/及/法門/表對/之/義/釋/之/阿閦/鞞/此/云/不/動/不/為/二/邊/而/動/故/。/</ab></div>
+<div type="orig" level="2">
+<ab type="prose">/須彌/相/佛/大/須彌/佛/須彌/光/佛/。/</ab></div>
+<div type="commentary" level="2">
+<ab type="prose">/須彌/翻妙/高妙/則/三德/圓融/高/則/超過/因/位/相與/大/並/表/解脫/斷/德/光/表/般若/智慧/也/。/</ab></div>
+<div type="orig" level="2">
+<ab type="prose">/妙音/佛/。/</ab></div>
+<div type="commentary" level="2">
+<ab type="prose">/語/音/圓妙/說法/稱機/立/名/諸/佛/雖/三/身/一/體/皆/以/應/佛/當/名/。/</ab></div>
+<div type="orig" level="2">
+<ab type="prose">/如是/等/恒河沙/數/諸/佛/。/</ab></div>
+<div type="commentary" level="2">
+<ab type="prose">/恒河/亦/云/殑伽河/其/沙/多/而/細/佛/近/彼/河/說法/諸/經/故/多/引/喻/。/</ab></div>
+<div type="orig" level="2">
+<ab type="prose">/各/於/其/國/出/廣長/舌相/徧覆/三千/大千世界/。/</ab></div>
+<div type="commentary" level="2">
+<ab type="prose">/慈恩/云/舌相/廣長/表/無量/劫/口/離/四/過/凡證/小事/即/覆/面門/以/至/髮際/今/覆/大千/證/大事/故/或/問/此/勝/應/耶劣/應/耶/曰/若/論/現/相/只/表/所/說/不/虗/不可/以/舌/驗/身/然/必/是/勝/應/尊特/也/。/</ab></div>
+<div type="orig" level="2">
+<ab type="prose">/說/誠實/言/汝等/眾生/當/信/是/。/</ab></div>
+<div type="commentary" level="2">
+<ab type="prose">/慈恩/云/觀/此/經/勢/蓋/他/方/諸/佛/告/自/國/聽/眾/釋迦/轉/引/彼/佛/意/言/證/彼/西方/令/此/會/眾生/信敬/也/靈芝/云/正/當/釋迦/說/此/經/時/十方/諸/佛/同時/勸/讚/令/信/是/經然/二/師/之/義/皆/通/靈芝/尤/得/經旨/。/</ab></div>
+<div type="orig" level="2">
+<ab type="prose">/稱讚/不可思議/功德/一切/諸/佛/所/護念/經/。/</ab></div>
+<div type="commentary" level="2">
+<ab type="prose">/此/十六/字/是/舉/經/題唐/譯/依/此/題名/稱讚/淨土/佛/攝受/經/不可思議/者/文/中/有/四/不可思議/一/者/依/報/雖/是/同居/淨土/此/用/即/體/無/非/寂/光/二/者/正報/雖/是/應/身/指/應/即/法/三/者/脩/因/四/者/感/果/七/日/持/名/即/感/聖果/因果/不/二/亦/不思議/故/今/唱/題/名/不可思議/功德/也/又/此/一/題/示/五章/義/何/者/不可思議/即是/經/體/願行/功德/即是/宗要/諸/佛/護念/即是/力/用/護/故/捨/苦/念/故/得/樂/總/此/三/義/即是/釋/名/稱讚/此/四/即/當/教相/。/</ab>
+<ab type="prose">/△/二/南方/。/</ab></div>
+<div type="orig" level="2">
+<ab type="prose">/舍利弗/南方/世界/有/日月燈佛/。/</ab></div>
+<div type="commentary" level="2">
+<ab type="prose">/名/日月燈表/於/三/智/。/</ab></div>
+<div type="orig" level="2">
+<ab type="prose">/名聞/光/佛/。/</ab></div>
+<div type="commentary" level="2">
+<ab type="prose">/名稱/普/聞/如/光/徧照/。/</ab></div>
+<div type="orig" level="2">
+<ab type="prose">/大/𦦨/肩/佛/。/</ab></div>
+<div type="commentary" level="2">
+<ab type="prose">/肩/表/二/智/𦦨/表/照/理/。/</ab></div>
+<div type="orig" level="2">
+<ab type="prose">/須彌/燈/佛/。/</ab></div>
+<div type="commentary" level="2">
+<ab type="prose">/須彌/是/眾/山/之/王/自/證/之/體/燈表/化/他/之/用/。/</ab></div>
+<div type="orig" level="2">
+<ab type="prose">/無量/精進/佛/。/</ab></div>
+<div type="commentary" level="2">
+<ab type="prose">/從/行/為/名/方便/度/生/未甞/暫懈/眾生/無量/悲/智/亦/然/。/</ab></div>
+<div type="orig" level="2">
+<ab type="prose">/如是/等/恒河沙/數/諸/佛/各/於/其/國/出/廣長/舌相/徧覆/三千/大千世界/說/誠實/言/汝等/眾生/當/信/是/稱讚/不可思議/功德/一切/諸/佛/所/護念/經/。/</ab></div>
+<div type="commentary" level="2">
+<ab type="prose">/△/三/西方/。/</ab></div>
+<div type="orig" level="2">
+<ab type="prose">/舍利弗/西方/世界/有/無量/壽/佛/。/</ab></div>
+<div type="commentary" level="2">
+<ab type="prose">/慈恩/云/儒宗/尚/不/自/伐/其/善/何故/彌陀/自/讚/難/思/答/據/文勢/即是/諸/佛/稱讚/又/設/若/彌陀/自/讚/於/理/何/違/引/轉/眾生/令/生/勝/意/靈芝/云/同/名/甚/多/決/非/法藏/所/成/之/彌陀/也/古/崖/謂/二/師/之/義/皆/通/慈恩/又/從容/也/。/</ab></div>
+<div type="orig" level="2">
+<ab type="prose">/無量/相/佛/。/</ab></div>
+<div type="commentary" level="2">
+<ab type="prose">/相好/無量/。/</ab></div>
+<div type="orig" level="2">
+<ab type="prose">/無量/幢/佛/。/</ab></div>
+<div type="commentary" level="2">
+<ab type="prose">/無量/功德/高峻/如/幢/。/</ab></div>
+<div type="orig" level="2">
+<ab type="prose">/大/光/佛/大/明/佛/。/</ab></div>
+<div type="commentary" level="2">
+<ab type="prose">/大/光/大/明/並/喻/佛智/自行/化/他/破/障/除惑/。/</ab></div>
+<div type="orig" level="2">
+<ab type="prose">/寶相/佛/。/</ab></div>
+<div type="commentary" level="2">
+<ab type="prose">/相好/如/寶/可/尊/可貴/。/</ab></div>
+<div type="orig" level="2">
+<ab type="prose">/淨/光/佛/。/</ab></div>
+<div type="commentary" level="2">
+<ab type="prose">/智光/最/淨/。/</ab></div>
+<div type="orig" level="2">
+<ab type="prose">/如是/等/恒河沙/數/諸/佛/各/於/其/國/出/廣長/舌相/徧覆/三千/大千世界/說/誠實/言/汝等/眾生/當/信/是/稱讚/不可思議/功德/一切/諸/佛/所/護念/經/。/</ab></div>
+<div type="commentary" level="2">
+<ab type="prose">/△/四/北方/。/</ab></div>
+<div type="orig" level="2">
+<ab type="prose">/舍利弗/北方/世界/有/𦦨/肩/佛/。/</ab></div>
+<div type="commentary" level="2">
+<ab type="prose">/二/智/照/理/如/肩/發/𦦨/。/</ab></div>
+<div type="orig" level="2">
+<ab type="prose">/最勝/音/佛/。/</ab></div>
+<div type="commentary" level="2">
+<ab type="prose">/說法/稱機/梵音/最勝/。/</ab></div>
+<div type="orig" level="2">
+<ab type="prose">/難/沮/佛/。/</ab></div>
+<div type="commentary" level="2">
+<ab type="prose">/內/證/實相/四魔/不能/沮散/。/</ab></div>
+<div type="orig" level="2">
+<ab type="prose">/日/生/佛/。/</ab></div>
+<div type="commentary" level="2">
+<ab type="prose">/日/表/智慧/從/法身/生/。/</ab></div>
+<div type="orig" level="2">
+<ab type="prose">/綱明/佛/。/</ab></div>
+<div type="commentary" level="2">
+<ab type="prose">/智慧/如/綱/覆/徧/十方/。/</ab></div>
+<div type="orig" level="2">
+<ab type="prose">/如是/等/恒河沙/數/諸/佛/各/於/其/國/出/廣長/舌相/徧覆/三千/大/世界/說/誠實/言/汝等/眾生/當/信/是/稱讚/不可思議/功德/一切/諸/佛/所/護念/經/。/</ab></div>
+<div type="commentary" level="2">
+<ab type="prose">/△/五/下方/。/</ab></div>
+<div type="orig" level="2">
+<ab type="prose">/舍利弗/下方/世界/有/師子/佛/。/</ab></div>
+<div type="commentary" level="2">
+<ab type="prose">/佛/是/眾/聖/之/尊/故/以/獸/王/比/之/又/師子/一/吼/百/獸/惱/裂/聞/之/皆/死/喻/佛/說法/魔/外/消亡/。/</ab></div>
+<div type="orig" level="2">
+<ab type="prose">/名聞/佛/。/</ab></div>
+<div type="commentary" level="2">
+<ab type="prose">/名稱/普/聞/徧/十方界/。/</ab></div>
+<div type="orig" level="2">
+<ab type="prose">/名/光/佛/。/</ab></div>
+<div type="commentary" level="2">
+<ab type="prose">/名/如/日光/徧照/一切/。/</ab></div>
+<div type="orig" level="2">
+<ab type="prose">/達磨/佛/。/</ab></div>
+<div type="commentary" level="2">
+<ab type="prose">/達磨/翻/法/約/所/證/說/。/</ab></div>
+<div type="orig" level="2">
+<ab type="prose">/法幢/佛/。/</ab></div>
+<div type="commentary" level="2">
+<ab type="prose">/以/幢/表/法/高大/熾盛/。/</ab></div>
+<div type="orig" level="2">
+<ab type="prose">/持/法/佛/。/</ab></div>
+<div type="commentary" level="2">
+<ab type="prose">/以/中/道法/雙/持/二/邊/。/</ab></div>
+<div type="orig" level="2">
+<ab type="prose">/如是/等/恒河沙/數/諸/佛/各/於/其/國/出/廣長/舌相/徧覆/三千/大千世界/說/誠實/言/汝等/眾生/當/信/是/稱讚/不可思議/功德/一切/諸/佛/所/護念/經/。/</ab></div>
+<div type="commentary" level="2">
+<ab type="prose">/△/六/上方/。/</ab></div>
+<div type="orig" level="2">
+<ab type="prose">/舍利弗/上方/世界/有/梵音/佛/。/</ab></div>
+<div type="commentary" level="2">
+<ab type="prose">/法音/清妙/聞/者/悅/心/。/</ab></div>
+<div type="orig" level="2">
+<ab type="prose">/宿/王/佛/。/</ab></div>
+<div type="commentary" level="2">
+<ab type="prose">/宿/音/秀/星宿/中/王/佛/如/北辰/居/其/所/而/眾/星/拱/之/。/</ab></div>
+<div type="orig" level="2">
+<ab type="prose">/香/上/佛/。/</ab></div>
+<div type="commentary" level="2">
+<ab type="prose">/如/薝蔔林/中/不/嗅/餘/香/佛/德/之/香/更/無/過/上/者/。/</ab></div>
+<div type="orig" level="2">
+<ab type="prose">/香光/佛/。/</ab></div>
+<div type="commentary" level="2">
+<ab type="prose">/香/喻/斷/德/光/喻/智/德/二/德/能/顯/本/有/法身/亦/可/德/香屬/自行/光/有/照明/屬/化/他/。/</ab></div>
+<div type="orig" level="2">
+<ab type="prose">/大/𦦨/肩/佛/。/</ab></div>
+<div type="commentary" level="2">
+<ab type="prose">/二/智/如/肩/能/照/如/𦦨/照/理/廣大/故/也/。/</ab></div>
+<div type="orig" level="2">
+<ab type="prose">/雜色/寶/華/嚴/身/佛/。/</ab></div>
+<div type="commentary" level="2">
+<ab type="prose">/自行/因/華/如/寶/莊嚴/果/德/之/身/。/</ab></div>
+<div type="orig" level="2">
+<ab type="prose">/娑羅樹/王/佛/。/</ab></div>
+<div type="commentary" level="2">
+<ab type="prose">/娑羅/翻/牢固/亦/翻/最勝/。/</ab></div>
+<div type="orig" level="2">
+<ab type="prose">/寶/華德/佛/。/</ab></div>
+<div type="commentary" level="2">
+<ab type="prose">/常/樂/我/淨德/如/寶/華/。/</ab></div>
+<div type="orig" level="2">
+<ab type="prose">/見/一切/義/佛/。/</ab></div>
+<div type="commentary" level="2">
+<ab type="prose">/洞見/諸/法/甚深/義趣/。/</ab></div>
+<div type="orig" level="2">
+<ab type="prose">/如/須彌山/佛/。/</ab></div>
+<div type="commentary" level="2">
+<ab type="prose">/須彌/出/眾/山/之/上/如/佛/為/眾/聖/之/尊/。/</ab></div>
+<div type="orig" level="2">
+<ab type="prose">/如是/等/恒河沙/數/諸/佛/各/於/其/國/出/廣長/舌相/徧覆/三千/大千世界/說/誠實/言/汝等/眾生/當/信/是/稱讚/不可思議/功德/一切/諸/佛/所/護念/經/。/</ab></div>
+<div type="commentary" level="2">
+<ab type="prose">/△/二/勸/信/二/。/</ab>
+<ab type="prose">/初/釋/經/題/。/</ab></div>
+<div type="orig" level="2">
+<ab type="prose">/舍利弗/於/汝/意/云何/何故/名為/一切/諸/佛/所/護念/經/。/</ab></div>
+<div type="commentary" level="2">
+<ab type="prose">/佛/自/徵問/經/題/之/義/。/</ab></div>
+<div type="orig" level="2">
+<ab type="prose">/舍利弗/若/有/善男子/善女人/聞/是/經/受持/者/。/</ab></div>
+<div type="commentary" level="2">
+<ab type="prose">/釋/出/聞/受持/者/此/三/慧/也/聞/即/聞/慧/受/謂/執/受/即是/思慧/持/謂/任持/不/忘/即/修/慧/也/。/</ab></div>
+<div type="orig" level="2">
+<ab type="prose">/及/聞/諸/佛/名/者/。/</ab></div>
+<div type="commentary" level="2">
+<ab type="prose">/靈芝/云/聞/經/受持/者/牒/上/二/報/莊嚴/正明/行/法/文/也/及/聞/諸/佛/名/者/牒/上/六方/引/同/文/也/。/</ab></div>
+<div type="orig" level="2">
+<ab type="prose">/是/諸/善男子/善女人/皆/為/一切/諸/佛/之/所/護念/。/</ab></div>
+<div type="commentary" level="2">
+<ab type="prose">/護/謂/覆護/不/使/魔/撓/念/謂/記念/不/令/退失/眾生/聞/經/受持/能/順/佛/意故/為/諸/佛/所/護念/也/。/</ab></div>
+<div type="orig" level="2">
+<ab type="prose">/皆/得/不退轉/於/阿耨多羅/三藐三菩提/。/</ab></div>
+<div type="commentary" level="2">
+<ab type="prose">/轉/指/上/聞/經/念/佛/或/事/或/理/或/定/或/散/或/淺/或/深/盡/證/不退/故/云/皆/得/也/阿耨多羅/此/飜/無上/三藐翻/正等三菩提/飜/正覺/即/無上/正等正覺/此/即/佛/之/果/號/也/。/</ab>
+<ab type="prose">/△/二/正/信/。/</ab></div>
+<div type="orig" level="2">
+<ab type="prose">/是故/舍利弗/汝等/皆/當/信受/我/語/及/諸/佛/所/說/。/</ab></div>
+<div type="commentary" level="2">
+<ab type="prose">/是故/者/結/上/之/詞/皆/當/者/勸勉/之/語/佛法/如/大海/信/為/能/入/如來/金口/無不/實/語/更/引/十方/果/覺/誠/言/其/鄭重/叮嚀/有/如此/者/。/</ab></div>
+<div type="orig" level="2">
+<ab type="prose">/舍利弗/若/有/人/已/發/願/今/發/願/當/發/願欲/生/阿彌陀/佛國/者/是/諸/人/等/皆/得/不退轉/於/阿耨多羅/三藐三菩提/。/</ab></div>
+<div type="commentary" level="2">
+<ab type="prose">/已/即/過去/今/即/現在/當/即/未來/發/願/是/過/現/未來/求/生/之/因/。/</ab></div>
+<div type="orig" level="2">
+<ab type="prose">/於/彼/國土/若/已/生/若/今/生/若/當/生/。/</ab></div>
+<div type="commentary" level="2">
+<ab type="prose">/生/即是/生/彼/之/果/三/因/三/果/分/對/可/知/。/</ab></div>
+<div type="orig" level="2">
+<ab type="prose">/是故/舍利弗/諸/善男子/善女人/若/有/信/者/應當/發/願/生/彼/國土/。/</ab></div>
+<div type="commentary" level="2">
+<ab type="prose">/是故/下/總/結/勸/欲/生/淨土/者/唯/恐/無願/有/願/必/生/定/無/漏失/十疑論/云/生/彼/國/已/悉/得/無生/未/有/一/人/退落/三界/為/生死/業/縛/等/。/</ab>
+<ab type="prose">/△/二/舉/難/況/易/便/聞/者/知/歸/二/。/</ab>
+<ab type="prose">/初/諸/佛/互讚/以/況/。/</ab></div>
+<div type="orig" level="2">
+<ab type="prose">/舍利弗/如/我/今/者/稱讚/諸/佛/不可思議/功德/彼/諸/佛/等/亦/稱讚/我/不可/思議/功德/。/</ab></div>
+<div type="commentary" level="2">
+<ab type="prose">/古崖/云/若/據/上/科/六方/之/文/乃/是/諸/佛/出/廣長/舌/同/釋迦/稱讚/彌陀/今/此/却/云/稱讚/諸/佛/者/何/耶良/以/彌陀/與/諸/佛/同/一/身/智/華/嚴/經/云/十方/諸/如來/同共/一/法身/一/身/一/智慧/力/無畏/亦/然/是故/釋迦/稱讚/彌陀/即是/稱讚/諸/佛/也/又/經/上/文/云/聞/是/經/受持/者/及/聞/諸/佛/名/者/亦/是/稱讚/諸/佛/故/今/總/結/也/彼/諸/佛/等/亦/稱讚/我/者/既/言/諸/佛/則/彌陀/亦/同/諸/佛/稱讚/釋迦/也/。/</ab></div>
+<div type="orig" level="2">
+<ab type="prose">/而/作/是/言/釋迦牟尼/佛/能/為/甚/難/希有/之/事/。/</ab></div>
+<div type="commentary" level="2">
+<ab type="prose">/釋迦/此/云/能仁/牟尼/此/翻/寂默/能仁/則/大悲/應/物/寂默/則/大智/冥/理/甚/難/希有/事/者/一/於/五濁/得/菩提/難/二/為/眾生/說/此/難/信/法/難/舉/此/二/難/意/顯/淨土/脩行/之/易/令/聞/者/知/歸/求/往生/也/初/意/者/謂/此/五濁/障/重/而/修行/人/多/致/退屈/唯/我/釋迦/能/忍/濁惡/脩行/成佛/可謂/甚/難/第二/意/者/七/日/持/名/下/至/十/念/臨終/感/佛/決定/往生/而/獲/聖果/如此/法門/在/濁惡/世/為/眾生/說/而/令/信受/可謂/甚/難/。/</ab></div>
+<div type="orig" level="2">
+<ab type="prose">/能/於/娑婆/國土/。/</ab></div>
+<div type="commentary" level="2">
+<ab type="prose">/梵/語/娑婆/此/云/堪忍/以/眾生/堪忍/受/三毒/故/。/</ab></div>
+<div type="orig" level="2">
+<ab type="prose">/五濁/惡/世/劫濁/見濁/煩惱/濁/眾生/濁命/濁/中/得/阿耨多羅/三藐三菩提/。/</ab></div>
+<div type="commentary" level="2">
+<ab type="prose">/此/明/一/於/五濁/得/菩提/難/五濁/者/有/體/有/相/體/者/劫濁/無/別/體/劫/是/長/時/剎那/是/短/時/但/約/四濁/立/此/假名/眾生濁/亦/無/別/體/攬/見/慢/果報/上/立/此/假名/煩惱/指/五/鈍/使/為/體/見/濁/指/五/利/使/為/體/命/濁/連/持/色/心/為/體相/者/四濁/增/劇/聚/在/此/時/瞋恚/增/劇/刀兵/起/貪欲/增/劇/飢饉/起/愚癡/增/劇/疾疫/起/三/灾/起/故/煩惱/倍/隆/諸/見/轉/熾催/年/減/壽/眾/濁/交湊/如/水奔/昏/風/波/鼓/怒/時/使/之/然/是/名/劫濁相/煩惱/者/貪/海/納/流/未甞/飽足/瞋/蚖/吸/毒/撓/諸/世間/癡暗/頑嚚/過/於/漆/墨慢/高下/視陵/忽/無/度/疑網/無/信/不可/告/實/是/為/煩惱/濁/相/見/濁/者/無/人/謂/有/人/有/道/謂/無道/十六/知見/六十二見/等/猶如/羅網/又/似/稠林/纏縛/屈曲/不能/得/出/是/為/見濁/相/眾生/濁/者/攬/於/色相/立/一/主/宰/譬如/黐膠/無/物/不/著/流蕩/六/道/處處/受/生/或/長/或/短/或/貧/或/富/是/為/眾生/濁/相/命濁/者/朝/生/暮/殞/晝/出/夕/沒/波/轉/烟/迴/瞬息/不/住/是/為/命濁/相/眾生/濁多/不能/具/說/。/</ab></div>
+<div type="orig" level="2">
+<ab type="prose">/為/諸/眾生/說/是/一切/世間/難/信/之/法/。/</ab></div>
+<div type="commentary" level="2">
+<ab type="prose">/此/明/二/於/五濁/為/眾生/說/此/難/信/之/法/令/生/信/為/難/意/在/敦勉/脩證/也/。/</ab>
+<ab type="prose">/△/二/釋迦/結/難/以/況/。/</ab></div>
+<div type="orig" level="2">
+<ab type="prose">/舍利弗/當/知/我/於/五濁/惡/世/行/此/難事/得/阿耨多羅/三藐三菩提/為/一切/世間/說/此/難/信/之/法/是/為/甚/難/。/</ab></div>
+<div type="commentary" level="2">
+<ab type="prose">/孤山/云/五濁/行/難/行/而/得/菩提/其/事/已/難/復/說/此/難/信/之/法/二/事/兼/之/是/為/甚/難/大/本/云/若/聞/經/信樂/受持/難/中/之/難/無/過/此/難/靈芝/云/念/佛/法門/不/擇/愚智/不/擇/豪賤/不/論/久近/不/選/善惡/唯/取/決/誓/猛/信/臨/終/惡/相/十/念/往生/亦/是/具/縛/凡夫/屠/沽/下/類/剎那/超越/成佛/之/法/可謂/一切/世間/甚/為/難/信/也/。/</ab>
+<ab type="prose">/○/三/流/通/分/。/</ab></div>
+<div type="orig" level="2">
+<ab type="prose">/佛/說/此/經/已/舍利弗/及/諸/比丘/一切/世間/天/人/阿脩羅/等/聞/佛/所/說/歡喜/信受/作禮/而/去/。/</ab></div>
+<div type="commentary" level="2">
+<ab type="prose">/一切/世間/者/義/該/十界/別/舉/三/趣/者/以/三/善/道/多/受/化/之/機/故/也/又/以/前/列/眾/望/今/已/該/九界/雖/無/畜生/一/道/必/有/八/部/在/座/但/是/文略/以/大眾/俱/兼/之/唯/缺/地獄/眾/或/是/苦/重/乘/戒/俱/緩/不/預/法會/或/一切/之/言/兼/之/歡喜/信受/者/歡喜/則/聞法/得/利/信受/則/脩習/流通/也/。/</ab></div>
+<ab type="juan" subtype="close">/佛/說/阿彌陀經/句解/(/終/)/</ab>
+<div type="w" level="2"><head>/拔/一切/業障/根本/得/生/淨土/神呪/</head>
+<byline>/宋元/嘉年/求/那䟦陀奉/　/制/譯/</byline>
+<ab type="dharani">南無阿彌多婆夜哆(一)他伽跢(二)(音剁)夜哆地(三)(音豸)夜他阿彌唎(四)(音里)都婆毗(五)阿彌唎哆(六)悉耽婆毗(七)阿彌唎哆(八)毗迦蘭諦(九)阿彌唎哆(十)毗迦蘭哆(十一)伽彌膩(十二)伽伽那(十三)枳多迦隷(十四)莎婆訶(十五)</ab>
+<ab type="prose">/此/呪/五十九/字/十五/句/出/彌陀/不思議/神力/傳/在/養/字/函/世人/持誦/句/字/多/誤/合/依/藏/本/今/在/貞/字函/。/</ab>
+<ab type="prose">/若/有/善男子/善女人/能/誦/此/呪/者/阿彌陀佛/常住/其/頂/日夜/擁/無/令/怨家/而/得/其/便/現世/常/得/安隱/臨/命/終/時/任/運/往生/。/</ab></div>
+<div type="w" level="2"><head>/呪/字/音切/</head>
+<div type="note" level="3">
+<ab type="form">/哆/</ab>
+<ab type="prose">/(/音/掇/)/。/</ab>
+<ab type="form">/他/</ab>
+<ab type="prose">/(/逸/戈切/音柂/)/。/</ab>
+<ab type="form">/跢/</ab>
+<ab type="prose">/(/都/臥切/)/。/</ab>
+<ab type="form">/地/</ab>
+<ab type="prose">/(/宅/買切/)/。/</ab>
+<ab type="form">/枳/</ab>
+<ab type="prose">/(/音/止/)/。/</ab></div></div>
+<ab type="prose">/此/經/廼/極樂/之/易/簡/秘/書/也/自/唐/迄/宋/慈恩/基師/孤山/圓師/淨/覺/岳/師/靈芝/照師/皆/有/疏記/古崖/新師/復/有/集註/義/釋/備/矣/猶盧/道俗/未/暇/詳覽/自/惟/衰耄/去/日/非/遙/輒/取/優長/分/文句/解/與/眾/結/往生/緣/匪/獵/名/也/。/</ab>
+<ab type="prose">/至/正/元年/解/制/日/七十七/歲/苾蒭/性/澄後/敘/</ab></div>
+    </body>
+  </text>
+</TEI>

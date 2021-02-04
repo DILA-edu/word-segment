@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">CBETA電子佛典(量化分析版)</title>
+        <title type="subordinate">觀自在菩薩化身蘘麌哩曳童女銷伏毒害陀羅尼經</title>
+        <author>Dharma Drum Institute of Liberal Arts, Library and Information Center, Digital Archives Section 法鼓文理學院 圖書資訊館 數位典藏組</author>
+        <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+        <respStmt>
+          <resp>資料轉換</resp>
+          <name>周邦信</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>法鼓文理學院</publisher>
+        <address>
+          <addrLine>20842 新北市金山區法鼓路700號</addrLine>
+          <addrLine>da@dila.edu.tw</addrLine>
+        </address>
+        <date>2012-2021</date>
+        <availability>
+          <p>This document is published under a CC Attribution-Share Alike License</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title type="main">CBETA 電子佛典集成</title>
+          <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+          <pubPlace>臺灣‧臺北</pubPlace>
+          <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+          <date>2021-02-03</date>
+          <biblScope type="vol">T21</biblScope>
+          <idno type="Taisho">T21n1264a</idno>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+    
+<div type="jing" level="1">
+<ab type="juan" subtype="open">/觀自在/菩薩/化身/蘘/麌/哩/曳/童女/銷伏/毒害/陀羅尼/經/</ab>
+<byline>/開府/儀同三司/特進/試/鴻臚卿/肅國公/食邑/三千/戶/賜紫/贈/司空/諡/大鑒/正號/大廣智/大興善寺/三藏/沙門/不/空/奉/　/詔/譯/</byline>
+<ab type="prose">/如是我聞/。/一時/薄伽梵/。/住/舍衛國/祇陀園/。/與/大/苾芻/眾/千二百五十/人/俱/。/又/與/無數/菩薩/摩訶薩/。/及/天/龍/夜叉/八部/眾/等/皆/來/雲集/。/</ab>
+<ab type="prose">/爾時/如來/告/諸/大眾/。/我/念/往昔/。/住/雪山/北/遊/香醉山/。/見/一/童女/。/百/福/相好/莊嚴/其/身/。/鹿皮/為/衣/。/以/諸/毒蛇/而/為/瓔珞/。/將/諸/毒/虫/虎狼/師子/。/前後/圍遶/常/為/伴侶/。/飲/毒/菓/漿/食/毒/草/菓/。/彼/女/見/我/作/如是/言/。/仁者/聽/我/宣說/一/大/真言/。/能/除/世間/一切/諸/毒/。/若/人/聞/此/呪/及/念/我/名/者/。/不/被/一切/諸/毒/所/害/。/爾時/童女/為/我/說/呪/。/我/得/聞/已/。/常/持/此/呪/饒益/有情/。/我/今/當/說/真言/曰/。/</ab>
+<ab type="dharani">怛儞也他唵(引)壹哩蜜帝(引)底(丁壹反)哩蜜帝壹哩帝哩蜜帝(引)努迷努麼(引)哩(引)曳(引)訥泚訥蹉(引)哩曳得羯囉抳(尼貞反)嚩揭囉抳揭濕弭㘑(引)揭濕弭囉目訖帝(二合)惡祇惡伽儞惡伽娜惡伽曩伽儞壹哩曳壹哩壹哩曳阿佉夜(引)曳姶(烏合反)播夜曳濕吠帝(引)濕吠多頓嬭阿曩(引)努囉乞砂(二合)伺嚩(二合)訶</ab>
+<ab type="prose">/佛/言/諸/苾芻/。/若/人/一/聞/此/呪/。/却後/七/年/遠離/諸/毒/。/若/人/常/念/者/。/一切/毒/虫/及/諸/毒藥/悉/不能/害/。/若/有/毒蛇/來/咬/此/人/者/。/其/蛇/即/爛壞/。/其/有/受持/此/呪/法/者/。/以/白/物/先/供養/師/。/然後/受/之/法/必/成就/。/勿/於/蛇/邊/念/此/呪/。/其/蛇/即/死/死/已/令/其/甦活/呪/曰/。/</ab>
+<ab type="dharani">怛儞也他伊哩彌哩誐囉彌左斫骨嚕斫骨魯斫骨論斫骨論誐囉彌抳句吒句吒曳帝娑普吒娑普吒曳帝那揭黎那伽折迦蘭底哩壹掣囉佛沙尸怛囉卑怛囉悉普吒悉普吒伺嚩(二合)訶</ab>
+<ab type="prose">/若/人/念/一/遍/。/經年/諸/毒/不/中/。/若/能/常/持/非/言/外/毒/消滅/。/亦/除/內/三毒/。/若/惡/瘡/發/背/癰腫/等/病/。/唾/之/念/呪/即/差/。/一切/惡/獸/來/。/但/念/七/遍/即/過/不能/為/害/。/若/為/中毒/。/處/於/中/指/上/頭/第一/節/文/。/左右/手/遶/瘡/。/逆/日/轉/念/呪/三七/遍/即/差/。/常/念/不得/高聲/。/高聲/則/有/毒/虫/必/死/。/若/惡/虫/死/已/。/以/此/呪解/之/即/活/。/念/三七/遍/。/解/毒/呪/曰/。/</ab>
+<ab type="dharani">怛儞也他壹哩彌哩議哩那伽斫伽蘭底哩壹掣囉合沙鷄怛吒悉怛吒担吒悉怛吒伺嚩(二合)訶</ab>
+<ab type="prose">/若/人/患/發/背/。/逆/日/轉/遶/倒/書/一/匝/即/差/。/惡/物/自/出/大/有/神驗/。/</ab>
+<ab type="prose">/佛/說/是/語/已/。/大眾/歡喜/授/時/而/起/。/</ab>
+<ab type="juan" subtype="close">/蘘/麌/哩/曳/童女/銷伏/毒害/呪/經/</ab></div>
+    </body>
+  </text>
+</TEI>

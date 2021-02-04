@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">CBETA電子佛典(量化分析版)</title>
+        <title type="subordinate">馬鳴菩薩成就悉地念誦</title>
+        <author>Dharma Drum Institute of Liberal Arts, Library and Information Center, Digital Archives Section 法鼓文理學院 圖書資訊館 數位典藏組</author>
+        <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+        <respStmt>
+          <resp>資料轉換</resp>
+          <name>周邦信</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>法鼓文理學院</publisher>
+        <address>
+          <addrLine>20842 新北市金山區法鼓路700號</addrLine>
+          <addrLine>da@dila.edu.tw</addrLine>
+        </address>
+        <date>2012-2021</date>
+        <availability>
+          <p>This document is published under a CC Attribution-Share Alike License</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title type="main">CBETA 電子佛典集成</title>
+          <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+          <pubPlace>臺灣‧臺北</pubPlace>
+          <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+          <date>2021-02-03</date>
+          <biblScope type="vol">X02</biblScope>
+          <idno type="Taisho">X02n0206</idno>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+    <div level="1">
+<ab type="juan" subtype="open">/馬鳴/菩薩/成就/悉/地/念/誦/一/卷/(/吉備/大臣/持/來/)/</ab>
+<byline>/大興善寺/三藏/沙門/大廣智/不/空/奉/　/詔/譯/</byline>
+<div type="" level="2">
+<ab type="prose">/爾時/菩薩/白/佛/言/我/有/大/神力/極/祕密/陀羅尼/為/度脫/當來/末法/雜/染/世界/眾生/欲/說/是/神呪/佛/聽許/爾時/佛/世尊/讚/菩薩/言/善哉/善哉/汝/諸/佛/聽許/諸/菩薩/諸/天/皆悉/以/隨喜/速疾/可/說/即/菩薩/從/座/而/起/合掌/低頭/踊躍/歡喜/右/遶/佛/三/迊/退坐/一面/佛/前/即/說/大/神/呪/曰/。/</ab>
+<ab type="dharani">曩莫三曼駄沒駄喃迦嚩日羅(二合)縛多曩吽篤𧁢訖哩(二合)婆呵</ab>
+<ab type="prose">/爾時/說/妙/真言/已/三千/大千世界/六/種/震動/天/雨/曼荼羅華地/涌/出/七寶/一切/眾生/獲得/悉/地/財/綿/錦繡/金寶/種/如/山岳/世間/甚/以為/希有/若/有/在家/出家/善男/善女/受持/是/妙/真言/之/中/一/字/及/我/名/一/經/於/耳/消滅/生生世世/極/貧窮/果報/速疾/世間/出/世間/榮華/樂/具/滿足/成就/供養/三寶/及/六親/九族/乃至/一切/乞匃/給施/莫不/如意/。/</ab>
+<ab type="prose">/若/欲/受持/此/法/先/畵/菩薩/像/其/形/六/臂/又/二/腎/色/紅/蓮華/白/馬/為/座/圍遶/六/大/使者/菩薩/畫/已/從/師/傳/授/真言/先/錦繡/淨潔/衣服/乃至/妻子/眷屬/所/持/財寶/用/施與/師/我/即/歡喜/以/一切/寶/施/恩/以/七寶/若/是/誓願/不/信/為/人/不可/令/聞/不可說/假令/受/習/修/道/不/感應/斯/妙/真言/價直/無央數/佛/功德/若/發/信心/供養/恭敬/瑜伽/者/如/佛/敬/妙/句/受持/之/人/得/大/功德/如/前/所/說/若/有/國王/大臣/及/諸/小/國王/國土/萬物/枯/盡/五穀/不/豐/登/又/蠶/子/不/生/錦繡/財綿/乏/少時/年/中/三/箇/月/修行/是/法/所謂/三/月/三/日/五月/五/日/九/月/九日/種種/妙/華/散/種種/餚饍/飲食/用/供養/五穀/成就/萬/菓/豐/登/國民/皆悉/天上/人/中/所有/樂/具/滿足/其/壇/法量/二/肘/半/用/牛糞/塗/種種/名/香/和/泥/塗/賢/瓶/四/角/置/十方/毗底羅/香/燒/不/燒/是/香/不/成就/法/所/設/供具/用/至/其/信心/不/喚/菩薩/自/來/至/納受/證誠/令/滿足/施主/所/求/願/若/有/信/男/信/女/不/論/淨/不淨/日日/晨朝/時/受持/妙/真言/一百八/遍/并/菩薩/讚歎/七/遍/稱/誦/不/離/身體/世間/諸/事/報/示/又/官位/福/壽/如/意/成就/。/</ab>
+<ab type="prose">/又/印/相/說/十/指/交/絞/右/押/左腕/相/離/以/印/印/五/處/由/結/印/誦/真言/力/故/滅除/無量/罪報/厭眉/呪/咀/惡/鬼/羅剎/亡靈/魑魅/之/毒害/一切/灾/難/得/無量/福/現世/有/無量/快樂/後/生/往生/極樂/。/</ab>
+<div type="w" level="3">
+<ab type="prose">/子/細/次第/可/見/又/可/受/習/符書/大/靈驗/速疾/術/。/</ab>
+<ab type="prose">/一/校了/</ab>
+<ab type="prose">/奧/書/有/康和天/仁/大治/保/延年/號/蠧損/文字/不/分明/故/略/之/。/</ab>
+<ab type="prose">/以/高/山/寺/藏/本/寫/得/畢/</ab>
+<ab type="prose">/文化/甲子/七月/二十七/日/　/一/校了/　/　/慈順/</ab></div></div></div>
+    </body>
+  </text>
+</TEI>

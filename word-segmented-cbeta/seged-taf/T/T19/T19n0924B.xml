@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">CBETA電子佛典(量化分析版)</title>
+        <title type="subordinate">藥師如來念誦儀軌</title>
+        <author>Dharma Drum Institute of Liberal Arts, Library and Information Center, Digital Archives Section 法鼓文理學院 圖書資訊館 數位典藏組</author>
+        <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+        <respStmt>
+          <resp>資料轉換</resp>
+          <name>周邦信</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>法鼓文理學院</publisher>
+        <address>
+          <addrLine>20842 新北市金山區法鼓路700號</addrLine>
+          <addrLine>da@dila.edu.tw</addrLine>
+        </address>
+        <date>2012-2021</date>
+        <availability>
+          <p>This document is published under a CC Attribution-Share Alike License</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title type="main">CBETA 電子佛典集成</title>
+          <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+          <pubPlace>臺灣‧臺北</pubPlace>
+          <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+          <date>2021-02-03</date>
+          <biblScope type="vol">T19</biblScope>
+          <idno type="Taisho">T19n0924B</idno>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+    
+<div type="jing" level="1">
+<ab type="juan" subtype="open">/藥師/如來/念/誦/儀軌/一/卷/</ab>
+<byline>/大興善寺/三藏/沙門/大廣智/不/空/奉/　/詔/譯/</byline>
+<ab type="prose">/佛/一時/在/維那/離/音樂樹/下/。/與/三萬六千/比丘/人/俱/。/及/十二/神王/。/并/諸/眷屬/天龍八部/大神王/。/在/如是等/大眾/會/中/。/說/是/法/已/。/大眾/皆/聞/無不/歡喜/。/是/即/名為/結願/神呪/。/即/薄伽梵/說/呪/曰/。/</ab>
+<ab type="dharani">南謨薄伽筏帝鞞殺社寠嚕蔽瑠璃鉢唎婆喝囉闍耶怛他揭多怛姪他唵鞞殺逝鞞殺社三沒揭帝婆婆呵</ab>
+<ab type="prose">/若/有/受持/此/真言/。/能/拔/身/中/過去/生死/一切/重罪/。/不復/經歷/三塗/。/免/離/九/橫/超越/眾/苦/。/</ab>
+<ab type="prose">/根本/印/真言/。/以/左右/手/頭/指/以/下/八/指/。/反叉/入/於/掌/。/以/二/大/指/來去/呪/曰/。/</ab>
+<ab type="dharani">唵戰馱祇哩娑婆呵</ab>
+<ab type="prose">/次/結/護/讚/。/</ab>
+<ab type="dharani">薩縛勃馱曩薩縛爾曩(入)迦盧拏怛麼(二合平)迦訶羅(引)覩迷(存念於我)俱嚕吠女哩也(二合)入縛羅(引)怛他誐多麼訶捺耶(成就義)曩謨悉羯羅(歸命頂禮義)</ab>
+<ab type="juan" subtype="close">/藥師/如來/念/誦/儀軌/一/卷/</ab></div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">CBETA電子佛典(量化分析版)</title>
+        <title type="subordinate">續命經</title>
+        <author>Dharma Drum Institute of Liberal Arts, Library and Information Center, Digital Archives Section 法鼓文理學院 圖書資訊館 數位典藏組</author>
+        <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+        <respStmt>
+          <resp>資料轉換</resp>
+          <name>周邦信</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>法鼓文理學院</publisher>
+        <address>
+          <addrLine>20842 新北市金山區法鼓路700號</addrLine>
+          <addrLine>da@dila.edu.tw</addrLine>
+        </address>
+        <date>2012-2021</date>
+        <availability>
+          <p>This document is published under a CC Attribution-Share Alike License</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title type="main">CBETA 電子佛典集成</title>
+          <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+          <pubPlace>臺灣‧臺北</pubPlace>
+          <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+          <date>2021-02-03</date>
+          <biblScope type="vol">T85</biblScope>
+          <idno type="Taisho">T85n2889</idno>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+    
+<ab type="juan" subtype="open">/佛/說/續/命/經/</ab>
+<div type="jing" level="1">
+<ab type="prose">/南無/大慈大悲/救/苦/觀世音/。/唯/願/聖/手/摩/我/頂/。/救護/娑婆/世界/重罪/者/。/安著/涅槃/解脫/地/。/每/供養/諸/佛/。/度/一切/如影隨形/。/願/恒/受持/得/不/捨離/。/西方/阿彌陀/佛/觀世音/菩薩/得大勢至/菩薩/有/能/。/誦/此/一/佛/二/菩薩/名/者/。/離/生死/苦/永/不/入/地獄/。/恒/值/善/諸/識/。/有/疑/有/難/者/。/誦/此/經/一千/遍/即/得/解脫/。/一/願/三寶/恒/存/立/　/二/願/風雨/順/時/行/　/三/願/國王/壽萬/歲/　/四/願/邊地/無/刀丘/　/五/願/三塗/離/苦難/　/六/願/百/病/盡/消除/　/七/願/眾生/行/慈孝/　/八/願/屠人/莫/殺/生/　/九/願/牢/囚所得/脫/　/十/願/法界/普/安寧/　/眼/願/莫/見/刀/光刃/　/耳/願/不/聞/怨/殃/聲/　/口/願/不/用/為/心/語/　/手/願/不/殺/一/眾生/　/總/願/當來/值/彌勒/　/連辟/相/將/入/化/城/。/</ab>
+<ab type="juan" subtype="close">/佛/說/讀命/經/</ab></div>
+    </body>
+  </text>
+</TEI>

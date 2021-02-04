@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">CBETA電子佛典(量化分析版)</title>
+        <title type="subordinate">大金色孔雀王呪經</title>
+        <author>Dharma Drum Institute of Liberal Arts, Library and Information Center, Digital Archives Section 法鼓文理學院 圖書資訊館 數位典藏組</author>
+        <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+        <respStmt>
+          <resp>資料轉換</resp>
+          <name>周邦信</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>法鼓文理學院</publisher>
+        <address>
+          <addrLine>20842 新北市金山區法鼓路700號</addrLine>
+          <addrLine>da@dila.edu.tw</addrLine>
+        </address>
+        <date>2012-2021</date>
+        <availability>
+          <p>This document is published under a CC Attribution-Share Alike License</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title type="main">CBETA 電子佛典集成</title>
+          <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+          <pubPlace>臺灣‧臺北</pubPlace>
+          <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+          <date>2021-02-03</date>
+          <biblScope type="vol">T19</biblScope>
+          <idno type="Taisho">T19n0986</idno>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+    
+<div type="jing" level="1">
+<ab type="juan" subtype="open">/大/金色/孔雀王/呪/經/一/卷/</ab>
+<byline>/失譯/人名/今/附/秦錄/</byline>
+<ab type="prose">/佛/告/阿難/。/往昔/於/雪山/王/南/。/有/一/金色/孔雀王/。/佛/住/其中/。/彼/以/此/大/孔雀王/呪/經/。/朝說/自/護/晝/則/平安/。/暮/說/自/護/夜/則/安隱/。/即/說/呪/曰/。/</ab>
+<ab type="dharani">吼吼吼吼吼吼吼吼吼吼梨梨梨梨曇婆梨梨梨毘摩梨梨暉夜暉夜毘闍毘闍瑜𡾄求漏伊羅　彌羅　伊利彌羅　知梨彌羅　伊梨彌帝梨　醯利知利　彌帝黎　曇德修曇德妬修妬　衢羅支羅　遮娑羅　毘羅遮伊知梨　毘知梨知梨</ab>
+<ab type="prose">/阿難/我/今/為/汝/。/說/大/孔雀王/呪王/心/。/即/說/呪/曰/。/</ab>
+<ab type="dharani">伊致　知利　畢利　彌利　彌利　知弭　𡾄曇柄　耽柄　脂利吉　脂利吉賜夜毘羅那彌稚　南無一切諸佛指吉賜　波多牟黎　伊致訶羅　盧醯帶　牟羅帶牟羅兜娑菴婆　鳩致鳩那致　鳩鳩那知羅鳩闍那致　阿茶婆多夜　那婆魔娑陀賒魔賜帝　伊利彌利　吉利彌利　翅羅羅彌　離翅斗牟隸　頭頭摩薩頭彌緻　他離彌薩斗婆帝　牟薩帝　浮薩羅　浮薩羅　浮薩羅　浮薩羅　伊那婆悉哆婆翅　那迦羅　那羅摩林彌　蝎羅　佉羅　摩詰隸　伊帝薩闍隸耽億　阿那帝波那帝阿那那那帝</ab>
+<ab type="prose">/天/速/降/雨/　/周匝/結界/七/遍/讀誦/。/即/說/呪/曰/。/</ab>
+<ab type="dharani">那羅延波那延　阿梨多利　鳩多利伊利彌悉帝　吉帝利　彌悉帝　彌悉伊利彌呪曰成就吉</ab>
+<ab type="prose">/阿難/此/大/孔雀/呪/王/。/彌勒/菩薩/隨順/所/說/。/即/說/呪/曰/。/</ab>
+<ab type="dharani">尸利　尸利　尸利　尸利　婆陀　樹樹　知婆帝隸　訶隸訶隸　訶利膩檀帝　賒婆隸尸德　收羅婆膩　收羅婆膩　菩提　菩提　菩提　菩提　菩提　薩斗婆　菩提婆利　遮羅尼裔　悉波訶</ab>
+<ab type="prose">/阿難/此/大/孔雀/呪/王/。/娑婆/世界/主/梵天王/隨順/所/說/。/即/說/呪/曰/。/</ab>
+<ab type="dharani">醯隸　醯隸　訶隸　彌利　摩利膩　波居利　吉利　吉利　吉利　吉利底　梵魔裔　鳩蘭茶翅　毘圖訶　浮賜　浮數　浮數　浮數　浮數　浮數　悉波訶</ab>
+<ab type="prose">/阿難/是/大/孔雀/呪/王/。/天帝釋/隨順/所/說/。/即/說/呪/曰/。/</ab>
+<ab type="dharani">陀羅　禪頭隸　摩羅　禪兜隸　遮𭝰致禪頭兜隸　摩他膩　迦多膩　伽婆膩　醯利　尸利稠底　尸利多柳　那肆　訶訶訶訶訶訶　私醯　脂底　毘絺帝　鳩柳婆羅誓　兜吒兜吒肆　波吒　波吒肆　私利私利　劫卑隸劫卑羅　至隸　訶醯吼</ab>
+<ab type="prose">/令/一切/凶惡/皆悉/降伏/攝/其/手足/支節/莫/令/得/動/乃至/三十三天/。/</ab>
+<ab type="dharani">憂致者利　修羅波帝　波帝　波視羅　波視羅　波視羅　波視羅　波視羅　波視羅　波帝　悉婆訶</ab>
+<ab type="prose">/阿難/汝/受/是/先/出/神仙/名號/。/終/吉/成就/志念/成就/呪術/成就/常/修/苦行/住止/山林/。/勢力/自在/感變/速疾/。/五通/如意/遊步/虛空/。/吾/今/說/其/名號/。/所謂/名/八/脫/大仙/名/左大仙/。/左/天/大仙/波梨/大仙/。/日/施/大仙/善/及/大仙/。/覆/住/大仙/迦葉/大仙/。/老/迦葉/大仙/皺/眉/大仙/。/支山/大仙/分樂/大仙/。/名/是/大仙/名/前/大仙/。/鹿/頭/大/仙闍羅/大仙/。/二/熟/大仙/黑/二/熟/大仙/。/採/清/大仙/乎/山/大仙/。/忍辱/大仙/名稱/大仙/。/名/師子/大仙/名/舡/大仙/。/名/鴿/大仙/名/馬大仙/。/名/雪/大仙/赤目/大仙/。/難事/大仙/毘若波耶/大仙/名/鎧/大仙/。/名/秋/大仙/。/太白/大仙/名/歲/大仙/。/無諍/大仙/諍夜/步/大仙/。/名/覺/大仙/縛/指/火/大仙/。/持/香/大仙/一/角/大仙/。/仙角/大仙/揭瞿/大仙/。/單茶耶那/大仙/名/頭/大仙/。/分界/大仙/劫/畢羅/大仙/。/瞿曇/大仙/赤馬/大仙/毛聚/大仙/無/樂/大仙/。/吉膩盧/大仙/。/阿難/斯等/是/先/出/大仙/。/造/四/圍陀/所/為/如意/。/苦行/嚴迅/有/大/威勢/。/所/作/悉/辦/。/斯等/亦/以/此/大/孔雀王/呪/經/。/擁護/某甲/令/受/百/歲/得/見/百/秋/。/即/說/呪/曰/。/</ab>
+<ab type="dharani">訶利　訶利　訶利　絺利　彌利　修利　修利　醯利　醯利　彌利　彌利　陀覆陀茶覆伽婆膩　摩他膩　他訶膩　陀訶膩簸遮膩　簸遮膩　簸多膩阿那膩　他羅　遮羅遮羅膩　簸吒膩　摸訶膩　擔婆膩　閻婆膩　悉波訶</ab>
+<ab type="prose">/四天王/及/諸/大/鬼神王/。/亦/以/孔雀/呪/王/。/擁護/某甲/令/壽/百/歲/得/見/百/耿/。/即/說/呪/曰/。/</ab>
+<ab type="dharani">何迦帝(都界反)毘迦帝　㗴羅膩　㗴羅膩　阿羅尼　吼翅吼翅　負翅負翅　訶奈訶奈訶奈訶奈訶奈訶奈訶奈訶奈訶奈</ab>
+<ab type="prose">/除/其/怨家/。/</ab>
+<ab type="dharani">陀訶(𡃙留反)陀訶陀訶陀訶陀訶陀訶陀訶陀訶陀訶陀訶</ab>
+<ab type="prose">/其/有/向/某/生/惡/念/者/皆悉/治/之/。/</ab>
+<ab type="dharani">鉢柘鉢柘鉢柘鉢柘鉢柘鉢柘鉢柘鉢柘鉢柘鉢柘</ab>
+<ab type="prose">/若/有/向/某/伺/求/便/者/皆/治/之/。/</ab>
+<ab type="dharani">豆豆豆豆豆豆豆　滅某怨惡</ab>
+<ab type="dharani">訶訶訶訶訶訶訶訶　闍帝(都界反)闍帝　闍帝闍帝　闍帝　闍帝　闍帝　闍帝　闍帝　滅其怨惡</ab>
+<ab type="dharani">周婁　周婁　周婁　周婁　周婁　周婁周婁　周婁　周婁　周婁　醯利　醯利　醯利　醯利　醯利　醯利　醯利　醯利　醯利　醯利　彌利　彌利　彌利　彌利　彌利　彌利　彌利　彌利　彌利　彌利　睺漏　睺漏　睺漏　睺漏　睺漏　睺漏　睺漏　睺漏　睺漏　睺漏　脂致　脂致　脂致　脂致　脂致　脂致　脂致　脂致　脂致　脂致　醯翅　醯翅　支翅　魔翅</ab>
+<ab type="prose">/得/賢/吉祥/　/普賢/成/一切/事/　/無垢/　/淨妙/　/月/賢/　/日/愛/　/曇德/杜/　/曇德/　/毘蠅/(/姚/登/反/)/　/加隸/　/擁護/某甲/令/得/壽/百/歲/得/見/百/秋/　/摩尼羅亶/經/　/摩訶乾陀/比丘/　/救/病/苦厄/孔雀王/呪/　/除/其/怨家/</ab>
+<ab type="juan" subtype="close">/大/金色/孔雀王/呪/經/一/卷/</ab></div>
+    </body>
+  </text>
+</TEI>

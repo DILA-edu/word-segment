@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">CBETA電子佛典(量化分析版)</title>
+        <title type="subordinate">文殊菩薩獻佛陀羅尼名烏蘇吒</title>
+        <author>Dharma Drum Institute of Liberal Arts, Library and Information Center, Digital Archives Section 法鼓文理學院 圖書資訊館 數位典藏組</author>
+        <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+        <respStmt>
+          <resp>資料轉換</resp>
+          <name>周邦信</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>法鼓文理學院</publisher>
+        <address>
+          <addrLine>20842 新北市金山區法鼓路700號</addrLine>
+          <addrLine>da@dila.edu.tw</addrLine>
+        </address>
+        <date>2012-2021</date>
+        <availability>
+          <p>This document is published under a CC Attribution-Share Alike License</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title type="main">CBETA 電子佛典集成</title>
+          <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+          <pubPlace>臺灣‧臺北</pubPlace>
+          <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+          <date>2021-02-03</date>
+          <biblScope type="vol">T20</biblScope>
+          <idno type="Taisho">T20n1178</idno>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+    
+<ab type="juan" subtype="open">/文殊/菩薩/獻/佛/陀羅尼/名/烏蘇吒/(/此/云/滅/婬慾/却/我慢/)/</ab>
+<div type="jing" level="1">
+<ab type="prose">/時/佛/勅/阿難/。/為/未來/沒/苦/眾生/。/廣/宣/流布/。/時/文殊/菩薩/先/說/偈言/。/</ab>
+<ab type="verse">/一切/眾生/類/　/迴/沒/婬/鬼/界/
+/無/能/覺/之/者/　/唯/我/能/救拔/
+/永/斷/生死/本/　/普/處/寂滅/樂/
+</ab>
+<ab type="prose">/即/說/陀羅尼/曰/。/</ab>
+<ab type="dharani">句利句利帝那憂拙憂拙帝那度呼度呼帝那究吒究吒帝那若蜜都若蜜都帝那究吒呼究吒呼帝那憂守憂守帝那耶蜜若耶蜜若帝那度呼吒究吒多薩嚩(二合)訶</ab>
+<ab type="prose">/右/誦/呪/三/遍/。/結/縷/作/七/結/繫/脚/。/是/呪/能/令/諸/失/心/者/。/還/得/正念/。/滅/婬/慾/火/除/我慢/結/。/三毒/垢/盡/自然/清涼/。/若/有/精神/。/沈在/無明/重/淵/之/下/。/久溺/生死/不得/出要/。/嗚呼/深/可/傷/。/若/人/心/得/醒悟/極/自/厭污/。/此/是/凡夫/愚/下/鬼神/畜生/之/所/行/處/。/非/梵行/所/宜/。/非/聖人/所/願/。/如此/之/人/方/可/受/與/此/陀羅尼/。/勿/傳/矯/俗/疑/謗/少/信/。/縱/持/無/驗/即/轉/退墮/。/若/至誠/誦/者/慾火/漸/盡/。/結使/滅/已/心/得/解脫/。/心解脫/已/則/得/道果/。/是/則/神力/功用/誠諦/不/虛/。/行/此/法/者/斷/酒/五/辛血/食/。/男子/唯/用/九/九/八十一日/。/女子/唯/用/七七/四十九/日/。/晝夜/六/時/勤/心/讀誦/。/燒/沈水/白/檀香/散/花/。/供養/十方/諸/佛/。/晝/三/夜/三/慎/勿/廢忘/。/日/數/未滿/餘/時/之/中/。/獨/處/山窟/精舍/。/若/聚落/(/即/淨/室/)/四向/遠/人/。/當/深/生/欣躍/自/發/慶幸/。/今/我/遭遇/大聖/神力/。/此/身/宜/至/佛身/。/不/懼/淪溺/。/如是/淨心/念念/信向/。/斷/諸/惡/作/轉/雜/言論/離間/之/語/。/不/念/名利/。/如是/日/數/足/已/。/決定/解脫/其/心/泰然/無/復/欲/慢/。/</ab></div>
+    </body>
+  </text>
+</TEI>

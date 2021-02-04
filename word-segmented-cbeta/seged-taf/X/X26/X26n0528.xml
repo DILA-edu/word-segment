@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">CBETA電子佛典(量化分析版)</title>
+        <title type="subordinate">般若心經略疏</title>
+        <author>Dharma Drum Institute of Liberal Arts, Library and Information Center, Digital Archives Section 法鼓文理學院 圖書資訊館 數位典藏組</author>
+        <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+        <respStmt>
+          <resp>資料轉換</resp>
+          <name>周邦信</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>法鼓文理學院</publisher>
+        <address>
+          <addrLine>20842 新北市金山區法鼓路700號</addrLine>
+          <addrLine>da@dila.edu.tw</addrLine>
+        </address>
+        <date>2012-2021</date>
+        <availability>
+          <p>This document is published under a CC Attribution-Share Alike License</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title type="main">CBETA 電子佛典集成</title>
+          <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+          <pubPlace>臺灣‧臺北</pubPlace>
+          <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+          <date>2021-02-03</date>
+          <biblScope type="vol">X26</biblScope>
+          <idno type="Taisho">X26n0528</idno>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+    <div level="1">
+<ab type="juan" subtype="open">/般若心/經疏/</ab>
+<byline>/妙樂/門/人/　/明曠/　/述/</byline>
+<ab type="prose">/夫/以/佛法/非/遙/心/中/即/近/真如/非/外/棄/身/何/求/迷悟/在/我/發心/即/到/明闇/非/他/信/修/急/證/不/訪/醫王/之/藥/何/時/見/大/日/之/光/今/為/念/誦/觀/行/之/緣/略/註/如/右/廣/釋/歷/劫/不/窮/。/</ab>
+<div type="orig" level="2">
+<ab type="prose">/摩訶/般若波羅蜜多心/經/者/。/</ab></div>
+<div type="commentary" level="2">
+<ab type="prose">/就/此/題略/有/二/別/梵漢/語/別/故/摩訶/般若波羅蜜多/者/梵/語/也/心/經/者/漢/語/也/若/具/存/梵語/者/可/言/摩訶/般若波羅蜜多質多蘇他覽/若/偏/存/漢/語/者/可/言/大/智慧/到/彼岸/心/經/言/摩訶/者/依/大/智度/論/有/三/種/義/謂/大/多/勝/也/天/台/大師/言/大/者/空/義/多/者/假/義/勝/者/中/義/也/即是/圓融/三/諦/真如/實相/之/理/是/即/所/觀/之/理/也/言/般若/者/能/觀/之/智/也/即是/三/種/般若/也/三/種/般若/者/實相/般若/觀/照/般若/文字/般若/也/實相/般若/者/觀/中/道理/之/智/也/觀/照/般若/者/觀/空/諦/理/之/智/也/言/文字/般若/者/觀/假/諦/理/之/智/也/因/時/名/三/智/也/言/三/觀/者/謂/空/假/中/觀/也/言/三/智者/一切智/道種智/一切種智/也/言/波羅蜜多/者/到/彼岸/之/義/也/煩惱/與/生死/云/此/岸/菩提/與/涅槃/云/彼岸/也/悟/煩惱/即/菩提/生死/即/涅槃/名/彼岸/迷/菩提/念/煩惱/迷/涅槃/念/生死/名/此岸/言/心/者/要/妙心/也/即/上/所/談/圓融/三/諦/理/也/經/者/說/上/諸/義/教/也/訓法/訓/常/也/言/法/者/軌/則/義/也/三世/諸/佛/師/依/之/成佛/故/言/常/者/三世/諸/佛/各/至/出世/說/而/元/常/無/易/改/故/。/</ab></div>
+<div type="orig" level="2">
+<ab type="prose">/觀自在/菩薩/者/。/</ab></div>
+<div type="commentary" level="2">
+<ab type="prose">/能/觀/之/人/舉/觀自在/菩薩/一/人/以/兼/一切/行人/也/。/</ab></div>
+<div type="orig" level="2">
+<ab type="prose">/行/深/般若波羅蜜多/時/者/。/</ab></div>
+<div type="commentary" level="2">
+<ab type="prose">/明/所/觀/之/理/也/即/上/所/明/圓融/三/諦/理/也/。/</ab></div>
+<div type="orig" level="2">
+<ab type="prose">/照見/五蘊/皆/空/者/。/</ab></div>
+<div type="commentary" level="2">
+<ab type="prose">/明/所/觀/之/五蘊/也/。/</ab></div>
+<div type="orig" level="2">
+<ab type="prose">/度/一切/苦厄/者/。/</ab></div>
+<div type="commentary" level="2">
+<ab type="prose">/明/觀/五蘊/皆/空/而/免/一切/苦厄/也/苦/者/八/苦/也/生/苦/老/苦/病/苦/死/苦/愛/別離/苦/怨憎/會/苦/求/不/得/苦/五盛陰/苦/也/言/四/厄/者/一/欲/厄/二/有/厄/三/見/厄/四/無明/流厄/也/。/</ab></div>
+<div type="orig" level="2">
+<ab type="prose">/舍利子/者/。/</ab></div>
+<div type="commentary" level="2">
+<ab type="prose">/舉/對/揚/人/也/。/</ab></div>
+<div type="orig" level="2">
+<ab type="prose">/色/不/異/空/空/不/異/色色/即是/空空/即是/色/者/。/</ab></div>
+<div type="commentary" level="2">
+<ab type="prose">/明/圓融/三/諦/理/也/色/即是/空/非/滅/色/為/空/也/空/即是/色/非/離/空/是/色/也/是/云/中/諦/理/是/云/即/空/即/假/即/中/也/。/</ab></div>
+<div type="orig" level="2">
+<ab type="prose">/受/想/行/識/亦復/如是/者/。/</ab></div>
+<div type="commentary" level="2">
+<ab type="prose">/謂/准/上/色蘊/可/知/也/此/五/蘊/中/初/色蘊/者/身/也/餘/四/蘊/者/心/也/言/色/者/有/形/質礙/法/也/言/心/者/無/形/無礙/法/也/云/色/而/心/色/與/心/無/二/法/何者/心/不/在/內外/非/中間/遍/一切/處/猶如/虗/空/故/。/</ab></div>
+<div type="orig" level="2">
+<ab type="prose">/舍利子/者/。/</ab></div>
+<div type="commentary" level="2">
+<ab type="prose">/上/舉/對/揚/人/也/。/</ab></div>
+<div type="orig" level="2">
+<ab type="prose">/是/諸/法/空相/不/生/不/滅/不/垢/不淨/不/增/不/減/者/。/</ab></div>
+<div type="commentary" level="2">
+<ab type="prose">/何者/心性/自性/清淨/空寂/而/具足/百界/三千/諸/法/也/自性/空寂/者/空/諦/理/也/雖/性/寂/而/具足/百界/三千/法/者/假/諦/理/也/不/空/不/假/不可思議/者/中/諦/理/也/此/三/諦/理/者/在/佛/不淨/存/凡/不/垢/在/佛/不/生/在/凡/不/滅/在/佛/不/增/在/凡/不/減/。/</ab></div>
+<div type="orig" level="2">
+<ab type="prose">/是故/空/中/無/色/無/受/想/行/識/者/。/</ab></div>
+<div type="commentary" level="2">
+<ab type="prose">/結/上/五蘊/義/也/已/上/五蘊/為/上根/人/所/說/也/。/</ab></div>
+<div type="orig" level="2">
+<ab type="prose">/無/眼/耳/鼻/舌/身/意/者/。/</ab></div>
+<div type="commentary" level="2">
+<ab type="prose">/明/無/內/六根/也/。/</ab></div>
+<div type="orig" level="2">
+<ab type="prose">/無/色/聲/香/味/觸/法/者/。/</ab></div>
+<div type="commentary" level="2">
+<ab type="prose">/明/無/外/六塵/也/是/空/十二入/也/言/入/者/涉/入/義/也/謂/六根/涉/入/六塵/也/眼/所/對/色/有/三/種/也/謂/可愛/色/不/可愛/色/平/平色/也/耳/所/對/聲/亦/有/三/種/聲/也/謂/可愛/聲/不可/愛/聲/平/平聲/鼻/所/對/香/有/三/種/香/也/謂/可愛/香/不可/愛/香/平平/香/也/舌/所/對/味/亦/有/三/種/味/也/謂/可愛/味/不/可愛/味/平/平味/也/身/所/對/觸/亦/有/三/種/觸/謂/可愛/觸/不/可愛/觸/平/平觸/也/意/所/對/法/亦/有/三/種/法/謂/可愛法/不可/愛/法/平平/法/也/眼/可愛/色/具/生死/因/生死/果/苦諦/集諦/同/也/然則/眼根/具/六/煩惱/餘/五根/亦/如是/六根/都/合/有/三十六/煩惱/也/約/三世/都/合/百八/煩惱/也/約/昨/今/明/都/合/亦/為/百八/亦/約/前/念/中/念/後/念/都/合/為/百八/也/約惑/心/生/如是/百八/煩惱/約悟/心/亦/具/百八/三昧/何/者/觀/根塵/相/對/念/心/即/空/即/假/即/中/時/具/滅/道諦/也/道諦/涅槃/因/滅諦/涅槃/果/也/已/上/為/中根/說/也/。/</ab></div>
+<div type="orig" level="2">
+<ab type="prose">/無/眼界/乃至/無/意識界/者/。/</ab></div>
+<div type="commentary" level="2">
+<ab type="prose">/明/無/十八界/略/舉/初/後/也/若/細/言/者/眼界/色界/眼識界/耳界/聲界/耳識界/鼻界/香界/鼻識界/舌界/味界/舌識界/身界/觸界/身識界/意界/法界/意識界/也/界/者/差別/義/也/六根/六境/六識/合為/十八界/也/已/上/為/下/根/說/也/。/</ab></div>
+<div type="orig" level="2">
+<ab type="prose">/無/無明/亦/無/無明/盡/乃至/無/老/死/亦/無/老/死/盡/者/。/</ab></div>
+<div type="commentary" level="2">
+<ab type="prose">/明順/逆/十二因緣/也/言/順/十二因緣/者/謂/無明/緣/行/行/緣/識/識/緣/名色/名色/緣/六入/六入/緣/觸/觸/緣/受/受/緣/愛/愛/緣/取/取/緣/有/有/緣/生生/緣/老/死/憂悲/苦惱/也/逆/十二因緣/者/無明/滅/則/行/滅/行/滅/則/識/滅/識/滅/則/名色/滅/名色/滅/則/六入/滅/六入/滅/則/觸/滅/觸/滅/則/受/滅/受/滅/則/愛/滅/愛/滅/則/取/滅/取/滅/則/有/滅/有/滅/則/生/滅/生/滅/則/老/死/憂悲/苦惱/滅/也/約/十二因緣/有/四/種/十二因緣/謂/生滅/十二因緣/無/生滅/十二因緣/無量/十二因緣/無/作/十二因緣/也/即/四/教/所/詮理/也/生滅/十二因緣/者/三藏/教/為/下/根/聲聞/所/詮/也/無/生滅/十二因緣/者/通/教/為/中根/緣覺/所/詮/也/無量/十二因緣/者/別/教/為/上根/菩薩/所/詮/也/無/作/十二因緣/者/圓教/為/上/上根/菩薩/所/詮/也/是/十二因/分/為/三道/謂/無明/愛/取/三/支/煩惱/道行/有/二/支業/道/也/餘/七/支/苦/道/也/苦/道/轉/成/法身/德/煩惱/道/轉/成/般若/德/業道/轉/成/解脫/德/也/三/道/亦/名/三障/即/報/障/煩惱障/業障/也/。/</ab></div>
+<div type="orig" level="2">
+<ab type="prose">/無/苦/集/滅/道/者/。/</ab></div>
+<div type="commentary" level="2">
+<ab type="prose">/明/四諦/也/即/明/生死/涅槃/因果/也/苦諦/生死/果/集諦/生死/因/也/滅諦/涅槃/果/道諦/涅槃/因/也/問/何故/先/舉/果/後/舉/因/也/答/見/果/知/因/故/約/此/四諦/亦/有/四/種/謂/生滅/四諦/無/生滅/四諦/無量/四諦/無/作/四諦/也/亦/是/四/教/四諦/也/。/</ab></div>
+<div type="orig" level="2">
+<ab type="prose">/無/智/者/。/</ab></div>
+<div type="commentary" level="2">
+<ab type="prose">/無/菩提/。/</ab></div>
+<div type="orig" level="2">
+<ab type="prose">/亦/無/得/者/。/</ab></div>
+<div type="commentary" level="2">
+<ab type="prose">/謂/無/涅槃/也/純一/實相/實相/外/無/別/法/故/。/</ab></div>
+<div type="orig" level="2">
+<ab type="prose">/以/無所得/故/菩提薩埵/依/般若波羅蜜多/故/心/無/罣礙/者/。/</ab></div>
+<div type="commentary" level="2">
+<ab type="prose">/明/一切/菩薩/依/般若/。/</ab></div>
+<div type="orig" level="2">
+<ab type="prose">/無/罣礙/故/無有/恐怖/遠離/一切/顛倒/夢想/究竟涅槃/者/。/</ab></div>
+<div type="commentary" level="2">
+<ab type="prose">/明/得/益/也/。/</ab></div>
+<div type="orig" level="2">
+<ab type="prose">/三世/諸/佛/依/般若波羅蜜多/故/得/阿耨多羅/三藐三菩提/故/知/般若波羅蜜多/是/大/神/呪/是/大/明/呪/是/無上/呪/是/無等等/呪/者/。/</ab></div>
+<div type="commentary" level="2">
+<ab type="prose">/明/四/教/理/也/是/大/神/呪/者/三藏/教/生滅/四諦/理/也/是/大/明/呪/者/是/通/教/無/生滅/四諦/理/也/是/無上/呪/者/別/教/無量/四諦/理/也/是/無等等/呪/者/是/圓教/無/作/四/諦/理/也/。/</ab></div>
+<div type="orig" level="2">
+<ab type="prose">/能/除/一切/苦/真實/不/虗/者/。/</ab></div>
+<div type="commentary" level="2">
+<ab type="prose">/明/拔/苦/與/樂/之/真實/理/也/已/上/明/顯露/般若/也/。/</ab></div>
+<div type="orig" level="2">
+<ab type="prose">/故/說/般若波羅蜜多/呪/即/說/呪/曰/。/</ab>
+<ab type="dharani">揭諦揭諦波羅揭諦波羅僧揭諦菩提娑婆訶</ab></div>
+<div type="commentary" level="2">
+<ab type="prose">/已/上/明/祕密/般若/也/揭/諦/揭/諦/者/世/也/度/也/是/明/自/度/也/波羅/揭/諦/者/明度/他/波羅僧/揭諦/者/總/明/自/度/度/他/也/菩提/者/明/自/他/共/到/所/處/也/娑婆訶/者/明/究竟/是/中/有/事/究竟/理/究竟/也/(/云/云/)/。/</ab></div>
+<ab type="juan" subtype="close">/心/經疏/(/終/)/</ab>
+<div type="xu" level="2"><head>/No/./528/-/A/</head>
+<ab type="prose">/智者/大師/內/證/秘密/外/說/顯/教/矣/荊溪/一/行/互相/師資/授/受/圓密/焉/于/茲/剡川/入/荊溪/門/出/心/經疏/也/照/大/日/慧/光明/觀音/深行/辨顯/辨密/盡/美/盡/善/也/山/家/建/兩/業/之/頃/將/來/此/疏/以/顯/傳/東/寺/弘/三密/之/日/引/證/斯/序/製/秘/鍵然/則/觀/遮學/生/台/東/宗徒/不可/不/依/之/不可/不/學/焉/仰/願/佛日/增耀/正法/久住/度/四海/萬民/之/苦厄/到/摩訶/般若/之/樂/岸/云/爾/。/</ab>
+<ab type="prose">/維弘/化/二/年/夷/則/八/日/刻/於/勢州/奄藝/郡/林/村/閑翁寺/住/僧/義/滿/謹識/</ab></div></div>
+    </body>
+  </text>
+</TEI>

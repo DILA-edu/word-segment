@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">CBETA電子佛典(量化分析版)</title>
+        <title type="subordinate">道俗九十人造像記</title>
+        <author>Dharma Drum Institute of Liberal Arts, Library and Information Center, Digital Archives Section 法鼓文理學院 圖書資訊館 數位典藏組</author>
+        <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+        <respStmt>
+          <resp>資料轉換</resp>
+          <name>周邦信</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>法鼓文理學院</publisher>
+        <address>
+          <addrLine>20842 新北市金山區法鼓路700號</addrLine>
+          <addrLine>da@dila.edu.tw</addrLine>
+        </address>
+        <date>2012-2021</date>
+        <availability>
+          <p>This document is published under a CC Attribution-Share Alike License</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title type="main">CBETA 電子佛典集成</title>
+          <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+          <pubPlace>臺灣‧臺北</pubPlace>
+          <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+          <date>2021-02-03</date>
+          <biblScope type="vol">I01</biblScope>
+          <idno type="Taisho">I01n0045</idno>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+    <div level="1">
+<div type="" level="2">
+<ab type="juan" subtype="open">/道俗/九十/人/造像/記/</ab><head>/之/一/　/碑陰/</head>
+<div type="" level="3">
+<ab type="prose">/太子/得道/諸/天/送/刀/与/太子/剔/定光/佛/入/國/菩□/□薩/花/時/如/童/菩薩/賚/銀錢/与/王/女/買/花/</ab></div>
+<div type="" level="3">
+<ab type="prose">/摩耶/夫人/生/太子/九/龍/吐/水/洗/想/師/瞻□/太子/得/想/時/黃/羊/生/黃羔/白/馬/生/白/駒/此/婆羅門/婦/即/生/恨心/要/婆羅門/乞/好/奴婢/逑/去/時/三/年少/義/婆羅門/婦/時/</ab></div>
+<div type="" level="3">
+<ab type="prose">/五百/夫人/皆/送/太子/向/檀毒/山/辞/去/時/隨/太子/乞/馬/時/婆羅門/乞/得/馬/時/太子/值/大水/得/度/時/</ab></div>
+<div type="" level="3">
+<ab type="prose">/開/光明/主/宋/憍文侍/佛/時/　/邑/母/解/叔/姬/侍/佛/時/夫/妙/色/湛然/。/假/朱/紫/以/顯/其/真/。/法性/无/為/。/託/形/言/而/標/至/德/。/自/非/洞/解/虛宗/。/焉/能/悟/斯/玄/猷/者/哉/。/有/清信士/合/道俗/九十/人/等/。/發心/超猛/。/志/樂/菩提/。/造/石/像/一/區/。/舉/高/七/尺/。/咸/竭/瓊/珵/。/鎸/餝/周/訖/。/綺麗/金顏/。/暉/暎楞伽/。/兾藉/此/微/因/。/廣/被/群/品/。/願/慧/海/漣/漪/。/四流/息/浪/。/鐵圍/无垢/。/娑婆玉/淨/。/帝/道/熙明/。/普/光/訓世/。/存亡/眷屬/。/并及/塵沙/。/龍/華/初/唱/。/俱昇/正覺/。/　/讚/曰/。/法身/无傷/。/至道/難/名/。/自/非/覺/者/。/孰/悟/玄/經/。/鑄/金/圓狀/。/鎸玉/摸/靈/。/刊/石/樹/德/。/永/振/休/聲/。/大魏/武定/元年/歲次/癸亥/七月/巳丑/朔廿/七/日/乙/卯/建/比丘/法/各/侍/佛/時/比丘/道/進/侍/佛/時/</ab></div>
+<div type="" level="3">
+<ab type="prose">/邑/子/懷州/西面/都督/長史/路/軌/定光/佛/主/前/部/郡/從事/路/達/侍/佛/都/唯/那/法/萇/侍/佛/時/邑/師法/振/侍/佛/時/邑/主/都/維那/法/猛/侍/佛/時/都/維那/法/儁/侍/佛/時/比丘/法/□/侍/佛/時/比丘/曇智/侍/佛/時/比丘/僧/珍/佛/時/</ab></div></div>
+<div type="" level="2"><head>/之/二/　/碑側/</head>
+<div type="" level="3">
+<ab type="prose">/邑/子/前/大/郡主/簿/路/惠/顯/侍/佛/　/邑/子/釗/壽/侍/佛/時/　/邑/子/張薩和侍/佛/時/　/邑/母/太室/充侍/佛/時/　/邑/母/張/好/侍/佛/時/　/　/邑/母/王/女/貴/侍/佛/時/邑/子/路/涅侍/佛/時/　/　/　/　/　/　/邑/子衛/清侍/佛/時/　/邑子/張達/侍/佛/時/　/　/邑/母史/男容/侍/佛/時/　/邑/母/王/阿駒/侍/佛/時/　/邑/母/路/堂/姬/侍/佛/時/邑子/李廣侍/佛/　/　/　/　/　/　/　/邑/子/程/桃/棒/侍/佛/　/邑/子/雷/買/德/侍/佛/時/　/邑/母/潘/英/仁/侍/佛/時/　/邑/母/苟/妙/姜/侍/佛/時/　/邑/母/張/要/姿/侍/佛/時/</ab></div></div>
+<div type="" level="2"><head>/之/三/　/碑側/</head>
+<div type="" level="3">
+<ab type="prose">/邑子/符求/興/侍/佛/時/　/邑/子/路/慶/洛/侍/佛/時/　/　/　/　/　/　/　/　/　/　/邑/子/路/阿松侍/佛/　/　/邑/子/閭/□/□/侍□/□邑/子/王/承/伯侍/佛/時/　/邑/子/路/儀/遵侍/佛/時/　/邑/子/路/恒/伯/侍/佛/時/　/　/　/　/　/　/　/　/　/　/邑/子/□/□/□/侍□/□邑/子/路/儀和/侍/佛/時/　/邑/子/路/清頭/侍/佛/時/　/邑/子/路/道意/侍/佛/時/　/邑/子/路/孟/禮/侍/佛/時/　/邑/子/□/□/□/侍/□/□/</ab></div></div></div>
+    </body>
+  </text>
+</TEI>

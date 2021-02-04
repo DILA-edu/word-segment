@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">CBETA電子佛典(量化分析版)</title>
+        <title type="subordinate">高伏德等三百人造像記</title>
+        <author>Dharma Drum Institute of Liberal Arts, Library and Information Center, Digital Archives Section 法鼓文理學院 圖書資訊館 數位典藏組</author>
+        <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+        <respStmt>
+          <resp>資料轉換</resp>
+          <name>周邦信</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>法鼓文理學院</publisher>
+        <address>
+          <addrLine>20842 新北市金山區法鼓路700號</addrLine>
+          <addrLine>da@dila.edu.tw</addrLine>
+        </address>
+        <date>2012-2021</date>
+        <availability>
+          <p>This document is published under a CC Attribution-Share Alike License</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title type="main">CBETA 電子佛典集成</title>
+          <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+          <pubPlace>臺灣‧臺北</pubPlace>
+          <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+          <date>2021-02-03</date>
+          <biblScope type="vol">I01</biblScope>
+          <idno type="Taisho">I01n0006</idno>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+    <div level="1">
+<div type="" level="2">
+<ab type="juan" subtype="open">/高伏/德/等/三百/人/造像/記/</ab><head>/之/一/　/碑陰/</head>
+<div type="" level="3">
+<ab type="prose">/　/　/　/大魏/　/　/　/國/景明/四年/太歲/在/癸/未/四/月/癸/未/朔/二/日/幽州/范陽郡/涿縣/當/陌/村/高/伏/德/像/主/唯/那/劉雄/合/三百/人/為/皇帝/陛下/　/造/石/像/一/區/　/　/　/　/　/記/</ab></div>
+<div type="" level="3">
+<ab type="prose">/高/才/高/啟/高都/　/高/倭/仁/高曇/助/高/天/念/高/神/龍/高/郡/生/　/高/　/保/高/權/高/伏/連/高/道/豐/高/煙/歲/高/普慈/高/市/鑒/高/僧/德/高/雙/居/高衍/高騾/高溫/高寅/業/高舍/我/高/德/祖/高/醜/高/神/虎/高/鄰/居/高/僧/恭/高/善/明/高/僧/愛/高伏/助/高/阿次/高/道暢/高解/愁高/同/利/高/副孫/高次/文高/伯端/高/同/高/樹/高/僧/次/高/永/受/高/保/孫/高/琛/高/天/護/高延/興史/寄/王/高/買/虎/高/文/高/惠/隆/高/歸/安/高/瓮/生/高/僧/敬/高/保/慶/高社/奴/高/保/榮/高/保/山/高/暈/高/馬/俱/高/靈援/高/保/林/高/寄/生/高/僧/利/高/道/原/高/寄/周/高/幽州/高扶/高/堆/高羌/高/安/世/高/□/慶/高/阿黑張/願/成/高/龍/董容/趙同/仁/高/還/周/高/買/高/道/榮/高/恭祖/□伏/保/高祖/念/高伯/奴/高/洛/周/高/買/奴程/阿陵高/醜奴/高次/保/高次/恭/高/胡□/高/伯慶/高/興/光/高/明達/高次/難/高/恒/生/高/楞/高/叵/當/高/今/龍/劉次/文/劉小/保/高舒/劉/白/駒李/百揆/李零/高珍/高万/年/高/思順/劉芒/時/高/伯奇/卓道/安劉/清奴/李干/高/寄/安/高/阿因/高/非/高副/周高/无諱/劉/永/得/高/卿/世/高/惠/規劉/黑堆/李/永/高舍/安/高/宗敬/高糞/高勉/興劉/僧達/高/保/蓋/高/法顯/劉淂/伏/生/李午生/劉原/始/高/玉/高/門/高/定/宗劉/普文王/法/敬/王/仵龍/高/長生/劉龍居/李虎/高/零/安/高愍/高/法/崇/高/寄/周劉/僧/副/高/惠/高/犢/憐/高/思/得/王/矜王/伏/生/李原隆/高/周興/　/高舍/　/　/　/　/　/族武/高買/得/高/今/鍾/高/定和/劉延/敬/高/還/奴/</ab></div></div>
+<div type="" level="2"><head>/之/二/　/兩/側/</head>
+<div type="" level="3">
+<ab type="prose">/□/□/智/□/比丘/曇相/高/淇/高/終/僧/高/猛/□/□/□/□/文奧/姬/張/山/女/宋/水姜/劉□/□/□/□/□/□/□/□/□/□/□/　/比丘/僧/建/高/轉/高/琰/高保/高武/貴張/阿容/高度/呂/男/次/張/伏/姬/龐春花/李好/容□/□/□/□/　/比丘/曇賓/高社/奴/高/國/高/留璃/傅/倪女/　/張勝/容史/濟/姜/□/□/□/陳/伏/姬/□/□/□/□/□/□/　/　/比丘/曇龜/高羨/高/僧/念/高/香/仁/崔/□/□/□/樹/姜/□/□/□/□/□/高/□/仁/□/□/□/　/　/比丘/道/能/比丘/曇紹/郝/□/暈/比丘尼/惠/□史/玉堂/　/　/　/　/　/比丘/智/宗/□/□/□/□/□/比丘尼/</ab></div></div>
+<div type="" level="2">
+<div type="" level="3">
+<ab type="prose">/　/　/陽/高/洛/妻/張/僧/噉/高/□/□/□/高/□/高/□/□/高/□/高/□/平/□/□/□/□/□/□/□/□/石/像/金色/主/高/倪/奴/妻/張/月光/高/道德/高廣/周/高/市/安史/寄姬王/迎/男/張/陌/□/主/高/僧/世/高次/保/高泊/慶/高/□/高/令/安/高/寄居/張/僧/遂/杜洛/之/張/伏/姬/高貴/遠/□/□/姜/　/高道/恒/高/法/貴/高/法/灰/高/道/愛/高/惠/統/高/秋/高/容授/劉詳/女/高/零智/高/文思/高顯/仁□/　/高禋/奴/高/宗復/高原/慶/高/玉/石/高/埿/塵/高/六/疆/甯/石/河/陳/王/含/香/　/高/景/□/高/鴛鴦/　/．/．/高/正/高/欽/妻/宋愜/高小/成/高方/兄/高/小/□/　/高榆/高勝/高明/高珍王/高/今/珍/</ab></div></div></div>
+    </body>
+  </text>
+</TEI>

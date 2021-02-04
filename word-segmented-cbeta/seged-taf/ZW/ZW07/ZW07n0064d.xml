@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">CBETA電子佛典(量化分析版)</title>
+        <title type="subordinate">地藏菩薩十齋日</title>
+        <author>Dharma Drum Institute of Liberal Arts, Library and Information Center, Digital Archives Section 法鼓文理學院 圖書資訊館 數位典藏組</author>
+        <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+        <respStmt>
+          <resp>資料轉換</resp>
+          <name>周邦信</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>法鼓文理學院</publisher>
+        <address>
+          <addrLine>20842 新北市金山區法鼓路700號</addrLine>
+          <addrLine>da@dila.edu.tw</addrLine>
+        </address>
+        <date>2012-2021</date>
+        <availability>
+          <p>This document is published under a CC Attribution-Share Alike License</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title type="main">CBETA 電子佛典集成</title>
+          <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+          <pubPlace>臺灣‧臺北</pubPlace>
+          <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+          <date>2021-02-03</date>
+          <biblScope type="vol">ZW07</biblScope>
+          <idno type="Taisho">ZW07n0064d</idno>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+    <div level="1"><head>/〔/錄文四/〕/</head>
+<ab type="prose">/每月/十齋日/：/</ab>
+<ab type="list">
+/月/一/日/，/童子/下/，/此/日/齋/者/，/不/墮/鐵/樹/地獄/；/
+/八/日/，/太子/下/，/此/日/齋/者/，/不/墮/鐵/犁/地獄/；/
+/十四日/，/司命/下/，/此/日/齋/者/，/不/墮/鑊湯/地獄/；/
+/十五日/，/五道/大/神/下/，/此/日/齋/者/不/墮/鋸/解/地獄/；/
+/十八/日/，/閻羅王/下/，/此/日/齋/者/，/不/墮/糞屎/地獄/；/
+/二十三日/，/天/大將軍/下/，/此/日/齋/者/，/不/墮/銅/柱/地獄/；/
+/二十四日/，/察/命/下/，/此/日/齋/者/，/不/墮/黑暗/地獄/；/
+/二十八日/，/太山/府/君/下/，/此/日/齋/者/，/不/墮/鐵/床/地獄/；/
+/二十九/日/，/四天王/下/，/此/日/齋/者/，/不/墮/鐵/鈸/地獄/；/
+/三十/日/，/梵天王/下/，/此/日/齋/者/，/不/墮/鐵/輪/地獄/。/</ab>
+<ab type="prose">/〔/錄/文完/〕/</ab></div>
+    </body>
+  </text>
+</TEI>

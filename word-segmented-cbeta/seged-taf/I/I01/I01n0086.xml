@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">CBETA電子佛典(量化分析版)</title>
+        <title type="subordinate">潘景暉造碑像記</title>
+        <author>Dharma Drum Institute of Liberal Arts, Library and Information Center, Digital Archives Section 法鼓文理學院 圖書資訊館 數位典藏組</author>
+        <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+        <respStmt>
+          <resp>資料轉換</resp>
+          <name>周邦信</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>法鼓文理學院</publisher>
+        <address>
+          <addrLine>20842 新北市金山區法鼓路700號</addrLine>
+          <addrLine>da@dila.edu.tw</addrLine>
+        </address>
+        <date>2012-2021</date>
+        <availability>
+          <p>This document is published under a CC Attribution-Share Alike License</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title type="main">CBETA 電子佛典集成</title>
+          <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+          <pubPlace>臺灣‧臺北</pubPlace>
+          <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+          <date>2021-02-03</date>
+          <biblScope type="vol">I01</biblScope>
+          <idno type="Taisho">I01n0086</idno>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+    <div level="1">
+<div type="" level="2">
+<ab type="juan" subtype="open">/潘景暉/造/碑像/記/</ab>
+<div type="" level="3">
+<ab type="prose">/左相/菩薩/主/大/象/主/大/象/主/右相/菩薩/主/　/　/　/　/　/　/　/觀音寺/</ab></div>
+<div type="" level="3">
+<ab type="prose">/大/齊/天/統/五年/歲/次/己/丑/四/月/庚申/朔/八日/丁卯/建/</ab></div>
+<div type="" level="3">
+<ab type="prose">/蓋/若/道/非/真/極/玄元/。/言/情/万類/之/表/。/誰/有/辭/城/棄/位/。/以/布/衣/為/好/者/也/。/若/夫/芳蓉/姿婉/。/重/爵/名/官/。/思/皆/浮庶/。/仕/民/□/情/貪暮/。/自/不/貨/身/質/肉/。/布/髮/淹/泥/之/徒/。/焉/有/昏閨/闇室/。/更/續/明/燈/者/怖/。/今/都/唯那/潘景暉/。/張煞鬼/。/李仕暉/。/陽脩羅/。/仰/率/儒/徒/七十/人/等/。/並/雍容/雅素/。/若/孤鵠沖天/。/綺/結/蔥/紅/。/似/群/龍/集/主/渚/。/往/曾/竹馬/餘/暇/。/縕/五/禮/以/俱/融/。/長/復/脩/多/。/知/四藏/而/弘解/。/常/願/乘/風/出/谷/。/衿/濟/群/生/。/龍宮/陃/教/。/昕/階/大/道/。/但/惕/聖/之/已/去/。/逍迢/金山/。/薨/巔/既/久/。/若/不/矸/彫/神狀/。/想/作/當時/。/無/以/紹/述/嚴議/。/弘輪/更/轉/。/是以/遠/詣/浮/山/嶺/岫/。/取/玉/類/之/純貞/。/還/對/泉源/。/礱/磨/彫琢/。/造/碑像/一/區/。/二/侗/菩薩/。/北面/開光/。/方/侵/上/頂/。/因/茲/妙/瑞/。/仰/諮/皇帝/。/化/九夷/而/同/風/。/總万國/以/隆強/。/四/王/奉/華/於/玉珮/。/諸/天/貢寶/於/金/葙/。/逮/及/七祖/先/零/。/圓通/六道/。/俱/證/金剛/。/其/辭/曰/　/沖寂/妙/絕/。/超越/是/非/。/凡/情/未/達/。/聖者/能/歸/。/巧/存/方便/。/貿易/粗/衣/。/(/一/)/榮/名/麗仕/。/美豔/垂/紅/。/斯/皆/危/毳/。/未/若/真/蹤/。/波論/自/鬻/。/嚮/勸/鱗/空/。/(/二/)/昏〃/六道/。/快/似/深閨/。/无/人/執/炬/。/終墜/泥梨/。/賴茲/明哲/。/濟/我/群/迷/。/昔/兮/五色/。/收/在/雙林/。/于/時/還/照/。/視/我/山/金/。/脩/功/練/石/。/長/去/幽沈/。/</ab></div></div></div>
+    </body>
+  </text>
+</TEI>

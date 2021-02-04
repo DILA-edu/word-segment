@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">CBETA電子佛典(量化分析版)</title>
+        <title type="subordinate">地藏菩薩經</title>
+        <author>Dharma Drum Institute of Liberal Arts, Library and Information Center, Digital Archives Section 法鼓文理學院 圖書資訊館 數位典藏組</author>
+        <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+        <respStmt>
+          <resp>資料轉換</resp>
+          <name>周邦信</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>法鼓文理學院</publisher>
+        <address>
+          <addrLine>20842 新北市金山區法鼓路700號</addrLine>
+          <addrLine>da@dila.edu.tw</addrLine>
+        </address>
+        <date>2012-2021</date>
+        <availability>
+          <p>This document is published under a CC Attribution-Share Alike License</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title type="main">CBETA 電子佛典集成</title>
+          <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+          <pubPlace>臺灣‧臺北</pubPlace>
+          <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+          <date>2021-02-03</date>
+          <biblScope type="vol">T85</biblScope>
+          <idno type="Taisho">T85n2909</idno>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+    
+<ab type="juan" subtype="open">/佛/說/地藏/菩薩/經/</ab>
+<div type="jing" level="1">
+<ab type="prose">/爾時/地藏/菩薩/住/在/南方/瑠璃/世界/。/以/淨/天眼/觀/地獄/之/中/受/苦/眾生/。/鐵/碓/擣/鐵/磨磨/鐵/犁/耕/鐵/鋸/解/。/鑊湯/湧/沸/猛/火/旦/天/。/飢/則/吞/熱/鐵/丸/。/渴/飲/銅/汁/。/受/諸/苦惱/無有/休息/。/地藏/菩薩/不/忍/見/之/。/即/從/南方/來/到/地獄/中/。/與/閻羅王/共同/一處/別/床/而/座/。/有/四/種/因緣/。/一/者/恐/閻羅王/斷/罪/不/憑/。/二/者/恐/文案/交錯/。/三/者/未/合/死/。/四/者/受/罪/了/出/地獄/池/邊/。/若/有/善男子/善女人/。/造/地藏/菩薩/像/。/寫/地藏/菩薩/經/。/及/念/地藏/菩薩/名/。/此/人定/得/往生/西方/極樂世界/。/從/一/佛國/至/一/佛國/。/從/一/天堂/至/一/天堂/。/若/有/人/造/地藏/菩薩/像/。/寫/地藏/菩薩/經/。/及/念/地藏/菩薩/名/。/此/人定/得/往生/西方/極樂世界/。/此/人/捨/命/之/日/。/地藏/菩薩/親自/來/迎/。/常/得/與/地藏/菩薩/共同/一處/。/聞/佛/所/說/皆大歡喜/信受奉行/。/</ab>
+<ab type="juan" subtype="close">/佛/說/地藏/菩薩/經/一/卷/</ab></div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">CBETA電子佛典(量化分析版)</title>
+        <title type="subordinate">賢劫十六尊</title>
+        <author>Dharma Drum Institute of Liberal Arts, Library and Information Center, Digital Archives Section 法鼓文理學院 圖書資訊館 數位典藏組</author>
+        <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+        <respStmt>
+          <resp>資料轉換</resp>
+          <name>周邦信</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>法鼓文理學院</publisher>
+        <address>
+          <addrLine>20842 新北市金山區法鼓路700號</addrLine>
+          <addrLine>da@dila.edu.tw</addrLine>
+        </address>
+        <date>2012-2021</date>
+        <availability>
+          <p>This document is published under a CC Attribution-Share Alike License</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title type="main">CBETA 電子佛典集成</title>
+          <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+          <pubPlace>臺灣‧臺北</pubPlace>
+          <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+          <date>2021-02-03</date>
+          <biblScope type="vol">T18</biblScope>
+          <idno type="Taisho">T18n0881</idno>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+    <div level="1">
+<ab type="juan" subtype="open">/賢劫/十六/尊/</ab>
+<div type="jing" level="2">
+<ab type="verse">/於/彼/輪壇/外/，/　/賢劫/千/佛/中/，/
+/十六/為/上首/，/　/彌勒/持/軍持/，/
+/不/空/蓮華/眼/，/　/除/憂/梵夾相/，/
+/除/惡/三/股/杵/，/　/香/象/執/蓮華/，/
+/大/精進/鏘戟/，/　/虛空/藏/寶/光/，/
+/智/幢/幢/幖幟/，/　/無量/光/蓮華/，/
+/賢/護持/寶/瓶/，/　/綱/明/綱/傘蓋/，/
+/月光/半月/幢/，/　/無量/意/梵夾/，/
+/辨/積/持/華/雲/，/　/金剛藏/獨股/，/
+/普賢/五/智/印/，/　/種子/初/阿字/，/
+/吽/字/左/按/地/。/
+</ab>
+<ab type="prose">/彼彼/真言/曰/：/</ab>
+<ab type="dharani">「oṃ　mai　tre　yā　ya　svā　hā　a　</ab>
+/唵/　/每/　/怛隸/　/夜/　/野/　/娑嚩/　/賀/　/阿/」/　/
+
+<ab type="dharani">「oṃ　a　mo　gha　da　rśa　na　ya　svā　hā　
+唵　阿　目　佉　那　㗚捨　曩　野　娑嚩　賀　
+ga　</ab>
+/誐/」/　/
+
+<ab type="dharani">「oṃ　sa　rvā　pā　ya　ja　hā　ya　svā　hā　bhā　</ab>
+/唵/　/薩/　/嚩/　/幡/　/野/　/惹/　/賀/　/野/　/娑嚩/　/賀/　/婆/」/　/
+
+<ab type="dharani">「oṃ　sa　rva　śo　ka　ta　mo　ni　rgha　ta　ma　
+唵　薩　嚩　戌　迦　怛　母　儞　㗚伽　多　摩　
+ta　ye　svā　hā　āṃ　</ab>
+/多/　/曳/　/娑嚩/　/賀/　/暗/」/　/
+
+<ab type="dharani">「oṃ　ga　nva　hā　sti　ni　svā　hā　gaḥ　</ab>
+/唵/　/誐/　/馱/　/賀/　/悉/多/　/儞/　/娑嚩/　/賀/　/虐/」/　/
+
+<ab type="dharani">「oṃ　śū　ra　yā　svā　hā　vi　</ab>
+/唵/　/秫/　/羅/　/野/　/娑嚩/　/賀/　/尾/」/　/
+
+<ab type="dharani">「oṃ　ga　ga　na　ga　ja　ya　svā　hā　ā　</ab>
+/唵/　/誐/　/誐/　/曩/　/彥/　/惹/　/野/　/娑嚩/　/賀/　/惡/(/引/)/」/　/
+
+<ab type="dharani">「oṃ　jñā　na　ke　tu　ve　svā　hā　trāṃ　</ab>
+/唵/　/枳孃/　/曩/　/計/　/都/(/引/)/　/昧/　/娑嚩/　/賀/　/怛藍/」/　/
+
+<ab type="dharani">「oṃ　a　mi　ta　pra　bha　ya　svā　hā　dhvaṃ　</ab>
+/唵/　/阿/　/彌/　/多/　/鉢羅/　/婆/　/野/　/娑嚩/　/賀/　/特鑁/」/　/
+
+<ab type="dharani">「oṃ　bha　dra　pa　la　ya　svā　hā　pṛ　</ab>
+/唵/　/跋/　/捺羅/　/播/　/邏/　/野/　/娑嚩/　/賀/　/鉢/里/」/　/
+
+<ab type="dharani">「oṃ　jvā　ri　ni　pra　bha　ya　svā　hā　
+唵　惹　里　儞　鉢羅　婆　野　娑嚩　賀　
+jaḥ　</ab>
+惹/」/　/
+
+<ab type="dharani">「oṃ　ca　ndra　pra　bha　ya　svā　hā　
+唵　贊　捺羅　鉢羅　婆　野　娑嚩　賀　
+ma　</ab>
+摩/」/　/
+
+<ab type="dharani">「oṃ　a　kṣa　ya　ma　ta　ye　svā　hā　
+唵　阿　吃叉　野　摩　多　曳　娑嚩　賀　
+jñā　</ab>
+/吉儞/也/」/　/
+
+<ab type="dharani">「oṃ　pra　ti　bha　da　ku　ṭa　ya　svā　hā　
+唵　鉢羅　底　婆　那　俱　吒　野　娑嚩　賀　
+raṃ　</ab>
+藍/」/　/
+
+<ab type="dharani">「oṃ　va　jra　ga　rbha　ya　svā　hā　va　</ab>
+/唵/　/嚩/　/日羅/　/蘖/　/婆/　/野/　/娑嚩/　/賀/　/縛/」/　/
+
+<ab type="dharani">「oṃ　sa　ma　ta　bha　dra　ya　svā　hā　aḥ　</ab>
+/唵/　/三/　/曼/　/多/　/跋/　/捺羅/　/野/　/娑嚩/　/賀/　/惡/」/　/
+
+<ab type="verse">/金剛界/外院/，/　/地居/空行天/，/
+/略說/有/五類/，/　/忿怒/稱/吽/字/，/
+/安布/二十天/，/　/芰荷/以為/座/，/
+/東北那羅延/，/　/執/輪/羅剎/形/，/
+/俱摩羅/鈴契/(/童子/形/)/，/　/摧/碎夜迦天/，/
+/傘蓋/寶/東/門/，/　/梵天/持/紅/蓮/(/如/天/)/，/
+/天帝/獨/股/杵/(/童子/形/)/，/　/火/天/在/東南/(/赤色/)/，/
+/三/角/為/標幟/，/　/日天/童子/形/，/
+/金剛/食/持/鬘/，/　/焰/魔/檀荼/印/(/赤色/)/，/
+/熒惑/火光/聚/(/恐怖/相/赤色/)/，/　/西南羅/剎主/，/
+/執/鎚/并/眷屬/，/　/歲星天/持/棒/，/
+/金剛/衣/夜迦/，/　/西門/持/弓箭/，/
+/水/天/執/羂/索/，/　/次/置/於/月天/(/童子/形/)/，/
+/風/幢/西/北隅/(/羅剎/形/灰/色/)/，/　/金剛/面/執/鉤/(/黑/)/，/
+/調伏/金剛/劍/，/　/門/東多門天/(/金色/)/，/
+/掌/塔/持/寶/棒/，/　/伊舍那/戟/印/(/左/持/劫波羅/)/。/
+</ab>
+<ab type="prose">/彼彼/真言/曰/：/</ab>
+<ab type="dharani">「oṃ　ma　lā　va　jra　</ab>
+/唵/　/摩/　/羅/　/縛/　/日羅/」/　/
+
+<ab type="dharani">「oṃ　va　jra　ghaṃ　ṭa　</ab>
+/唵/　/縛/　/日羅/　/健/　/吒/」/　/
+
+<ab type="dharani">「oṃ　va　jra　ge　ri　</ab>
+/唵/　/縛/　/日羅/　/遇/　/拏/」/　/
+
+<ab type="dharani">「oṃ　va　jra　mo　na　</ab>
+/唵/　/縛/　/日羅/　/慕/　/曩/」/　/
+
+<ab type="dharani">「oṃ　va　jra　ya　dha　</ab>
+/唵/　/縛/　/日羅/　/庾/　/馱/」/　/
+
+<ab type="dharani">「oṃ　va　jra　na　la　</ab>
+/唵/　/縛/　/日羅/　/曩/　/攞/」/　/
+
+<ab type="dharani">「oṃ　va　jra　ku　da　ri　</ab>
+/唵/　/縛/　/日羅/　/矩/　/吒/　/利/」/　/
+
+<ab type="dharani">「oṃ　va　jra　ma　ṇi　la　</ab>
+/唵/　/縛/　/日羅/　/摩/　/尼/　/攞/」/　/
+
+<ab type="dharani">「oṃ　va　jra　ka　la　</ab>
+/唵/　/縛/　/日羅/　/迦/　/攞/」/　/
+
+<ab type="dharani">「oṃ　va　jra　piṃ　ga　ra　</ab>
+/唵/　/縛/　/日羅/　/氷/　/誐/　/羅/」/　/
+
+<ab type="dharani">「oṃ　va　jra　da　ṇḍa　</ab>
+/唵/　/縛/　/日羅/　/難/　/拏/」/　/
+
+<ab type="dharani">「oṃ　va　jra　mu　sa　la　</ab>
+/唵/　/縛/　/日羅/　/母/　/娑/　/羅/」/　/
+
+<ab type="dharani">「oṃ　va　jra　va　śī　</ab>
+/唵/　/縛/　/日羅/　/縛/　/始/」/　/
+
+<ab type="dharani">「oṃ　na　ga　va　jra　</ab>
+/唵/　/曩/　/誐/　/縛/　/日羅/」/　/
+
+<ab type="dharani">「oṃ　va　jra　pra　bha　</ab>
+/唵/　/縛/　/日羅/　/鉢羅/　/婆/」/　/
+
+<ab type="dharani">「oṃ　va　jra　ni　la　</ab>
+/唵/　/縛/　/日羅/　/儞/　/羅/」/　/
+
+<ab type="dharani">「oṃ　va　jra　ku　śa　</ab>
+/唵/　/縛/　/日羅/　/矩/　/捨/」/　/
+
+<ab type="dharani">「oṃ　va　jra　ja　ya　</ab>
+/唵/　/縛/　/日羅/　/惹/　/野/」/　/
+
+<ab type="dharani">「oṃ　va　jra　vai　ra　va　</ab>
+/唵/　/縛/　/日羅/　/陪/　/羅/　/縛/」/　/
+
+<ab type="dharani">「oṃ　ru　dra　ya　va　jra　</ab>
+/唵/　/嚕/　/捺羅/　/野/　/縛/　/日囉/」/　/
+
+<ab type="verse">/如是/大/天/眾/，/　/威德/有/多/門/，/
+/妃后/並/眷屬/，/　/皆/在/曼荼羅/，/
+/應當/具/開示/，/　/供養/夜迦天/，/
+/應/居/北/門/東/。/
+</ab>
+<ab type="prose">/彼/真言/曰/：/</ab>
+<ab type="dharani">「oṃ　va　jra　vi　na　ya　ka　svā　hā　</ab></div>
+/唵/　/縛/　/日羅/　/尾/　/曩/　/野/　/迦/　/娑嚩/　/賀/」/　/
+
+<ab type="juan" subtype="close">/十六/尊/(/終/)/</ab>
+<div type="w" level="2">
+<ab type="prose">/享和/二/壬戌/年/五月/以/京兆/智積/院/之/本/，/挍/</ab>
+<ab type="prose">/豐山/小/池/坊/什/本/，/梓/印/行/於/世/。/</ab>
+<ab type="prose">/長谷/妙音/院/寓/居/上/毛/沙門/快道/誌/</ab></div></div>
+    </body>
+  </text>
+</TEI>

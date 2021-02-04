@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">CBETA電子佛典(量化分析版)</title>
+        <title type="subordinate">般若守護十六善神王形體</title>
+        <author>Dharma Drum Institute of Liberal Arts, Library and Information Center, Digital Archives Section 法鼓文理學院 圖書資訊館 數位典藏組</author>
+        <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+        <respStmt>
+          <resp>資料轉換</resp>
+          <name>周邦信</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>法鼓文理學院</publisher>
+        <address>
+          <addrLine>20842 新北市金山區法鼓路700號</addrLine>
+          <addrLine>da@dila.edu.tw</addrLine>
+        </address>
+        <date>2012-2021</date>
+        <availability>
+          <p>This document is published under a CC Attribution-Share Alike License</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title type="main">CBETA 電子佛典集成</title>
+          <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+          <pubPlace>臺灣‧臺北</pubPlace>
+          <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+          <date>2021-02-03</date>
+          <biblScope type="vol">T21</biblScope>
+          <idno type="Taisho">T21n1293</idno>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+    <div level="1">
+<ab type="juan" subtype="open">/般若/守護/十六/善神王/形體/</ab>
+<byline>/金剛智/三藏/譯/</byline>
+<div type="jing" level="2">
+<ab type="prose">/提頭攞/宅/善/神/　/綠/青色/。/開/口/現/忿怒/相貌/。/被/甲冑/著/赤/衣/。/右/手/持/大/刀/。/左手/捧/鉾/。/髮/紫色/也/。/</ab>
+<ab type="prose">/毘盧勒叉/善/神/　/赤/紫/色/。/忿怒/相/現/閉/唇/之/形/。/右拔折囉/。/左/押/腰/。/被/甲冑/著/白/青色衣/。/鬢髮/紺色/。/</ab>
+<ab type="prose">/摧伏/毒害/善/神/　/鬢聳/立/弭/也/。/赤/肉/色/。/右/手/持/大/刀/。/左/手/向/外/當/胸/。/被/甲冑/著/白色/衣服/餘/如/常/。/</ab>
+<ab type="prose">/增益/善神/　/赤/肉/色/。/四/臂/容/怒/鬼/。/右/第一/手/持/大/刀/。/第二/手/把/劍輪/。/左/第一/手/持/楊枝/。/第二/手/捧/半月/。/著/袈裟/其/色/綠色/。/裳/紅/懸/頸/瓔珞/。/</ab>
+<ab type="prose">/歡喜/善神/　/綠色/。/頂/上/有/孔雀/。/其/色/金色/。/右/手/持/一/股/鉤/。/左/手/押/腰/。/被/甲冑/著/赤/衣/。/鬢髮/丹/色/。/面/體/忿怒/也/。/</ab>
+<ab type="prose">/除/一切/障難/善神/　/黃色/。/作/瞋怒/相/。/六/臂/被/鮮白/衣服/。/右/手/持/三/戟叉/。/次/手/持/經典/。/次/手/捧/舍利寶塔/。/左/手/持/紅/蓮華/。/次/手/持/寶/鉤/。/次/手/把/寶/螺/。/戴/寶/冠/著/袈裟/。/吹/天衣/風/。/瓔珞/環/釧/如/常/。/</ab>
+<ab type="prose">/拔除/罪垢/善/神/　/裸/形/被/赤綠/色/袈裟/。/髮毛/聳立/。/赤黃/色相/也/。/右/手/持/棒/。/其/棒/有/五叉/。/左/手/作/拳/置/頂/上/。/瞋/眼/開/口/。/利/牙/出/上下/。/甚/怖畏/也/。/</ab>
+<ab type="prose">/能/忍/善/神/　/空/色/。/右/手/持/大/刀/。/左/手/持/矟/。/被/頂巾/。/其/色/白/下/至/腂/纔/見/冑端/。/鬢髮/紫/也/(/已/上/右方/立/之/)/。/</ab>
+<ab type="prose">/吠室羅摩拏/善/神/　/青/黑色/。/現/瞋/王/相/。/作/閉/唇/相/。/右/手/持/金剛棓/。/左/手/捧/全/身/舍利寶塔/。/被/甲冑/著/赤/衣/。/鬢髮/紫色/也/。/</ab>
+<ab type="prose">/毘盧博叉/善神/　/肉/色/。/懸/黑/絲/臂/。/以/筆/作/書寫/之/勢/。/被/甲冑/著/綠色/衣服/。/鬢髮/赤色/。/微笑/之/形/也/。/</ab>
+<ab type="prose">/離/一切/怖畏/神/　/形體/如/帝釋天/。/但/頂/上/有/髑髏/。/髑髏/上/有/三/股/形/。/</ab>
+<ab type="prose">/救護/一切/善神/　/青/白色/。/相貌/如/毘沙門天/。/左右/手/合掌/。/十/指/端/有/紅色/微/敷/蓮華/。/衣服/赤黃/色/。/</ab>
+<ab type="prose">/攝伏/諸/魔/善神/　/髮毛/聳立/。/黑/肉/色/。/相貌/以/瓔珞/為/莊嚴/。/右/手/持/劍/。/左/手/下/掌/向/外/。/衣服/黃色/。/</ab>
+<ab type="prose">/能/救/諸/有/善/神/　/白/綠色/顏貌/玉相/也/。/二/手/虛心/合掌/屈/二/頭/指/。/附/中/指/背/第一/文/。/冑/上/被/白色/袈裟/。/裳/赤色/也/。/</ab>
+<ab type="prose">/師子/威猛/善/神/　/肉/色/戴/師子/寶冠/。/右/第一/持/斧/。/第二/手/持/劍/。/左/第一/手/持/梵夾/。/第二/手/持/三叉/戟/。/被/袈裟/其/色/紺色/也/。/著/小/服/虎/皮/。/極/惡/忿怒/也/。/</ab>
+<ab type="prose">/勇猛/心/地/善/神/　/被/甲冑/綠色/。/如/能/救/諸/有/。/二/手/外/縛/當/胸/。/微笑/之/相/也/(/已/上/左方/立/之/)/。/</ab></div>
+<div type="w" level="2">
+<ab type="prose">/本/奧/云/。/又/陀羅尼/集/經/第三/卷/說/十六/善/神/名字/并總/呪/。/又/如/空/比丘/夢/感/自/塔/院/律師/之/(/已/上/)/。/</ab>
+<ab type="prose">/谷/響/集/八/云/。/世/有/金剛智/所/譯/般若/守護/十六/善/神/一/卷/三/紙/。/讀/之/明/知/非/是/金剛智/筆語/。/綴文/甚/拙/。/想/先/達/依/金剛智/圖畫/錄/之/。/而/假/金/智/名/矣/。/不/自/揣/之/甚/。/今/謂/於/翻譯/席設/譯/語/筆/授/證/義/綴文/等/職/。/翻/梵/為/漢/。/必/不/譯主/之/一/手/。/而/有/再/治/有/未/治/。/唯/以/義/通/為/其/長/。/豈/以/文飾/為/。/今/歲/得/一/本/於/智積/院/方/丈/。/挍小/池/坊/藏/本/而/印行/。/時/享和/二/壬戌/年/仲/夏/月/。/</ab>
+<ab type="prose">/　/　/　/豐山/長谷/輪/下/沙門/　/快道/　/誌/</ab>
+<ab type="prose">/　/　/　/　/　/　/　/　/　/　/一/校了/　/慈順/</ab>
+<ab type="prose">/　/文政/三/年/庚辰/仲秋/晦日/。/右/以/秀陽/闍梨/令/密/榮挍/之/本/亦/　/一/校了/。/　/龍肝/</ab></div></div>
+    </body>
+  </text>
+</TEI>

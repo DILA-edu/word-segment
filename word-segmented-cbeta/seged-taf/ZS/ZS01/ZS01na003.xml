@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">CBETA電子佛典(量化分析版)</title>
+        <title type="subordinate">說明</title>
+        <author>Dharma Drum Institute of Liberal Arts, Library and Information Center, Digital Archives Section 法鼓文理學院 圖書資訊館 數位典藏組</author>
+        <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+        <respStmt>
+          <resp>資料轉換</resp>
+          <name>周邦信</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>法鼓文理學院</publisher>
+        <address>
+          <addrLine>20842 新北市金山區法鼓路700號</addrLine>
+          <addrLine>da@dila.edu.tw</addrLine>
+        </address>
+        <date>2012-2021</date>
+        <availability>
+          <p>This document is published under a CC Attribution-Share Alike License</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title type="main">CBETA 電子佛典集成</title>
+          <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+          <pubPlace>臺灣‧臺北</pubPlace>
+          <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+          <date>2021-02-03</date>
+          <biblScope type="vol">ZS01</biblScope>
+          <idno type="Taisho">ZS01na003</idno>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+    <div level="1"><head>/說/明/</head>
+<ab type="prose">/一/、/《/正史/佛教/資/料類/編/》/所/據/「/正史/」/為/中/華/書/局/（/北京/）/標點/本/。/</ab>
+<ab type="prose">/二/、/每/條/資料/皆/於/後/註/明/出/處/，/並/註/明/中/華/書/局/標/點/本/頁/碼/，/以/便/查/尋/。/</ab>
+<ab type="prose">/三/、/每/條/資料/前/的/小/標/題/為/編/者/所/加/。/</ab>
+<ab type="prose">/四/、/資料/中/括/號/內/的/文字/，/如/年/月/、/人名/等/，/為/編/者/為/保/證/文意/的/清晰/和連/貫性/視/情/況/而/補/入/。/</ab>
+<ab type="prose">/五/、/同/一/人/物/或/同/一/事/件/有/兩/處/以/上/記/載/而/文/意/基/本/相/同/者/（/如/某/一/人/物/在/南/、/北史/中/均/立/傳/）/一/般只/錄/一處/，/並/註/明/未/錄/者/的/出/處/和/中/華/書/局/本/頁/碼/。/</ab>
+<ab type="prose">/六/、/魏/晉/南北/朝隋/唐/以來/，/受/佛教/影響/，/很/多/人/名/用/佛教/名詞/，/如/「/張/菩薩/」/、/「/王/善/人/」/之/類/，/但/卻/與/佛/教/活/動/無/關/，/故/此/類/資料/視/情/況/而/取捨/。/</ab>
+<ab type="prose">/七/、/為/了/節/省/篇幅/，/在/一/篇/較/長/的/資料/中/，/省略/其中/與/佛/教/無/關的/文字/並/加/省略/號/。/</ab>
+<ab type="prose">/八/、/某/些/資料/後/的/「/杜按/」/為/編/者/杜斗城/所/加的/按/語/。/</ab></div>
+    </body>
+  </text>
+</TEI>

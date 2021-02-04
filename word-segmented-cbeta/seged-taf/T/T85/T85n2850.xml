@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">CBETA電子佛典(量化分析版)</title>
+        <title type="subordinate">地藏菩薩十齋日</title>
+        <author>Dharma Drum Institute of Liberal Arts, Library and Information Center, Digital Archives Section 法鼓文理學院 圖書資訊館 數位典藏組</author>
+        <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+        <respStmt>
+          <resp>資料轉換</resp>
+          <name>周邦信</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>法鼓文理學院</publisher>
+        <address>
+          <addrLine>20842 新北市金山區法鼓路700號</addrLine>
+          <addrLine>da@dila.edu.tw</addrLine>
+        </address>
+        <date>2012-2021</date>
+        <availability>
+          <p>This document is published under a CC Attribution-Share Alike License</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title type="main">CBETA 電子佛典集成</title>
+          <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+          <pubPlace>臺灣‧臺北</pubPlace>
+          <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+          <date>2021-02-03</date>
+          <biblScope type="vol">T85</biblScope>
+          <idno type="Taisho">T85n2850</idno>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+    <div level="1">
+<ab type="juan" subtype="open">/地藏/菩薩/十齋日/</ab>
+<ab type="prose">/一/日/童子/下/念/定光/如來/不/塗/刀/鎗/地獄/持/齋除/罪/四十/劫/。/</ab>
+<ab type="prose">/八/日/太子/下/念/藥師/瑠璃/光/佛/不/塗/糞屎/地獄/持/齋除/罪/三十/劫/。/</ab>
+<ab type="prose">/十四日/察/命/下/念/賢劫/千/佛/不/塗/鑊湯/地獄/持/齋除/罪/一千/劫/。/</ab>
+<ab type="prose">/十五日/五道/大將軍/下/念/阿彌陀/佛/不/墮/寒氷/地獄/持/齋除/罪/二百/劫/。/</ab>
+<ab type="prose">/十八/日/閻羅王/下/念/觀世音/菩薩/不/墮/劍/樹/地獄/持/齋除/罪/九十/劫/。/</ab>
+<ab type="prose">/二十三日/大將軍/下/念/盧舍那/佛/不/墮/餓鬼/地獄/持/齋除/罪/一千/劫/。/</ab>
+<ab type="prose">/二十四日/太山/府/君/下/念/地獄/菩薩/不/墮/斬/斫/地獄/持/齋除/罪/一千/劫/。/</ab>
+<ab type="prose">/二十八日/帝釋/下/念/阿彌陀/佛/不/墮/鐵/鋸/地獄/持/齋除/罪/九十/劫/。/</ab>
+<ab type="prose">/二十九/日/四天王/下/念/藥師/上/菩薩/不/墮/磑摩地獄/持/齋除/罪/七千/劫/。/</ab>
+<ab type="prose">/三十/日/梵天王/下/念/釋迦牟尼/佛/不/墮/灰/何/地獄/持/齋除/罪/八千/劫/。/</ab></div>
+    </body>
+  </text>
+</TEI>

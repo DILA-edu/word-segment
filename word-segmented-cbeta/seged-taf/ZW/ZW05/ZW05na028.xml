@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">CBETA電子佛典(量化分析版)</title>
+        <title type="subordinate">目錄</title>
+        <author>Dharma Drum Institute of Liberal Arts, Library and Information Center, Digital Archives Section 法鼓文理學院 圖書資訊館 數位典藏組</author>
+        <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+        <respStmt>
+          <resp>資料轉換</resp>
+          <name>周邦信</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>法鼓文理學院</publisher>
+        <address>
+          <addrLine>20842 新北市金山區法鼓路700號</addrLine>
+          <addrLine>da@dila.edu.tw</addrLine>
+        </address>
+        <date>2012-2021</date>
+        <availability>
+          <p>This document is published under a CC Attribution-Share Alike License</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title type="main">CBETA 電子佛典集成</title>
+          <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+          <pubPlace>臺灣‧臺北</pubPlace>
+          <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+          <date>2021-02-03</date>
+          <biblScope type="vol">ZW05</biblScope>
+          <idno type="Taisho">ZW05na028</idno>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+    <div level="1"><head>/目錄/</head>
+<ab type="table"/>
+<ab type="row"/>
+<ab type="cell">/卷首/語/</ab>
+<ab type="cell">/（/1/）/</ab>
+<ab type="row"/>
+<ab type="cell">/Foreword/</ab>
+<ab type="cell">/（/8/）/</ab>
+<ab type="row"/>
+<ab type="cell">/序/（/日/文/）/</ab>
+<ab type="cell">/（/19/）/</ab>
+<ab type="row"/>
+<ab type="cell">/目錄/</ab>
+<ab type="cell">/（/29/）/</ab>
+<ab type="row"/>
+<ab type="cell">/錄/文校/勘/體例/</ab>
+<ab type="cell">/（/31/）/</ab>
+<ab type="row"/>
+<ab type="cell">/南傳/佛/典/</ab>
+<ab type="row"/>
+<ab type="cell">/小/誦/</ab>
+<ab type="cell">/（/35/）/</ab>
+<ab type="row"/>
+<ab type="cell">/一/、/三/皈/文/</ab>
+<ab type="cell">/（/35/）/</ab>
+<ab type="row"/>
+<ab type="cell">/二/、/十戒/文/</ab>
+<ab type="cell">/（/36/）/</ab>
+<ab type="row"/>
+<ab type="cell">/三/、/三十二/身/份/</ab>
+<ab type="cell">/（/36/）/</ab>
+<ab type="row"/>
+<ab type="cell">/四/、/問/沙彌/文/</ab>
+<ab type="cell">/（/37/）/</ab>
+<ab type="row"/>
+<ab type="cell">/五/、/吉祥/經/</ab>
+<ab type="cell">/（/37/）/</ab>
+<ab type="row"/>
+<ab type="cell">/六/、/寶/經/</ab>
+<ab type="cell">/（/39/）/</ab>
+<ab type="row"/>
+<ab type="cell">/七/、/戶外/經/</ab>
+<ab type="cell">/（/42/）/</ab>
+<ab type="row"/>
+<ab type="cell">/八/、/伏藏/經/</ab>
+<ab type="cell">/（/43/）/</ab>
+<ab type="row"/>
+<ab type="cell">/九/、/慈悲/經/</ab>
+<ab type="cell">/（/45/）/</ab>
+<ab type="row"/>
+<ab type="cell">/即/興/自/說/</ab>
+<ab type="cell">/（/47/）/</ab>
+<ab type="row"/>
+<ab type="cell">/第一/品/、/菩提品/</ab>
+<ab type="cell">/（/47/）/</ab>
+<ab type="row"/>
+<ab type="cell">/第二/品/、/目真鄰陀品/</ab>
+<ab type="cell">/（/54/）/</ab>
+<ab type="row"/>
+<ab type="cell">/第三/品/、/難陀/品/</ab>
+<ab type="cell">/（/64/）/</ab>
+<ab type="row"/>
+<ab type="cell">/第四/品/、/彌凱耶品/</ab>
+<ab type="cell">/（/75/）/</ab>
+<ab type="row"/>
+<ab type="cell">/第五/品/、/蘇那/長老/品/</ab>
+<ab type="cell">/（/85/）/</ab>
+<ab type="row"/>
+<ab type="cell">/第六/品/、/生盲品/</ab>
+<ab type="cell">/（/98/）/</ab>
+<ab type="row"/>
+<ab type="cell">/第七品/、/小/品/</ab>
+<ab type="cell">/（/111/）/</ab>
+<ab type="row"/>
+<ab type="cell">/第八/品/、/波吒/離/村人/品/</ab>
+<ab type="cell">/（/116/）/</ab>
+<ab type="row"/>
+<ab type="cell">/大/隧/道/本生/</ab>
+<ab type="cell">/（/129/）/</ab>
+<ab type="row"/>
+<ab type="cell">/大念處/經/</ab>
+<ab type="cell">/（/178/）/</ab>
+<ab type="row"/>
+<ab type="cell">/三藏/論疏/</ab>
+<ab type="row"/>
+<ab type="cell">/瑜伽/師/地/開/釋/分/門/記/</ab>
+<ab type="cell">/（/203/）/</ab>
+<ab type="row"/>
+<ab type="cell">/研/究/論/文/</ab>
+<ab type="row"/>
+<ab type="cell">/天/台/教/典/入/藏/考/</ab>
+<ab type="cell">/（/397/）/</ab></div>
+    </body>
+  </text>
+</TEI>

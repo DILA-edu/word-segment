@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">CBETA電子佛典(量化分析版)</title>
+        <title type="subordinate">勝幢臂印陀羅尼經</title>
+        <author>Dharma Drum Institute of Liberal Arts, Library and Information Center, Digital Archives Section 法鼓文理學院 圖書資訊館 數位典藏組</author>
+        <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+        <respStmt>
+          <resp>資料轉換</resp>
+          <name>周邦信</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>法鼓文理學院</publisher>
+        <address>
+          <addrLine>20842 新北市金山區法鼓路700號</addrLine>
+          <addrLine>da@dila.edu.tw</addrLine>
+        </address>
+        <date>2012-2021</date>
+        <availability>
+          <p>This document is published under a CC Attribution-Share Alike License</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title type="main">CBETA 電子佛典集成</title>
+          <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+          <pubPlace>臺灣‧臺北</pubPlace>
+          <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+          <date>2021-02-03</date>
+          <biblScope type="vol">T21</biblScope>
+          <idno type="Taisho">T21n1363</idno>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+    
+<div type="jing" level="1">
+<ab type="juan" subtype="open">/勝/幢/臂/印/陀羅尼/經/</ab>
+<byline>/唐/三藏法師/玄奘/奉/　/詔/譯/</byline>
+<ab type="prose">/如是我聞/。/一時/薄伽梵/。/在/雞羅山頂/天仙/神宮/。/與/大/苾芻/眾/千二百五十/人/俱/。/及/無量/無數/菩薩/摩訶薩/。/曼殊室利跋陀波羅/。/十六/大士/而/為/上首/。/并/諸/天/人/阿素洛/等/。/大梵天王/而/為/上首/。/無量/大眾/前後/圍繞/。/</ab>
+<ab type="prose">/爾時/世尊/住/正念/智/。/為/諸/大眾/說/微妙/法/。/時/大梵王/率/諸/天/眾/。/阿素洛/等/頂禮/佛/足/。/合掌/恭敬/住/如來/前/。/俱/白/佛/言/世尊/在/昔/。/為/欲/利樂/諸/有情/故/。/求/證/無上/正等/菩提/。/悲/願/熏/心/成/等正覺/。/有/大/神力/具/大/慈悲/。/何故/現見/諸/有情類/。/墮/在/地獄/餓鬼/傍生/。/及/人/天/中/受/諸/劇/苦/。/不/設/善巧/方便/濟拔/。/惟/願/哀愍/令/脫/苦難/。/時/觀自在/亦/率/無量/持/呪/天仙/。/頂禮/佛/足/合掌/恭敬/。/住/如來/前/俱/白/佛/言/。/唯/願/哀愍/諸/有情/故/。/開示/善巧/拔/苦/難/法/。/</ab>
+<ab type="prose">/爾時/世尊/告/二/大士/及/其/眷屬/。/汝等/就/座/。/吾/今/愍念/一切/有情/。/略說/善巧/拔/苦/難/法/。/汝/應/諦聽/極/善/思惟/有/大/陀羅尼/名/勝/幢/臂/印/。/若/常/誦念/能/滅/五逆/十惡/等/罪/。/終/不/更/受/諸/惡趣/生/。/及/人/天/中/所有/極/苦/。/恒/受持/者/現/得/財/位/。/於/當來世/生/尊貴/家/。/所/欲/現前/受/諸/快樂/。/常/值/諸/佛/得/宿命/念/。/乃至/無上/正等/菩提/。/陀羅尼/曰/。/</ab>
+<ab type="dharani">羯洛羯洛　抧利抧利　矩路矩路　薩洛薩洛　徙利徙利　速路速路　薩縛佛陀婆　盧抧諦　達洛達洛　薩縛達摩路迦目契　折洛折洛　薩縛僧伽地瑟恥諦　跋洛跋洛　頞泥迦佛　陀俱胝婆史諦　廁拏廁拏　薩縛羯摩筏剌拏禰　莫摩薩縛薩埵難遮　薩婆波耶尼　薩縛獨佉波捺耶　勃栗吒勃栗吒　達栗吒達栗吒　捺吒捺吒　羯吒羯吒　颯怖吒耶颯怖吒耶　薩婆筏剌拏波耶突揭底尼　莎訶</ab>
+<ab type="prose">/善男子/此/勝/幢/臂/印/陀羅尼/。/是/殑伽沙/等/諸/佛/共/說/。/吾/今/愍念/一切/有情/。/因/汝等/請/亦/為/眾/說/。/善男子/諸/佛/出世/甚/為/難/遇/。/善/得/人身/復/難/於/是/。/聞/此/神/呪/更/復/為/難/。/若/有/善男子/善女人/。/能/正/受持/尚/為/難/得/。/何況/書寫/精勤/誦念/。/及/勸/他人/令/受持/者/。/善男子/我/念/過去/。/曾/於/藥師/琉璃/光/勝/觀/等/諸/佛/所/。/聞/此/神呪/受持/讀誦/正/為/他/說/。/由/此/證得/無上/菩提/。/是故/汝等/應/隨/勤學/。/勸/諸/有情/受持/讀誦/。/令/脫/苦難/獲/勝/利樂/。/</ab>
+<ab type="prose">/時/薄伽梵/說/此/經/已/。/曼殊室利/菩薩/跋陀波羅/菩薩/觀自在菩薩/。/大梵天王/及/諸/天/人/阿素洛/等/。/一切/大眾/聞/佛/所/說/。/皆大歡喜/信受奉行/。/</ab>
+<ab type="juan" subtype="close">/勝/幢/臂/印/陀羅尼/經/</ab></div>
+    </body>
+  </text>
+</TEI>

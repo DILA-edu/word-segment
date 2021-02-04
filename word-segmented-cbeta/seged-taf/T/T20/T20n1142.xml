@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">CBETA電子佛典(量化分析版)</title>
+        <title type="subordinate">佛說慈氏菩薩陀羅尼</title>
+        <author>Dharma Drum Institute of Liberal Arts, Library and Information Center, Digital Archives Section 法鼓文理學院 圖書資訊館 數位典藏組</author>
+        <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+        <respStmt>
+          <resp>資料轉換</resp>
+          <name>周邦信</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>法鼓文理學院</publisher>
+        <address>
+          <addrLine>20842 新北市金山區法鼓路700號</addrLine>
+          <addrLine>da@dila.edu.tw</addrLine>
+        </address>
+        <date>2012-2021</date>
+        <availability>
+          <p>This document is published under a CC Attribution-Share Alike License</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title type="main">CBETA 電子佛典集成</title>
+          <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+          <pubPlace>臺灣‧臺北</pubPlace>
+          <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+          <date>2021-02-03</date>
+          <biblScope type="vol">T20</biblScope>
+          <idno type="Taisho">T20n1142</idno>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+    
+<ab type="juan" subtype="open">/佛/說/慈氏/菩薩/陀羅尼/</ab>
+<byline>/西天/譯經/三藏/朝散大夫/試/光祿卿/明教/大師/臣/法賢/奉/　/詔/譯/</byline>
+<div type="dharani" level="1">
+<ab type="dharani">怛𭔞(切身)他(引一)悉哩悉哩(二)娑囉娑囉(三)酥嚕酥嚕(四)達囉達囉(五)左囉左囉(六)摩賀(引)左囉(七)婆囉婆囉(八)摩賀(引)婆囉(九)紺波紺波(十)摩賀(引)紺波(十一)吽(引)末娑囉達哩摩(二合)阿屹囉(二合)娑(引)誐囉娑嚩(二合引)賀(引十二)</ab>
+<ab type="juan" subtype="close">/佛/說/慈氏/菩薩/陀羅尼/</ab></div>
+    </body>
+  </text>
+</TEI>

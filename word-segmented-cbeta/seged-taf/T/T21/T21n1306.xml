@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">CBETA電子佛典(量化分析版)</title>
+        <title type="subordinate">北斗七星護摩祕要儀軌</title>
+        <author>Dharma Drum Institute of Liberal Arts, Library and Information Center, Digital Archives Section 法鼓文理學院 圖書資訊館 數位典藏組</author>
+        <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+        <respStmt>
+          <resp>資料轉換</resp>
+          <name>周邦信</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>法鼓文理學院</publisher>
+        <address>
+          <addrLine>20842 新北市金山區法鼓路700號</addrLine>
+          <addrLine>da@dila.edu.tw</addrLine>
+        </address>
+        <date>2012-2021</date>
+        <availability>
+          <p>This document is published under a CC Attribution-Share Alike License</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title type="main">CBETA 電子佛典集成</title>
+          <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+          <pubPlace>臺灣‧臺北</pubPlace>
+          <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+          <date>2021-02-03</date>
+          <biblScope type="vol">T21</biblScope>
+          <idno type="Taisho">T21n1306</idno>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+    
+<div type="jing" level="1">
+<ab type="juan" subtype="open">/北斗/七星/護摩/祕要/儀軌/</ab>
+<byline>/大興善寺/翻/經/院/灌頂/阿闍梨/述/</byline>
+<ab type="prose">/我/今/為/末世/薄福/眾生/故/。/說/是/北/極/七/星/供養/護摩/次第/儀則/。/於/靜/室/中/作/一/水壇/。/或/方/或/圓/各/足/一/肘/。/以/茅/香/甘/松/熏/陸/龍腦/白/檀/五味/和合/泥/塗/之/。/其/壇/場/內/安著/圓爐/。/飲食/果子/分別/置/之/。/燒/食/謂/飯食/果/餅/酥/蜜/等/。/但/五穀/并/乳木/。/隨/人命/星/相/撿/用/之/。/</ab>
+<ab type="prose">/先/啟詞/曰/　/至心/奉/啟/北/極/七/明/娜羅/貪/狼/巨/門/祿/存/文曲/廉貞/武曲/破軍/尊星/。/為/陀主/某甲/。/災厄/解脫/壽命/延長/得/見/百/秋/。/今/作/曼荼羅/。/唯/願/垂/哀/降/臨/此/處/。/納受/護摩/。/擁護/施主/某甲/。/災難/解脫/壽命/增長/所/願/從/心/(/三/遍/)/。/</ab>
+<ab type="prose">/次/結/其/印/。/虛心/合掌/。/以/二/大/指/。/捻/二/無/名/指甲/。/二/中/指/二/小/指/如/蓮葉/。/二/頭/指/小/開屈/來去/。/</ab>
+<ab type="prose">/次/誦/一/字/頂輪王/真言/。/并/召/北/斗/七/星/真言/。/</ab>
+<ab type="prose">/頂輪/真言/曰/。/</ab>
+<ab type="dharani">na　mo　sa　ma　nta　da　ra　dara　pa　ca　
+曩　慕　三　曼　多　那　羅　那羅　跛　左　
+ra　hūṃ　</ab>
+囉/　/吽/　/
+
+<ab type="prose">/召/北/斗/真言/曰/。/</ab>
+<ab type="dharani">na　maḥ　sa　ma　nta　da　ra　na　e　hye　hi　pa　
+曩　莫　三　曼　多　那　羅　曩　翳　醯　呬　頗　
+i　ha　i　da　i　ka　i　ra　i　mro　
+伊　賀　伊　那　伊　迦　伊　囉　伊　謨囉　
+ta　ra　gha　ra　haṃ　svā　hā　</ab>
+哆/　/囉/　/伽/　/囉/　/唅/　/娑嚩/　/訶/　/
+
+<ab type="prose">/以/手/取/木/及/穀/并/酥/蜜油/等/。/擲/之/於/爐/內/火/燒/之/。/自/專/視/其/本/命/之/星/。/若/動搖/變/色/。/光/照/通爍/光貌/黃/白/者/。/即/應/願/如來/依/前/法/七/日夜/而/為/之/。/必/應/如/事/不/即/其/星藏/沒/不/見/(/決/云/不/求/也/)/謂/北/斗/七星/者/日月/五/星/之/精/也/。/曩括/七曜/照臨/八方/上/曜/於/天神/下/直/于/人間/。/以/司/善惡/而/分/禍福/。/群/星/所/朝宗/萬靈/所/俯仰/。/若/有/人/能/禮拜/供養/長壽/福貴/。/不/信敬/者/運命/不久/。/是以/祿命書/云/。/世/有/司命/神/每/至/庚申/日/。/上/向/天帝/陳說/眾/人/之/罪惡/。/重罪/者/則/徹/算/。/輕/罪/者/則/去/紀/。/算/書/紀/告/即/主/命/已/者/。/是故/如來/為/末世/薄福/短命/夭/死/眾生/故/。/說/是/一/字/頂輪王/召/北/斗/七星/供養/護摩/之/儀則/。/為/供養/者/。/令/其/屬/命/星/數/削/死/籍/還/付/生籍/。/若/諸/國王/於/自/宮/中/作/曼茶羅/。/如/法/護摩/禮拜/供養/。/北/斗/歡喜/為/擁護/故/。/久/居/勝/位/恒/受/安穩/。/后妃/夫人/後宮/綵女/。/王子/群/臣/三公/百官/。/上下/和穆/不/行/非/法/。/人民/熾盛/稼穡/豐饒/國土/安寧/。/無有/災難/不/現/怪異/。/疫病/死亡/不/起/。/境/內/怨敵/群/賊/自然/退散/。/故/以/是/法/甚/為/祕要/。/</ab>
+<ab type="juan" subtype="close">/北斗/七星/祕要/儀軌/</ab></div>
+    </body>
+  </text>
+</TEI>

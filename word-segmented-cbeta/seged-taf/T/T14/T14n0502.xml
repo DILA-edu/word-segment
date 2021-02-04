@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">CBETA電子佛典(量化分析版)</title>
+        <title type="subordinate">佛為年少比丘說正事經</title>
+        <author>Dharma Drum Institute of Liberal Arts, Library and Information Center, Digital Archives Section 法鼓文理學院 圖書資訊館 數位典藏組</author>
+        <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+        <respStmt>
+          <resp>資料轉換</resp>
+          <name>周邦信</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>法鼓文理學院</publisher>
+        <address>
+          <addrLine>20842 新北市金山區法鼓路700號</addrLine>
+          <addrLine>da@dila.edu.tw</addrLine>
+        </address>
+        <date>2012-2021</date>
+        <availability>
+          <p>This document is published under a CC Attribution-Share Alike License</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title type="main">CBETA 電子佛典集成</title>
+          <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+          <pubPlace>臺灣‧臺北</pubPlace>
+          <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+          <date>2021-02-03</date>
+          <biblScope type="vol">T14</biblScope>
+          <idno type="Taisho">T14n0502</idno>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+    
+<ab type="juan" subtype="open">/佛/為/年少/比丘/說/正/事/經/</ab>
+<byline>/西晉/沙門/法炬/譯/</byline>
+<div type="jing" level="1">
+<ab type="prose">/如是我聞/：/</ab>
+<ab type="prose">/一時/佛/住/舍衛國/祇樹/給孤獨/園/夏/安居/。/爾時/眾多/上座/聲聞/，/於/世尊/左右/樹/下/窟/中/安居/。/時/有/眾多/年少/比丘/詣/佛/所/，/稽首/佛/足/，/退/坐/一面/，/佛/為/諸/年少/比丘/，/種種/說法/，/示/教/照/喜/。/示/教/照/喜/已/，/默然/住/。/諸/年少/比丘/聞/佛/所/說/，/歡喜/隨喜/，/從/座/起/，/作禮/而/去/。/</ab>
+<ab type="prose">/諸/年少/比丘/往/詣/上座/比丘/所/，/禮/諸/上座/足/已/，/於/一面/坐/。/時/諸/上座/比丘/作/是/念/：/「/我等/當/攝受/此/諸/年少/比丘/，/或/一/人/受/一/人/，/或/一/人/受/二/、/三/多/人/。/」/作/是/念/已/，/即便/攝受/，/或/一/人/受/一/人/，/或/受/二/、/三/多/人/，/或/有/上座/乃至/受/六十/人/。/</ab>
+<ab type="prose">/爾時/世尊/十五日/布薩/時/，/於/大眾/前/敷/座/而/坐/。/爾時/世尊/觀察/諸/比丘/已/，/告/比丘/：/「/善哉/，/善哉/！/我/今/喜/諸/比丘/行/諸/正/事/，/是故/比丘/！/當/勤/精進/。/」/</ab>
+<ab type="prose">/於/此/舍衛國/滿迦提/月/諸/處/人間/比丘/，/聞/世尊/於/舍衛國/安居/滿/迦提/月/已/，/作/衣/竟/，/持/衣鉢/，/於/舍衛國/人間/遊行/。/漸/至/舍衛國/，/舉/衣鉢/，/洗/足/已/，/詣/世尊/所/，/稽首/禮足/已/，/退/坐/一面/。/爾時/世尊/為/人間/比丘/種種/說法/。/示/教/照/喜/已/，/默然/。/</ab>
+<ab type="prose">/爾時/人間/比丘/聞/佛/說法/，/歡喜/隨喜/，/從/座/起/，/作禮/而/去/。/往/詣/上座/比丘/所/，/稽首/禮足/，/退/坐/一面/。/時/諸/上座/，/作/是/念/：/「/我等/當/受/此/人間/比丘/，/或/一/人/受/一/人/，/或/二/、/三/乃至/多/人/，/即便/受/之/。/」/或/一/人/受/一/人/，/或/二/、/三/乃至/有/受/六十/人/者/。/彼/上座/比丘/受/諸/人間/比丘/，/教戒/教授/，/善知/先後/次第/。/</ab>
+<ab type="prose">/爾時/世尊/月/十五日/布薩/時/，/於/大眾/前/敷/座/而/坐/。/觀察/諸/比丘/，/告/諸/比丘/：/「/善哉/，/善哉/！/諸/比丘/，/我/欣/汝等/所/行/正事/，/樂/法/等/所/行/正事/。/諸/比丘/！/過去/諸/佛/亦/有/比丘/眾/，/所/行/正事/，/如今/此/眾/；/未來/諸/佛/所有/諸/眾/，/亦/當/如是/，/所/行/正事/，/如今/此/眾/。/所以/者/何/？/今/此/眾/中/，/諸/長老/比丘/，/有/得/初禪/、/第二禪/、/第三禪/、/第四禪/、/慈悲/喜捨/、/空/入/處/、/識/入/處/、/無所有/入/處/、/非想非非想/處/，/具足/住/；/有/比丘/三結/盡/得/須陀洹/，/不/墮/惡趣/，/法/決定/向/三菩提/，/七/有/天人/往生/，/究竟/苦/邊/；/有/比丘/三結/盡/，/貪/恚/癡/薄/，/得/斯陀含/；/有/比丘/五下分結/盡/，/得/阿那含/，/生/般涅槃/，/不復/還/生/此/世/；/有/比丘/得/無量/神通/境界/，/天耳/、/他心智/、/宿命智/、/生死/智/、/漏盡/智/；/有/比丘/修/不淨觀/斷/貪欲/，/修/慈心/斷/瞋恚/，/修/無常/想/斷/我慢/，/修/安那般那念/斷/覺/想/。/云何/比丘/修/安那般那念/斷/覺/想/？/是/比丘/依止/聚落/，/乃至/觀/滅/出/息/，/如/觀/滅/出/息/覺/，/是/名/修安那般那念/斷/覺/想/。/」/</ab>
+<ab type="prose">/佛/說/此/經/已/，/諸/比丘/聞/佛/所/說/，/歡喜/奉行/。/</ab>
+<ab type="juan" subtype="close">/佛/為/年少/比丘/說/正/事/經/</ab></div>
+    </body>
+  </text>
+</TEI>

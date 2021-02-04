@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">CBETA電子佛典(量化分析版)</title>
+        <title type="subordinate">古尊宿語錄目錄</title>
+        <author>Dharma Drum Institute of Liberal Arts, Library and Information Center, Digital Archives Section 法鼓文理學院 圖書資訊館 數位典藏組</author>
+        <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+        <respStmt>
+          <resp>資料轉換</resp>
+          <name>周邦信</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>法鼓文理學院</publisher>
+        <address>
+          <addrLine>20842 新北市金山區法鼓路700號</addrLine>
+          <addrLine>da@dila.edu.tw</addrLine>
+        </address>
+        <date>2012-2021</date>
+        <availability>
+          <p>This document is published under a CC Attribution-Share Alike License</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title type="main">CBETA 電子佛典集成</title>
+          <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+          <pubPlace>臺灣‧臺北</pubPlace>
+          <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+          <date>2021-02-03</date>
+          <biblScope type="vol">X68</biblScope>
+          <idno type="Taisho">X68n1314</idno>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+    
+<ab type="juan" subtype="open">/今/刊/古/尊/宿/語/錄/目/錄/</ab>
+<div type="" level="1">
+<ab type="list">
+/第一/卷/
+/　/序/(/誤/載/第七/卷/之/末/)/
+/　/南嶽/大慧/行/狀/
+/　/馬祖/大/寂/行/狀/
+/　/百/丈/懷/海/語/錄/
+/第二/卷/
+/　/百/丈/之/餘/
+/　/黃檗/斷際/語/錄/
+/第三/卷/
+/　/黃檗/斷際/宛陵/錄/
+/第四/卷/
+/　/臨/濟/慧/照/語/錄/
+/第五/卷/
+/　/臨/濟/之/餘/
+/　/興/化/語/錄/
+/第六/卷/
+/　/睦州/語/錄/
+/第七/卷/
+/　/南院/語/要/
+/　/風/穴/語/錄/(/與/正燈/所/錄/大/異/)/
+/第八/卷/
+/　/首/山/念/語/錄/
+/第九/卷/
+/　/石/門/慈/照/鳳巖/集/
+/第十/卷/
+/　/汾陽昭/語/錄/
+/　/承/天/嵩語/錄/
+/第十一/卷/
+/　/慈明/語/錄/(/與/正燈/錄/四大/異/)/
+/第十二/卷/
+/　/南泉/普願/語/要/
+/　/子/湖/山/神力/語/錄/
+/第十三/卷/
+/　/趙州/真際/語/錄/
+/第十四/卷/
+/　/趙州/之/餘/
+/第十五/卷/
+/　/雲/門/匡/真/廣/錄/上/
+/第十六/卷/
+/　/雲門/廣/錄/中/
+/第十七/卷/
+/　/雲門/廣錄/
+/第十八/卷/
+/　/雲門/廣/錄/下/
+/第十九/卷/
+/　/楊岐/會/語/錄/(/序/二/首/誤/安/卷/末/道/吾/語/之/後/)/
+/　/道/吾/真/語/要/
+/第二十/卷/
+/　/海會/演/語/錄/
+/第二十一/卷/
+/　/演/和尚/之/餘/
+/第二十二/卷/
+/　/演/和尚/之/餘/(/東山/錄/也/)/
+/第二十三/卷/
+/　/葉/縣/省/語/錄/
+/第二十四/卷/
+/　/神/鼎諲/語/錄/
+/第二十五/卷/
+/　/大/愚芝/語/錄/
+/第二十六/卷/
+/　/法華/舉/語/要/
+/第二十七/卷/　/到/三十四/卷/
+/　/佛眼/語/錄/
+/第三/十五/卷/
+/　/大/隨/神/照/語/錄/
+/第三十六/卷/
+/　/投/子/語/錄/(/大同/)/
+/第三十七/卷/
+/　/鼓/山神/晏法/堂玄/要/廣集/
+/第三十八/卷/
+/　/洞/山/初/語/錄/
+/第三十九/卷/
+/　/智/門/祚/語/錄/
+/第四十/卷/　/到/四十一/卷/
+/　/雲/峯/悅/語/錄/
+/第四/十二/卷/　/到/四十五/卷/
+/　/真淨/語/錄/
+/第四十六/卷/
+/　/瑯琊/覺/語/錄/
+/第四十七/卷/
+/　/東林/雲門/頌/古/
+/第四十八/卷/
+/　/佛/照/奏/對錄/</ab>
+<ab type="prose">/新/刊/增/鼓/山/本/撰/二十/家/者/。/一十六/家/。/總/三十六/家/。/</ab>
+<ab type="prose">/又/新/刊逸/白/雲/端錄/。/</ab>
+<ab type="prose">/又/正/燈錄/(/五/卷/一/丈/)/。/楊岐/錄/所/引/。/古/尊/宿/錄/語/(/名/文會/又/曰/。/筠州/九峯/院/受/業/)/。/此/本/及/續/刊/楊岐/錄/不/載/。/然則/東陽/所/覽/。/又/別/刊/也/。/</ab></div>
+<ab type="juan" subtype="close"/>
+    </body>
+  </text>
+</TEI>

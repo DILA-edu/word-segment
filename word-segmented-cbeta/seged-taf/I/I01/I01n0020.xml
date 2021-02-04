@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">CBETA電子佛典(量化分析版)</title>
+        <title type="subordinate">袁永等五十人造像記</title>
+        <author>Dharma Drum Institute of Liberal Arts, Library and Information Center, Digital Archives Section 法鼓文理學院 圖書資訊館 數位典藏組</author>
+        <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+        <respStmt>
+          <resp>資料轉換</resp>
+          <name>周邦信</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>法鼓文理學院</publisher>
+        <address>
+          <addrLine>20842 新北市金山區法鼓路700號</addrLine>
+          <addrLine>da@dila.edu.tw</addrLine>
+        </address>
+        <date>2012-2021</date>
+        <availability>
+          <p>This document is published under a CC Attribution-Share Alike License</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title type="main">CBETA 電子佛典集成</title>
+          <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+          <pubPlace>臺灣‧臺北</pubPlace>
+          <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+          <date>2021-02-03</date>
+          <biblScope type="vol">I01</biblScope>
+          <idno type="Taisho">I01n0020</idno>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+    <div level="1">
+<div type="" level="2">
+<ab type="juan" subtype="open">/袁/永/等/五十/人/造像/記/</ab><head>/之/一/　/碑陰/</head>
+<div type="" level="3">
+<ab type="prose">/邑/政/嚴雙/歸/　/　/　/　/隋公/　/邑/子/袁/法明/　/邑/子/嚴万/歲/都/維那/靳/令/石邑/子/史玉/保/　/邑/子史/神□/　/邑/子/嚴/□/□/香/火/靳/韶/歡/　/邑子/嚴桃/生/　/邑/子史/思□/　/　/　/　/　/　/　/　/　/　/　/　/　/　/　/　/　/　/邑子/嚴輔/□邑/胄靳/國/珍/　/香/火/靳/神熾/　/邑/子/嚴/□/興/　/邑/子/嚴定/族邑/胄嚴/󷛽/德/　/典錄/袁/承達/　/邑/子/嚴退/　/　/邑/子/嚴/被/□□那嚴國/昌/　/邑/子/嚴/也/女/　/邑/子/靳/神達/　/邑/子/張/買/得/</ab></div></div>
+<div type="" level="2"><head>/之/二/　/碑側/</head>
+<div type="" level="3">
+<ab type="prose">/正光/三年/歲/次/壬寅/八/月/五/日/　/袁/永/。/靳神/子/。/化主/東鄉/三/女/　/　/　/邑主/嚴桃/　/東鄉/萇洛/。/袁/思/禮/。/邑/胄/袁/陽德/。/袁達/。/靳/國/珍/。/　/嚴/三/德/。/邑/正嚴/雙/歸/。/都/維那/靳/令/石/。/袁/安/興/。/東嚴國/昌/張萇/洛/。/但/官/袁/洪珍/。/靳韶/歡/。/東鄉/猛/虎/。/　/典錄/袁/承達/。/東鄉/暎周/五十/人/。/共/造/石/像/一/軀/。/</ab></div>
+<div type="" level="3">
+<ab type="prose">/清信士/嚴/顯/標/　/清信士/史萇/受/清信士/靳/元秀/　/清信士/靳/世/奇/　/清信士/史/千/牛/清信士/靳/雙/□/　/清信士/嚴/宗慶/　/清信士/嚴/四/王/</ab></div></div>
+<div type="" level="2"><head>/之/三/　/碑側/</head>
+<div type="" level="3">
+<ab type="prose">/□/政/袁/陽德/　/但/官/袁/洪珍/　/　/邑/子/袁/萇/受/　/　/　/　/　/邑子邑/政/袁達/　/　/典錄/東鄉/暎周/　/邑/子/　/　/　/　/　/　/　/　/邑/子/東鄉/</ab></div></div></div>
+    </body>
+  </text>
+</TEI>

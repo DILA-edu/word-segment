@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">CBETA電子佛典(量化分析版)</title>
+        <title type="subordinate">七佛讚唄伽他</title>
+        <author>Dharma Drum Institute of Liberal Arts, Library and Information Center, Digital Archives Section 法鼓文理學院 圖書資訊館 數位典藏組</author>
+        <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+        <respStmt>
+          <resp>資料轉換</resp>
+          <name>周邦信</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>法鼓文理學院</publisher>
+        <address>
+          <addrLine>20842 新北市金山區法鼓路700號</addrLine>
+          <addrLine>da@dila.edu.tw</addrLine>
+        </address>
+        <date>2012-2021</date>
+        <availability>
+          <p>This document is published under a CC Attribution-Share Alike License</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title type="main">CBETA 電子佛典集成</title>
+          <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+          <pubPlace>臺灣‧臺北</pubPlace>
+          <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+          <date>2021-02-03</date>
+          <biblScope type="vol">T32</biblScope>
+          <idno type="Taisho">T32n1682</idno>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+    
+<div type="jing" level="1">
+<ab type="juan" subtype="open">/七/佛/讚/唄伽他/</ab>
+<byline>/西天/中/印度/摩伽陀國/那爛陀寺/傳教/大師/三藏/賜紫/沙門/臣/法天/奉/　/詔/譯/</byline>
+<ab type="prose">/毘婆尸/佛/讚/</ab>
+<ab type="dharani">惹(仁拶反)誐捺麌(二合)龍勇(二合反)秫囉曩囉路(引)迦布(引)𡁠鐙(一句)訖哩(二合)播(引)鉢吒用(二合反)跛囉呬怛謨(引)乞叉(二合)禰(泥曳反)捨亘(二句)尾鉢始也(二合)能(上)底哩(二合)婆(去)嚩(武鉢反)摩護伽播(引)囉𭍍(三句)曩麼(引)弭鐙蘇(上)誐哆(去)誐底孕(二合反)怛他(去引)誐怛廕(二合反引)(四句)</ab>
+<ab type="prose">/式棄/佛/讚/</ab>
+<ab type="dharani">阿(去)難(上)哆播(引)嚟婆(去)嚩(無可反)娑(去引)誐嚟悉弭(二合)(二句)𡫸(重呼)麼惹拽(二合反)麼(引)能(去)鉢囉(二合)捨銘(引)乞史也(三合)路(引)亘(二合)鉢囉(二合)迦(去引)始姤(引)曳曩醯哆(去)野達(轉舌呼)謨(去引)(三句)曩謨(引)窣堵(二合)怛薩昧(二合)式企(引)寧𡁠曩(引)野(四句)</ab>
+<ab type="prose">/毘舍浮/佛/讚/</ab>
+<ab type="dharani">鑁(無滿反)尾濕嚩(二合)部吻(無肯反)沒鄧(一句)讚捺囉(二合引)迦(去)地揭帝惹(仁左反)僧(去)(二句)娑(引)誐嚧伽弭嚩(引)誐(引)鄧(三句)倪野(二合反)禰(泥曳反)曩尾曩曳曩拶(四句)</ab>
+<ab type="prose">/俱留孫/佛/讚/</ab>
+<ab type="dharani">野薩拽(二合反)弩(鼻音重呼)囉始銘(二合短呼)鉢囉(二合)底(丁以反)昧哩野(二合)戍(引)鼻(一句)囉㘄(去引)訖哩(二合)哆(引)婆(去引)底(丁以反)𭌯(武鉢反)遜馱哩琰(二句)噢努沬嚩(二合)囕補澁播(二合)弭嚩(引)那部(二合)鐙(三句)鐙鑁(無滿反)禰(泥曳反)訖囉(二合)矩㻮捺摩賀(引)母𩕳(寧頂反引)捺囕(二合引)(四句)</ab>
+<ab type="prose">/迦諾迦牟尼/佛/讚/</ab>
+<ab type="dharani">尾娑(去)哩拏(引)尾誐怛沫㘑曩唧怛娑(去)(一句)尾囉(引)𭌜(霓以反)拏(引)薩怛怛醯哆(去引)弩(鼻音)迦(去引)哩拏(重呼二句)喝怛怛謨(引)尾誐多沬㘑曩曳曩鐙(三句)蘇(上)囉(引轉舌呼)唧鐙揭曩揭母𡫸曩麼(引)麼野(二合引)憾(四句)</ab>
+<ab type="prose">/迦葉波/佛/讚/</ab>
+<ab type="dharani">鉢囉(二合)怛鉢怛(二合)左(引)弭迦囉囉濕銘(二合)偶(引)𠻱(去)(一句)娑賀娑囉(二合)素哩野(二合引)地迦(去聲呼)禰(泥曳反引)鉢哆(二合)帝惹(仁左反)僧(去)(二句)路句(引)怛懵薩(轉舌)嚩(無可反)惹(仁左反)曩(引)鼻吻(無肯反)寧孕(二合反)(三句)吻那(去引)沬野(二合反)憾迦(引)捨鉢曩(引)麼地𠱆(四句)</ab>
+<ab type="prose">/釋迦牟尼/佛/讚/</ab>
+<ab type="prose">/(/此/讚/一/首/先/已/到/中/夏/流行/，/出/正密/三藏/新/讚/集/中/收錄/)/。/</ab>
+<ab type="dharani">嚩(無个反)抧野(二合反)秫惹㘑鉢囉(二合)底(丁以反)冒(重呼)𠆙路(引)亘(一句)素哩琰(二合引)秫惹㘑哩嚩(武鉢反)鉢那麼(二合)訕(去)𧹞(二合)(二句)愈𡫸沒哩(二合)哆(入)設抧也(二合反)母𡫸鉢囉(二合)禰(泥曳反)鉢(三句)薩怛(二合)薩昧(二合)曩莫播囉麼迦(引)嚕抳(尼整反)迦(引)野設(引)悉底哩(三合引)(四句)</ab>
+<ab type="prose">/當來/化主/慈氏/菩薩/讚/</ab>
+<ab type="dharani">昧怛㘑(二合)野曩(引)麼(引)覩史哆(引)攞野薩吐(二合)(一句)野薩曳(二合反)迦(去)惹曩麼(二合引)怛哩哆(引)醯冒(重呼)地(二句)嚕怛鉢(二合)喰(入)帝囁蘇(上)誐哆(入)畢㗚(二合)體尾琰(二合反)(三句)薩(轉舌)嚩(無可反引)怛麼(二合)曩(引)憾(胡敢反)鉢囉(二合)拏妬(引)濕銘(二合)怛薩昧(二合)(四句)</ab>
+<ab type="prose">/迴向/結/讚/一/首/</ab>
+<ab type="dharani">窣堵(二合)怛嚩(二合引)麼野(引)颯鉢哆(二合)𡁠曩(引)曩底(丁利反)哆曩曩(引)蘗鐙左(引)瑟吒(二合)麼冒(重呼)地薩怛鑁(二合)野怛奔(去二合)抳野(二合反)𤚥(牟敢反)娑(去)儞(泥以反)怛麼鉢囉(二合)弭琰𡫸囉(引)沫野(引)悉帝(二合)曩婆(去)鑁(無滿反)覩薩怛縛(二合引)颯鉢哆(二合)𡁠曩薩怛(二合)嚩(無博切)三(去)麼(引)鉢哆(下字入聲呼二合)</ab>
+<ab type="verse">/過去/七佛/我/讚/竟/，/　/未來/慈氏/次/稱揚/，/
+/我/所/造/福利/無邊/，/　/願/諸/眾生/皆/解脫/。/
+</ab>
+<ab type="juan" subtype="close">/七佛/梵讚/一/卷/</ab></div>
+    </body>
+  </text>
+</TEI>

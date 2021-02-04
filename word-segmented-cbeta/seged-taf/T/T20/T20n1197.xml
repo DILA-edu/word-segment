@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">CBETA電子佛典(量化分析版)</title>
+        <title type="subordinate">佛說文殊師利一百八名梵讚</title>
+        <author>Dharma Drum Institute of Liberal Arts, Library and Information Center, Digital Archives Section 法鼓文理學院 圖書資訊館 數位典藏組</author>
+        <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+        <respStmt>
+          <resp>資料轉換</resp>
+          <name>周邦信</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>法鼓文理學院</publisher>
+        <address>
+          <addrLine>20842 新北市金山區法鼓路700號</addrLine>
+          <addrLine>da@dila.edu.tw</addrLine>
+        </address>
+        <date>2012-2021</date>
+        <availability>
+          <p>This document is published under a CC Attribution-Share Alike License</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title type="main">CBETA 電子佛典集成</title>
+          <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+          <pubPlace>臺灣‧臺北</pubPlace>
+          <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+          <date>2021-02-03</date>
+          <biblScope type="vol">T20</biblScope>
+          <idno type="Taisho">T20n1197</idno>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+    <div level="1">
+<ab type="juan" subtype="open">/佛/說/文殊師利/一百八/名/梵讚/</ab>
+<byline>/西天/譯經/三藏/朝散大夫/試/鴻臚卿/傳教/大師/臣/法天/奉/　/詔/譯/</byline>
+<div type="jing" level="2">
+<ab type="verse">/我/今/宣說/　/文殊師利/　/一百八/名/
+/殊勝/功德/　/一/日/三/時/　/受持/讀誦/
+/所/求/意願/　/決定/現前/　/依/法/課/持/
+/身/恒/清淨/　/罪障/消除/　/或/入/軍陣/
+/諸/怖畏/中/　/文殊/現/身/　/為/作/守護/
+/若/常/誦念/　/速證/菩提/
+</ab></div><head>/梵讚/第一/</head>
+<ab type="dharani">鉢囉(二合)尼鉢怛也(二合)牟儞母里馱曩(三合一)酥鉢囉(二合)三儞曩唧多娑(引二)嚩叉也(二合引)摩也(二合)阿儞也(二合)曩摩(引)儞(三)三沒泰囉覩嚩囉尼旦(四)</ab><head>/梵讚/第二/</head>
+<ab type="dharani">酥魯布魯波馱里左(一)薩里嚩魯布賀也(二合)凍多囉(二)薩里嚩(二合)洛叉拏三布囉拏(二合三)曼祖室里(二合)隴多摩室里(二合)野(四)</ab><head>/梵讚/第三/</head>
+<ab type="dharani">阿進怛也(二合)進怛也(二合)尾誐多(一)阿進怛瑜(二合引)部多尾羯囉(二合)莫(二)阿進怛也(二合)薩里嚩(二合)達里摩(二合引)拏(三)阿進怛瑜(二合引)摩(引)曩娑薩怛(二合)他(引四)</ab><head>/梵讚/第四/</head>
+<ab type="dharani">戍儞也(二合)多(引)婆(引)尾多(引)怛摩(二合)喃(一)戍儞也(二合)達里摩(二合)娑滿地多(二)戍儞也(二合)摩地母訖底(二合)室左(二合三)戍儞也(二合)怛里(二合)婆嚩禰(引)捨迦(四)</ab><head>/梵讚/第五/</head>
+<ab type="dharani">薩里嚩(二合)倪也(二合)薩里嚩(二合)捺里世(二合)左(一)薩里嚩(二合)部彌鉢底里尾(二合)部(二)曼祖室里(二合)嚩舍嚩里底(二合)左(三)鉢納摩(二合)訖叉(二合)鉢納摩(二合)三婆嚩(四)</ab><head>/梵讚/第六/</head>
+<ab type="dharani">鉢納摩(二合)緊惹敢(切)迦嚩囉拏(二合)室左(二合一)鉢納摩(二合)波里焰(二合)迦摩(引)娑曩(二)儞路怛波(二合)羅馱囉布多(三)波尾怛囉(二合)設(引)多摩(引)娑曩(四)</ab><head>/梵讚/第七/</head>
+<ab type="dharani">鉢囉(二合)怛也(二合)迦沒度(引)沒馱娑怛鑁(三合一)阿禰沒度(引)儞嚕左也(二合)帝(引二)乙里(二合)弟𤚥(引)麼尸多鉢囉(二合)鉢多(二合三)室贊(二合)覩薩怛瑜(二合)波那舍迦(四)</ab><head>/梵讚/第八/</head>
+<ab type="dharani">路迦播(引)羅娑賀娑囉(二合)乞叉(二合一)伊濕嚩(二合)囉娑怛鑁(三合)鉢囉(二合)惹鉢帝(引二)尸嚩娑怛鑁(三合)薩里嚩(二合)部多(引)喃(引三)娑怛鑁(二合)尾都虞拏娑誐囉(四)</ab><head>/梵/讚/第九/</head>
+<ab type="dharani">乙里(二合)史娑怛鑁(三合)奔尼也(二合)室里(二合引)瑟跓(二合)左(一)濟瑟跓(二合)惹底娑摩(二合)囉娑怛(二合)他(引二)尾曩野俱(引)尾儞(引)多(引)左(三)𠰒曩補怛嚕(二合引)𠰒曩怛摩(二合)惹(四)</ab><head>/梵讚/第十/</head>
+<ab type="dharani">婆(引)覩娑賀娑囉(二合)囉濕彌(二合)娑怛鑁(三合一)酥(引)摩娑怛鑁(三合)左物里(二合)賀娑鉢(二合)底(二)馱曩努(引)嚩魯拏室載(二合)嚩(三)娑怛鑁(三合)尾瑟拏(二合)娑怛鑁(三合)摩呬濕嚩(二合)囉(四)</ab><head>/梵讚/第十一/</head>
+<ab type="dharani">阿難覩(引)曩誐囉(引)惹娑怛鑁(三合一)娑建(二合)度細(引)曩(引)鉢底娑多(二合)他(引二)吠摩唧怛囉(二合)酥里捺囉(二合)娑怛鑁(三合三)婆(引)摩設訖囉(二合)多那娑怛(二合)他(引四)</ab><head>/梵讚/第十二/</head>
+<ab type="dharani">薩里嚩(二合)禰(引)嚩摩瑜尾囉(一)薩里嚩(二合)禰吠(引)曩摩塞訖里(三合)多(二)路(引)迦達里摩(二合)摩羅(引)底覩(三)娑怛鑁(三合)路計(引)左(引)誐囉(二合)補那誐(二合)羅(四)</ab><head>/梵讚/第十三/</head>
+<ab type="dharani">路迦誐也(二合)路迦尾誐也(二合)覩(一)惹帝喃(引)鉢囉(二合)嚩魯嚩囉(二)嚩囉努羅野曩怛囉(二合)拏(三)阿度里(二合)沙瑜(二合)摩囉迦里彌(二合)𧹞(四)</ab><head>/梵讚/第十四/</head>
+<ab type="dharani">儼鼻囉室左(二合)曩嚩儞也(二合)室左(二合一)迦羅也(二合引)拏彌怛囉(二合)三播那(二)吠捺也(二合)娑恒鑁(三合)舍羅也(二合)罕里多(二合)左(三)曩囉難摩也(二合)酥娑(引)囉體(四)</ab><head>/梵讚/第十五/</head>
+<ab type="dharani">摩底𤚥誐底𤚥室載(二合)嚩(一)沒弟𤚥室左(二合)尾左乞叉(二合)拏(二)奔拏也(二合)鑁羯羅波(二合)沒里(二合)乞叉(二合)室左(二合三)冐地孕(二合)誐補澁波(二合)曼尼多(四)</ab><head>/梵讚/第十六/</head>
+<ab type="dharani">尾目訖底(二合)頗羅三半曩(一)阿娑囉(二合)野薩里嚩(二合)儞呬喃(引二)摩努賀魯摩努誐也(二合)室左(二合三)阿曩里具(二合)沒囉(二合)憾摩(二合)左里𧹞(四)</ab><head>/梵讚/第十七/</head>
+<ab type="dharani">計覩娑怛鑁(二合)誐囉(二合)賀室里(二合)瑟吒(二合)娑怛鑁(三合一)里史鼻母儞布誐嚩(二)曜嚩囉(引)惹鼻史訖多(二合)怛鑁(三)那舍部彌濕嚩(二合)嚕鉢囉(二合)部(四)</ab><head>/梵讚/第十八/</head>
+<ab type="dharani">娑(引)里他(二合)嚩護誐拏室里(二合)瑟吒(二合一)儞里嚩(二合)尼所(二合)多摩禰舍迦(二)佉娑摩(二合)摩地也(二合)羯羅波(二合)娑怛鑁(三合三)怛嚩(二合)帝𡁠嚩(引)喻里嚩左(四)</ab><head>/梵讚/第十九/</head>
+<ab type="dharani">怛鑁(二合)進多(引)摩尼薩怛嚩(二合)喃(一)薩里嚩(二合引)舍波里布囉迦(二)曩謨窣覩(二合)帝(引)摩賀尾儞也(二合三)薩里嚩(二合)部多曩摩塞訖里(二合)多(四)</ab>
+<ab type="juan" subtype="close">/佛/說/文殊師利/一百八/名/梵讚/</ab></div>
+    </body>
+  </text>
+</TEI>

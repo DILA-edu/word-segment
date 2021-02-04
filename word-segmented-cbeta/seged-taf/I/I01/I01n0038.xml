@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">CBETA電子佛典(量化分析版)</title>
+        <title type="subordinate">僧演造像記</title>
+        <author>Dharma Drum Institute of Liberal Arts, Library and Information Center, Digital Archives Section 法鼓文理學院 圖書資訊館 數位典藏組</author>
+        <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+        <respStmt>
+          <resp>資料轉換</resp>
+          <name>周邦信</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>法鼓文理學院</publisher>
+        <address>
+          <addrLine>20842 新北市金山區法鼓路700號</addrLine>
+          <addrLine>da@dila.edu.tw</addrLine>
+        </address>
+        <date>2012-2021</date>
+        <availability>
+          <p>This document is published under a CC Attribution-Share Alike License</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title type="main">CBETA 電子佛典集成</title>
+          <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+          <pubPlace>臺灣‧臺北</pubPlace>
+          <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+          <date>2021-02-03</date>
+          <biblScope type="vol">I01</biblScope>
+          <idno type="Taisho">I01n0038</idno>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+    <div level="1">
+<div type="" level="2">
+<ab type="juan" subtype="open">/僧/演/造像/記/</ab>
+<div type="" level="3">
+<ab type="prose">/郭世/貴/一心/供養/清信/駱花/嬰/一心/供養/佛/時/</ab></div>
+<div type="" level="3">
+<ab type="prose">/夫/大覺/神/遷/。/非/經/像/無/以/表/其/真/。/益/世/閏/時/。/憑/形/質/如/取/利/。/然/僧/演/減割/衣鉢/之/資/。/造/石/像/壹/區/。/金/像/三區/。/浮圖/三/級/。/大/般涅槃/經/兩/部/。/雜/經/三百品/。/供養/僧/卅/人/。/上/為/　/國主/。/百僚/。/師徒/所/生/。/法界/之/類/。/咸/同/正覺/。/大統/四年/。/歲次/戊午/。/七月/十五日/。/比丘/僧/演/敬/造/供養/。/</ab></div>
+<div type="" level="3">
+<ab type="prose">/比丘/道暈/　/比丘/僧/暢/　/比丘/僧/通/比丘/僧/演/　/比丘/僧/普/　/比丘/惠/云/比丘/法迴/　/比丘/僧/敬/　/比丘/僧/轁/比丘/僧/端/　/比丘/法豪/　/比丘/道/賢/比丘/僧曠/　/比丘/僧/云/　/比丘/僧/和/比丘/惠/遵/　/比丘/僧/濟/比丘/道洸/　/比丘/僧/玉/比丘/法崇/　/比丘/僧/均/　/比丘/法和/</ab></div>
+<div type="" level="3">
+<ab type="prose">/董/大/女/供養/佛/清信士/萬/□/董/當/供養/佛/時/董/僧/供養/佛/時/董歡/供養/佛/時/清信女/趙季/寄/供養/董□/樂/供養/佛/清信女/李/□□/供養/姚舍/欣/供養/佛/殄/難將軍/郭穆/供養/佛/清信女/李□/妙/供養/伏波將軍/任/歡/供養/佛/</ab></div></div></div>
+    </body>
+  </text>
+</TEI>

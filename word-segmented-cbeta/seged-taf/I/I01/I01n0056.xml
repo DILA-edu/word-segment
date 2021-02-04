@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">CBETA電子佛典(量化分析版)</title>
+        <title type="subordinate">馬敬賢五十人等造像記</title>
+        <author>Dharma Drum Institute of Liberal Arts, Library and Information Center, Digital Archives Section 法鼓文理學院 圖書資訊館 數位典藏組</author>
+        <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+        <respStmt>
+          <resp>資料轉換</resp>
+          <name>周邦信</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>法鼓文理學院</publisher>
+        <address>
+          <addrLine>20842 新北市金山區法鼓路700號</addrLine>
+          <addrLine>da@dila.edu.tw</addrLine>
+        </address>
+        <date>2012-2021</date>
+        <availability>
+          <p>This document is published under a CC Attribution-Share Alike License</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title type="main">CBETA 電子佛典集成</title>
+          <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+          <pubPlace>臺灣‧臺北</pubPlace>
+          <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+          <date>2021-02-03</date>
+          <biblScope type="vol">I01</biblScope>
+          <idno type="Taisho">I01n0056</idno>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+    <div level="1">
+<div type="" level="2">
+<ab type="juan" subtype="open">/馬/敬/賢/五十/人/等/造像/記/</ab>
+<div type="" level="3">
+<ab type="prose">/．/．/．/族/</ab></div>
+<div type="" level="3">
+<ab type="prose">/　/□/齊/□/保/三年/歲/在/壬申/四/月/廿/三/日/建/。/　/夫/至/理/沖凝/。/絕/詮數/之/表/。/法身/虛洞/。/　/超/有/无/之/境/。/是故/如來/。/欲/使/迷/駕迴/　/輪/。/異/路/改/轍/。/故/託/跡/形/名/。/以/曉/未/悟/。/邑/主/　/馬敬/賢合邑/五十/人/等/。/各/捨/家/珍/。/敬/造/石/　/像/一/區/。/雕飾/莊嚴/。/鏤/形/精麗/。/伏願/　/皇帝/。/　/國祚/永延/。/師/僧/父母/。/超越/三界/。/託/趣/道場/。/　/彌勒/出世/。/故/能/刊/石/鐫/芳/。/用/宣/賢劫/。/當/陽像/主/馬/雄/</ab></div>
+<div type="" level="3">
+<ab type="prose">/．/．/．/連/　/　/清信/．/．/．/．/．/．/奴/　/　/清信/江要/姬/．/．/．/□/　/　/清信/□堂/女/．/．/．/養/．/．/．/安生/</ab></div></div></div>
+    </body>
+  </text>
+</TEI>

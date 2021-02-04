@@ -1,0 +1,324 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">CBETA電子佛典(量化分析版)</title>
+        <title type="subordinate">蓮華部心念誦儀軌</title>
+        <author>Dharma Drum Institute of Liberal Arts, Library and Information Center, Digital Archives Section 法鼓文理學院 圖書資訊館 數位典藏組</author>
+        <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+        <respStmt>
+          <resp>資料轉換</resp>
+          <name>周邦信</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>法鼓文理學院</publisher>
+        <address>
+          <addrLine>20842 新北市金山區法鼓路700號</addrLine>
+          <addrLine>da@dila.edu.tw</addrLine>
+        </address>
+        <date>2012-2021</date>
+        <availability>
+          <p>This document is published under a CC Attribution-Share Alike License</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title type="main">CBETA 電子佛典集成</title>
+          <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+          <pubPlace>臺灣‧臺北</pubPlace>
+          <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+          <date>2021-02-03</date>
+          <biblScope type="vol">T18</biblScope>
+          <idno type="Taisho">T18n0875</idno>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+    <div level="1">
+<ab type="juan" subtype="open">/蓮華/部/心念/誦/儀軌/</ab>
+<div type="jing" level="2">
+<ab type="prose">/淨地/：/</ab>
+<ab type="dharani">􇖵rajepagatāḥsarvadharmma</ab>
+<ab type="prose">/淨身/：/</ab>
+<ab type="dharani">svāhāvaśuddhāḥsarvadharmmāḥ</ab>
+<ab type="prose">/觀/佛/：/</ab>
+<ab type="dharani">khaṃvajradhāto</ab>
+<ab type="prose">/金剛/起/：/</ab>
+<ab type="dharani">oṃvajretiṣṛhūṃ</ab>
+<ab type="prose">/阿閦/：/</ab>
+<ab type="dharani">oṃsarvatathāgatapūjapasvanayaānāṃniryātayāmisarvatathāgatāvajrasatvādhiṣṭasvamaṃhūṃ</ab>
+<ab type="prose">/寶/生/：/</ab>
+<ab type="dharani">oṃsarvatathāgatāpūjabhiṣekāyaānāṃniryātayāmisarvatathāgatāvajraratnabhiṣivamaṃ　traḥ</ab>
+<ab type="prose">/無量/壽/：/</ab>
+<ab type="dharani">oṃsarvatathāgatāpūjapravartnanāyāānāniryātayāsisarvatathāgatāvajradharmmāpravartnayāmāṃhrīḥ</ab>
+<ab type="prose">/不/空/成就/：/</ab>
+<ab type="dharani">oṃsarvatathāgatāpūjakarmmaṇiāānāṃniryātayāmisarvatathāgatāvajrakarmmakurumāṃ　aḥ</ab>
+<ab type="prose">/金剛/持/：/</ab>
+<ab type="dharani">oṃsarvatathāgatakāyavākvintavajravadmanāṃkaromioṃvajravi</ab>
+<ab type="prose">/證定/：/</ab>
+<ab type="dharani">oṃsarvatathāgatāśaṃsitāḥsarvasatvānāṃsarvasiddhayaḥsaṃpadyatnāṃtathāgatāścādhitiṣṭatnā</ab>
+<ab type="prose">/遍觀/：/</ab>
+<ab type="dharani">vajradṛṣṭimaṭ</ab>
+<ab type="prose">/金剛/掌/：/</ab>
+<ab type="dharani">vajrajali</ab>
+<ab type="prose">/金剛/縛/：/</ab>
+<ab type="dharani">vajabaddha</ab>
+<ab type="prose">/開/心/：/</ab>
+<ab type="dharani">vajravatva</ab>
+<ab type="prose">/入/智/：/</ab>
+<ab type="dharani">vajraveśaaḥ</ab>
+<ab type="prose">/堅固/智/：/</ab>
+<ab type="dharani">vajramuṣṭivaṃ</ab>
+<ab type="prose">/普賢/三昧/耶/：/</ab>
+<ab type="dharani">samayastvaṃ</ab>
+<ab type="prose">/極/喜/三昧/耶/：/</ab>
+<ab type="dharani">samayahoḥsuratastvaṃ</ab>
+<ab type="prose">/降/三世/：/</ab>
+<ab type="dharani">oṃsumbhanisumbhahuṃgṛhṇagṛhṇahuṃgṛhṇapayahuṃānayahoḥbhagavaṃvajrahuṃphaṭ</ab>
+<ab type="prose">/蓮花/三昧/耶/：/</ab>
+<ab type="dharani">oṃvajrapadmasamayastvaṃ</ab>
+<ab type="prose">/法輪/：/</ab>
+<ab type="dharani">huṃṭakkispheṭayamahāvirāgavajavajradharasatyenaṭhaḥ</ab>
+<ab type="prose">/大慾/：/</ab>
+<ab type="dharani">oṃsuratavajraṃ　jraḥhūṃvaṃhosamayastvaṃ</ab>
+<ab type="prose">/大樂/金剛/：/</ab>
+<ab type="dharani">oṃmahāsukhavajraṃsādhayasarvasatvebhyojaḥhūṃvaṃhoḥ</ab>
+<ab type="prose">/召/罪/：/</ab>
+<ab type="dharani">oṃsarvapāpakarṣaṇaviśodhanavajrasatvasamayahūṃphaṭ</ab>
+<ab type="prose">/擢罪/：/</ab>
+<ab type="dharani">oṃvajrapāṇivisphoṭayasarvapāyabaddhānānipramokṣayasarvapāyagatibhyaḥsarvasatvāsarvatathāgatavajrasamayahūṃtraṭ</ab>
+<ab type="prose">/淨/三業/：/</ab>
+<ab type="dharani">oṃvajrakarmmāviśodhayasarvavaraṇanibuddhasabhyenasamayahūṃ</ab>
+<ab type="prose">/菩提心/：/</ab>
+<ab type="dharani">oṃcandrotnaresumatnabhadrakiraṇimahāvajraṇihūṃ</ab>
+<ab type="prose">/普/禮/：/</ab>
+<ab type="dharani">oṃsarvatathāgatāpādavandanāṃkaromi</ab>
+<ab type="prose">/通達/心/：/</ab>
+<ab type="dharani">oṃcittaprativedhakaromi</ab>
+<ab type="prose">/證/菩提心/：/</ab>
+<ab type="dharani">oṃbodhicittamutpādayāmi</ab>
+<ab type="prose">/明顯/：/</ab>
+<ab type="dharani">oṃtiṣṭavajrapadma</ab>
+<ab type="prose">/八葉/蓮花/：/</ab>
+<ab type="dharani">oṃvajrapadmatmakohaṃ</ab>
+<ab type="prose">/觀/身/本/尊/：/</ab>
+<ab type="dharani">oṃyathāsarvatathāgatāstathāhaṃ</ab>
+<ab type="prose">/諸/如來/加持/：/</ab>
+<ab type="dharani">oṃsarvatathāgatabhiṃsaṃbodhidṛphavajratiṣṭa</ab>
+<ab type="prose">/四/如來/三昧/耶/：/</ab>
+<ab type="dharani">oṃvajrasatvādhiṣṭasvāmāṃ􇖴hūṃ</ab>
+<ab type="dharani">oṃvajranatnādhiṣṭasvāmāṃ􇖴traḥ</ab>
+<ab type="dharani">oṃvajradharmmādhiṣṭasvāmāṃ􇖴hrīḥ</ab>
+<ab type="dharani">oṃvajrakarmmadhiṣṭasvāmāṃ􇖴aḥ</ab>
+<ab type="prose">/五/佛/灌頂/：/</ab>
+<ab type="dharani">oṃsarvatathāgateśvaryābhiṣekahūṃ</ab>
+<ab type="dharani">oṃvajrasatvābhiṣiṃcamāṃhūṃ</ab>
+<ab type="dharani">oṃvajraratnābhiṣiṃcamāṃtrāḥ</ab>
+<ab type="dharani">oṃvajrapadmābhiṣiṃcamāṃhrīḥ</ab>
+<ab type="dharani">oṃvajrakarmmabhiṣiṃcamāṃaḥ</ab>
+<ab type="prose">/四/如來/鬘/：/</ab>
+<ab type="dharani">oṃvajrasatvamālābhiṣiṃcamāṃvaṃ</ab>
+<ab type="dharani">oṃvajraratnamalābhiṣiṃcamāṃvaṃ</ab>
+<ab type="dharani">oṃvajrapadmāmālābhiṣiṃcamāṃvaṃ</ab>
+<ab type="dharani">oṃvajrakarmmamalābhiṣiṃcamāṃvaṃ</ab>
+<ab type="dharani">oṃṭuṃ</ab>
+<ab type="prose">/金剛/拍/：/</ab>
+<ab type="dharani">oṃvajratuṣyahoḥ</ab>
+<ab type="prose">/現/智/身/：/</ab>
+<ab type="dharani">vajrasatvaaḥ</ab>
+<ab type="prose">/見/智/身/：/</ab>
+<ab type="dharani">oṃvajrasatvadṛśyajaḥhūṃvaṃhaḥ</ab>
+<ab type="prose">/如來/平等/三昧/耶/：/</ab>
+<ab type="dharani">samayohaṃmahāsamayohaṃ</ab>
+<ab type="dharani">oṃvimaledadhihūṃ</ab>
+<ab type="prose">/八/功德水/：/</ab>
+<ab type="dharani">haṃvaṃprasukaṃ</ab>
+<ab type="prose">/須彌山/：/</ab>
+<ab type="dharani">oṃacalahūṃ</ab>
+<ab type="prose">/小/金剛輪/：/</ab>
+<ab type="dharani">oṃvajracakrahūṃ</ab>
+<ab type="prose">/啟請/：/</ab>
+<ab type="dharani">yabhyāṃnirvighnasaccakrasiddhisyātamuhevatevajrakuṇḍalihetubhyāṃtabhyaṃmastusadānamaḥ</ab>
+<ab type="prose">/開/門/：/</ab>
+<ab type="dharani">oṃvajradvārodmāṭayasamayapraveśayahūṃ</ab>
+<ab type="prose">/啟請/伽陀/曰/：/</ab>
+<ab type="dharani">āyāṃtusarvebhuvanakasātāḥpraṇāmitāḥśaṣakaṭāramārāḥsākṣakṛtānatnabhavasvabhāvāḥsvāyaṃbhu</ab>
+<ab type="dharani">vonatnabhavasvabhavāḥ</ab>
+<ab type="prose">/佛/海/會/：/</ab>
+<ab type="dharani">oṃvajrasamajajaḥ</ab>
+<ab type="prose">/東/：/</ab>
+<ab type="dharani">vajrasatvamahāsatvavajrasarvantathāgatasamantabhadravajradyavajrapāṇanamostute</ab>
+<ab type="dharani">vajrarājasubuddhāgryavajrāṃkuśatathāgataamogharājavajragryavajrakarṣanamostute</ab>
+<ab type="dharani">vajrārāgamahāsokhyavajravāṇavaśaṃkaramārakāmamahāvajravajracapanamostute</ab>
+<ab type="dharani">vajrasadhisuvajragryavajratuṣṛemahārateprāmodyarajavajragryavajrahārṣaramostute</ab>
+<ab type="dharani">vajraratnasuvajrarthavajrakāśamahāmaṇiākaśagarbhavajrahyavajragarbharamostute</ab>
+<ab type="dharani">vajratejamahājvālavajrasūryajiraprabhavajraraśmimahātejaprabharamostute</ab>
+<ab type="dharani">vajraketususatvārthavajradhvajasutoṣakaratnaketumahāvajravajrayaṣṛenamostute</ab>
+<ab type="dharani">vajrahāsamahāhāsavajrasmitamahādbhutaprītiprāmodyavajradyavajraprītenamostute</ab>
+<ab type="prose">/西/：/</ab>
+<ab type="dharani">vajradharmmasusatvārthavajrapadmasuśadhakalokeśvarasuvajrakṣavajratetranamostute</ab>
+<ab type="dharani">vajratīkṣṇamahāyānavajrakośamahāyudhamaṃjuśrīvajragāṃbhīryavajrabuddhenamostute</ab>
+<ab type="dharani">vajrahetumahāmaṇḍavajracakramahānayasupravarttanavajrochavajramaṇḍaramostute</ab>
+<ab type="dharani">vajrabhāṣasuvidyāgryavajrajapasusiddhidaavācavajracidhyāgryavajrabheṣānamostute</ab>
+<ab type="prose">/北/：/</ab>
+<ab type="dharani">vajrakarmmasuvajrajṇakaṭarmmavajrasusarvagavajramoghamahodaryavajraviśvanamostute</ab>
+<ab type="dharani">vajrarakṣamahāveryaḥvajradharmmamahādṛḍhaduryedhanasuvīryagryavajravīryanamostute</ab>
+<ab type="dharani">vajrayakṣamahopāyavajradaṃṣṭra</ab>
+<ab type="dharani">mahābhayamarapramardivajregravajracaṇḍanamostute</ab>
+<ab type="dharani">vajrasaṃdhisusanedhyavajravatvapramocakavajramuṣvyagrya</ab>
+<ab type="dharani">oṃvajrarātnau　oṃvajratejaāṃ</ab>
+<ab type="dharani">oṃvajraketutrāṃ　oṃvajrahāsahaḥ</ab>
+<ab type="dharani">oṃvajradharmmahrīḥ　oṃvajratīkṣṇadhaṃ</ab>
+<ab type="dharani">oṃvajrahetumaṃ　oṃvajrabhāṣaraṃ</ab>
+<ab type="dharani">oṃvajrakarmmakaṃ　oṃvajrarakṣahaṃ</ab>
+<ab type="dharani">oṃvajrayakṣahuṃ　oṃvajrasaṃhevaṃ</ab>
+<ab type="prose">/內/口/供養/：/</ab>
+<ab type="dharani">oṃvajralāsahaḥ　oṃvajramalatraṭ</ab>
+<ab type="dharani">oṃvajragītegīḥ　oṃvajradṛtyekṛṭ</ab>
+<ab type="prose">/外/四/供養/：/</ab>
+<ab type="dharani">oṃvajradhupaaḥ　oṃvajrapuṣpeoṃ</ab>
+<ab type="dharani">oṃvajralokedīḥ　oṃvajragaddhegaḥ</ab>
+<ab type="prose">/四攝/：/</ab>
+<ab type="dharani">oṃvajrāṃkuśajaḥ　oṃvajrapāśahūṃ</ab>
+<ab type="dharani">oṃvajraspheṭvaṃ　oṃvajraveśahoḥ</ab>
+<ab type="dharani">hūṃhūṃ</ab>
+<ab type="prose">/已/上/羯磨/會/。/</ab>
+<ab type="prose">/五/佛/：/</ab>
+<ab type="dharani">vajrajñāraṃaḥ　vajrajñānaṃhūṃ</ab>
+<ab type="dharani">vajrajñānaṃtraḥ　vajrajñānahrīḥ</ab>
+<ab type="dharani">vajrajñānaṃaḥ</ab>
+<ab type="prose">/四波羅蜜/：/</ab>
+<ab type="dharani">vajraśīḥhūṃ　vajragerītraḥ</ab>
+<ab type="dharani">vajratārahrīḥ　khavajriṇihoḥ</ab>
+<ab type="prose">/十六/尊/：/</ab>
+<ab type="dharani">samayastvaṃ　ānayasva</ab>
+<ab type="dharani">ahosukha　sadhusādhu</ab>
+<ab type="dharani">sumahātvaṃ　rūpodyota</ab>
+<ab type="dharani">ardhaprāpti　hahahūṃhaḥ</ab>
+<ab type="dharani">sarvakāri　duḥkhaccheda</ab>
+<ab type="dharani">buddhabodhi　pratiśavda</ab>
+<ab type="dharani">suvaśitvaṃ　nirbhayatvaṃ</ab>
+<ab type="dharani">śatrūbhakṣa　sarvasiddhi</ab>
+<ab type="prose">/八/供養/：/</ab>
+<ab type="dharani">maharati　rūpaśebhe</ab>
+<ab type="dharani">gotrasaikhye　sarvapūje</ab>
+<ab type="dharani">prahṛdini　phalagame</ab>
+<ab type="dharani">sutejāgri　sugaḍāṅgi</ab>
+<ab type="prose">/四攝/：/</ab>
+<ab type="dharani">āyahijaḥ　āhihūṃhūṃ</ab>
+<ab type="dharani">hesphoṭavaṃ　ghaṃṭaaḥaḥ</ab>
+<ab type="prose">/遍照/尊/：/</ab>
+<ab type="dharani">oṃsarvatathāgatāvajradhātvanuttarapūjaspharaṇasamayehūṃ</ab>
+<ab type="prose">/金剛/薩埵/：/</ab>
+<ab type="dharani">oṃsarvatathāgatavajrasatvanuttarapūjaspharaṇasamayehūṃ</ab>
+<ab type="prose">/金剛/寶/：/</ab>
+<ab type="dharani">oṃsartatathāgatāvajraratnanuttarapūjaspharaṇasamayehūṃ</ab>
+<ab type="prose">/金剛法/：/</ab>
+<ab type="dharani">oṃsarvatathāgatāvajradharmmanuttarapūjaspharaṇasamayehūṃ</ab>
+<ab type="prose">/金剛/業/：/</ab>
+<ab type="dharani">oṃsarvatathāgatāvajrakarmmanutarapūjaspharaṇasamayeoṃ</ab>
+<ab type="prose">/心/上/金剛/縛/。/</ab>
+<ab type="prose">/東/：/</ab>
+<ab type="dharani">oṃsarvatathāgatasarvatmaniryatanapūjaspharaṇakarmmāvajriāḥ</ab>
+<ab type="prose">/右脇/：/</ab>
+<ab type="dharani">oṃsarvatathāgatāsarvātmaniryātanapūjaspharaṇakarmmāgrijaḥ</ab>
+<ab type="prose">/左脇/：/</ab>
+<ab type="dharani">oṃsarvatathāgatāsakutmaniryatanānuragaṇapūjaspharaṇakarmmāvāṇahūṃho</ab>
+<ab type="prose">/要/後/：/</ab>
+<ab type="dharani">oṃsarvatathāgatasarvātmaniryātanasādhukārapūjaspharaṇakarmmatuṣṭisaḥ</ab>
+<ab type="prose">/額/上/：/</ab>
+<ab type="prose">/　/南/：/</ab>
+<ab type="dharani">oṃnamaḥsarvatathāgatābhiṣekaratnabhyovajramaṇioṃ</ab>
+<ab type="prose">/心/上/：/</ab>
+<ab type="dharani">oṃnamaḥsarvatathāgatasuryebhyovajratejinijvālahrīḥ</ab>
+<ab type="prose">/頂/上/：/</ab>
+<ab type="dharani">oṃnamaḥsarvatathāgatāśāparipūraṇacintamaṇidhvajagrebhyovajradhvajagritrāṃ</ab>
+<ab type="prose">/口/上/咲/處/：/</ab>
+<ab type="dharani">oṃnamaḥsarvatathāgatāmahāprītiprāmodyākarebhyokarebhyovajrahasehaḥ</ab>
+<ab type="prose">/口/上/密/語/：/</ab>
+<ab type="prose">/　/西/：/</ab>
+<ab type="dharani">oṃsarvatathāgatāvajradharmmatāsumadhibhiḥstunāmimahādharmmāgrihrīḥ</ab>
+<ab type="prose">/右/耳/：/</ab>
+<ab type="dharani">oṃsarvatathāgatāprajñāpāramitābhiḥnirhostunomimahāghoṣanugedhaṃ</ab>
+<ab type="prose">/左/耳/：/</ab>
+<ab type="dharani">oṃsarvatathāgatācakrakṣaraparivarttanasarvasutrātanayayaiḥstunomisarvamaṇḍalahūṃ</ab>
+<ab type="prose">/頂後/：/</ab>
+<ab type="dharani">oṃsarvatathāgatasaṃdhābhāṣabuddhaksaṃgītibhiḥgadaṃstunomivajravācecaḥ</ab>
+<ab type="prose">/頂/上/：/</ab>
+<ab type="prose">/　/北/：/</ab>
+<ab type="dharani">oṃsarvatathāgatabupameghasamuspharaṇapūjakardmekarakaraḥ</ab>
+<ab type="prose">/右/肩/上/：/</ab>
+<ab type="dharani">oṃsarvatathāgatāpūṣpaprasaraspharaṇapūjakardmekirikiriḥ</ab>
+<ab type="prose">/右/跨/上/：/</ab>
+<ab type="dharani">oṃsarvatathāgatālokajvālaspharaṇapūjakardmebharabharaḥ</ab>
+<ab type="prose">/置/心/上/：/</ab>
+<ab type="dharani">oṃsarvatathāgatāganumeghasamudraspharaṇapūjakardmekurukuraḥ</ab>
+<ab type="prose">/散/□/外/四/：/</ab>
+<ab type="dharani">oṃsarvatathāgatāpuṣpapūjameghasamudraspharaṇasamayehūṃ</ab>
+<ab type="prose">/燒香/：/</ab>
+<ab type="dharani">oṃsarvatathāgatadhupapūjameghasamudraspharaṇasamayehūṃ</ab>
+<ab type="prose">/燈/：/</ab>
+<ab type="dharani">oṃsarvatathāgatadīpapūjameghasamudraspharaṇasamayehūṃ</ab>
+<ab type="prose">/塗香/：/</ab>
+<ab type="dharani">oṃsarvatathāgataganvapūjameghasamudraspharaṇasamamehūṃ</ab>
+<ab type="prose">/三昧/耶/：/</ab>
+<ab type="dharani">oṃsarvatathāgatābodhyagaratnalaṃkārapūjameghasamudraspharaṇasamayehūṃ</ab>
+<ab type="prose">/戲嬉/：/</ab>
+<ab type="dharani">oṃsarvatathāgatāhāsyalāsyākrīnūratisaikhyāttarapūjameghasamudraspharaṇasamayehūṃ</ab>
+<ab type="prose">/薩埵/三昧/：/</ab>
+<ab type="dharani">oṃsarvatathāgatāvajrepamasamādhibhāvanāpānavojanavasanapūjameghasamudraspharaṇasamayehūṃ</ab>
+<ab type="prose">/羯磨/三昧/：/</ab>
+<ab type="dharani">oṃsarvatathāgatakāyaniryātanaprajāmeghasamudraspharaṇasamayehūṃ</ab>
+<ab type="prose">/達磨/三昧/：/</ab>
+<ab type="dharani">oṃsarvatathāgatācittaniryātanapūjameghasamudraspharaṇasamayehūṃ</ab>
+<ab type="prose">/寶幢/三昧/：/</ab>
+<ab type="dharani">oṃsarvatathāgatāmahāvajredbhavadonapāramitāpūjameghasamudraspharaṇasamayehūṃ</ab>
+<ab type="prose">/□/香/身/契/：/</ab>
+<ab type="dharani">oṃsarvatathāgatānuttaramahābodhyāhārakaśīlapāramitapūjameghasamudraspharaṇasamayehūṃ</ab>
+<ab type="prose">/羯磨/：/</ab>
+<ab type="dharani">oṃsarvatathāgatanuttaramahādharmmavabodhakṣātiparamitapūjameghasamudraspharaṇasamayehūṃ</ab>
+<ab type="prose">/鬪/勝/精進/契/：/</ab>
+<ab type="dharani">oṃsarvatathāgatasaṃsārapārityāgānuttaramahāvīryapāramitāpūjameghasamudraspharaṇasamayehūṃ</ab>
+<ab type="prose">/三摩地/：/</ab>
+<ab type="dharani">oṃsarvatathāgatanuttaramahāsaikhyavihāradhyanapāramitapūjāmeghasamudraspharaṇasamayehūṃ</ab>
+<ab type="prose">/遍照/尊/：/</ab>
+<ab type="dharani">oṃsarvatathāgatānuttaraklegajñeyāvaraṇavāsanāvinayanamahāprajñāpāramitapūjameghasamudraspharaṇasamayehūṃ</ab>
+<ab type="prose">/勝上/三摩地/：/</ab>
+<ab type="dharani">oṃsarvatathāgatāgubhyamahāpratipantipūjameghasamudraspharaṇasamayehūṃ</ab>
+<ab type="prose">/合/指爪/：/</ab>
+<ab type="dharani">oṃsarvatathāgatavoniryātanapūjameghasamudraspharaṇasamayehūṃ</ab>
+<ab type="prose">/金剛/拳/：/</ab>
+<ab type="dharani">oṃhṛdayanīṣitānisarvatathāgatānāṃsiddhyattā</ab>
+<ab type="prose">/三昧/耶/：/</ab>
+<ab type="dharani">sarvamudrāṃmepṛyābhavatu</ab>
+<ab type="prose">/法印/：/</ab>
+<ab type="dharani">nighrapaṃcavāksidvibhavatusarvatathāgatāsamadhayemeājayatna</ab>
+<ab type="prose">/羯磨/印/：/</ab>
+<ab type="dharani">avidyātvāvatemesatvāḥsarvatathāgataṃścavidyadhigamasaṃvarasabhūtta</ab>
+<ab type="prose">/金剛三昧/：/</ab>
+<ab type="dharani">oṃvajrasatvasamayamanupālayavajrasatvanvenopatiṣṭadṛhomebhavamisutudhyomebhavaanuraktomebhavasupuṣyomebhavasarvasiddhiṃmeprayacchasarvakarmasucamecittaśroyakuruhūṃhahahahahoḥbhagavaṃsarvatathāgatavajramāmamuṃcavajrībhavamahāsamayasatvāāḥ</ab>
+<ab type="prose">/蓮華/部/三昧/：/</ab>
+<ab type="dharani">oṃpadmasatvasamayanupālayapadmasatvamvenopatiṣṭadṛhomehavasutoṣyomebhavasunuraktomebhavasupuṣyomebhavasarvasiddhiṃmeprayacchasarvakarmmasucamecintiśroyakuruhūṃhahahahahobhagavaṃsarvatathāgatapadmamāmasuṃcapadmībhavamahāsamayasatvahrīḥ</ab>
+<ab type="prose">/旋轉/真言/：/</ab>
+<ab type="dharani">oṃvajragubhyajāpasamayehūṃ</ab>
+<ab type="prose">/奉送/：/</ab>
+<ab type="dharani">oṃkṛtosarvavaḥsatvārthasiddhirdattayathānugāgacchathaṃbuddhaviṣayaṃpunaragamanayatuoṃpadmasatvamuḥ</ab>
+<ab type="prose">/寶印/：/</ab>
+<ab type="dharani">oṃvajvārabhiṣicamāṃsarvamudramodṛhīkuruvarakavacenavaṃvajratuṣyahoḥ</ab>
+<ab type="dharani">aryāsita</ab>
+<ab type="dharani">namomitābhayanamomitayuṣa􇟄namonamecityaguṇakaratmane􇟄namomitābhayajinayatemonesukhavatīṃkanakavicitrakananāṃ􇟄manūramāsugatasutairalaṃkṛnāṃ􇟄tavāśrayadmataguṇasyadhimataḥ􇟄prayamitāṃmahuguṇaratnasaṃcayāṃ</ab>
+<ab type="dharani">oṃnamaḥvaṃhūṃtraḥhrīḥāḥjaḥhūṃvaṃhoḥ</ab>
+<ab type="dharani">namaḥ</ab>
+<ab type="dharani">vajradhatudharmaekavīdhiraccha</ab>
+<ab type="prose">/略/念/誦/，/行道/及/草草/時/念/誦/法/。/先/護/身/，/自/器/世間/至/被甲/，/次/結/小/金剛/輪/印/，/真言/誦/之/。/次/結/根本/印/，/誦/根本/真言/加持/四/處/。/次/金剛/合掌/置/頂/上/，/誦o/ṃ/字/二十一/遍/，/是/供養/法/也/。/次/結/根本/印/，/念/誦/根本/真言/二十一/遍/，/以/下/不必/捻/珠/數/，/自/茲/以後/隨宜/行/耳/。/</ab></div>
+<div type="w" level="2">
+<ab type="prose">/寫/本/云/：/</ab>
+<ab type="prose">/永/長/二/秊/四月/二十七/日/奉寫/了/。/僧/賢/尊/</ab>
+<ab type="prose">/請/來/之/，/內/以/般若寺/僧/正手/筆/之/本/書/之/。/</ab></div></div>
+    </body>
+  </text>
+</TEI>

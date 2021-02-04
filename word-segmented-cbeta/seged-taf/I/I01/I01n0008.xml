@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">CBETA電子佛典(量化分析版)</title>
+        <title type="subordinate">張道智造像記</title>
+        <author>Dharma Drum Institute of Liberal Arts, Library and Information Center, Digital Archives Section 法鼓文理學院 圖書資訊館 數位典藏組</author>
+        <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+        <respStmt>
+          <resp>資料轉換</resp>
+          <name>周邦信</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>法鼓文理學院</publisher>
+        <address>
+          <addrLine>20842 新北市金山區法鼓路700號</addrLine>
+          <addrLine>da@dila.edu.tw</addrLine>
+        </address>
+        <date>2012-2021</date>
+        <availability>
+          <p>This document is published under a CC Attribution-Share Alike License</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title type="main">CBETA 電子佛典集成</title>
+          <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+          <pubPlace>臺灣‧臺北</pubPlace>
+          <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+          <date>2021-02-03</date>
+          <biblScope type="vol">I01</biblScope>
+          <idno type="Taisho">I01n0008</idno>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+    
+<div type="" level="1">
+<ab type="juan" subtype="open">/張道智/造像/記/</ab>
+<ab type="prose">/　/大魏/正始/元年/四月/八日/佛/弟子/張道/智/。/知/三寶/可/崇/。/□/發/微/願/。/用/寺/西/家/地/　/　/　/兩/拾/畝/。/永施/五樓村/。/永福寺/主/　/　/　/開/。/常/住/眾/僧/等/。/願/許/其/有/僧/在/寺/　/　/　/永/為/智/亡祖/父母/。/居門/眷屬/。/依/時/禮拜/。/齋會/之/次/。/各/為/禮/一/拜/。/慮/後/　/僧/不/曉/。/造/石/像/一/區/。/因/銘/記/之/。/</ab></div>
+    </body>
+  </text>
+</TEI>

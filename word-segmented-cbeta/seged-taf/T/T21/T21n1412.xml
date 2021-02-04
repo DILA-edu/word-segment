@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">CBETA電子佛典(量化分析版)</title>
+        <title type="subordinate">佛說寶生陀羅尼經</title>
+        <author>Dharma Drum Institute of Liberal Arts, Library and Information Center, Digital Archives Section 法鼓文理學院 圖書資訊館 數位典藏組</author>
+        <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+        <respStmt>
+          <resp>資料轉換</resp>
+          <name>周邦信</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>法鼓文理學院</publisher>
+        <address>
+          <addrLine>20842 新北市金山區法鼓路700號</addrLine>
+          <addrLine>da@dila.edu.tw</addrLine>
+        </address>
+        <date>2012-2021</date>
+        <availability>
+          <p>This document is published under a CC Attribution-Share Alike License</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title type="main">CBETA 電子佛典集成</title>
+          <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+          <pubPlace>臺灣‧臺北</pubPlace>
+          <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+          <date>2021-02-03</date>
+          <biblScope type="vol">T21</biblScope>
+          <idno type="Taisho">T21n1412</idno>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+    
+<div type="dharani" level="1">
+<ab type="juan" subtype="open">/佛/說/寶/生/陀羅尼/經/</ab>
+<byline>/西天/譯經/三藏/朝散大夫/試/鴻臚/少卿/傳法/大師/臣/施護/奉/　/詔/譯/</byline>
+<ab type="dharani">曩謨(引)囉怛曩(二合)囉濕彌(二合)贊捺囉(二合)鉢囉(二合)底曼尼哆尾儞焰(二合)帝(引)惹具世濕嚩(二合)囉(引)羅(引)惹野怛他(引)誐哆(引)野(引)囉賀(二合)帝(引)三藐三沒馱(引)野怛儞也(二合)他囉怛儞(二合引)囉怛儞(二合引)囉怛曩(二合)吉囉尼囉怛曩(二合)鉢囉(二合)底曼膩帝囉怛曩(二合)三婆尼(引)囉怛曩(二合)鉢囉(二合)鼻(引)囉怛努(二合引)訥誐(二合)帝(引)娑嚩(二合引)賀(引)</ab>
+<ab type="prose">/若/有/眾生/。/於/此/如來/陀羅尼/名號/受持/供養/。/彼/人/生生/得/轉輪位/。/成就/梵行/具/大/神通/。/獲/十/種/陀羅尼/。/復/值/恒河沙/等/諸/佛/如來/而/無/虛妄/。/經/俱胝/劫/不/入/輪迴/路/。/不/斷/菩提/種/不/失/菩提心/。/永/滅/一切/罪/得/報/身/如來/。/若/人/持/誦滿/一七/日/。/是/人/當/得/天眼/清淨/。/若/人/耳/聞/恒/復/憶念/。/是/人/決定/當/得/菩提/。/於/過去世/所/作/善根/亦/得/現前/。/若/傳/一/人/所有/無間/罪業/。/悉/得/除滅/永斷/輪迴/。/是/人/不/被/水火/盜賊/之/所/侵害/。/而/復/諸/根/不/缺/眾/病/不/生/鬼魅/不/著/。/眾/所/愛/敬/於/當來世/受持/如來/微妙/之/法/供養/諸/佛/。/若/人/聞/已/心/喜/禮拜/讚歎/。/是/人/功德/無量/無邊/。/於/生生/中/口/出/妙/香/廣/一/由旬/。/身/毛孔/中/恒/有/光明/常/自/照曜/。/常/作/如來/勝利/之/事/如/阿難陀/。/具/如是/不可思議/功德/。/</ab>
+<ab type="juan" subtype="close">/佛/說/寶/生/陀羅尼/經/</ab></div>
+    </body>
+  </text>
+</TEI>

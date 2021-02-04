@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">CBETA電子佛典(量化分析版)</title>
+        <title type="subordinate">集諸學頌</title>
+        <author>Dharma Drum Institute of Liberal Arts, Library and Information Center, Digital Archives Section 法鼓文理學院 圖書資訊館 數位典藏組</author>
+        <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+        <respStmt>
+          <resp>資料轉換</resp>
+          <name>周邦信</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>法鼓文理學院</publisher>
+        <address>
+          <addrLine>20842 新北市金山區法鼓路700號</addrLine>
+          <addrLine>da@dila.edu.tw</addrLine>
+        </address>
+        <date>2012-2021</date>
+        <availability>
+          <p>This document is published under a CC Attribution-Share Alike License</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title type="main">CBETA 電子佛典集成</title>
+          <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+          <pubPlace>臺灣‧臺北</pubPlace>
+          <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+          <date>2021-02-03</date>
+          <biblScope type="vol">B10</biblScope>
+          <idno type="Taisho">B10n0053</idno>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+    <div level="1">
+<ab type="juan" subtype="open">/集/諸/學頌/　/頂禮/一切/佛/菩薩/</ab>
+<byline>/親/教師/寂靜/菩薩/造/</byline>
+<byline>/民/國/赴/藏/學/法/僧超一/譯/</byline>
+<ab type="verse">/如斯/自/及/他/　/不/欲/苦/畏/中/　/與/自/既/無/差/　/何其/不/護/他/　/出/苦/求/邊際/　/亦/求/往/樂/際/
+/信根/堅固/已/　/菩提/心/亦/堅/　/菩薩/律儀/者/　/方廣/大乘/出/　/以/何/為/無/罪/　/此/要/處/應/知/
+/我/所有/身/財/　/三世/生/諸/善/　/悉/施/諸/有情/　/此/增長/淨/護/　/為/有情/受用/　/應/施/捨/身/等/
+/未/護/財/何/來/　/無/財/誰/有/施/　/故/為/眾生/用/　/不/捨/善知識/　/於/經/常/觀察/　/當/守護/身/等/
+/此/云何/護/身/　/當/離/於/損害/　/此/諸/何/所/得/　/能/遠離/無/果/　/復/常/時/攝/念/　/念/重/極/敬/生/
+敬/者/大/寂靜/　/知/已/精進/生/　/等持/正/如如/　/佛/說/如斯/慧/　/遮除/外道/動/　/心/寂靜/不/動/
+/摧滅/諸/悼/舉/　/求/堪能/凡夫/　/所/持/應/亦/生/　/此/應/持/若/非/　/世陵/懱/佛/芽/　/如/灰/覆/之/火/
+/燒/獄/等/有情/　/故/勝/者/戒/經/　/若/有情/不/信/　/此/應/勵/力/斷/　/此/寶/雲/中/說/　/此/我/守護/身/
+/藥/及/底/等/有/　/於/我/愛/受用/　/煩惱/墮/成就/　/於/善/行/應/作/　/於/一切/應/明/　/如是/依/此/學/
+/此/受用/易/守/　/離/貪/自/利/熟/　/守護/諸/善/成/　/欽喜/亦/不應/　/作/已/不/讚揚/　/當/畏/利/恭敬/
+/常/遠離/高舉/　/菩薩/亦/應/作/　/於/法/除/二/心/　/身/者/若/調/鍊/　/利益/受用/成/　/大/果/善/育養/
+/無/觀/身/似/益/　/如/其/谷/若/焦/　/病/癒/且/不/圓/　/如是/雖/佛/芽/　/煩惱/焦/不/證/　/云何/身/之/口/
+/罪/煩惱/潔淨/　/正覺/說/斯/理/　/無/勤/惡趣/趣/　/應/忍/應/多聞/　/復次/應/靜/處/　/於/等持/精進/
+/應/修/不淨/等/　/以/調柔/正命/　/應/知/淨/受用/　/具/有/空/悲心/　/能/生/清淨/福/　/於/極/多/應/持/
+/此/少/此/何/作/　/極/厭/不應/生/　/是故/應/增長/　/云何/身/增長/　/無/懈怠/力/生/　/具/空/與/悲心/
+/施/受用/增長/　/精進/恩/惟/堅/　/第一/精勤/作/　/現前/悲/安置/　/善/增/應/精勤/　/如/賢/行/儀軌/
+/作禮/等/應/恭/　/當/常/修/信/等/　/慈/及/念/佛/等/　/諸/時/常/利生/　/德/施/不/希財/　/總/略/菩薩/者/
+/是/增長/福因/　/能/成/正/斷/者/　/不/離/不/放逸/　/正念/及/正智/　/如/理/而/思惟/
+</ab>
+<ab type="juan" subtype="close">/集/諸/學/頌/終/</ab></div>
+    </body>
+  </text>
+</TEI>

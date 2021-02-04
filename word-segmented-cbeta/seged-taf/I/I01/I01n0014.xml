@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">CBETA電子佛典(量化分析版)</title>
+        <title type="subordinate">比丘郭曇勝造像記</title>
+        <author>Dharma Drum Institute of Liberal Arts, Library and Information Center, Digital Archives Section 法鼓文理學院 圖書資訊館 數位典藏組</author>
+        <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+        <respStmt>
+          <resp>資料轉換</resp>
+          <name>周邦信</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>法鼓文理學院</publisher>
+        <address>
+          <addrLine>20842 新北市金山區法鼓路700號</addrLine>
+          <addrLine>da@dila.edu.tw</addrLine>
+        </address>
+        <date>2012-2021</date>
+        <availability>
+          <p>This document is published under a CC Attribution-Share Alike License</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title type="main">CBETA 電子佛典集成</title>
+          <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+          <pubPlace>臺灣‧臺北</pubPlace>
+          <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+          <date>2021-02-03</date>
+          <biblScope type="vol">I01</biblScope>
+          <idno type="Taisho">I01n0014</idno>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+    <div level="1">
+<div type="" level="2">
+<ab type="juan" subtype="open">/比丘/郭曇/勝/造像/記/</ab><head>/之/一/　/碑陰/</head>
+<div type="" level="3">
+<ab type="prose">/但/越/主/梁洪/相/　/　/梁/歸/喜/</ab></div>
+<div type="" level="3">
+<ab type="prose">/　/　/　/　/　/　/　/　/大/代/延昌/四年/歲次/乙/未/四/月/一/日/比丘/郭/□/勝/　/造/石/像/一/區/。/為/忘/弟子/　/曇豐/。/夫/大覺/淟/□/□/積/善/。/无/以/成/其/功/。/四/到/輪迴/。/何/能/超/其/累/。/是以/□/□/晉/脩/諸/利/。/功益/當時/。/自/靈波/沖寂/。/神光/遷苑/。/雖/復/漸/影/園/□/。/光/潛/□/□/。/自/非/識/體/玄宗/。/栖/心/妙/竟/。/沖慮/建/于/靈祇/。/像法/開/□/□/。/願/使/忘/者/神/生/天堂/。/縱/志/八/定/。/彌勒/一/其/。/值/生/不退/。/現世/伏災/。/四大/休□/。/功□/寵祿/。/子孫/樊熾/。/門族/雍和/。/非/□/永/絕/三/途曠/火輪/催軸/　/　/　/　/　/　/　/　/三有/四生/。/悟/无生忍/。/庶/□尠/　/　/散/。/冀/隆/剋/就/。/</ab></div></div>
+<div type="" level="2"><head>/之/二/　/碑陽/</head>
+<div type="" level="3">
+<ab type="prose">/忘/父/郭/僧/景/　/梁丰/一心/</ab></div>
+<div type="" level="3">
+<ab type="prose">/比丘/道和/從/兄/郭/□/保/比丘/曇歆/從/姪/柏尉/比丘/曇喜/從/姪雙伯/比丘/曇妙/息/郭達/比丘/曇興息/郭/顯/比丘/道/藻/外/生/阿勝/比丘/曇智/姊郭/安/□/亡/竇/叔/□/□/郭/真/安/妻/□/</ab></div></div>
+<div type="" level="2"><head>/之/三/　/碑側/</head>
+<div type="" level="3">
+<ab type="prose">/忘/弟子/曇豐/</ab></div>
+<div type="" level="3">
+<ab type="prose">/梁光/祖思/集/相/母/李/　/安容/女/梁足/仁/保/織/閻陵/姜女/阿□/梁石/祖□/哉/鄧/拯生/女/□/非/梁洪/興/天/覆/馬/春/好/女/僧/姬/梁迴/　/騃/洛楊/供妃/女/軍/老梁/洪祖/難/當/柳栢/醜/女/眉/容梁/承祖/思/儀衛/雙/眉/女/迎/男梁天/□/歸/洛女/醜多/女/敬愛/梁□/□/□/□/□/□/好/女/雷/當/□/□/□/□/妙/容姿/</ab></div></div>
+<div type="" level="2"><head>/之/四/　/碑側/</head>
+<div type="" level="3">
+<ab type="prose">/　/比丘/法□/比丘/郭曇/勝/供養/傅/珍國/一心/供養/崔亮/一心/車/山/□/一心/　/桂/道/允/一心/</ab></div>
+<div type="" level="3">
+<ab type="prose">/北/地/太守/梁秋/息/梁始/春/名/煦/　/　/　/夫/人/□曇/要息/梁仲/春/　/　/　/　/　/夫/人/程曇/暈田/富息/梁/寄春/　/　/　/　/　/夫人/李氏容/幾息/梁始/慶/　/　/傅/珍國/供養/佛/息/梁/仲慶/　/　/　/　/　/比丘尼/李曇/暈息/女/舍利/女/英/妃/　/　/沙彌尼/曇/顯息/女/顯/妃/　/先/妃/　/　/沙彌尼/曇□/　/　/　/　/　/　/　/　/　/費洪/雲/</ab></div></div></div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">CBETA電子佛典(量化分析版)</title>
+        <title type="subordinate">南天竺國菩提達摩禪師觀門</title>
+        <author>Dharma Drum Institute of Liberal Arts, Library and Information Center, Digital Archives Section 法鼓文理學院 圖書資訊館 數位典藏組</author>
+        <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+        <respStmt>
+          <resp>資料轉換</resp>
+          <name>周邦信</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>法鼓文理學院</publisher>
+        <address>
+          <addrLine>20842 新北市金山區法鼓路700號</addrLine>
+          <addrLine>da@dila.edu.tw</addrLine>
+        </address>
+        <date>2012-2021</date>
+        <availability>
+          <p>This document is published under a CC Attribution-Share Alike License</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title type="main">CBETA 電子佛典集成</title>
+          <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+          <pubPlace>臺灣‧臺北</pubPlace>
+          <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+          <date>2021-02-03</date>
+          <biblScope type="vol">T85</biblScope>
+          <idno type="Taisho">T85n2832</idno>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+    <div level="1">
+<ab type="juan" subtype="open">/南/天竺國/菩提達摩禪師/觀/門/</ab>
+<ab type="prose">/問/曰/。/何/名/禪定/　/答/曰/。/禪/為/亂/心/不/起/無/動/無/念/為/禪定/。/端/心/止/念/。/無生無滅/。/無/去/無/來/。/堪然/不/動/。/名/之/為/禪定/　/何/名為/禪觀/　/答/曰/。/心/神/澄淨/名/之/為/禪/。/照理/分明/名/之/為/觀/。/禪觀/自/達/無有/錯謬/。/故/名/禪觀/。/心/神/澄淨/不/生/不/滅/不/來/不/去/湛然/不/動/名/之/為/禪/　/問/曰/。/何/名/禪定/　/答/曰/。/禪定/者/梵音/。/此/名/功德/聚林/。/三界/諸/佛/皆/說/禪坐/。/故/名/功德/聚林/　/又/問/。/何/名/禪法/　/答/曰/。/禪法/從/通/有/次第/。/初/學/時/從/始/終/有/七/種/觀/門/。/第一/住/心/門/。/第二/空/心/門/。/第三/無/門/。/第四/心/解脫門/。/第五/禪定/門/。/第六/真妙/門/。/第七/智慧門/。/住/心/門/者/。/謂/心/散動/攀緣/不/住/。/專/攝/念/住/更/無/去/動/。/故/名/住/心/門/。/空/心/門/者/。/謂/看/心/轉/追/覺/心/空寂/。/無/去/無/來/無有/住處/。/無/所/依/心/。/故/云/空/心/門/。/心/無相/門/。/謂/心/澄淨/無有/相貌/。/非/青/非/黃/非/赤/非/白/。/非/長/非/短/非/大/非/少/。/非/方/非/圓/湛然/不/動/。/故/名/無相門/。/心/解脫門/者/。/知/心/無/繫/無/縛/。/一切/煩惱/不來/上/心/。/故/名/心解脫門/。/禪定/者/。/西域/梵音/。/唐/言/靜慮/。/覺/心/寂靜/。/行/時/住/時/坐/時/臥/時/皆悉/寂靜/無有/散動/。/故/名/寂靜/。/真如/門/者/。/覺/心/無/心/等/同/虛空/。/遍/周/法界/平等/不二/。/無/千/無/變/。/故/名/真如門/。/智慧門/者/。/識/了/一切/名/之/為/智/。/契達/空/源/名/之/為/慧/。/故/名/智慧門/。/亦/名/究竟道/。/亦/名/大乘/無相/禪觀/門/。/則/是/修/禪/學/道/故/。/禪/有/七/種/觀/門/。/大/聲/念/佛/得/十/種/功德/。/一/者/不/聞/惡/聲/。/二/者/念佛/不/散/。/三/者/排/去/睡眠/。/四/者/勇猛/精進/。/五/者/諸/天/歡喜/。/六/者/魔軍/怖畏/。/七/者/聲/振/十方/。/八/者/三/途息/苦/。/九/者/三昧/現前/。/十/者/往生/淨土/。/</ab></div>
+    </body>
+  </text>
+</TEI>

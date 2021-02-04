@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">CBETA電子佛典(量化分析版)</title>
+        <title type="subordinate">佛說堅意經</title>
+        <author>Dharma Drum Institute of Liberal Arts, Library and Information Center, Digital Archives Section 法鼓文理學院 圖書資訊館 數位典藏組</author>
+        <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+        <respStmt>
+          <resp>資料轉換</resp>
+          <name>周邦信</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>法鼓文理學院</publisher>
+        <address>
+          <addrLine>20842 新北市金山區法鼓路700號</addrLine>
+          <addrLine>da@dila.edu.tw</addrLine>
+        </address>
+        <date>2012-2021</date>
+        <availability>
+          <p>This document is published under a CC Attribution-Share Alike License</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title type="main">CBETA 電子佛典集成</title>
+          <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+          <pubPlace>臺灣‧臺北</pubPlace>
+          <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+          <date>2021-02-03</date>
+          <biblScope type="vol">T17</biblScope>
+          <idno type="Taisho">T17n0733</idno>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+    
+<ab type="juan" subtype="open">/佛/說/堅意/經/</ab>
+<byline>/後漢/安息國/三藏/安世高/譯/</byline>
+<div type="jing" level="1">
+<ab type="prose">/聞/如是/：/</ab>
+<ab type="prose">/一時/，/佛/在/舍衛國/祇樹/給孤獨園/。/</ab>
+<ab type="prose">/佛/告/阿難/：/「/我/今/禪定/，/憐傷/世人/不/知/佛道/正真/弘深/，/而/以/淺偽/輕薄/之/言/欲/設/嫉心/謗毀/道根/，/妄作/窮/難/難/吾/弟子/。/汝/當/正/心/知/此/罪人/，/或/是/邪/妖/惡/師/，/或/是/不/知/世俗/姦人/。/若/諸/菩薩/、/比丘/僧/、/比丘尼/、/優婆塞/、/優婆夷/，/明經/高潔/，/開解/愚冥/，/為/說/生死/罪福/所/鍾/，/設/其/即/解知/服/道真/，/此/為/罪/滅/福/生/之/人/。/若/其/指/掌/為/說/橋梁/，/心懷/憒憒/，/意/不/欲/聞/，/雖/欲/強/聽/，/心/多/睡眠/；/或/壞/道法/，/輕毀/沙門/及/優婆塞/，/惡口/妄/言/，/當/明/此/人/為/罪/所/牽/。/沙門/賢者/，/以/忍/為/先/，/當/如/清水/，/無/所/不淨/，/死人/、/死/狗/、/死/蛇/、/屎/尿/亦/皆/洗/之/，/然/不/毀/水/清/。/亦/當/持/心/，/有/如/掃箒/掃/地/，/淨/不淨/，/死人/、/死/狗/、/死/蛇/、/屎/尿/皆/亦/掃/之/，/然/不/毀/於/箒/矣/。/亦/當/復/如/風/火/之/力/、/光/，/死人/、/死/狗/、/死/蛇/、/屎/尿/，/亦/吹/亦/燒/，/然/不/毀/風/火/之/力/、/光/。/若/人/欲/來/殺/己/，/己/亦/不/瞋/；/欲/來/謗/己/，/己/亦/不/瞋/；/欲/來/譖/己/，/己/亦/不/瞋/；/欲/來/笑/己/，/己/亦/不/瞋/；/欲/來/壞/己/，/使/不/事/佛法/，/己/亦/不/瞋/；/但/當/慈心/正/意/，/罪/滅/福/生/，/邪/不/入/正/，/萬/惡/消爛/。/」/</ab>
+<ab type="prose">/佛/告/阿難/：/「/其/有/好心/善意/之/人/，/聞/佛/明/法/，/一心/而/聽/，/能/一/日/可/；/不能/一/日/，/半/日/可/；/不能/半/日/，/一時/可/；/不能/一時/，/半/時/可/；/不能/半/時/，/須臾/可/；/其/福/不可/量/、/不可/訾/也/。/</ab>
+<ab type="prose">/「/汝/當/廣/為/諸/比丘/僧/、/比丘尼/、/優婆塞/、/優婆夷/、/白衣/人民/說/之/，/并/當/廣/為/說/布施/，/種/生死/糧/。/其/有/齋日/，/施設/飯食/，/請/召/四/輩/高/經/賢者/、/沙門/、/道人/，/施設/高/座/，/論講/佛經/，/燒香/然/燈/，/光明達天/。/諸/天/喜笑/，/皆/下/虛空/，/側/耳/來/聽/，/莫不/欣然/。/其/有/破/慳/，/布施/為/福/，/善/神/即/下/，/營/救/門戶/，/攘/禍/滅/怪/，/出/與/利/會/，/利/則/而/吉/，/終/無/怨惡/。/譬如/種/穀/，/隨/種/而/生/，/種/善/得/福/，/種/惡/獲/殃/，/未/有/不/種/而/獲/果實/。/當/正/爾/心/，/福/自歸/身/，/慎/無/卜問/，/為/邪/所/牽/；/心懷/狐疑/，/善/神/遠/人/，/動/入/罪/地/，/所/為/不/成/。/不/知/毀/戒/，/反/怨/佛/神/，/事/之/無/益/，/遂/不/正/心/。/男子/、/女人/其/有/聞/此/經/者/，/及/奉持/讀誦/者/，/莫不/得/福/者/。/」/</ab>
+<ab type="prose">/佛/說/經/已/，/阿難/歡喜/，/起/為/佛/作禮/。/</ab></div>
+<ab type="juan" subtype="close">/佛/說/堅意/經/</ab>
+    </body>
+  </text>
+</TEI>

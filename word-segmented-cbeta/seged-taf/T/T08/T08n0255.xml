@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">CBETA電子佛典(量化分析版)</title>
+        <title type="subordinate">般若波羅蜜多心經</title>
+        <author>Dharma Drum Institute of Liberal Arts, Library and Information Center, Digital Archives Section 法鼓文理學院 圖書資訊館 數位典藏組</author>
+        <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+        <respStmt>
+          <resp>資料轉換</resp>
+          <name>周邦信</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>法鼓文理學院</publisher>
+        <address>
+          <addrLine>20842 新北市金山區法鼓路700號</addrLine>
+          <addrLine>da@dila.edu.tw</addrLine>
+        </address>
+        <date>2012-2021</date>
+        <availability>
+          <p>This document is published under a CC Attribution-Share Alike License</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title type="main">CBETA 電子佛典集成</title>
+          <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+          <pubPlace>臺灣‧臺北</pubPlace>
+          <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+          <date>2021-02-03</date>
+          <biblScope type="vol">T08</biblScope>
+          <idno type="Taisho">T08n0255</idno>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+    
+<ab type="juan" subtype="open">/般若波羅蜜多心經/(/燉煌/石室/本/)/</ab>
+<byline>/國/大德/三藏/法師/沙門/法成/譯/</byline>
+<div type="jing" level="1">
+<ab type="prose">/如是我聞/：/</ab>
+<ab type="prose">/一時/薄伽梵/住/王舍城/鷲峯山/中/，/與/大/苾蒭/眾/及/諸/菩薩/摩訶薩/俱/。/爾時/，/世尊/等/入/甚深/明了/三摩地/法/之/異/門/。/復/於/爾時/，/觀自在/菩薩/摩訶薩/行/深/般若波羅蜜多/時/，/觀察/照見/五蘊/體性/悉皆/是/空/。/</ab>
+<ab type="prose">/時/，/具壽/舍利子/，/承/佛/威力/，/白/聖者/觀自在/菩薩/摩訶薩/曰/：/「/若/善男子/欲/修行/甚深/般若波羅蜜多/者/，/復/當/云何/修學/？/」/作/是/語/已/。/</ab>
+<ab type="prose">/觀自在/菩薩/摩訶薩/答/具壽/舍利子/言/：/「/若/善男子/及/善女人/，/欲/修行/甚深/般若波羅蜜多/者/，/彼/應/如是/觀察/，/五蘊/體性/皆/空/。/色/即是/空/，/空/即是/色/。/色/不/異/空/，/空/不/異/色/。/如是/受/、/想/、/行/、/識/亦復/皆/空/。/是故/舍利子/！/一切/法/空性/無相/，/無生無滅/，/無垢/離垢/，/無/減/無/增/。/舍利子/！/是故/爾時/空性/之/中/，/無/色/、/無/受/、/無想/、/無/行/亦/無有/識/。/無/眼/、/無/耳/、/無/鼻/、/無/舌/、/無/身/、/無/意/。/無/色/、/無/聲/、/無/香/、/無/味/、/無/觸/、/無/法/。/無/眼界/乃至/無/意識界/。/無/無明/亦/無/無明/盡/，/乃至/無/老/死/亦/無/老/死/盡/。/無/苦/、/集/、/滅/、/道/，/無/智/無/得/亦/無/不得/。/是故/舍利子/！/以/無所得/故/，/諸/菩薩/眾/依止/般若波羅蜜多/，/心/無/障礙/，/無有/恐怖/，/超過/顛倒/，/究竟涅槃/。/三世/一切/諸/佛/亦/皆/依/般若波羅蜜多/故/，/證得/無上/正等/菩提/。/舍利子/！/是故/當/知/般若波羅蜜多/大/密咒/者/，/是/大/明/咒/，/是/無上/咒/，/是/無等等/咒/。/能/除/一切/諸/苦/之/咒/，/真實/無/倒/。/故/知/般若波羅蜜多/是/祕密/咒/。/」/</ab>
+<ab type="prose">/即/說/般若波羅蜜多/咒/曰/：/</ab>
+<ab type="dharani">「峩帝　峩帝　波囉峩帝　波囉僧峩帝　菩提　莎訶</ab>
+<ab type="prose">/「/舍利子/！/菩薩/摩訶薩/應/如是/修學/甚深/般若波羅蜜多/。/」/</ab>
+<ab type="prose">/爾時/，/世尊/從/彼/定/起/，/告/聖者/觀自在/菩薩/摩訶薩/曰/：/「/善哉/，/善哉/！/善男子/！/如是/，/如是/！/如/汝/所/說/。/彼/當/如是/修學/般若波羅蜜多/。/一切/如來/亦/當/隨喜/。/」/</ab>
+<ab type="prose">/時/薄伽梵/說/是/語/已/。/具壽/舍利子/，/聖者/觀自在/菩薩/摩訶薩/，/一切/世間/天/、/人/、/阿蘇羅/、/乾闥婆/等/，/聞/佛/所/說/，/皆大歡喜/，/信受奉行/。/</ab></div>
+<ab type="juan" subtype="close">/般若波羅蜜多心經/</ab>
+    </body>
+  </text>
+</TEI>

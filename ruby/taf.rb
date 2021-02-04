@@ -20,6 +20,11 @@ end
 
 def convert_canon(c)
   puts "convert_canon #{c}"
+
+  dest = File.join($out, c)
+  FileUtils.rm_rf(dest)
+  FileUtils.makedirs(dest)
+
   src = File.join($in, c)
   Dir.entries(src).sort.each do |f|
     next if f.start_with?('.')

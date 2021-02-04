@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">CBETA電子佛典(量化分析版)</title>
+        <title type="subordinate">七佛俱胝佛母心大准提陀羅尼法</title>
+        <author>Dharma Drum Institute of Liberal Arts, Library and Information Center, Digital Archives Section 法鼓文理學院 圖書資訊館 數位典藏組</author>
+        <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+        <respStmt>
+          <resp>資料轉換</resp>
+          <name>周邦信</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>法鼓文理學院</publisher>
+        <address>
+          <addrLine>20842 新北市金山區法鼓路700號</addrLine>
+          <addrLine>da@dila.edu.tw</addrLine>
+        </address>
+        <date>2012-2021</date>
+        <availability>
+          <p>This document is published under a CC Attribution-Share Alike License</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title type="main">CBETA 電子佛典集成</title>
+          <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+          <pubPlace>臺灣‧臺北</pubPlace>
+          <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+          <date>2021-02-03</date>
+          <biblScope type="vol">T20</biblScope>
+          <idno type="Taisho">T20n1078</idno>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+    <div level="1">
+<div type="jing" level="2">
+<ab type="juan" subtype="open">/七佛/俱胝/佛/母/心/大/准/提陀羅尼/法/</ab>
+<byline>/唐/善/無畏/奉/　/詔/譯/</byline>
+<ab type="prose">/　/　/獨/部/別/行/</ab>
+<ab type="dharani">na　maḥ　sa　pta　nāṃ　sa　mya　ksaṃ　bu　ddhā　ko　
+那　麼　颯　哆　喃　三　藐　三　勃　佗　俱　
+ṭi　nāṃ　ta　dya　thā　oṃ　ca　le　cu　
+胝　喃　怛　姪也　他　唵　折　戾　主　
+le　cā　ddhe　svā　hā　</ab>
+戾/　/准/　/提/　/娑嚩/　/訶/　/
+
+<ab type="prose">/總/攝/二十五/部/大/曼荼羅尼/印/。/以/二/手/無/名/指/小/指/。/相叉/於/內/。/二/中/指/直/竪/相/拄/。/二/頭/指/屈/。/附/二/中/指/第一/節/。/二/母/指/捻/左右/手/無/名/指/中/節/。/若/有/召/請/。/二/頭/指/來去/。/</ab>
+<ab type="prose">/佛/言/此/呪/印/能/滅/十惡/五逆/一切/重罪/。/成就/一切/白法/。/具戒/清潔/速/得/菩提/。/若/在/家人/。/縱/不/斷/酒肉/妻子/。/但/依/我/法/無不/成就/。/</ab>
+<ab type="prose">/佛/言/若/求/成就/先/依/壇/法/。/不/同/諸/部/廣/修/供養/。/堀/地/香/泥/塗/之/所/建立/。/以/一面/淨/鏡/未曾/用/者/。/於/佛像/前月/十五日/夜/。/隨/力/供養/。/燒/安/悉/香/及/清淨/水/。/先/當/靜/心/無/所/思惟/。/然後/結/印/誦/呪/。/呪/鏡/一百八/遍/。/以/囊/匣/盛/鏡/。/常/得/將/隨身/。/後/欲/念誦/但/以/此/鏡/。/置/於/面前/結/印/誦/呪/。/依/鏡/為/壇/即/得/成就/。/</ab>
+<ab type="prose">/佛/言/欲/持/此/呪/於/十五日/夜/。/清淨/澡浴/著/新/淨/衣/。/面/向/東方/半/跏/正/坐/。/置/鏡/在/前/。/隨/有/香華/清淨/水/諸/物/。/先/當/靜/心/絕/思/。/然後/結/印/印/於/心/上/。/誦/此/呪/一百八/遍/。/誦/此/呪/時/能/使/短命/眾生/還/得/增壽/。/加摩羅/疾/尚/得/除差/。/何況/餘/病/。/若/不/消差/無有/是/處/。/</ab>
+<ab type="prose">/佛/言/若/人/一心/靜思/。/誦滿/二十萬/遍/四十六十萬/遍/。/世/出世法/無不/稱遂/。/</ab>
+<ab type="prose">/佛/言/若/在/家人/。/平旦/清水/漱/口/。/未/葷/血/時/。/面/向/東方/對/鏡/結/印/。/誦/呪/一百八/遍/。/如是/不/斷/四十九/日/。/有/吉祥/事/。/准提/菩薩/令/二/聖者/常/隨/其/人/。/心/有/所/念/皆/於/耳/邊/一一/具/說/。/</ab>
+<ab type="prose">/佛/言/短命/多/病/眾生/。/月/十五日/夜/。/燒/安/悉/香/誦/呪/結/印/一百八/遍/。/魔/鬼/失/心/野/狐/惡/病/。/皆/於/鏡/中/現/其/本/身/。/殺/放/隨意/更/再/不/來/。/增壽/無量/。/</ab>
+<ab type="prose">/佛/言/若/人/無/福德/相/。/求/官/不/遷/。/對/鏡/常/誦/此/呪/。/福德/官/當/能/稱遂/。/</ab>
+<ab type="prose">/佛/言/若/人/欲/有/所/作/。/先/當/思惟/准/提/聖者/。/正念/此/呪/具/滿/七/遍/端/身/。/少/頃/其/身/自然/搖動/。/即/知/能/遂/及以/吉慶/。/若/身/剛強/向/前/向/後/。/即/知/不/遂/必/有/災難/。/佛/言/欲/知/此/法/成/不/成/。/依/法/誦/呪/具/滿/七/日/。/便/於/夢/中/見/佛/菩薩/及以/華菓/。/口/吐/黑/物/後/喫/白/物/。/即/知/成就/。/</ab>
+<ab type="prose">/佛/言/此/陀羅尼/有/大/勢力/。/至心/誦持/必當/自證/。/能/令/枯/樹/生/華/。/何況/世間/果報/。/若/常/誦持/水火/刀兵/怨家/毒藥/皆/不能/害/。/若/卒/為/鬼神/傷/死/。/結/印/誦/呪/七/遍/。/以/印/印/心/皆/令/却活/。/舍宅/不/安/鬼神/作/禍/。/呪土/四塊/鎮/之/即/去/。/</ab>
+<ab type="prose">/佛/言/若/人/六親/不和/。/不/相/愛/念/。/依/法/誦/呪/所/向/和合/。/聞/名/見/身/皆/生/歡喜/。/凡/所/求/無不/遂/心/。/況/能/結/齊/具戒/。/一心/清淨/依/法/誦持/。/不/轉/此/身/即/證/菩提/有/大/功力/。/</ab>
+<ab type="prose">/佛/言/若/人/欲/長生/。/於/古/塔/及/深/山/中/。/或/淨/房/內/依/鏡/為/壇/。/具/滿/二/四/六十萬/遍/。/青/蓮華/和安/悉/香/燒/。/於/睡/夢/中/夢/食/仙藥/。/或/授/仙方/或/於/鏡/中/有/五色/光/。/光/中/有/藥/隨意/取/食/。/即/得/長生/。/</ab>
+<ab type="prose">/佛/言/若/依/法/誦持/一心/精勤/。/功力/說/不可/盡/。/此/壇/鏡/法/不得/人/見/。/若/見/即/不/好/不/成/畢/。/須密/之/此/法/不可說/自/當/證知/。/隨意/所/求/速/得/成就/受/勝妙/樂/。/</ab>
+<ab type="juan" subtype="close">/七佛/俱胝/佛/母/心/大/準提陀羅尼/法/</ab></div>
+<div type="w" level="2">
+<ab type="prose">/　/一/校/畢/　/　/　/　/　/　/　/　/　/　/慈順/</ab></div></div>
+    </body>
+  </text>
+</TEI>

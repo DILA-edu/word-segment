@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">CBETA電子佛典(量化分析版)</title>
+        <title type="subordinate">佛說宿命智陀羅尼</title>
+        <author>Dharma Drum Institute of Liberal Arts, Library and Information Center, Digital Archives Section 法鼓文理學院 圖書資訊館 數位典藏組</author>
+        <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+        <respStmt>
+          <resp>資料轉換</resp>
+          <name>周邦信</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>法鼓文理學院</publisher>
+        <address>
+          <addrLine>20842 新北市金山區法鼓路700號</addrLine>
+          <addrLine>da@dila.edu.tw</addrLine>
+        </address>
+        <date>2012-2021</date>
+        <availability>
+          <p>This document is published under a CC Attribution-Share Alike License</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title type="main">CBETA 電子佛典集成</title>
+          <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+          <pubPlace>臺灣‧臺北</pubPlace>
+          <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+          <date>2021-02-03</date>
+          <biblScope type="vol">T21</biblScope>
+          <idno type="Taisho">T21n1382</idno>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+    
+<div type="dharani" level="1">
+<ab type="juan" subtype="open">/佛/說/宿命智/陀羅尼/</ab>
+<byline>/西天/譯經/三藏/朝散大夫/試/光祿卿/明教/大師/臣/法賢/奉/　/詔/譯/</byline>
+<ab type="dharani">那謨(引)婆誐嚩帝(引)阿芻毘夜(二合引)野(一)怛他(引)誐多(引)野(二)阿囉曷(二合)帝(引)三藐訖三(二合)沒馱(引)野(三)怛𭔞(切身)他(引四)唵惡剎曳(引)惡剎曳(引五)惡剎野(引)嚩囉拏(六)尾輸(引)達儞(引)娑嚩(二合引)賀(引七)</ab>
+<ab type="juan" subtype="close">/佛/說/宿命智/陀羅尼/</ab></div>
+    </body>
+  </text>
+</TEI>

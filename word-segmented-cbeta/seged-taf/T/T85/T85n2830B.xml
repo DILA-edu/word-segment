@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">CBETA電子佛典(量化分析版)</title>
+        <title type="subordinate">道安法師念佛讚文</title>
+        <author>Dharma Drum Institute of Liberal Arts, Library and Information Center, Digital Archives Section 法鼓文理學院 圖書資訊館 數位典藏組</author>
+        <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+        <respStmt>
+          <resp>資料轉換</resp>
+          <name>周邦信</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>法鼓文理學院</publisher>
+        <address>
+          <addrLine>20842 新北市金山區法鼓路700號</addrLine>
+          <addrLine>da@dila.edu.tw</addrLine>
+        </address>
+        <date>2012-2021</date>
+        <availability>
+          <p>This document is published under a CC Attribution-Share Alike License</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title type="main">CBETA 電子佛典集成</title>
+          <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+          <pubPlace>臺灣‧臺北</pubPlace>
+          <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+          <date>2021-02-03</date>
+          <biblScope type="vol">T85</biblScope>
+          <idno type="Taisho">T85n2830B</idno>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+    <div level="1">
+<ab type="juan" subtype="open">/道/安/法師/念/佛/讚/文/</ab>
+<ab type="prose">/上/北臺/登/險/道/石/涇/峻/層/緩/步行/多少/遍/地/莓苔/唯/軟/草/定/水/潛流/一/里/三/迴倒/駱駝/塢/風/裊/裊/來往/巡/猶/須/是/身心/好/羅漢/嵒頭/觀/奈/好/不敢/久/停/焉/有/龍神/操/　/第五/首/。/</ab>
+<ab type="prose">/上/東臺/過/北/斗/望/見/浮/乘/海/畔/龍神/鬪/雨/雹/相/和/驚林/藪/霧/捲/雲/收/化現/千/般有/吉祥/鳴/師子吼/聞/者/狐疑/怕/往/羅筵/走/纔/念/文殊/三/五/口/大聖/慈悲/方便/潛身/救/。/</ab>
+<ab type="prose">/大聖/堂/非/凡地/左右/龍/磻/焉/有/臺/相/倚/險突/嵯/峨朝/成/已/花/木/芬芳/菩薩/多/靈異/面/慈悲/心/歡喜/印玉/真/僧/往/往來/迎/禮/瑞彩/時時/簾/下/起/福祚/唐川/萬/古/千/秋/歲/。/</ab></div>
+    </body>
+  </text>
+</TEI>

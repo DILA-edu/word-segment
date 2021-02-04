@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">CBETA電子佛典(量化分析版)</title>
+        <title type="subordinate">因緣心論頌</title>
+        <author>Dharma Drum Institute of Liberal Arts, Library and Information Center, Digital Archives Section 法鼓文理學院 圖書資訊館 數位典藏組</author>
+        <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+        <respStmt>
+          <resp>資料轉換</resp>
+          <name>周邦信</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>法鼓文理學院</publisher>
+        <address>
+          <addrLine>20842 新北市金山區法鼓路700號</addrLine>
+          <addrLine>da@dila.edu.tw</addrLine>
+        </address>
+        <date>2012-2021</date>
+        <availability>
+          <p>This document is published under a CC Attribution-Share Alike License</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title type="main">CBETA 電子佛典集成</title>
+          <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+          <pubPlace>臺灣‧臺北</pubPlace>
+          <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+          <date>2021-02-03</date>
+          <biblScope type="vol">ZW03</biblScope>
+          <idno type="Taisho">ZW03n0026</idno>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+    <div level="1"><head>/因緣/心/論頌/</head>
+<byline>/整理/者/　/華方/田/</byline>
+<ab type="prose">/〔/題解/〕/</ab>
+<ab type="prose">/《/因緣/心/論頌/》/，/印度/大乘/佛教/中/觀/學/派/典籍/，/龍/樹/撰/，/一/卷/。/</ab>
+<ab type="prose">/本/文/獻/作/者/龍/樹/，/又/譯/龍猛/，/是/大乘/佛教/鼻祖/，/印度/大乘/佛教/中/觀/學/派的/創/始/人/，/有/第二/佛陀/之/稱/。/生存/年/代約公/元1/50/年/～/25/0年/。/龍/樹/著/述/頗/豐/，/有/「/千/部/論/主/」/之/稱/。/其/代/表/作/是/《/中論/》/、/《/十二門論/》/、/《/大毗婆沙論/》/、/《/大智/度論/》/等/，/《/因緣/心/論頌/》/也/是/其/重/要/著/作/之/一/。/是/研/究/龍/樹/及/其/大乘/中/觀/學/說/的/重/要/資料/。/</ab>
+<ab type="prose">/本/文/獻/全/文/共/14/0/字/，/篇幅/雖/短/，/立/論/精要/。/以/頌/文的/形/式論/述了/佛教/的基/本/理/論/「/緣起論/」/，/以/及/作/者/站/在/大乘/空/宗的/立/場/上/對/緣起/論的/新/的/闡/釋/。/本/文獻/未/為/我/國歷/代/大/藏/經/所/收/，/近/代/在/敦煌/發/現/後/，/被/收錄/於/《/大正藏/》/第三/十二/卷/第一/六/五/四/部/。/但/由於/僅/用/了/兩/個/本/子/（/斯/1/3/5/8/號/和斯2462號/）/，/且/錯/訛/較/多/，/因/此/有/必/要/進/行/重/新/整理/。/同時/，/為/了/盡/可/能/地/避/免/錯誤/，/整理/者/將/《/因緣/心/論頌/》/、/《/因緣/心/論/釋/》/和/《/因緣/心/釋/論/開決/記/》/三/篇/文獻/作/了/仔/細/地/對/勘/，/具/體/情/況/隨/文/說/明/。/</ab>
+<ab type="prose">/整理/本/的底/、/校/本/情/況/如/下/：/</ab>
+<ab type="prose">/底/本/：/中國/北/京圖/書/館藏/北7/25/7/（/海/17/）/號/。/</ab>
+<ab type="prose">/校本/：/甲本/，/中國/北/京圖/書/館藏/北7/25/5/（/官/68/）/號/。/</ab>
+<ab type="prose">/乙/本/，/斯/1/3/5/8/號/。/</ab>
+<ab type="prose">/丙/本/，/伯4/645/號/。/</ab>
+<ab type="prose">/丁/本/，/斯/2/5/0/號/。/</ab>
+<ab type="prose">/戊/本/，/斯/4/2/3/5/號/。/</ab>
+<ab type="prose">/己/本/，/北4/69/（/雨/55/）/號/。/</ab><head>/〔/錄/文/〕/</head>
+<ab type="juan" subtype="open">/因緣/心/論頌/</ab>
+<byline>/龍/猛/菩薩/作/</byline>
+<ab type="verse">/差別/十二/支/　/，/能仁/說/緣/生/，/
+/於/煩惱/業苦/　/，/三/中/俱/攝/盡/。/
+/初/八/九/煩惱/　/，/二/及/十/是/業/，/
+/餘/七/皆是/苦/　/，/十二/唯/三/攝/。/
+/從/三/生/於/二/　/，/從/二/生/於/七/，/
+/七/復/生/於/三/　/，/此/有/輪/數/轉/。/
+/諸/趣/唯/因果/，/此/中/無/眾生/，/
+/唯/從/於/空法/　/，/還/生/於/空法/。/
+/誦/燈鏡/及/印/　/，/火/精/種/梅/聲/，/
+/諸/蘊/相/續/結/　/，/不/移/智/應/察/。/
+/於/甚/微細/事/　/，/若/有/見/斷/者/，/
+/彼/不善/因緣/　/，/未/見/緣/生/義/。/
+/此/中/無/可/遣/　/，/亦/無/少/安立/，/
+/於/真/以/觀/真/　/，/見/真/而/解脫/。/
+</ab>
+<ab type="juan" subtype="close">/因緣/心/論頌/</ab>
+<ab type="prose">/〔/錄/文完/〕/</ab></div>
+    </body>
+  </text>
+</TEI>

@@ -3,7 +3,7 @@ require 'nokogiri'
 require 'cbeta'
 
 # 內容不輸出的元素
-PASS = %w[back docNumber graphic milestone mulu note orig rdg sg sic teiHeader trailer]
+PASS = %w[back docNumber graphic milestone mulu orig rdg sg sic teiHeader trailer]
 
 # 忽略下一層的 white space
 IGNORE=['TEI', 'text']
@@ -128,6 +128,8 @@ class P5aToSimpleXML
       return g['romanized'] if g.key?('romanized')
       return CBETA.pua(gid)
     end
+
+    abort "缺字碼在 cbeta_gaiji 中不存在：#{gid}" if g.nil?
     
     return g['uni_char'] if g.key?('uni_char')
 
@@ -178,6 +180,14 @@ class P5aToSimpleXML
     @list_level -= 1
     r
   end
+
+  def e_note(e)
+    r = ''
+    if e.key?('place') and e['place'] == 'inline'
+      r = "(%s)" % traverse(e)
+    end
+    r
+  end
   
   def e_p(e)
     r = ''
@@ -186,7 +196,8 @@ class P5aToSimpleXML
     else
       r += open_ab("prose")
     end
-    r + traverse(e)
+    r += traverse(e)
+    r + close_ab
   end
   
   def e_t(e)
@@ -231,6 +242,7 @@ class P5aToSimpleXML
     when 'caesura' then '　'
     when 'cell'    then ab('cell', e)
     when 'div'     then e_div(e)
+    when 'form'    then ab('form', e)
     when 'foreign' then e_foreign(e)
     when 'g'       then e_g(e)
     when 'head'    then e_head(e)
@@ -240,6 +252,7 @@ class P5aToSimpleXML
     when 'lb'      then e_lb(e)
     when 'lg'      then e_lg(e)
     when 'list'    then e_list(e)
+    when 'note'    then e_note(e)
     when 'p'       then e_p(e)
     when 'row'     then ab('row', e)
     when 't'       then e_t(e)

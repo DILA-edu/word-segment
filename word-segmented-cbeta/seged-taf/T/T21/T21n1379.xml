@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">CBETA電子佛典(量化分析版)</title>
+        <title type="subordinate">佛說大愛陀羅尼經</title>
+        <author>Dharma Drum Institute of Liberal Arts, Library and Information Center, Digital Archives Section 法鼓文理學院 圖書資訊館 數位典藏組</author>
+        <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+        <respStmt>
+          <resp>資料轉換</resp>
+          <name>周邦信</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>法鼓文理學院</publisher>
+        <address>
+          <addrLine>20842 新北市金山區法鼓路700號</addrLine>
+          <addrLine>da@dila.edu.tw</addrLine>
+        </address>
+        <date>2012-2021</date>
+        <availability>
+          <p>This document is published under a CC Attribution-Share Alike License</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title type="main">CBETA 電子佛典集成</title>
+          <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+          <pubPlace>臺灣‧臺北</pubPlace>
+          <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+          <date>2021-02-03</date>
+          <biblScope type="vol">T21</biblScope>
+          <idno type="Taisho">T21n1379</idno>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+    
+<div type="jing" level="1">
+<ab type="juan" subtype="open">/佛/說/大愛陀羅尼/經/</ab>
+<byline>/西天/譯經/三藏/朝散大夫/試/光祿卿/明教/大師/臣/法賢/奉/　/詔/譯/</byline>
+<ab type="prose">/如是我聞/。/一時/佛/在/舍衛國/祇樹/給孤獨園/。/時/有/海神/名/曰/大愛/。/來/詣/佛/所/到/佛/所/已/。/頭面/著地/禮/佛/雙足/。/却住/一面/而/白/佛/言/。/世尊/我/有/所/願/利益/眾生/。/惟/佛/哀愍/許/我/宣說/。/</ab>
+<ab type="prose">/爾時/世尊/知/大愛心/有/大/利益/。/而/告/之/曰/善哉/善哉/。/汝/為/利益/隨/汝/意/說/。/</ab>
+<ab type="prose">/爾時/大愛/蒙/佛/聽許/。/而/白/佛/言/。/我/與/眷屬/住/於/大海/。/多/見/眾生/陷/於/海/難/。/愍念/此/等/欲/說/陀羅尼/。/令/彼/海/難/無/能/為/害/。/世尊/若/有/善男子/善女人/乃至/苾芻/苾芻尼/優婆塞/優婆夷/等/。/聞/此/陀羅尼/讀誦/受持/。/及/得/聞/我/與/眷屬/等/名/者/。/所有/大海/一切/危難/悉皆/解脫/。/爾時/大愛/承/佛/威力/。/即/說/陀羅尼/曰/。/</ab>
+<ab type="dharani">怛𭔞(切身)他(引一)祖嚕祖嚕(二)吐蘭達哩(引三)摩賀(引)謗哥悉體(二合)帝(引四)酤(引)儞瑟哥(二合引)儞瑟計(二合五)阿那護(六)拶鉢黎(引七)祖嚕祖嚕(八)三滿多跋𭡠哩(二合引九)阿屹儞(二合)作訖哩(二合引十)作訖囉(二合)多朗(十一)補囉儗儞(引)娑嚩(二合引)賀(引十二)</ab>
+<ab type="prose">/爾時/大愛/海神/承/佛/聖旨/。/說/此/陀羅尼/已/。/歡喜/踊躍/禮/佛/而/退/。/</ab>
+<ab type="juan" subtype="close">/佛/說/大愛陀羅尼/經/</ab></div>
+    </body>
+  </text>
+</TEI>

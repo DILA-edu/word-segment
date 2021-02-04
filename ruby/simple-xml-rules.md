@@ -12,6 +12,7 @@ UTF-8
 * `<ab type="verse">` 韻文(偈頌, 原 `<lg>`)
 * `<ab type="dharani">` 咒語 (原 `<p type="dharani">`)
 * `<ab type="table">`, `<ab type="row">`, `<ab type="cell">` 例如 T49n2035
+* `<ab type="form">` 原 `<form>`
 
 #### list
 

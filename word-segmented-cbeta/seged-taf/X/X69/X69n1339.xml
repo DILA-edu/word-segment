@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">CBETA電子佛典(量化分析版)</title>
+        <title type="subordinate">瑯琊慧覺禪師語錄（序）</title>
+        <author>Dharma Drum Institute of Liberal Arts, Library and Information Center, Digital Archives Section 法鼓文理學院 圖書資訊館 數位典藏組</author>
+        <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+        <respStmt>
+          <resp>資料轉換</resp>
+          <name>周邦信</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>法鼓文理學院</publisher>
+        <address>
+          <addrLine>20842 新北市金山區法鼓路700號</addrLine>
+          <addrLine>da@dila.edu.tw</addrLine>
+        </address>
+        <date>2012-2021</date>
+        <availability>
+          <p>This document is published under a CC Attribution-Share Alike License</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title type="main">CBETA 電子佛典集成</title>
+          <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+          <pubPlace>臺灣‧臺北</pubPlace>
+          <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+          <date>2021-02-03</date>
+          <biblScope type="vol">X69</biblScope>
+          <idno type="Taisho">X69n1339</idno>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+    
+<ab type="juan" subtype="open"/>
+<div type="xu" level="1"><head>/No/./1339/-/A/滁州/琅/邪/山/覺/和尚/中/後/四錄/</head>
+<byline>/參學/門/人/　/用/孫/　/序/</byline>
+<ab type="prose">/夫/宗師/之/出世/居/方/者/。/抑/而/為/之/。/提綱/振維/者/。/蓋/不得/已/。/雖/以/應/其/羣/心/之/所/來/。/而/大/抵/之/得/人/者/。/其/在/茲/乎/。/故/我/琅/邪/禪/師/之/出/化/也/。/四海/雲/奔/。/無/所/不/至/。/大/音/雷發/。/無/所/不/聞/。/其/負雄/經/博論/者/徑/徑/勝/其/數/。/皆/匿/影/吞/聲/于/其/左右/。/凡/是/提/唱/者/。/各/有/旨歸/。/蓋/以/應/動/觀/機/。/事/無/虗/發/。/或/滯/其/語/句/者/。/則/釋/其/所/黏/。/或/執/其/意/解/者/。/則/除/其/所/縛/。/或/坐/其/向/上/者/。/則/掇/之/於/未然/。/或/止/其中/下/者/。/則/擊/之/於/已/兆/。/或/補/其/所/闕/。/則/正/眼/具/全/。/或/刪/其/所/繁/。/則/大意/不/紊/。/皆/以/離/情/妄/。/泯/智/照/。/然後/真心/現前/。/古今/獨耀/。/隨/方/施設/。/一/味/齊/收/。/猶如/曦馭/當/畫/。/影/現/無/垠/。/觀/者/四來/。/圓/以/隨/對/。/其/可/得/而/盡/之/乎/。/門人/元聚/。/久/探/師/室/。/親/承/指/誨/。/日/有/升/舉/。/即/而/記/之/。/凡/百/餘/則/。/嗣/以/纂/之/。/以/閒干/前後/二/錄/。/目/之/為/中錄/。/於是/乎/。/舉/前後/則/中/攝/矣/。/舉/中/則/前後/盡/矣/。/非/離/前後/而/趣/其中/。/非/離/中/而/止/其/前後/。/中/則/無/後/前/。/前後/則/無/中/。/</ab>
+<ab type="prose">/師/之/大/旨/。/一/以/貫/之/。/其/可/得/而/思/之/耶/。/設/肆/目/于/其間/者/。/若/游/滄海/玩/群/龍/之/闕/。/俯視/珍貝/。/心/目/燦然/。/不/暇/應/接/耳/。/師/之/生/緣/受/業/得/法/。/具/載/之/別/錄/。/不復/煩紀/。/所謂/開/正法/眼藏/。/直/指/以/示/人/者/。/其/惟/我/師/。/</ab></div>
+    </body>
+  </text>
+</TEI>

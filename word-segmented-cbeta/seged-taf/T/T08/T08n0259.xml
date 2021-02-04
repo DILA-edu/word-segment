@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">CBETA電子佛典(量化分析版)</title>
+        <title type="subordinate">佛說觀想佛母般若波羅蜜多菩薩經</title>
+        <author>Dharma Drum Institute of Liberal Arts, Library and Information Center, Digital Archives Section 法鼓文理學院 圖書資訊館 數位典藏組</author>
+        <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+        <respStmt>
+          <resp>資料轉換</resp>
+          <name>周邦信</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>法鼓文理學院</publisher>
+        <address>
+          <addrLine>20842 新北市金山區法鼓路700號</addrLine>
+          <addrLine>da@dila.edu.tw</addrLine>
+        </address>
+        <date>2012-2021</date>
+        <availability>
+          <p>This document is published under a CC Attribution-Share Alike License</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title type="main">CBETA 電子佛典集成</title>
+          <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+          <pubPlace>臺灣‧臺北</pubPlace>
+          <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+          <date>2021-02-03</date>
+          <biblScope type="vol">T08</biblScope>
+          <idno type="Taisho">T08n0259</idno>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+    
+<ab type="juan" subtype="open">/佛/說/觀想/佛母/般若波羅蜜多/菩薩/經/</ab>
+<byline>/西天/譯經/三藏/朝散大夫/試/鴻臚/少卿/明教/大師/臣/天息/災奉/　/詔/譯/</byline>
+<div type="jing" level="1">
+<ab type="prose">/灌頂/真言/：/</ab>
+<ab type="dharani">唵(引)曩莫舍吉野(二合)母曩曳(引)怛他誐哆野(引)囉賀(二合)帝三藐三沒䭾野</ab>
+<ab type="prose">/誦/此/真言/七/遍/，/以/手/於/頭/上/灌頂/及/摩觸/遍/身/，/然後/息/念/，/志心/作/佛母/般若波羅蜜多/菩薩/觀/行/。/想/此/菩薩/三/面/三/眼/，/身/真金色/，/坐/吉祥/藏/師子座/，/座/有/千/葉/金/蓮/。/身/有/六/臂/，/右邊/三/臂/，/第一/臂/執/數/珠/，/第二/臂/執/箭/，/第三/臂/作/施/願/相/。/左邊/三/臂/，/第一/臂/執/經/，/第二/臂/執/弓/，/第三/臂/執/如意/寶/。/如是/六/臂/種種/莊嚴/。/於/其/身/上/，/復/放/無數/百千/那由他/俱胝/光明/，/遍滿/一切/世界/。/復/想/一切/如來/及/多羅/菩薩/等/一切/菩薩/，/具足/相好/，/莊嚴/其/身/，/以/諸/香花/而/親/供養/。/如是/觀/想/已/，/復/念/心/真言/：/</ab>
+<ab type="dharani">唵(引)曩莫舍吉野(二合)母曩曳怛他(引)誐哆野(引)囉賀(二合)諦(引)三藐三沒䭾(引)野怛儞野(二合)他(引)唵(引)母儞(引)母儞摩賀(引)母儞(引)曳(引)娑嚩(二合、引)賀</ab>
+<ab type="prose">/次/誦/根本/真言/：/</ab>
+<ab type="dharani">怛儞野(二合)他(引)　唵　惹曳(引)惹曳(引)鉢納摩(二合、引)鼻　阿嚩弭(引)阿嚩弭(引)　娑囉娑羅尼地里地里囉(引)地里地囉(引)地里儞嚩哆(引)努波(引)羅儞　沒度(引)哆(引)囉尼　布囉野布囉野　婆誐嚩底　薩里嚩(二合、引)舍(引)　摩摩　波里布囉野　娑波里嚩囉寫薩里嚩(二合、引)薩怛鑁(二合)左　薩里嚩(二合)迦里摩(二合、引)　嚩囉拏儞　尾輸䭾野　尾輸䭾野　沒䭾(引)地瑟姹(二合、引)儞曩　娑嚩(二合、引)賀(引)</ab>
+<ab type="prose">/誦/此/真言/已/，/復/作/觀/行/。/想/彼/佛/母/般若波羅蜜多/菩薩/右邊/，/有/釋迦/世尊/、/燃/燈/世尊/、/無量/壽/世尊/、/智/決定/世尊/、/光明王/世尊/、/雷聲/吼/音/世尊/、/金/花/世尊/、/散/花/世尊/。/於/菩薩/左邊/，/毘婆尸/世尊/、/羯俱忖那/世尊/、/迦諾迦牟尼/世尊/、/迦葉/世尊/、/寶/手/世尊/。/於/菩薩/前/面/，/大/遍照/世尊/、/寶/生/世尊/、/阿彌陀/世尊/、/不/空/成就/世尊/、/阿閦/世尊/。/於/菩薩/後/面/，/最上/蓮華/世尊/、/最上/寶/世尊/、/喜/吉祥/世尊/、/琉璃/光/世尊/、/不思議/吉祥/世尊/。/於/菩薩/前/，/復/有/聖觀/自在/菩薩/、/慈氏/菩薩/、/普賢/菩薩/、/妙吉祥/菩薩/、/歸命/菩薩/、/不思議/吉祥/聲/菩薩/、/金剛手/菩薩/、/無盡意/菩薩/、/辯積/菩薩/、/無邊/辯/菩薩/、/虛空/藏/菩薩/、/無垢/稱/菩薩/、/自在/行/菩薩/、/法/生/菩薩/、/常/啼/菩薩/、/月光/菩薩/、/法雲/菩薩/、/地藏/菩薩/、/寶藏/菩薩/、/寶幢/菩薩/、/尸棄/菩薩/、/香象/菩薩/、/金毘羅/菩薩/，/如是/等/一切/菩薩/摩訶薩/遍滿/佛剎/。/復/有/顰/眉/明/王/等/，/亦/在/菩薩/前/。/如是/聖眾/一一/觀/想/已/，/復/想/人間/天上/殊妙/香花/珍寶/供具/，/以用/供養/佛/母/般若波羅蜜多/菩薩/，/并/諸/眷屬/一切/菩薩/。/作/此/觀/已/，/是/人/不久/當/成/正覺/。/</ab></div>
+<ab type="juan" subtype="close">/佛/說/觀想/佛母/般若波羅蜜多/菩薩/經/</ab>
+    </body>
+  </text>
+</TEI>

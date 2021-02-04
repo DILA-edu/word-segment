@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">CBETA電子佛典(量化分析版)</title>
+        <title type="subordinate">六道輪迴圖偈頌</title>
+        <author>Dharma Drum Institute of Liberal Arts, Library and Information Center, Digital Archives Section 法鼓文理學院 圖書資訊館 數位典藏組</author>
+        <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+        <respStmt>
+          <resp>資料轉換</resp>
+          <name>周邦信</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>法鼓文理學院</publisher>
+        <address>
+          <addrLine>20842 新北市金山區法鼓路700號</addrLine>
+          <addrLine>da@dila.edu.tw</addrLine>
+        </address>
+        <date>2012-2021</date>
+        <availability>
+          <p>This document is published under a CC Attribution-Share Alike License</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title type="main">CBETA 電子佛典集成</title>
+          <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+          <pubPlace>臺灣‧臺北</pubPlace>
+          <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+          <date>2021-02-03</date>
+          <biblScope type="vol">ZW04</biblScope>
+          <idno type="Taisho">ZW04n0035</idno>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+    <div level="1"><head>/六道/輪迴/圖/偈頌/</head>
+<byline>/整理/者/　/陳/明/光/</byline>
+<ab type="prose">/〔/題解/〕/</ab>
+<ab type="prose">/《/六道/輪迴/圖/偈頌/》/，/中國/人/所/撰/佛/教/偈頌/，/作/者/不/詳/。/由/南/宋/僧人/趙智/鳳主/持/建/造/鐫刻/於/大足/寶頂山/大/佛/灣/南崖/中/部的/《/六道/輪迴/圖/》/中/。/</ab><head>/〔/錄/文/〕/</head>
+<ab type="verse">/汝/常/求/出離/，/　/於/佛教/勤修/，/
+/降伏/生死/軍/，/　/如/象/摧/草舍/。/
+</ab>
+<ab type="verse">/三界/輪/中/萬/種/身/，/　/自從/貪愛/業/沉淪/。/
+/君/看/輪/外/恒/沙/佛/，/　/儘/是/輪/中/舊/日/人/。/
+</ab>
+<ab type="verse">/於/此/法律/中/，/　/常/為/不/放逸/，/
+/能/竭/煩惱海/，/　/當/盡/苦/邊際/。/
+</ab>
+<ab type="prose">/〔/錄/文完/〕/</ab></div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">CBETA電子佛典(量化分析版)</title>
+        <title type="subordinate">鳴謝</title>
+        <author>Dharma Drum Institute of Liberal Arts, Library and Information Center, Digital Archives Section 法鼓文理學院 圖書資訊館 數位典藏組</author>
+        <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+        <respStmt>
+          <resp>資料轉換</resp>
+          <name>周邦信</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>法鼓文理學院</publisher>
+        <address>
+          <addrLine>20842 新北市金山區法鼓路700號</addrLine>
+          <addrLine>da@dila.edu.tw</addrLine>
+        </address>
+        <date>2012-2021</date>
+        <availability>
+          <p>This document is published under a CC Attribution-Share Alike License</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title type="main">CBETA 電子佛典集成</title>
+          <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+          <pubPlace>臺灣‧臺北</pubPlace>
+          <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+          <date>2021-02-03</date>
+          <biblScope type="vol">ZW03</biblScope>
+          <idno type="Taisho">ZW03na019</idno>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+    <div level="1"><head>/鳴謝/</head>
+<ab type="list">
+/本/輯/資助/單位/
+/　/</ab>
+<ab type="prose">/中國/佛教/文化/研/究/所/</ab>
+/　/
+<ab type="prose">/香/港/志/蓮淨苑/</ab>
+/　/
+<ab type="prose">/山/西/佛教/文化/事業/總/公司/</ab>
+/個/人/捐/助/
+/　/
+<ab type="prose">/釋/依/昱/（/台/灣/高雄/）/　/　/1000元/</ab>
+/　/
+<ab type="prose">/黃祝荷/（/湖南/茶陵/）/　/　/4/6元/</ab>
+/　/
+<ab type="prose">/李/向/上/（/甘肅/甘谷/）/　/　/3/2元/</ab></div>
+    </body>
+  </text>
+</TEI>

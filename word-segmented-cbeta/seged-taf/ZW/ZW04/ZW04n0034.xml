@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">CBETA電子佛典(量化分析版)</title>
+        <title type="subordinate">大藏佛說守護大千國土經</title>
+        <author>Dharma Drum Institute of Liberal Arts, Library and Information Center, Digital Archives Section 法鼓文理學院 圖書資訊館 數位典藏組</author>
+        <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+        <respStmt>
+          <resp>資料轉換</resp>
+          <name>周邦信</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>法鼓文理學院</publisher>
+        <address>
+          <addrLine>20842 新北市金山區法鼓路700號</addrLine>
+          <addrLine>da@dila.edu.tw</addrLine>
+        </address>
+        <date>2012-2021</date>
+        <availability>
+          <p>This document is published under a CC Attribution-Share Alike License</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title type="main">CBETA 電子佛典集成</title>
+          <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+          <pubPlace>臺灣‧臺北</pubPlace>
+          <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+          <date>2021-02-03</date>
+          <biblScope type="vol">ZW04</biblScope>
+          <idno type="Taisho">ZW04n0034</idno>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+    <div level="1"><head>/大/藏/佛/說/守護/大千/國土/經/</head>
+<byline>/整理/者/　/陳/明/光/</byline>
+<ab type="prose">/〔/題解/〕/</ab>
+<ab type="prose">/《/大/藏/佛/說/守護/大千/國土/經/》/，/中國/人/所/撰/佛/教/典籍/，/作/者/不/詳/，/一/卷/。/由/南/宋/僧人/趙智/鳳主/持/鐫/刻/於/重/慶市/大/足/寶/頂/山石/窟/佛/祖巖/龕/。/刻/石/面/高/2/2/5/厘米/、/寬7/3/厘米/，/豎/刻8/行/23/4/字/，/字/徑/8/厘/米/。/經/名/位/於/龕門/框/正面/，/雙/勾/豎刻/，/字/徑/3/6/厘米/。/</ab>
+<ab type="prose">/位/於/大/足/寶頂山/大/佛/灣/南崖/中/部/古/進/口/道/右/（/東/）/的護/法/神/龕/亦/刻/有/本/經/殘/文/，/豎/刻1/6行/9/5/字/，/逕/4/厘米/。/內容/大/同/小/異/，/無/經/名/。/可/與/本/經/文互/補漶/殘/字/，/故/錄/文/後/作為/本/經文/之/附錄/，/以/供/參考/。/此/外/，/位/於/佛/祖巖/左/3/0/0/餘/米的/菩薩/堡/龕/亦/刻/有/相/同/經/名/。/</ab><head>/〔/錄/文/〕/</head>
+<ab type="prose">/金/罡/寶/山/一/寸/地/、/一/樹/叢林/、/一/錢物/、/一/禽獸/，/一/應/用/等/，/名/立/華/□/□/□/□/□/□/□/□/□/□/四千/會/，/每/會/轉/大/藏/經/一/遍/，/戒/定/永/充寶/山/香/燈/□/□/□/□/□/□/□/□/□/□/□/心/逆/九十六/種/天魔/外道/，/鬼怪/精靈/，/妄/起/貪/𩡤/謀/妒盜/心/，/□/□/□/□/□/□/□/□/□/□/□/正/信/，/遵依/經戒/，/同/護持/者/，/現/受/吉祥/，/富貴/長壽果/，/若/□/□/□/□/□/□/□/□/□/□/□/□/立/受/不/𦍙/，/貧窮/短命/報/，/生/遭/王法/，/死/入/阿鼻/，/百/劫/□/□/□/□/□/□/□/□/□/□/□/□/八/部/，/梵/釋/四/王/，/蘇羅/藥叉/，/護/法/護/道/天神/、/地神/、/雷神/、/八/大/、/六通/□/□/□/□/□/□/□/</ab>
+<ab type="prose">/□/日夜/巡察/，/護/守/施行/。/伏請/十方/三世/九十九億/恒河沙/一切/諸/佛/菩薩/□/□/□/□/。/</ab>
+<ab type="juan" subtype="close">/大/藏/佛/說/守護/大千/國土/經/</ab>
+<ab type="prose">/〔/錄/文完/〕/</ab>
+<div type="w" level="2"><head>/〔/附錄/〕/</head>
+<ab type="prose">/證/是/寶山/一/寸/地/土/，/一/樹/叢林/，/一/錢物/及/飛禽/雜/類/等/，/各/□/華/嚴/大/齋/八萬四千/會/，/每/會/轉/大/藏/經/一/遍/，/□/□/不/許/人/妄/□/□/心/，/侵犯/謀害/□/物/命/。/仰/三界/□/護/法/、/八/大/、/六通/□/守護/。/若/依/□/□/佛戒/，/同/獲/□/□/富貴/長遠/。/□/□/佛/語/，/受/□/□/□/□/三/□/□/□/。/</ab>
+<ab type="prose">/〔/錄/文完/〕/</ab></div></div>
+    </body>
+  </text>
+</TEI>

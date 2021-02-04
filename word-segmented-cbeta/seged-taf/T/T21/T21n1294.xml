@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">CBETA電子佛典(量化分析版)</title>
+        <title type="subordinate">施八方天儀則</title>
+        <author>Dharma Drum Institute of Liberal Arts, Library and Information Center, Digital Archives Section 法鼓文理學院 圖書資訊館 數位典藏組</author>
+        <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+        <respStmt>
+          <resp>資料轉換</resp>
+          <name>周邦信</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>法鼓文理學院</publisher>
+        <address>
+          <addrLine>20842 新北市金山區法鼓路700號</addrLine>
+          <addrLine>da@dila.edu.tw</addrLine>
+        </address>
+        <date>2012-2021</date>
+        <availability>
+          <p>This document is published under a CC Attribution-Share Alike License</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title type="main">CBETA 電子佛典集成</title>
+          <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+          <pubPlace>臺灣‧臺北</pubPlace>
+          <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+          <date>2021-02-03</date>
+          <biblScope type="vol">T21</biblScope>
+          <idno type="Taisho">T21n1294</idno>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+    
+<div type="jing" level="1">
+<ab type="juan" subtype="open">/施/八方/天儀/則/一/卷/</ab>
+<byline>/大興善寺/翻/經/院/灌頂/阿闍梨/述/</byline>
+<ab type="prose">/凡/施/八方/天/先/辦/所/施/飲食/。/五味/雜/粥/稠/煮/勿/令/稀/。/五味/者/粳米/菉/豆/油/麻/牛/乳蘇/。/各/量/多少/。/以/意/令/其/有/味/。/著/少許/鹽切/須/護/淨/。/盛/於/瓷/盆/。/小/蠟燭/十二/枚/磨白/檀香/。/時/華/清水/於/所/施/處/。/八方/各各/塗/一/小壇/。/小壇/上/先/置/淨椀/。/其/粥/香華/各各/令/人/擎/隨/念/誦/人/後/。/念/誦/人/先/當/至心/啟請/八方/天王/并/其/眷屬/令/赴/道場/各/依/本/位/先/東方/誦/帝釋/真言/。/先/洗/清水/少許/即/下/塗香/。/次/下/時/華次/下/粥次/蠟燭/插/於/粥/上/次/以/燒香/三/度/奉獻/。/口/誦/真言/兼/求/擁護/。/乞/天王/歡喜/道場/主/福祐/。/次/東南方/火/天/方/亦爾/。/各/誦/本/天/真言/次第/而/施/。/次/南方/焰/魔天/。/次/西南方/羅剎天/。/次/西方/水/天/。/次/西/北方/風/天/。/次/北方/多聞天/。/次/東北方/伊舍那天/末後/留/少許/。/餘/粥/多/著/清水/。/於/粥/中/著/少/餅/子/菓/子/塗香/時/華/。/總/著/了/。/誦/甘露/真言/。/以/手/印/加持/。/令/人/擎/送/淨/處/瀉/於/地上/施與/諸/惡/鬼神/。/願/擁護/施主/歡喜/。/更/莫/迴/顧/便/須/往還/。/</ab>
+<ab type="prose">/東方/帝釋天/真言/</ab>
+<ab type="prose">/此/真言/總/須/加/歸命/。/</ab>
+<ab type="dharani">oṃ　ī　ndra　ya　svā　hā　</ab>
+/唵/　/印/　/捺囉/　/野/　/娑嚩/　/賀/　/
+
+<ab type="prose">/東南方/火/天/真言/</ab>
+<ab type="dharani">oṃ　a　gna　ye　svā　hā　</ab>
+/唵/　/阿/　/疙曩/　/曳/　/娑嚩/　/賀/　/
+
+<ab type="prose">/南方/焰摩天/真言/</ab>
+<ab type="dharani">oṃ　yaṃ　ma　ya　svā　hā　</ab>
+/唵/　/焰/　/摩/　/野/　/娑嚩/　/賀/　/
+
+<ab type="prose">/西南方/羅剎天/真言/</ab>
+<ab type="dharani">oṃ　nṛ　tye　svā　hā　</ab>
+/唵/　/乃/理/　/底/曳/　/娑嚩/　/賀/　/
+
+<ab type="prose">/西方/水/天/真言/</ab>
+<ab type="dharani">oṃ　va　ru　ṇa　ya　svā　hā　</ab>
+/唵/　/嚩/　/嚕/　/拏/　/野/　/娑嚩/　/賀/　/
+
+<ab type="prose">/西北方/風/天/真言/</ab>
+<ab type="dharani">oṃ　va　ya　ve　svā　hā　</ab>
+/唵/　/嚩/　/野/　/吠/　/娑嚩/　/賀/　/
+
+<ab type="prose">/北方/多聞/天/真言/</ab>
+<ab type="dharani">oṃ　vai　śra　ma　ṇa　ya　svā　hā　</ab>
+/唵/　/吠/　/室囉/　/摩/　/拏/　/野/　/娑嚩/　/賀/　/
+
+<ab type="prose">/東北方/伊舍那天/真言/</ab>
+<ab type="dharani">oṃ　ī　śa　na　ya　svā　hā　</ab>
+/唵/　/伊/　/舍/　/那/　/野/　/娑嚩/　/賀/　/
+
+<ab type="prose">/一一/位/各/誦/本/真言/。/分明/記/下/物/次第/。/先/水/次/塗/香次/華次/粥次/燭次/燒香/諸/位/遍/已/。/即/誦/須彌王/真言/。/加持/三七/五/七/遍/。/真言/曰/。/</ab>
+<ab type="dharani">oṃ　su　me　ru　ka　rpa　ya　oṃ　su　ru　
+唵　蘇　迷　嚕　羯　蠟波　野　唵　素　嚕　
+suru　pra　su　ru　pra　su　ru　
+素嚕　鉢囉　素　嚕　鉢囉　素　嚕　
+svā　hā　</ab>
+/娑嚩/　/賀/　/
+
+<ab type="prose">/總/施/了/然後/洗/手/。/又/施/道場/中/發遣/奉送/聖眾/。/收却/供養/物/。/然後/塗壇/。/</ab>
+<ab type="prose">/上方/梵天/真言/(/如/歸命/)/</ab>
+<ab type="dharani">oṃ　vra　hma　ne　svā　hā　</ab>
+/唵/　/沒囉/　/憾摩/　/寧/　/娑嚩/　/賀/　/
+
+<ab type="prose">/下方/地/天/真言/</ab>
+<ab type="dharani">oṃ　vṛ　thi　vyai　svā　hā　</ab>
+/唵/　/必/哩/　/體/　/尾曳/　/娑嚩/　/賀/　/
+
+<ab type="prose">/水/等/六/物/各/令/一/人/手/擎/隨/施/者/後/。/施/了/者/令/於/未/施/位/處/立/。/如是/次第/切/須/取/之/。/燭/須/在/意/。/未/施/遍/已來/不得/令/滅/矣/。/</ab>
+<ab type="prose">/日天/真言/</ab>
+<ab type="dharani">oṃ　sa　ha　sra　ke　ra　naṃ　hūṃ　tu　
+唵(一)　娑　賀　薩囉　計　囉　難(二)　吽　都　
+le　svā　hā　</ab>
+隷/(/三/)/　/娑嚩/　/賀/　/
+
+<ab type="prose">/月天/真言/</ab>
+<ab type="dharani">oṃ　sra　ma　pra　bhe　hūṃ　svā　
+唵(一)　素　麼(二)　鉢囉　陛　吽(三)　娑嚩　
+hā　</ab>
+/賀/　/
+
+<ab type="prose">/甘露/真言/</ab>
+<ab type="dharani">na　mo　su　rū　pa　ya　ta　thā　ga　tā　
+曩　謨　蘇　嚕　跛　野(一)　怛　他　蘖　多　
+ya　ta　dya　thā　oṃ　su　ru　pra　
+野(二)　怛　儞也　他　唵　蘇　嚕　鉢囉　
+su　ru　suru　svā　hā　</ab>
+蘇/　/嚕/　/蘇嚕/　/娑嚩/　/賀/　/
+
+<ab type="prose">/施/飲食/真言/</ab>
+<ab type="dharani">na　mo　sa　rva　ta　thā　ga　tā　va　lo　ki　
+曩　謨　薩　嚩　怛　他　蘖　多　嚩　路　枳　
+te　oṃ　bha　ra　bhara　saṃ　bha　ra　saṃbhara　hūṃ　</ab>
+帝/　/唵/　/婆/　/囉/　/婆囉/　/三/　/婆/　/囉/　/三婆囉/　/吽/　/
+
+<ab type="prose">/若/人/求/一切/吉祥/之/事/。/所/建/道場/修/畢/之/日/初夜/分/。/皆/須/先/施/八方/天王/及/梵天地/天/諸/宿曜/鬼神/等/。/然後/發遣/聖眾/。/始/廢/道場/如是/依法/作/者/。/一切/聖賢/盡皆/歡喜/令/得/福祐/。/所/獲/吉祥/。/</ab>
+<ab type="juan" subtype="close">/施/八方/天儀/則/(/唐/院/本/無/此/題/)/</ab></div>
+    </body>
+  </text>
+</TEI>

@@ -2,6 +2,9 @@ GEM
   remote: https://rubygems.org/
   specs:
     cbeta (2.7.11)
+    chronic_duration (0.10.6)
+      numerizer (~> 0.1.1)
+    numerizer (0.1.1)
     open3 (0.1.1)
 
 PLATFORMS
@@ -9,6 +12,7 @@ PLATFORMS
 
 DEPENDENCIES
   cbeta
+  chronic_duration
   open3
 
 BUNDLED WITH

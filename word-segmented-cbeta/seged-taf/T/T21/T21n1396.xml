@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">CBETA電子佛典(量化分析版)</title>
+        <title type="subordinate">佛說拔除罪障呪王經</title>
+        <author>Dharma Drum Institute of Liberal Arts, Library and Information Center, Digital Archives Section 法鼓文理學院 圖書資訊館 數位典藏組</author>
+        <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+        <respStmt>
+          <resp>資料轉換</resp>
+          <name>周邦信</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>法鼓文理學院</publisher>
+        <address>
+          <addrLine>20842 新北市金山區法鼓路700號</addrLine>
+          <addrLine>da@dila.edu.tw</addrLine>
+        </address>
+        <date>2012-2021</date>
+        <availability>
+          <p>This document is published under a CC Attribution-Share Alike License</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title type="main">CBETA 電子佛典集成</title>
+          <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+          <pubPlace>臺灣‧臺北</pubPlace>
+          <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+          <date>2021-02-03</date>
+          <biblScope type="vol">T21</biblScope>
+          <idno type="Taisho">T21n1396</idno>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+    
+<div type="jing" level="1">
+<ab type="juan" subtype="open">/佛/說/拔除/罪障/呪/王/經/一/卷/</ab>
+<byline>/唐/三藏法師/義淨/奉/　/制/譯/</byline>
+<ab type="prose">/如是我聞/。/一時/薄伽梵/。/在/淨居/天上/。/為/諸/大眾/說/微妙/法/。/是時/曼殊室利/菩薩/摩訶薩/於/大眾/中/。/即/從/座/起/偏露右肩/。/右膝著地/合掌/向/佛/。/瞻仰/尊容/目/未曾/捨/。/白/佛/言/世尊/。/此/大/法門/甚深/微妙/實/為/希有/。/然/於/當來/五濁/世/時/。/惡業/眾生/具/貪/恚/癡/。/欺誑/不/信樂/行/非/法/。/不/修/戒品/專行/諂偽/。/彼/於/呪法/所有/威力/神通/變現/。/於/諸/國土/隨/其/方/處/。/求/者/獲/益/功德/成就/。/念/誦/儀軌/祭祠/法式/。/皆/不/信受/亦/不/依/行/。/謂/非/佛/說/而/為/謗毀/惡障/纏心/。/即便/命/過/墮/大/地獄/。/受/極/苦惱/無有/出/期/。/世尊/此等/眾生/既/遭/大/苦/云何/救護/。/唯/願/慈悲/拔濟/令/出/。/爾時/釋迦牟尼/如來/。/即便/舒/手/摩/曼殊室利/法王子/頂/。/告/言/善哉/曼殊室利/。/為/欲/利益/一切/有情/。/能/問/如來/如是/義利/。/汝/當/諦聽/極/善/作意/。/我/今/為/汝/說/此/呪/法/。/安樂/人/天/利益/一切/。/於/諸/呪法/最/為/殊勝/。/祕密/甚深/順/菩提/道/依/真/法界/獲/大/功德/。/於/臨終/時/必/能/憶/此/大力/呪/王/。/正念/現前/當/生/善/處/。/即/說/呪/曰/。/</ab>
+<ab type="dharani">南麼薩婆怛他揭羝驃　阿羅𠿒驃　唵拘摩囉乎嚧比那　毘輸和　三婆婆阿揭車阿揭車　洛呼洛呼　勃纜勃攬　唅唅　氏那市(市一反)曼殊室利也　蘇室哩也　多賴也漫(引聲)薩婆毒溪驃癹癹　苫麼也苫麼也　阿弭都嗢婆菩嗢婆婆　波跛謎那勢也　莎訶</ab>
+<ab type="prose">/曼殊室利/。/此/即是/汝/最勝/根本/呪藏/心王/神呪/。/能/除/一切/苦惱/厄難/。/諸/惡/罪/障/悉皆/銷滅/。/長壽/無/疾/富樂/無窮/。/言詞/聰辯/眾/人/愛/敬/。/亦/能/通利/一切/呪/王/。/時/釋迦牟尼/如來/說/是/語/時/。/諸/佛/剎土/及/此/大地/山河/江海/。/盡/有情界/六/種/震動/。/一切/惡趣/餓鬼/傍生/。/琰/魔王/界/地獄/有情/。/苦惱/停息/皆/得/安樂/。/佛/復/告/曼殊室利/。/若/天/若/人/若/男/若/女/。/在家/出家/諸/有情類/。/若/能/至心/受持/此/呪/王/者/。/不/被/惡/人/之/所/欺/謗/魔/不/得/便/。/怨/不能/害/毒/不能/傷/。/一切/障礙/毘那/夜迦/皆/自/退散/。/其/受持/者/應/起/此/心/。/諸/佛/世尊/難思議/法/。/唯/佛/與/佛/乃/能/證知/。/我/今/豈/敢/輒/生/誹謗/。/</ab>
+<ab type="prose">/爾時/世尊/說/此/法/已/。/彼/諸/大眾/并/淨居天/。/及/餘/諸/天/無量/百千/俱胝/。/天/龍/藥叉/健達婆阿蘇羅/等/。/禁呪/成就/諸/大/仙人/。/及/曼殊室利/法王子/。/觀自在/菩薩/慈氏/菩薩/。/大勢至/菩薩/執/金剛/菩薩/。/如是/等/諸/大/菩薩/。/及/阿僧祇/世界/諸/佛/剎土/。/一切/如來/并/諸/菩薩/當/共/證知/。/此/大呪王/是/不思議/法/。/是/大/神/呪/是/大/明/呪/。/是/無上/呪/是/無等等/呪/。/能/除/罪苦/障/真實/不/虛/。/爾時/諸/天/大眾/聞說/呪/王/。/皆大歡喜/頂戴/奉持/。/</ab>
+<ab type="juan" subtype="close">/佛/說/拔除/罪障/呪/王/經/</ab></div>
+    </body>
+  </text>
+</TEI>

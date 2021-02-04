@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">CBETA電子佛典(量化分析版)</title>
+        <title type="subordinate">那羅延天共阿修羅王鬪戰法</title>
+        <author>Dharma Drum Institute of Liberal Arts, Library and Information Center, Digital Archives Section 法鼓文理學院 圖書資訊館 數位典藏組</author>
+        <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+        <respStmt>
+          <resp>資料轉換</resp>
+          <name>周邦信</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>法鼓文理學院</publisher>
+        <address>
+          <addrLine>20842 新北市金山區法鼓路700號</addrLine>
+          <addrLine>da@dila.edu.tw</addrLine>
+        </address>
+        <date>2012-2021</date>
+        <availability>
+          <p>This document is published under a CC Attribution-Share Alike License</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title type="main">CBETA 電子佛典集成</title>
+          <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+          <pubPlace>臺灣‧臺北</pubPlace>
+          <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+          <date>2021-02-03</date>
+          <biblScope type="vol">T21</biblScope>
+          <idno type="Taisho">T21n1281</idno>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+    <div level="1">
+<div type="jing" level="2">
+<ab type="juan" subtype="open">/那羅延天/共/阿修羅/王/鬪/戰法/</ab>
+<byline>/寶/思惟/三藏/譯/</byline>
+<ab type="prose">/爾時/那羅延天/在/於/須彌山/頂/上/。/集/諸/天/大眾/梵天王/及/大自在天/王/天帝釋/等/。/亦/有/無量/天/龍/夜叉/乾闥婆/緊那羅/摩呼羅伽/人/非人/等/。/亦/有/無數/鬼神/等/。/共/會/說法/。/其/甘露/妙/藥/及/和合/安置/瓶/中/。/爾時/阿修羅/王/變形/入/其/瓶/中/。/食/其/甘露/妙/藥/。/於是/那羅延天/見/阿修羅/王/入/其/瓶/中/。/以/其/金輪/就/於/瓶/中/側/之/。/其/阿修羅/王/半/身/遂/斷/。/阿修羅/作/病/者/。/取/白/芥子/安/悉/香/胡麻蘇蜜/相/和/。/取/佉陀羅/木/長/□/指/。/一百八/段/。/一/呪/一/燒/。/稱/彼/□/人/名字/。/即/得/除愈/。/</ab>
+<ab type="prose">/次/說/印/法/。/</ab>
+<ab type="prose">/護/身/印/。/二/小/指/相叉/。/於/掌/中/二/無/名/指押/小/指/上/。/又/二/中/指/直/竪/。/二/頭/指/捻/二/中/指/上/。/二/大/指/捻/中/指/中/節/。/右轉/三匝/即/名/護身/。/然後/作/一切/法事/。/無有/障礙/。/</ab>
+<ab type="prose">/刀/印/。/左/手/小/指/名/指/□/上/節/。/大/母/指/押/小/指/無/名/指節/上/。/中/指/頭/指/直/竪/向/上/。/</ab>
+<ab type="prose">/輪印/。/定/手/風/空相/捻/圓/如/輪狀/。/上/擲/三/度/向/所/障/處/打/□/□/一切/阿修羅/皆悉/斷/。/</ab>
+<ab type="prose">/次/火/印/。/定/手/作/金剛拳/。/右/手/直/舒/五指/微動/。/以/左/頭/指/柱/右手/心/能/燒/一切/設/覩/嚕心/爛/以/印/大/焰/向/彼/指/之/。/想/火/燒/彼/如是/并/護摩/必/使/母陀/也/。/</ab>
+<ab type="juan" subtype="close">/那羅延/法/一/卷/</ab></div>
+<div type="w" level="2">
+<ab type="prose">/　/　/　/咸/通/五年/七月/五/日/比丘/禪/□/□/</ab></div></div>
+    </body>
+  </text>
+</TEI>

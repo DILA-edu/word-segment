@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">CBETA電子佛典(量化分析版)</title>
+        <title type="subordinate">佛說大如意寶珠輪牛王守護神咒經</title>
+        <author>Dharma Drum Institute of Liberal Arts, Library and Information Center, Digital Archives Section 法鼓文理學院 圖書資訊館 數位典藏組</author>
+        <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+        <respStmt>
+          <resp>資料轉換</resp>
+          <name>周邦信</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>法鼓文理學院</publisher>
+        <address>
+          <addrLine>20842 新北市金山區法鼓路700號</addrLine>
+          <addrLine>da@dila.edu.tw</addrLine>
+        </address>
+        <date>2012-2021</date>
+        <availability>
+          <p>This document is published under a CC Attribution-Share Alike License</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title type="main">CBETA 電子佛典集成</title>
+          <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+          <pubPlace>臺灣‧臺北</pubPlace>
+          <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+          <date>2021-02-03</date>
+          <biblScope type="vol">X02</biblScope>
+          <idno type="Taisho">X02n0202</idno>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+    <div level="1">
+<ab type="juan" subtype="open">/佛/說/大/如意/寶珠/輪/牛王/守護/神呪/經/</ab>
+<byline>/阿謨伽/三藏/奉詔/譯/</byline>
+<div type="" level="2">
+<ab type="prose">/如是我聞/。/一時/佛/在/波羅捺鹿野園/中/。/為/阿若拘隣/等/五/人/。/轉/四諦/法輪/。/時/會/中/有/一/天子/。/名/曰/牛王/神/。/即/從/座/起/。/曲/躬/合掌/。/頂禮/雙足/而/白/佛/言/。/世尊/。/我/有/隨心/自在/萬/事/滿足/神呪/。/及/利益/諸/有情/故/。/唯/願/世尊/。/哀愍/聽許/我/今/欲/說/大/神呪/。/爾時/佛/讚/言/。/善哉/速/可/演說/。/我/欲/聞/。/是時/天子/即/說/呪/曰/。/</ab>
+<ab type="dharani">唵悉底嚕悉底嚕(利)伴惹伴惹󴐺謨履底伽補瑟底伽阿毗遮阿毗遮真多摩尼莎賀</ab>
+<ab type="prose">/時/薄伽梵/。/聞說/神呪/。/普觀/一切/。/為/諸/有情/利益/安樂/故/。/而/說/偈言/。/</ab>
+<ab type="verse">/世間/諸/眾生/　/逼切/諸/貧苦/　/雖/求/資/有/福
+/施與/諸/眾生/　/令/得/無/憂惱/　/術力/勝/諸/獸/
+/哀愍/諸/眾生/　/施與/諸/珍寶/　/滿足/諸/希求/
+/齊等/諸/天/眾/　/福力/無/等限/
+</ab>
+<ab type="prose">/時/薄伽仙/毗吉那仙/以/歡喜/信樂/心/。/奉獻/種種/香華/燈明/。/四/事/供養/等/。/敬/禮/牛王/神/珠/天/。/而/說/偈言/。/</ab>
+<ab type="verse">/塗香/華鬘/及/燒香/　/燈明/飲食/與/錢/帛/
+/奉獻/牛王/神/獸/天/　/納受/悅預/增/勢力/
+/威德/神通/遍/諸/色/　/成/種種/色/諸/財寶/
+/施與/一切/眾生/類/　/故/我/供養/神獸天/
+</ab>
+<ab type="prose">/復次/牛王/珠/天/。/白/佛/言/世尊/。/若/有/諸/善男子/善女人/。/受持/此/經/者/。/彼/獲/幾所/福德/聚/。/如是/說/已/。/佛/告/牛王/珠/。/受持/此/經典/者/。/從/初/發心/乃至/成佛/。/身/所有/福德/聚/。/是/善男子/善女人/福德/聚/。/與/彼/正等/。/當/如是/知/。/彼/善男子/善女人/。/從/如來/口/生/佛心/之/子/。/若/是/善男子/善女人/所/方所/。/即/為/有/佛/施作/佛事/。/是故/若/樂/摧破/魔軍/利樂/一切/。/是故/汝等/欲/得/一切/如來/真實/智/惠/者/。/應當/一心/讀誦/此/經/。/能/速/成就/一切/福德/。/又/於/題/名/。/有/五/種/靈驗/。/何等/為/五/。/第一/受持/人/。/能/摧破/魔/軍眾/。/第二/讀誦/人/。/今世/後世/得/福德/無量/。/第三/書寫/供養/人/。/今世/後世/得/消滅/無量/億/劫/之/所/犯罪/。/至/阿鼻拔致位/。/第四/消除/一切/病苦/壽命/延長/。/第五/得/此/寶/珠/一/闕/之/分/。/致/供養/祭/讀誦/恭敬/者/。/生生世世/。/轉/諸/貧苦/報/。/能/令/得/祕藏/無盡/果/。/爾時/佛/說/此/神呪/經/已/。/一切/眾/會/。/皆大歡喜/。/信受奉行/。/</ab>
+<ab type="juan" subtype="close">/佛/說/大/如意/寶/珠/牛王/守護/神呪/經/</ab>
+<div type="w" level="3">
+<ab type="prose">/元應/二/年/十一/月/二十八日/以/快/玄/得/業/本/寫/之/竟/</ab>
+<ab type="prose">/金剛/資賴/心/</ab>
+<ab type="prose">/此/書/尾/城/南/真/福密/寺/藏/祕/本/東南院/任/瑜/法/親/王/相/傳/之/古/本/也/。/</ab></div></div></div>
+    </body>
+  </text>
+</TEI>

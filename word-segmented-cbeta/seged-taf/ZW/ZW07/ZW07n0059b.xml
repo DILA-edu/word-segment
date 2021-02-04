@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">CBETA電子佛典(量化分析版)</title>
+        <title type="subordinate">金剛五禮</title>
+        <author>Dharma Drum Institute of Liberal Arts, Library and Information Center, Digital Archives Section 法鼓文理學院 圖書資訊館 數位典藏組</author>
+        <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+        <respStmt>
+          <resp>資料轉換</resp>
+          <name>周邦信</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>法鼓文理學院</publisher>
+        <address>
+          <addrLine>20842 新北市金山區法鼓路700號</addrLine>
+          <addrLine>da@dila.edu.tw</addrLine>
+        </address>
+        <date>2012-2021</date>
+        <availability>
+          <p>This document is published under a CC Attribution-Share Alike License</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title type="main">CBETA 電子佛典集成</title>
+          <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+          <pubPlace>臺灣‧臺北</pubPlace>
+          <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+          <date>2021-02-03</date>
+          <biblScope type="vol">ZW07</biblScope>
+          <idno type="Taisho">ZW07n0059b</idno>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+    <div level="1"><head>/〔/錄/文二/〕/</head>
+<ab type="juan" subtype="open">/金剛/五/禮/</ab>
+<ab type="prose">/一心/敬/禮/，/清淨/真如/，/無/去/無/來/，/不生不滅/，/寂然/常/住/，/坦/矣/恒/安/，/千/佛/共/遵/，/十方/同/敬/，/恒沙/功德/，/非/色/非/心/，/南無/清淨/法身/毗盧遮那/佛/。/</ab>
+<ab type="prose">/一心/敬/禮/，/毗盧遮那/，/千/葉/蓮花/，/四智/珍寶/，/德/山/無極/，/願/海/無邊/，/積/行/三祇/，/累/功/十地/，/光/充/法界/，/體/滿/虛空/，/南無/圓滿/報/身盧舍那/佛/。/</ab>
+<ab type="prose">/一心/敬/禮/，/如來/生/地/，/雪山/之/北/，/香山/之/東/，/城/號/加維/，/姓/釋迦氏/，/父/名/淨飯/，/母/曰/摩耶/，/十九/出家/，/三十/成/道/，/南無/千百億/化身/釋迦牟尼/佛/。/</ab>
+<ab type="prose">/一心/敬/禮/，/甚深/微妙/，/金剛/般若/，/不可思議/，/生/諸/佛身/，/滅/凡夫/罪/，/無/人/無我/，/聲/空/色/空/，/苦惱/蓋纏/，/因/此/永/寂/，/南無/般若波羅蜜多/甚深/法藏/。/</ab>
+<ab type="prose">/一心/敬/禮/，/舍衛城/南/，/須達園/中/，/祇陀林/下/，/如來/精舍/，/聖眾/禪/房/，/於/彼/伽藍/，/說/斯/般若/，/我/今/恭敬/，/追念/世尊/，/南無/般若波羅蜜多/甚深/法藏/。/</ab>
+<ab type="prose">/〔/錄/文完/〕/</ab>
+<div type="w" level="2">
+<ab type="prose">/（/方廣/錩/修/訂/終審/）/</ab></div></div>
+    </body>
+  </text>
+</TEI>

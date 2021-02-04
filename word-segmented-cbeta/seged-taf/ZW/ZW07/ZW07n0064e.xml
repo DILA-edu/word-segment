@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">CBETA電子佛典(量化分析版)</title>
+        <title type="subordinate">地藏菩薩十齋日</title>
+        <author>Dharma Drum Institute of Liberal Arts, Library and Information Center, Digital Archives Section 法鼓文理學院 圖書資訊館 數位典藏組</author>
+        <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+        <respStmt>
+          <resp>資料轉換</resp>
+          <name>周邦信</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>法鼓文理學院</publisher>
+        <address>
+          <addrLine>20842 新北市金山區法鼓路700號</addrLine>
+          <addrLine>da@dila.edu.tw</addrLine>
+        </address>
+        <date>2012-2021</date>
+        <availability>
+          <p>This document is published under a CC Attribution-Share Alike License</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title type="main">CBETA 電子佛典集成</title>
+          <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+          <pubPlace>臺灣‧臺北</pubPlace>
+          <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+          <date>2021-02-03</date>
+          <biblScope type="vol">ZW07</biblScope>
+          <idno type="Taisho">ZW07n0064e</idno>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+    <div level="1"><head>/〔/錄/文五/〕/</head>
+<ab type="prose">/每月/十齋日/：/</ab>
+<ab type="list">
+/月/一/日/，/童子/下來/，/日/持/齋/，/不/墮/刀山/地獄/，/修/諸/善法/，/斷/諸/惡/，/除罪/二十/劫/；/
+/八/日/，/太子/下來/，/日/持/齋/，/不/墮/糞屎/地獄/，/屬/眼/不/觀/一切/諸/色/，/除罪/五十/劫/；/
+/十四日/，/司命/下來/，/日/持/齋/，/不/墮/鑊湯/地獄/，/屬/耳/不/聽/一切/色/聲/，/除罪/百二十/劫/；/
+/十五日/，/五道/大/神/下來/，/日/持/齋/，/不/墮/寒冰地獄/，/屬/鼻/不/嗅/一切/香/，/除罪/一千/劫/；/
+/十八/日/，/閻羅王/下來/，/日/持/齋/，/不/墮/劍/樹/地獄/，/不/煞/一切/眾生/，/除罪/九千/劫/；/
+/二十三日/，/天/大王/下來/，/日/持/齋/，/不/墮/餓鬼/地獄/，/屬/舌/不/說/一切/他人/長短/，/除/罪萬/劫/；/
+/二十四日/，/察/命/下來/，/日/持/齋/，/不/墮/拔/舌/地獄/，/不/妄/言/綺/語/傳/說/他人/，/除罪/二萬/劫/；/
+/二十八日/，/太山/府/君/下來/，/日/持/齋/，/不/墮/鐵/床/地獄/，/不/染/一切/諸/色/，/除罪/二萬/劫/；/
+/二十九/日/，/天/大將軍/下來/，/日/持/齋/，/不/墮/磑磨/地獄/，/屬/身/不/著/一切/細滑/衣服/，/除/罪/四萬/劫/；/
+/三十/日/，/大梵天王/下來/，/日/持/齋/，/不/墮/灰河/地獄/，/除罪/五萬/劫/。/</ab>
+<ab type="prose">/五月/、/正月/，/持/齋/不/墮/三惡道/，/具/修/十善/，/得/生/西方/淨土/。/</ab>
+<ab type="prose">/〔/錄/文完/〕/</ab></div>
+    </body>
+  </text>
+</TEI>

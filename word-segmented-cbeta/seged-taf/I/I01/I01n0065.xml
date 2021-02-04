@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">CBETA電子佛典(量化分析版)</title>
+        <title type="subordinate">宋敬業等造塔記</title>
+        <author>Dharma Drum Institute of Liberal Arts, Library and Information Center, Digital Archives Section 法鼓文理學院 圖書資訊館 數位典藏組</author>
+        <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+        <respStmt>
+          <resp>資料轉換</resp>
+          <name>周邦信</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>法鼓文理學院</publisher>
+        <address>
+          <addrLine>20842 新北市金山區法鼓路700號</addrLine>
+          <addrLine>da@dila.edu.tw</addrLine>
+        </address>
+        <date>2012-2021</date>
+        <availability>
+          <p>This document is published under a CC Attribution-Share Alike License</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title type="main">CBETA 電子佛典集成</title>
+          <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+          <pubPlace>臺灣‧臺北</pubPlace>
+          <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+          <date>2021-02-03</date>
+          <biblScope type="vol">I01</biblScope>
+          <idno type="Taisho">I01n0065</idno>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+    
+<div type="" level="1">
+<ab type="juan" subtype="open">/宋/敬業/等/造/塔/記/</ab>
+<ab type="prose">/曦/望/晷/速/。/三曜/不/停/。/春/還/秋/往/。/陰陽/貿/遷/。/有/始/將/終/。/有/生/必/滅/。/唯/无/上/大覺/。/體/宿/常/湛/。/故/使/人/知/覆護/。/勿/識/皈依/。/是/乃/佛/弟子/　/宋/敬業/。/崔海/寶/。/郭/小/德/。/張燕子/等/。/洞識/苦空/。/淵/知/八解/。/兼/識/財/稱/不/聚/。/身/名/假合/。/見/蘆葦/之/空虛/。/知/芭蕉/之/匪/實/。/何以/逢/除/厚/彰/。/輕/拔/无/明/。/方/欲/寄/煎/三毒/之/苦/。/永/入/解脫/之/門/。/因/茲/勝地/。/建/无/上/之/功/。/大/齊/天/保/九年/歲次/戊寅/三/月/甲午/朔/六/日/癸亥/。/仰/為/廣固南寺/大眾/等/。/敬造/寶/塔/一/區/。/万刃/名/山/。/峭/崿/峙/其/北/。/清淵/淥/池/。/遄/流/旋/其/前/。/神仙/之/宮/詎/得/方/其/麗/。/踴/出/鑽/天/可以/比/其/暉/。/崇/斯/福/□/仰/資/七/世/。/儗/入/閑門/。/龍/登/初/會/。/拔/潤/現/存/。/超/□/□/位/。/　/帝/祚/長延/。/法界/蒙/澤/。/若/不/刊/石/流/芳/。/□/□/易/滅/。/其/頌/曰/。/□灼/法炬/。/晃朗/慧日/。/悟/彼/迷徒/。/出/茲/闇室/。/門稱/不二/。/義/唯/歸/一/。/位/登/无/上/。/果/緣/周/畢/。/麗/同/玉室/。/□/似/銀/宮/。/彫曦/漏/月/。/鐸/嚮/從/風/。/將/如/地/踊/。/若/現/空/中/。/恃/斯/勝/善/。/同/履/虛沖/。/</ab></div>
+    </body>
+  </text>
+</TEI>

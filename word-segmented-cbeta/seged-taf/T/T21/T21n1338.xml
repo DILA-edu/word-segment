@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">CBETA電子佛典(量化分析版)</title>
+        <title type="subordinate">呪三首經</title>
+        <author>Dharma Drum Institute of Liberal Arts, Library and Information Center, Digital Archives Section 法鼓文理學院 圖書資訊館 數位典藏組</author>
+        <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+        <respStmt>
+          <resp>資料轉換</resp>
+          <name>周邦信</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>法鼓文理學院</publisher>
+        <address>
+          <addrLine>20842 新北市金山區法鼓路700號</addrLine>
+          <addrLine>da@dila.edu.tw</addrLine>
+        </address>
+        <date>2012-2021</date>
+        <availability>
+          <p>This document is published under a CC Attribution-Share Alike License</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title type="main">CBETA 電子佛典集成</title>
+          <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+          <pubPlace>臺灣‧臺北</pubPlace>
+          <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+          <date>2021-02-03</date>
+          <biblScope type="vol">T21</biblScope>
+          <idno type="Taisho">T21n1338</idno>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+    <div level="1">
+<ab type="juan" subtype="open">/呪/三/首/經/</ab>
+<byline>/唐/三藏/地婆訶羅/奉/　/詔/譯/</byline><head>/大輪/金剛/陀羅尼/一/</head>
+<ab type="dharani">訥謨薩怛唎耶　地毘迦喃　怛他揭多喃　唵毘囉　時毘囉時　摩訶斫迦囉　跋闍唎薩多薩多娑囉帝娑囉帝　怛唎曳怛唎曳毘陀末儞　三槃若儞　怛囉末底悉陀阿揭唎怛炎　娑婆訶</ab>
+<ab type="prose">/誦/此/陀羅尼/三七/遍/即當/入/一切/漫荼羅/(/壇/也/)/所/作/皆/成/(/誦呪/。/有/身/印/手/印/。/作/印誦/呪法/即/易/成/。/若/未/入/壇/。/不得/輙/作/。/今/令/誦/此/呪/。/即/當/入/壇/作/印行/不/成/盜/法/也/)/。/</ab><head>/日光/菩薩/呪二/</head>
+<ab type="dharani">南謨勃陀瞿(上聲)那(上聲)迷　南摩達摩　莫訶南謨僧伽多也泥底(丁以切)哩部卑薩(僧沒切)咄(登沒反)擔(平聲)納摩</ab>
+<ab type="prose">/(/誦/此/呪/滅/一切/障/亦/能/辟魔/及/除/天災/。/又/若/誦/一/遍禮/佛/一/拜/。/如此/日別/三/時/誦/呪/禮/佛/。/未來/當/得/二/相/端正/具足/果報/)/。/</ab><head>/摩利支天/呪/三/</head>
+<ab type="dharani">唵(上)摩利支曳　薩婆薩多婆頞陀利沙利娑(上聲)婆(去聲)訶</ab>
+<ab type="prose">/誦/此/呪/極/護/人身/。/當/日別/三/時/各/誦/一百八/遍/。/</ab>
+<ab type="juan" subtype="close">/呪/三/首/經/</ab></div>
+    </body>
+  </text>
+</TEI>

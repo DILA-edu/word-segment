@@ -15,6 +15,7 @@ taf.rb
 ## 將 TAFxml 自動分詞
 
 seg-taf.rb
+使用 6個 CPU, 全部 CBETA 跑完大約 2小時。
 
 ## 將自動分詞後的 TAFxml 轉為純文字
 

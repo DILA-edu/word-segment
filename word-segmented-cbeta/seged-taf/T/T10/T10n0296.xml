@@ -29,7 +29,7 @@
           <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
           <pubPlace>臺灣‧臺北</pubPlace>
           <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-          <date>2021-02-02</date>
+          <date>2021-02-03</date>
           <biblScope type="vol">T10</biblScope>
           <idno type="Taisho">T10n0296</idno>
         </bibl>
@@ -38,7 +38,7 @@
   </teiHeader>
   <text>
     <body>
-/
+    
 <ab type="juan" subtype="open">/文殊師利/發願/經/</ab>
 <byline>/東晉/天竺/三藏/佛陀跋陀羅/譯/</byline>
 <div type="jing" level="1">
@@ -132,6 +132,6 @@
 /盡/未來際/劫/，/　/究竟/菩薩行/。/
 </ab></div>
 <ab type="juan" subtype="close">/文殊師利/發願/經/</ab>
-/</body>
+    </body>
   </text>
 </TEI>

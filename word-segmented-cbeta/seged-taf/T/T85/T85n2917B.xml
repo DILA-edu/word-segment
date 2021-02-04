@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">CBETA電子佛典(量化分析版)</title>
+        <title type="subordinate">新菩薩經</title>
+        <author>Dharma Drum Institute of Liberal Arts, Library and Information Center, Digital Archives Section 法鼓文理學院 圖書資訊館 數位典藏組</author>
+        <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+        <respStmt>
+          <resp>資料轉換</resp>
+          <name>周邦信</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>法鼓文理學院</publisher>
+        <address>
+          <addrLine>20842 新北市金山區法鼓路700號</addrLine>
+          <addrLine>da@dila.edu.tw</addrLine>
+        </address>
+        <date>2012-2021</date>
+        <availability>
+          <p>This document is published under a CC Attribution-Share Alike License</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title type="main">CBETA 電子佛典集成</title>
+          <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+          <pubPlace>臺灣‧臺北</pubPlace>
+          <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+          <date>2021-02-03</date>
+          <biblScope type="vol">T85</biblScope>
+          <idno type="Taisho">T85n2917B</idno>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+    
+<ab type="juan" subtype="open">/新/菩薩/經/</ab>
+<div type="jing" level="1">
+<ab type="prose">/率/□/□/□/□/□/□/□/大小/念/百萬/口/。/阿彌陀/佛/五百/身/中/不/入/□/□/菩薩/說/今/󱭚/八/𠥱/九/𠥱/太山/崩須九萬億/□/亦/須/九千億/牛/。/第一/患/死/。/第二/卒/死/。/第三/產/坐/死/。/第四/不/持/齋/死/。/第五/腸/肚/熱/死/。/第六/自/絞/死/。/今/󱭚/禾/荳/熟/恐/無/𤯔/無/收度/。/今/󱭚/即/好/信/者/寫/一/通/免/身/。/寫/二/通/免/合/家/。/寫/三/通/免/一/村/。/若/聞/不/寫/即/滅/門/。/若/有/轉/讀/此/經/者/。/皆/度/苦難/。/不/信/即/身/滅/。/經/從/西/涼州/縣來/。/在/彼/城/東/門/口/。/四/𠥱/雷/鳴/雨/下/一/石/如/斗/。/破/兩/片/遂/見/此/經/。/轉/示/眾生/得/福/無量/。/</ab>
+<ab type="prose">/長安/四/󱭚/五/𠥱/十五日/</ab></div>
+    </body>
+  </text>
+</TEI>

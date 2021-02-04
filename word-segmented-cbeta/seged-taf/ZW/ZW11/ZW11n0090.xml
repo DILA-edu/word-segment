@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">CBETA電子佛典(量化分析版)</title>
+        <title type="subordinate">如來九觀（擬）</title>
+        <author>Dharma Drum Institute of Liberal Arts, Library and Information Center, Digital Archives Section 法鼓文理學院 圖書資訊館 數位典藏組</author>
+        <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+        <respStmt>
+          <resp>資料轉換</resp>
+          <name>周邦信</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>法鼓文理學院</publisher>
+        <address>
+          <addrLine>20842 新北市金山區法鼓路700號</addrLine>
+          <addrLine>da@dila.edu.tw</addrLine>
+        </address>
+        <date>2012-2021</date>
+        <availability>
+          <p>This document is published under a CC Attribution-Share Alike License</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title type="main">CBETA 電子佛典集成</title>
+          <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+          <pubPlace>臺灣‧臺北</pubPlace>
+          <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+          <date>2021-02-03</date>
+          <biblScope type="vol">ZW11</biblScope>
+          <idno type="Taisho">ZW11n0090</idno>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+    <div level="1"><head>/如來/九/觀/（/擬/）/</head>
+<byline>/整理/者/　/方廣/錩/</byline>
+<ab type="prose">/〔/題解/〕/</ab>
+<ab type="prose">/《/如來/九/觀/》/（/擬/）/，/中國/人/所/撰/佛教/文獻/。/一/卷/。/作/者/不/詳/。/</ab>
+<ab type="prose">/在/元魏/菩提流支/所/譯/《/金剛/般若波羅蜜/經/》/的/結/尾/，/有/偈頌/如/下/：/</ab>
+<ab type="verse">/一切/有為法/，/　/如/星/翳/燈/幻/、/
+/露泡/夢/電/雲/，/　/應/作/如是/觀/。/
+</ab>
+<ab type="prose">/該/偈頌/用/星/、/翳/、/燈/、/幻/、/露/、/泡/、/夢/、/電/、/雲/等/九/種/事/物/，/比喻/一切/有為法/無常/，/不可/怙/恃/。/《/如來/九/觀/》/則/主/張/上/述/九/喻/分別/比喻/見/、/相/、/識/、/器/、/身/、/受/、/過去/、/現在/、/未來/等/九/種/名相/，/並/對/「/星/」/等/九/種/事/物/與/「/見/」/等/九/種/名/相的/同/一/性/作/了/簡要/闡釋/。/文/中/進/而/認/為/「/如來/得/此/九/觀/，/故/能/行/生死/而/不/動/」/，/而/「/不/動/是/法印/」/。/亦/即/將/《/金剛/經/》/中/的/九/種/比喻/，/視/為/如來/行/禪定/的/九/種/觀想/，/認/為/由/此/可/得/不/動/法印/。/從/而/將/這/一/觀/想/與/無住/涅槃/相/聯繫/，/進/一/步/發/展了/《/金剛/經/》/的宗/教/踐/行/功能/。/因/此/，/本/文獻/是/我/們/研/究/義理/性/佛教/與/信/仰性/佛教/接軌/的重/要/資料/。/</ab>
+<ab type="prose">/本/文獻/未/為/歷代/經/錄/著/錄/，/亦/未/為/歷代/大/藏/經/所/收/。/敦煌/出/土/後/，/除/上/世紀/三十/年/代/許/國霖/發表/錄/文/外/，/尚/未/見/有/人/對/此/進/行/研/究/。/</ab>
+<ab type="prose">/原文/無/標題/。/許/國/霖錄/文時/擬/題/為/《/金剛/九/喻/》/。/今/依/文/中/「/如來/得/此/九/觀/，/故/能/行/生死/而/不/動/」/之/語/，/擬/名為/《/如來/九/觀/》/。/</ab>
+<ab type="prose">/錄/文/所/用/底/、/校本/如/下/：/</ab>
+<ab type="list">
+/底/本/：/BD/04525/號/背/。/
+/校本/：/甲本/，/許/國/霖/錄/文/本/，/載/《/敦煌/叢/刊/初/集/》/第十/集/第4/0/1頁/。/</ab><head>/〔/錄/文/〕/</head>
+<ab type="prose">/一/星/喻/見/，/二/翳/喻/相/，/三/燈/喻/識/，/四/幻/喻/器/，/五露/喻/身/，/六/泡/喻/受/，/七/夢/喻/過去/，/八/電/喻/現在/，/九/雲/喻/未來/。/</ab>
+<ab type="prose">/夫/星/雖/夜/燭/，/遇/朝陽/而/不/現/；/見/雖/邪/決/，/逢/◇/魔/必/盡/。/此/其/同/也/。/</ab>
+<ab type="prose">/翳/，/眼/之/見/毛輪/，/雖/似/有/而/非/實/；/見/，/心/所/鑒/之/境/，/亦/相/而/是/空/。/此/其/同/也/。/</ab>
+<ab type="prose">/燈光/依/油/炷/而/住/，/薪/薪/謝/滅/；/識/性/依/我/愛/，/亦/念念/無常/。/此/其/同/也/。/</ab>
+<ab type="prose">/幻/雖/千/變/，/智者/審/其/非/實/；/器/雖/萬/像/、/觀/者/了/之/為/無/。/此/其/同/也/。/</ab>
+<ab type="prose">/露/雖/夜/泫/，/遇/朝陽/而/必/晞/；/身/雖/暫/，/逢/死魔/而/必/壞/。/此/其/同/也/。/</ab>
+<ab type="prose">/風/擊/水/而/成/泡/，/觸/會/境/而/生/受/；/離/風/、/水/而/無/泡/，/離/觸/力/而/無/受/。/此/其/同/也/。/</ab>
+<ab type="prose">/過去/之/境/，/非/證/智/而/所/知/；/眠/夢/所/遊/，/亦/念/心/而/所/錄/。/此/其/同/也/。/</ab>
+<ab type="prose">/電光/閃爍/，/僅/似/有/而/即/無/；/現/法/亦爾/，/纔/得/體/便/滅/。/此/其/同/也/。/</ab>
+<ab type="prose">/雲/浮/在/空/，/能/作/生/雨/之/因/；/種子/在/識/，/能/為/感/報/之/本/。/以/雲/約/雨/，/雨/在/未來/而/是/無/；/以/種/約/報/，/報/在/當/生/而/不/現/。/此/其/同/也/。/</ab>
+<ab type="prose">/如來/得/此/九/觀/，/故/能/行/生死/而/不/動/。/不/動/是/法印/，/動/則/魔網/也/。/如/星/、/翳/、/燈/、/幻/，/皆/為/喻/無常/。/</ab>
+<ab type="prose">/〔/錄/文完/〕/</ab></div>
+    </body>
+  </text>
+</TEI>

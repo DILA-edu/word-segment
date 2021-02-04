@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">CBETA電子佛典(量化分析版)</title>
+        <title type="subordinate">阿吒薄𤘽付囑呪</title>
+        <author>Dharma Drum Institute of Liberal Arts, Library and Information Center, Digital Archives Section 法鼓文理學院 圖書資訊館 數位典藏組</author>
+        <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+        <respStmt>
+          <resp>資料轉換</resp>
+          <name>周邦信</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>法鼓文理學院</publisher>
+        <address>
+          <addrLine>20842 新北市金山區法鼓路700號</addrLine>
+          <addrLine>da@dila.edu.tw</addrLine>
+        </address>
+        <date>2012-2021</date>
+        <availability>
+          <p>This document is published under a CC Attribution-Share Alike License</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title type="main">CBETA 電子佛典集成</title>
+          <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+          <pubPlace>臺灣‧臺北</pubPlace>
+          <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+          <date>2021-02-03</date>
+          <biblScope type="vol">T21</biblScope>
+          <idno type="Taisho">T21n1240</idno>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+    
+<ab type="juan" subtype="open">/阿吒薄/𤘽/付囑/呪/</ab>
+<div type="dharani" level="1">
+<ab type="dharani">南無阿吒薄𤘽摩俱吒耶　摩訶藥叉那耶　摩醯首羅耶泮毘摩質多羅耶泮　那吒鳩伐羅泮呵呵呵呵泮泮泮唅(引)　曳吒曳吒曳吒曳吒　尼藍婆耶乾馱婆耶毘舍闍耶莎訶南無薄伽梵跋折羅軍荼利耶泮　跋折唎薄悉陀耶泮　薄伽跋帝阿吒婆拘耶泮　毘沙門那泮波波吒吒耶耶泮泮　因陀羅藥叉賴耶泮毘盧釋迦耶泮　毘盧博芻藥叉那泮婆羅摩泮速速去去馺婆訶　摩訶藥叉馺婆訶伽伽伽伽羅羅泮泮泮泮　摩尼跋陀羅泮那羅延都泮　摩訶迦羅泮阿耨陀耶泮甌婆難陀泮蘇耆羅耶泮　南單那泮黑布單那泮闍摩羅闍耶泮　目真隣耶泮蘇盧鳩槃茶唅(引)泮善女功德耶泮降怨泮泮　泮泮藥叉藥叉速速速速馺婆呵摩訶藥叉藥叉速速速速馺婆呵阿阿阿阿阿阿鉢鉢遮遮勅勅勅勅跋跋羅羅跋折羅荷(長引)吒吒吒吒曳泮吒馺婆呵吞攝馺婆訶阿吒阿吒阿呵阿呵呵呵唅(引)泮斫迦羅護帝跋折羅力力力力拔拔拔拔急急急急頻陀攝持師子王吼吼吼吼呵呵呵呵泮吒阿吒薄𤘽曳莎呵</ab>
+<ab type="prose">/此/呪/急/惡/。/若/不/清淨/請/不/輒/誦/。/有/欲心/。/我/遣/鬼王/把/金輪/破/汝/頭/。/法/誦/舍利/。/諸/法/從/緣起/。/如來/說/是/因/。/彼/法/因緣/盡/。/是/大/沙門/說/。/</ab></div>
+    </body>
+  </text>
+</TEI>

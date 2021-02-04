@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">CBETA電子佛典(量化分析版)</title>
+        <title type="subordinate">張乾度七十人等造像記</title>
+        <author>Dharma Drum Institute of Liberal Arts, Library and Information Center, Digital Archives Section 法鼓文理學院 圖書資訊館 數位典藏組</author>
+        <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+        <respStmt>
+          <resp>資料轉換</resp>
+          <name>周邦信</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>法鼓文理學院</publisher>
+        <address>
+          <addrLine>20842 新北市金山區法鼓路700號</addrLine>
+          <addrLine>da@dila.edu.tw</addrLine>
+        </address>
+        <date>2012-2021</date>
+        <availability>
+          <p>This document is published under a CC Attribution-Share Alike License</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title type="main">CBETA 電子佛典集成</title>
+          <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+          <pubPlace>臺灣‧臺北</pubPlace>
+          <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+          <date>2021-02-03</date>
+          <biblScope type="vol">I01</biblScope>
+          <idno type="Taisho">I01n0018</idno>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+    <div level="1">
+<div type="" level="2">
+<ab type="juan" subtype="open">/張乾度/七十/人/等/造像/記/</ab><head>/之/一/</head>
+<div type="" level="3">
+<ab type="prose">/侍者/田/龍鳳/　/　/　/邑/正劉/胡仁/　/道/民/田/□/□/　/錄生王/鍾馗/　/道/民/田/倪奴/　/　/　/　/　/　/　/　/邑/正/王憙/　/　/錄生/劉□/□/　/錄/生/田/祖憙/　/道民/劉歸/宗/　/　/　/道民/劉道/步/　/　/　/　/　/　/　/　/　/　/　/　/　/　/道/民/田/鳳□/　/錄/生/田健/一/　/道民/劉/天平/　/　/　/　/　/　/　/　/　/　/　/　/　/　/道民/劉順/□/　/道/民/王/歡/　/　/道民/劉安/　/　/　/　/錄生/劉仵/但/　/　/　/　/　/　/　/　/邑正/劉醜奴/　/道/民/張/猥/□/　/道/民/常/文猥/　/道/民/王/　/□/　/　/　/道/民/田/豐洛/侍者/王道/迴/　/　/　/　/　/　/　/　/　/道/民/田/眾/　/　/□/□/伊/中正/　/道/民/王/道養/　/　/　/道民/常/輔相/</ab></div></div>
+<div type="" level="2"><head>/之/二/</head>
+<div type="" level="3">
+<ab type="prose">/　/　/　/　/　/　/　/　/　/　/　/　/　/　/　/　/　/　/　/　/　/　/　/　/　/　/　/　/　/　/　/　/　/　/　/　/　/　/　/　/道/民/田/市/□/　/　/　/　/　/　/　/　/　/　/　/　/　/　/　/　/　/　/　/　/　/　/　/　/　/　/　/　/　/　/　/　/　/　/道/民/王特/　/　/　/　/　/　/　/　/侍者/田/奴主/　/道民/劉興宗/　/道/民/常/眾/保/　/道/民/田/□宗/　/　/　/　/　/　/　/　/　/道民/劉神/虎/　/道/民/田/歡洛/□檀/衛主/劉漫/特/　/　/　/　/　/　/　/邑/正劉/天威/　/道/民/張/道/生/　/道民王天/助/平望/　/道民/田茍/仁/　/道民/劉黑/洛/　/道/民/田道/佛/　/　/　/　/　/　/　/　/　/　/　/　/　/　/邑/正田/天与/　/邑老/劉漫公/　/道/民/田/洪引/　/　/　/道/民/田/神安/　/道/民/田/老德/　/　/　/　/　/　/　/　/　/　/　/　/　/　/　/　/　/　/　/　/錄生/劉陽奴/　/錄/□/田/洪安/　/　/　/錄生/劉仵歡/　/道民/劉道/虎/　/　/　/　/　/　/　/　/　/　/　/　/　/　/彈官/劉/令/劍/　/　/　/　/　/　/　/　/　/　/　/　/　/　/□官/劉羽歡/　/錄/生/常/安洛/　/□□/劉走/德/　/　/　/錄生/劉伯/虎/　/錄生王/道夆/　/　/　/　/　/　/　/　/侍者/王/□祖/　/□/民/王/道/予/　/錄/生/姜保/興/　/□生/劉樂祖/　/　/　/錄/生/田/神覆/　/錄生/劉道/夆/</ab></div></div>
+<div type="" level="2"><head>/之/三/</head>
+<div type="" level="3">
+<ab type="prose">/道民/劉成王/　/　/　/道/民/田□/　/　/　/　/　/　/　/　/□/□/常/雙/道民/劉始/樂/　/　/　/道/民/田道/生/　/道/□/安/生/　/　/道/民/田/暎儁/　/道/民/田/領族/道民/田清/　/　/　/　/邑/子/田/阿景/　/道/民/□/神慶/　/道/民/王/顯/琴/　/道民/劉映/世/道/民/田/大昌/　/　/　/道/民/田/神達/　/道/民/□/犢/　/　/道/民/田/景洛/　/道民/劉神/俱/</ab></div></div>
+<div type="" level="2"><head>/之/四/</head>
+<div type="" level="3">
+<ab type="prose">/　/　/　/　/　/　/　/　/　/　/　/　/　/道民/劉道/生/　/　/道/民/□/□/□/　/　/　/　/　/　/佛/弟子/劉文端/　/佛/弟子/田/韶憙/　/道民/劉万/多/　/　/　/　/　/　/佛/弟子/劉/歸憙/　/佛/弟子/劉眾達/　/道民/劉神/□/比丘/劉□/施/　/　/　/　/　/　/　/　/　/　/　/　/　/　/　/道/民/常/□/□/</ab></div>
+<div type="" level="3">
+<ab type="prose">/□/大聖/零妙/。/神化/萬/方/。/□/以/大/道/□/□/□/□/□/□/苞浛/乾坤/。/造/化/陰陽/。/故/能/漸/幽暇/瑍/。/婚闇/朗/□/伊趙體/微妙/□/□/神州/。/丈/六/金剛/。/能/短/能/萇/。/□/零朝/宗俗/□/□/望/而/延/天堂/。/於/今/大魏/門師/張乾度/。/師/道/妙/率邑/子/七十/人/等/。/知/求/非/常/。/皆/同/生/年/。/□/□/□/微/福/。/信受/法任/。/　/愛樂/瓊/文/。/敬崇/三寶/。/共/興/邑儀/。/思/建/功/得/。/成/心/久著/。/各自/竭/家/珍/。/故/匠/刊/石/。/造/刑像/一/傴/。/上/願/　/皇帝/陛下/牧/守/令/長/。/願/保/□零/。/下/為/七/世/父母/。/所/生/父母/。/常/在/太上/左右/。/大代/神龜/二年/歲/次/己/亥/十/月/丁/未/朔/十四日/庚申/。/□/□/□/□/□/敬/造/訖/。/雍州/馮翊/郡/萬年縣/西鄉/人/。/</ab></div></div></div>
+    </body>
+  </text>
+</TEI>

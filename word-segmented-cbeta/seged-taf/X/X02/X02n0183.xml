@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">CBETA電子佛典(量化分析版)</title>
+        <title type="subordinate">二十八夜叉大軍王名號</title>
+        <author>Dharma Drum Institute of Liberal Arts, Library and Information Center, Digital Archives Section 法鼓文理學院 圖書資訊館 數位典藏組</author>
+        <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+        <respStmt>
+          <resp>資料轉換</resp>
+          <name>周邦信</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>法鼓文理學院</publisher>
+        <address>
+          <addrLine>20842 新北市金山區法鼓路700號</addrLine>
+          <addrLine>da@dila.edu.tw</addrLine>
+        </address>
+        <date>2012-2021</date>
+        <availability>
+          <p>This document is published under a CC Attribution-Share Alike License</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title type="main">CBETA 電子佛典集成</title>
+          <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+          <pubPlace>臺灣‧臺北</pubPlace>
+          <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+          <date>2021-02-03</date>
+          <biblScope type="vol">X02</biblScope>
+          <idno type="Taisho">X02n0183</idno>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+    
+<ab type="juan" subtype="open">/二十八/夜叉/大軍/王/名號/</ab>
+<byline>/三藏/法師/僧伽婆羅/譯/抄/之/</byline>
+<div type="" level="1">
+<ab type="prose">/佛/告/阿難/汝/當/受持/二十八/夜叉/大軍/王/名/守護/十方/國土/阿難/有/四/夜叉/大軍/主/住/在/東方/常/守護/東方/其/名/如是/。/</ab>
+<ab type="list">
+/地/珂/(/梁/言/長/)/
+/修/涅多羅/(/梁/言/善/眼/)/
+/分/那柯/(/梁/言/滿/)/
+/迦毗羅/(/梁/言/青色/)/</ab>
+<ab type="prose">/阿難/南方/復/有/四/夜叉/住/在/南方/常/守護/南方/其/名/如是/。/</ab>
+<ab type="list">
+/僧伽/(/梁言/師子/)/
+/優婆僧伽/(/梁言/師子/子/)/
+/償/起羅/(/梁/言/螺/)/
+/旃陀那/(/梁言/栴檀/)/</ab>
+<ab type="prose">/阿難/西方/復/有/四/夜叉/住/在/西方/守護/西方/其/名/如是/。/</ab>
+<ab type="list">
+/訶利/(/梁言/師子/)/
+/訶利/枳舍/(/梁言/師子/髮/)/
+/波羅赴/(/梁言/自在/)/
+/冰伽羅/(/梁/言/蒼色/)/</ab>
+<ab type="prose">/阿難/北方/復/有/四/夜叉/住/在/北方/常/守護/北方/其/名/如是/。/</ab>
+<ab type="list">
+陀羅那/(/梁/言/持/)/
+陀羅難陀/(/梁言/歡喜/)/
+/鬱庾伽波羅/(/梁言/勤守/)/
+/別/他那/(/梁/言/圍/)/</ab>
+<ab type="prose">/阿難/四維/有/四/夜叉/住/在/四維/常/守護/四維/其/名/如是/。/</ab>
+<ab type="list">
+/般止/柯遮/(/梁/言/五/)/
+/般遮羅/旃陀/(/梁/言/五/可畏/)/
+/莎多祁梨/(/梁言/七/山/主/)/
+/𨢸/遮波多/(/梁/言/雪山/主/)/</ab>
+<ab type="prose">/阿難/下方/有/四/夜叉/大軍/主/住/在/下方/常/守護/下方/其/名/如是/。/</ab>
+<ab type="list">
+/部摩/(/梁/言/地/)/
+/修/部摩/(/梁/言/善/地/)/
+柯羅/(/梁言/黑/)/
+/優波柯羅/(/梁言/小/黑/)/</ab>
+<ab type="prose">/阿難/上方/有/四/夜叉/大軍/主/住/在/上方/常/守護/上方/其/名/如是/。/</ab>
+<ab type="list">
+/蘇摩/(/梁/言/月/)/
+/修/利/(/梁/言/日/)/
+/惡祁尼/(/梁/言/火/)/
+/婆牖/(/梁/言/風/)/</ab>
+<ab type="prose">/佛/為/阿難/說/二十八部/夜叉/大軍/主/大/威神/利益/相/已/此/法/名為/鎮護國/法/。/</ab>
+<ab type="juan" subtype="close">/二十八/夜叉/大軍/王/名號/</ab></div>
+    </body>
+  </text>
+</TEI>

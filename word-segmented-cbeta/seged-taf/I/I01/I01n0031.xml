@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">CBETA電子佛典(量化分析版)</title>
+        <title type="subordinate">儁蒙文姬卅一人等造像記</title>
+        <author>Dharma Drum Institute of Liberal Arts, Library and Information Center, Digital Archives Section 法鼓文理學院 圖書資訊館 數位典藏組</author>
+        <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+        <respStmt>
+          <resp>資料轉換</resp>
+          <name>周邦信</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>法鼓文理學院</publisher>
+        <address>
+          <addrLine>20842 新北市金山區法鼓路700號</addrLine>
+          <addrLine>da@dila.edu.tw</addrLine>
+        </address>
+        <date>2012-2021</date>
+        <availability>
+          <p>This document is published under a CC Attribution-Share Alike License</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title type="main">CBETA 電子佛典集成</title>
+          <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+          <pubPlace>臺灣‧臺北</pubPlace>
+          <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+          <date>2021-02-03</date>
+          <biblScope type="vol">I01</biblScope>
+          <idno type="Taisho">I01n0031</idno>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+    <div level="1">
+<div type="" level="2">
+<ab type="juan" subtype="open">/儁/蒙/文姬/卅/一/人/等/造像/記/</ab><head>/之/一/　/碑側/</head>
+<div type="" level="3">
+<ab type="prose">/夫/大/□/□/□薩/云/表/挺世/之/容/。/妙/法/開敷/。/波/若/闡/權顯/之/音/。/如來/奄/過/□/□/殊/遷祀/。/像法/雖/隆/。/床/宗/者/尠/。/是以/大/代/永熙/二年/歲/次/□/□/正月/戊子/朔/八日/乙/未/。/北雍/州宜/君郡/黃堡/縣邑/主儁/蒙/文/姬/□/□娥/合邑/子/卅/一/人/等/。/自慨/丕/踰/。/流轉/无竊/。/故/減割/家/珍/。/聘/名/□/□/□/大/路/顯敞/之/處/。/敬/造/石/像/一/區/。/功/就/成/訖/。/令/國祚/永隆/人民/□/　/洽/。/下/願/慶/七/世/。/永/超/八難/。/神縣/福堂/。/濟/生死/之/苦/。/願/諸/邑/子/□/□/蒙/拯/。/眾/患/消□/。/□/願/初首/。/書/人/夫/蒙/顯達/。/</ab></div></div>
+<div type="" level="2"><head>/之/二/　/碑側/</head>
+<div type="" level="3">
+<ab type="prose">/　/　/　/　/　/　/　/　/　/　/　/　/　/　/　/邑子/清信/瓽/高/□/　/　/邑子/清信/楊妙/娥/　/　/邑子/清信/同/𤧛/鳳皇/　/　/　/　/　/　/　/　/　/　/　/　/　/姬/　/邑子/清信/同/𤧛/標姬/　/邑子/清信/同/𤧛/照/姬/　/邑子/清信/同/𤧛/枝達/　/　/　/　/　/　/　/　/　/　/　/　/　/　/　/邑子/清信/同𤧛/真朱/　/　/　/　/　/　/　/　/　/　/　/　/伏男/　/　/　/　/　/　/　/　/　/　/邑子/清信/成/定/姬/　/　/邑子/清信鉗/耳支/誠/　/　/　/　/　/　/　/　/　/　/　/　/男/姬/　/邑子/清信/同/𤧛/妙/娥/　/　/　/　/　/　/　/　/　/　/　/　/　/　/　/邑子/清信/同𤧛/軒朱/　/邑子/清信/同/𤧛/標姬/　/邑子/清信/夫/蒙/百/伏/　/　/　/　/　/　/　/　/　/　/　/　/　/　/　/　/　/　/　/　/　/　/　/　/　/邑子/清信/□/□/□/</ab></div></div>
+<div type="" level="2"><head>/之/三/　/碑陽/</head>
+<div type="" level="3">
+<ab type="prose">/　/　/　/　/　/　/　/　/　/　/　/　/　/　/　/惟那清□/□/拔/連/　/　/　/香火/清信王/蘭小/　/　/　/　/　/　/　/　/　/　/　/　/　/　/　/邑/謂/清信/同/𤧛/雲/□/　/　/典錄/清信/同/𤧛/阿美/　/　/　/　/　/　/　/　/　/　/　/　/　/　/　/邑主/清信/儁/蒙/文姬/　/　/邑/正/清信/同𤧛/娥媚/　/　/　/　/　/　/　/　/　/　/　/　/　/　/　/比丘/僧/郭/僧/景/名/豐洛/　/彈官/清信/夫/蒙/妙/朱/　/　/　/　/　/　/　/　/　/　/　/　/　/　/　/沙彌/夫/蒙/僧/貴/　/　/　/　/彈官/清信/同/𤧛/天/姬/　/　/　/　/　/　/　/　/　/　/　/　/　/　/　/邑主/清信/瓽/姬娥/　/　/　/邑/正/清信朱阿儻/　/　/　/　/　/　/　/　/　/　/　/　/　/　/　/邑/謂/清信/同/𤧛/定/姜/　/　/典錄/清信/同𤧛/阿陵/　/　/　/　/　/　/　/　/　/　/　/　/　/　/　/維那/清信/同/𤧛/彌弱/　/　/香火/清信/同/𤧛/磨帋/　/　/　/　/　/　/　/　/　/　/　/　/　/　/　/　/　/　/　/　/　/　/　/　/　/邑子/清□/</ab></div></div>
+<div type="" level="2"><head>/之/四/　/碑陰/</head>
+<div type="" level="3">
+<ab type="prose">/　/　/　/　/　/　/　/　/　/　/　/　/　/　/亡邑/子/□/信/田/文姜/　/　/　/邑/子/同/𤧛/□/男/　/　/　/　/　/　/　/　/　/　/　/　/　/　/亡邑/子/清信/同/𤧛/文姬/　/　/邑/子/夫/蒙/連/□/　/　/　/　/　/　/　/　/　/　/　/　/　/　/亡邑/主/清信/儁蒙/阿護承/　/邑/子/同/𤧛/□/□/　/　/　/　/　/　/　/　/　/　/　/　/　/　/亡邑/主/清信王/歸/香/　/　/　/邑/子/夫/蒙/綠/花/　/　/　/　/　/　/　/　/　/　/　/　/　/　/亡惟那清信瓽/姬/香/　/　/　/邑/子/瓽/俗/男/　/　/　/　/　/　/　/　/　/　/　/　/　/　/亡惟那清信/同/𤧛/龍/姜/　/　/邑/子/荔/非/貴/姬/　/　/　/　/　/　/　/　/　/　/　/　/　/　/　/　/　/　/　/　/　/　/　/　/　/邑/子/同/𤧛/道/姬/　/　/　/　/　/　/　/　/　/　/　/　/　/　/　/邑/子/□/想/姬/　/　/　/　/　/邑子王/□/男/　/　/　/　/　/　/　/　/　/　/　/　/　/　/　/　/　/　/　/　/　/　/　/　/　/邑/子/同/𤧛/顯/妃/　/　/　/　/　/　/　/　/　/　/　/　/　/　/　/　/　/　/　/　/　/　/　/　/　/邑/子/同/𤧛/娥/花/　/　/　/　/　/　/　/　/　/　/　/　/　/　/　/　/　/　/　/　/　/　/　/　/　/邑/子/于/向/妃/　/　/　/　/　/　/　/　/　/　/　/　/　/　/　/　/　/　/　/　/　/　/　/　/　/邑/子/夫/蒙/照/男/　/　/　/　/　/　/　/　/　/　/　/　/　/　/　/　/　/　/　/　/　/　/　/　/　/邑子/雷貴/姬/　/　/　/　/　/　/　/　/　/　/　/　/　/　/　/　/　/　/　/　/　/　/　/　/　/邑/子/同/𤧛/明月/　/　/　/　/　/　/　/　/　/　/　/　/　/　/　/　/　/　/　/　/　/　/　/　/　/邑子/劉雙/勝/</ab></div></div></div>
+    </body>
+  </text>
+</TEI>

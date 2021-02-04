@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">CBETA電子佛典(量化分析版)</title>
+        <title type="subordinate">僧暈等造像記</title>
+        <author>Dharma Drum Institute of Liberal Arts, Library and Information Center, Digital Archives Section 法鼓文理學院 圖書資訊館 數位典藏組</author>
+        <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+        <respStmt>
+          <resp>資料轉換</resp>
+          <name>周邦信</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>法鼓文理學院</publisher>
+        <address>
+          <addrLine>20842 新北市金山區法鼓路700號</addrLine>
+          <addrLine>da@dila.edu.tw</addrLine>
+        </address>
+        <date>2012-2021</date>
+        <availability>
+          <p>This document is published under a CC Attribution-Share Alike License</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title type="main">CBETA 電子佛典集成</title>
+          <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+          <pubPlace>臺灣‧臺北</pubPlace>
+          <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+          <date>2021-02-03</date>
+          <biblScope type="vol">I01</biblScope>
+          <idno type="Taisho">I01n0010</idno>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+    <div level="1">
+<div type="" level="2">
+<ab type="juan" subtype="open">/僧/暈/等/造像/記/</ab>
+<div type="" level="3">
+<ab type="prose">/太和/十六/年/。/道人/僧/暈/為/七/帝/建/三/丈/八/彌勒/像/。/二/菩薩/</ab></div>
+<div type="" level="3">
+<ab type="prose">/丈/造/素/。/至/景明/二/。/鑄/鐫/訖竟/。/正始/二/　/　/歲次/乙酉/</ab></div>
+<div type="" level="3">
+<ab type="prose">/二/月/壬寅/朔/四/日/銘/旨/三州/教化/。/大/像/用/赤/金/卅/六万六千四/</ab></div>
+<div type="" level="3">
+<ab type="prose">/百/斤/。/黃金/二千/一百/斤/。/二/菩薩/用/赤/金/四/万/六千/斤/。/黃金/一千/一百/斤/。/</ab></div>
+<div type="" level="3">
+<ab type="prose">/大魏/今/上/皇帝/陛下/。/忠慕/玄追/。/孝誠/通敏/。/班旨/三州/。/率/</ab></div>
+<div type="" level="3">
+<ab type="prose">/宣/功就/。/略表/始末/。/銘/之/後/代/耳/。/</ab></div>
+<div type="" level="3">
+<ab type="prose">/七寶/瓶/。/前/定州/刺史/彭城王/元勰/。/定州/</ab></div>
+<div type="" level="3">
+<ab type="prose">/刺史/城陽王/元鸞/。/</ab></div></div></div>
+    </body>
+  </text>
+</TEI>

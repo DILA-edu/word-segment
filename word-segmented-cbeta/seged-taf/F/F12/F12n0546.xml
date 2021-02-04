@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">CBETA電子佛典(量化分析版)</title>
+        <title type="subordinate">大方廣圓覺修多羅了義經（選錄「附文：金剛禮一本」）</title>
+        <author>Dharma Drum Institute of Liberal Arts, Library and Information Center, Digital Archives Section 法鼓文理學院 圖書資訊館 數位典藏組</author>
+        <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+        <respStmt>
+          <resp>資料轉換</resp>
+          <name>周邦信</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>法鼓文理學院</publisher>
+        <address>
+          <addrLine>20842 新北市金山區法鼓路700號</addrLine>
+          <addrLine>da@dila.edu.tw</addrLine>
+        </address>
+        <date>2012-2021</date>
+        <availability>
+          <p>This document is published under a CC Attribution-Share Alike License</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title type="main">CBETA 電子佛典集成</title>
+          <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+          <pubPlace>臺灣‧臺北</pubPlace>
+          <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+          <date>2021-02-03</date>
+          <biblScope type="vol">F12</biblScope>
+          <idno type="Taisho">F12n0546</idno>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+    
+<div type="w" level="1">
+<byline>/通理/大師/集/</byline>
+<ab type="juan" subtype="open">/金剛/礼/一/本/</ab>
+<ab type="prose">/作/供/梵/嘆/如/常/依/慈氏/礼/聲/</ab>
+<ab type="table"/>
+<ab type="row"/>
+<ab type="cell">/志心/㱕/命/礼/</ab>
+<ab type="cell">/法身/非/相/</ab>
+<ab type="cell">/應化/非/真/</ab>
+<ab type="cell">/福智/無比/</ab>
+<ab type="cell">/無為/福/勝/</ab>
+<ab type="row"/>
+<ab type="cell">/一/相/無相/</ab>
+<ab type="cell">/化/無/所/化/</ab>
+<ab type="cell">/無/断/無/滅/</ab>
+<ab type="cell">/法界/通化/</ab>
+<ab type="row"/>
+<ab type="cell">/莊嚴/淨土/</ab>
+<ab type="cell">/如/理/實/見/</ab>
+<ab type="cell">/離/色/離/見/</ab>
+<ab type="cell">/一切/佛/寶/</ab>
+<ab type="row"/>
+<ab type="cell">/善現/起/請/</ab>
+<ab type="cell">/尊重/正教/</ab>
+<ab type="cell">/無/法/可/得/</ab>
+<ab type="cell">/依/法/出生/</ab>
+<ab type="row"/>
+<ab type="cell">/一/礼/合相/</ab>
+<ab type="cell">/法會/因由/</ab>
+<ab type="cell">/大乘/正宗/</ab>
+<ab type="cell">/無/德/無/說/</ab>
+<ab type="row"/>
+<ab type="cell">/持/經/功德/</ab>
+<ab type="cell">/如法/受持/</ab>
+<ab type="cell">/非/說/所/說/</ab>
+<ab type="cell">/一切/法寶/</ab>
+<ab type="row"/>
+<ab type="cell">/妙/行/無住/</ab>
+<ab type="cell">/正/信/希有/</ab>
+<ab type="cell">/離/相/寂滅/</ab>
+<ab type="cell">/能/淨/業障/</ab>
+<ab type="row"/>
+<ab type="cell">/一/躰/同/觀/</ab>
+<ab type="cell">/威儀/寂靜/</ab>
+<ab type="cell">/究竟/無我/</ab>
+<ab type="cell">/知見/不/生/</ab>
+<ab type="row"/>
+<ab type="cell">/淨心/行/善/</ab>
+<ab type="cell">/不/愛/不/貪/</ab>
+<ab type="cell">/無諍/三昧/</ab>
+<ab type="cell">/一切/僧/寶/</ab>
+<ab type="table"/>
+<ab type="row"/>
+<ab type="cell">/志心/普/奉/為/</ab>
+<ab type="cell">/三十二/分/滿/</ab>
+<ab type="cell">/一十八/住/圓/</ab>
+<ab type="cell">/二十七/疑/遣/</ab>
+<ab type="cell">/德/海/難/思議/</ab>
+<ab type="row"/>
+<ab type="cell">/四恩/并/七/趣/</ab>
+<ab type="cell">/法界/諸/群生/</ab>
+<ab type="cell">/罪障/皆/消滅/</ab>
+<ab type="cell">/速圓/般若海/</ab>
+<ab type="prose">/志心/懺悔/</ab>
+<ab type="table"/>
+<ab type="row"/>
+<ab type="cell">/志心/普/懺願/</ab>
+<ab type="cell">/先/身/有/報障/</ab>
+<ab type="cell">/今日/受持/經/</ab>
+<ab type="cell">/暫/被/人/輕賤/</ab>
+<ab type="cell">/轉/重/復/還/輕/</ab>
+<ab type="row"/>
+<ab type="cell">/唯/願/八/金剛/</ab>
+<ab type="cell">/清淨/四/菩薩/</ab>
+<ab type="cell">/我/今/與/眾生/</ab>
+<ab type="cell">/速圓/般若海/</ab>
+<ab type="prose">/唱/處/世界/</ab>
+<ab type="table"/>
+<ab type="row"/>
+<ab type="cell">/處/世界/如/虛空/</ab>
+<ab type="cell">/如/蓮花/不/著/水/</ab>
+<ab type="cell">/心/清淨/超/於/彼/</ab>
+<ab type="cell">/啓首/礼/無上/尊/</ab>
+<ab type="prose">/吟/迴向/偈/</ab>
+<ab type="table"/>
+<ab type="row"/>
+<ab type="cell">/我/以/普賢/殊勝/行/</ab>
+<ab type="cell">/無邊/勝/福/皆/迴向/</ab>
+<ab type="row"/>
+<ab type="cell">/普願/沈溺/諸/眾生/</ab>
+<ab type="cell">/速/往/無量光/佛/所/</ab>
+<ab type="table"/>
+<ab type="row"/>
+<ab type="cell">/志心/普/命/</ab>
+<ab type="cell">/十/身/無礙/佛/</ab>
+<ab type="cell">/法/報/化/三/身/</ab>
+<ab type="cell"/>
+<ab type="cell"/>
+<ab type="row"/>
+<ab type="cell">/十藏/甚深法/</ab>
+<ab type="cell">/戒/定/慧/三乘/</ab>
+<ab type="cell">/願/共/諸/眾生/</ab>
+<ab type="cell">/皆/共/成/佛道/</ab>
+<ab type="row"/>
+<ab type="cell">/十地/聖賢/僧/</ab>
+<ab type="cell">/上/中/下/三根/</ab>
+<ab type="cell"/>
+<ab type="cell"/>
+<ab type="table"/>
+<ab type="row"/>
+<ab type="cell">/礼/懺/㱕/依/竟/</ab>
+<ab type="cell">/所/集/諸/聖/因/</ab>
+<ab type="cell">/施/一切/群生/</ab>
+<ab type="cell">/皆/共/成/佛道/</ab></div>
+    </body>
+  </text>
+</TEI>

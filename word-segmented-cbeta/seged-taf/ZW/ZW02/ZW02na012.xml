@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">CBETA電子佛典(量化分析版)</title>
+        <title type="subordinate">徵訂啟事</title>
+        <author>Dharma Drum Institute of Liberal Arts, Library and Information Center, Digital Archives Section 法鼓文理學院 圖書資訊館 數位典藏組</author>
+        <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+        <respStmt>
+          <resp>資料轉換</resp>
+          <name>周邦信</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>法鼓文理學院</publisher>
+        <address>
+          <addrLine>20842 新北市金山區法鼓路700號</addrLine>
+          <addrLine>da@dila.edu.tw</addrLine>
+        </address>
+        <date>2012-2021</date>
+        <availability>
+          <p>This document is published under a CC Attribution-Share Alike License</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title type="main">CBETA 電子佛典集成</title>
+          <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+          <pubPlace>臺灣‧臺北</pubPlace>
+          <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+          <date>2021-02-03</date>
+          <biblScope type="vol">ZW02</biblScope>
+          <idno type="Taisho">ZW02na012</idno>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+    <div level="1"><head>/徵訂/啟/事/</head>
+<ab type="prose">/《/藏/外/佛/教/文獻/》/主/要/發/表/經過/整理/的/、/未/為/歷代/大/藏/經/所/收的/佛教/文獻/以/及/佛教/文獻/學/方面/的/研/究/論/文/。/</ab>
+<ab type="prose">/《/藏/外/佛/教/文獻/》/為/連/續/出/版/物/，/由/藏/外/佛/教/文獻/編/委會/編輯/，/宗教/文化/出/版社/出/版/，/編/委會/自/辦/發行/。/初/步/計/劃/每/年/出/版/兩/輯/，/半/年/一/輯/。/但/隨/著/整理/文獻/工/作/的/進度/，/每/年/出/版的/輯/數/及/出/版時/間/可/能/會/有/變化/。/為/了/便/於/讀/者/掌/握/全/面/資料/，/不/致/漏失/重/要/文獻/，/本/書/的/發行/以/集/中/預/訂/為/主/，/單冊/郵/購/為/輔/，/方法/如/下/：/</ab>
+<ab type="prose">/一/、/集/中/預訂/：/</ab>
+<ab type="prose">/現/接/受/第一/輯/至/第五/輯/（/第一/輯/、/第二/輯/已/經/出/版/，/第三/輯/計/劃/在/1996/年/內/出/版/，/第四/輯/、/第五/輯/計/劃/在/19/97/年/內/出/版/）/的集/中/預訂/。/</ab>
+<ab type="prose">/國/內/定/價/：/每/輯/人民/幣/28/元/，/五/輯/14/0元/。/由/本/編/委會/負責/掛/號/平寄/。/訂閱/人/如/擬/航/空/，/每/輯/加/收/人民/幣/5元/，/五/輯/加/收2/5元/。/總/計/16/5元/。/請/通/過/郵/局/匯/到/：/</ab>
+<ab type="prose">/北/京張/自/忠/路/3/號/　/中國/社會/科學/院亞/洲/太平/洋研/究/所/（/郵編/：/100007/）/　/華/方/田/收/。/</ab>
+<ab type="prose">/海/外/（/含臺/、/港/、/澳/）/定/價/：/每/輯美/圓2/0圓/（/日圓2000圓/）/，/五/輯美/圓1/00/圓/（/日/圓1/0000圓/）/。/由/本/編/委會/負責/掛/號/普/通/郵/寄/。/訂閱/人/如/擬/航/空/，/每/輯/加/收航/空/郵/費美/圓4/圓/（/日/圓4/00圓/）/，/五/輯/加/收美/圓2/0圓/（/日圓2000圓/）/。/總/計/1/20/美圓/（/12000日/圓/）/。/請/通/過/銀/行/匯/到/：/</ab>
+<ab type="table"/>
+<ab type="row"/>
+<ab type="cell">/開/戶/銀/行/：/BANK/OF/CH/IN/A,/BEIJING/CHONGWEN/</ab>
+<ab type="row"/>
+<ab type="cell">/SUB/-/B/R/A/N/C/H,/JIN/SONG/OFFICE/</ab>
+<ab type="row"/>
+<ab type="cell">/賬/　/號/：/4060300/-/2014/-/001470/-/8/</ab>
+<ab type="row"/>
+<ab type="cell">/姓/　/名/：/FANG/GUANGCHANG/</ab>
+<ab type="prose">/如/蒙/訂閱/，/務/請/寫/明/詳細/通訊/地/址/、/郵政/編碼/、/姓名/，/以/免/發生/錯誤/。/</ab>
+<ab type="prose">/二/、/單輯/郵/購/：/</ab>
+<ab type="prose">/國/內/定/價/：/每/輯/人民/幣/28/元/。/平郵/每/輯/加/收郵/掛/費/4元/，/航/空/每/輯/加/收郵/掛/費/7元/。/匯款/方法/同/上/。/</ab>
+<ab type="prose">/海/外/（/含臺/、/港/、/澳/）/定/價/：/每/輯美/圓2/0圓/（/日圓2000圓/）/。/平郵/加/收郵/掛/費美/圓2/圓/（/日圓2/00圓/）/，/航/空/加/收郵/掛/費美/圓6/圓/（/日圓600圓/）/。/匯款/方法/同/上/。/</ab>
+<ab type="prose">/郵購/者/務/請/正/楷寫/明/詳細/通訊/地/址/、/郵政/編碼/、/姓名/，/以/免/發生/錯誤/。/</ab>
+<byline>/《/藏/外/佛/教/文獻/》/編/委會/</byline>
+<byline>/1996年/6月30日/</byline></div>
+    </body>
+  </text>
+</TEI>

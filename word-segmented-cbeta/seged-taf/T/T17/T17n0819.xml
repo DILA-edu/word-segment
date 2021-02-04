@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">CBETA電子佛典(量化分析版)</title>
+        <title type="subordinate">佛說法常住經</title>
+        <author>Dharma Drum Institute of Liberal Arts, Library and Information Center, Digital Archives Section 法鼓文理學院 圖書資訊館 數位典藏組</author>
+        <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+        <respStmt>
+          <resp>資料轉換</resp>
+          <name>周邦信</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>法鼓文理學院</publisher>
+        <address>
+          <addrLine>20842 新北市金山區法鼓路700號</addrLine>
+          <addrLine>da@dila.edu.tw</addrLine>
+        </address>
+        <date>2012-2021</date>
+        <availability>
+          <p>This document is published under a CC Attribution-Share Alike License</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title type="main">CBETA 電子佛典集成</title>
+          <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+          <pubPlace>臺灣‧臺北</pubPlace>
+          <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+          <date>2021-02-03</date>
+          <biblScope type="vol">T17</biblScope>
+          <idno type="Taisho">T17n0819</idno>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+    
+<ab type="juan" subtype="open">/佛/說法/常/住/經/</ab>
+<byline>/僧祐/錄/云/安公/失譯/經/人/名/今/附/西晉/錄/</byline>
+<div type="jing" level="1">
+<ab type="prose">/聞/如是/：/</ab>
+<ab type="prose">/一時/，/佛/遊/舍衛國/祇樹/給孤獨/之/園/。/佛/告/諸/比丘/：/「/法/者/常/在/，/有/佛/、/無/佛/，/法/住/如故/。/如來/至真/，/出現/世間/，/因/為/宣解/，/分別/深/義/，/敷演/至/慧/。/志/在/小乘/，/為/說/四諦/：/苦/、/習/、/盡/、/道/。/生/苦/、/老苦/、/病苦/、/死/苦/、/求/不/得/苦/，/舉/要/言/之/，/有/陰/身/苦/；/設/無有/身/，/當/有/何/患/？/是/曰/苦諦/。/目/貪/於/色/，/耳/、/鼻/、/身/、/口/、/意/亦復/如是/，/由/此/因緣/，/成/其/六衰/。/從來/劫數/，/甚/大/久/矣/，/既/諦/見/斯/已/，/知/為/惡/習/，/悉/無/益/身/。/因/守/身/行/，/護/其/心/、/口/十惡/，/以/拔/十二因緣/，/根本/則/滅/。/滅除/三毒/，/空/，/無相/、/願/，/由/成/羅漢/。/</ab>
+<ab type="prose">/「/緣/十二因/，/知/其/牽連/，/斷/其/根源/，/輒/成/緣覺/。/</ab>
+<ab type="prose">/「/解/身/本/空/，/奉/六/度無極/、/四等/、/四恩/。/道品/之/法/，/三十有七/，/空/，/無相/、/願/，/無/此/三/事/，/不/為/取/證/。/六通/善權/，/常/濟/危厄/，/等/心/一切/，/無/所/適莫/，/故/曰/菩薩/。/</ab>
+<ab type="prose">/「/逮/不退轉/，/當/成/無上/正真/之/道/，/為/最正覺/，/度脫/十方/，/故/號/為/佛/。/</ab>
+<ab type="prose">/「/道法/常/存/，/行者/與/合/，/無/彼/無/此/，/猶如/眾/流/，/未/到/海/時/，/各/有/本/名/；/以/合/于/海/，/無有/異/號/。/道德/若/茲/，/去來今/佛/，/合/一/法身/，/行/與/道/合/；/因/為/眾生/，/分別/演說/。/陰/、/衰/、/諸/入/、/十二/牽連/，/皆/為/病疾/；/諸/度無極/、/四等/、/四恩/，/為/大/法藥/，/療/眾生/病/。/淨/如/虛空/，/明/踰/日光/，/德/超/須彌/，/神聖/巍巍/，/莫/能/譏謗/，/眾/罪/消滅/，/無/復/諸/苦/，/以/大/慈悲/，/度脫/十方/。/」/</ab>
+<ab type="prose">/佛/說/是/時/，/諸/比丘/眾/漏/盡/意/解/，/無數/菩薩/尋時/逮/得/無所從生法忍/。/</ab>
+<ab type="prose">/佛/說/如是/，/諸/比丘/及/諸/菩薩/、/諸/天/龍神/，/聞/佛/所/說/，/歡喜/奉行/。/</ab></div>
+<ab type="juan" subtype="close">/佛/說法/常/住/經/</ab>
+    </body>
+  </text>
+</TEI>

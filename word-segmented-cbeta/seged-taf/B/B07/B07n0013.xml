@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">CBETA電子佛典(量化分析版)</title>
+        <title type="subordinate">吉祥經</title>
+        <author>Dharma Drum Institute of Liberal Arts, Library and Information Center, Digital Archives Section 法鼓文理學院 圖書資訊館 數位典藏組</author>
+        <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+        <respStmt>
+          <resp>資料轉換</resp>
+          <name>周邦信</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>法鼓文理學院</publisher>
+        <address>
+          <addrLine>20842 新北市金山區法鼓路700號</addrLine>
+          <addrLine>da@dila.edu.tw</addrLine>
+        </address>
+        <date>2012-2021</date>
+        <availability>
+          <p>This document is published under a CC Attribution-Share Alike License</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title type="main">CBETA 電子佛典集成</title>
+          <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+          <pubPlace>臺灣‧臺北</pubPlace>
+          <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+          <date>2021-02-03</date>
+          <biblScope type="vol">B07</biblScope>
+          <idno type="Taisho">B07n0013</idno>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+    
+<ab type="juan" subtype="open">/吉祥/經/(/出/巴利/三藏/中/之/小/部/阿含/)/</ab>
+<byline>/民/國/法舫法師/譯/</byline>
+<div type="" level="1">
+<ab type="prose">/如是我聞/．/一時/．/佛/在/舍衛國/祇樹/給孤獨園/．/爾時/有/一/天/人/．/於/後/夜分/．/身/諸/光明/徧照/祇樹/園林/．/來/詣/佛/所/．/到/已/頂禮/世尊/．/却住/一面/．/而/以/偈/白/佛/言/．/</ab>
+<ab type="verse">/諸/天/與/世人/．/　/思維/吉祥/事/．/　/希求/．/　/於/幸/福/．/　/何謂/勝/吉祥/．/一/
+</ab>
+<ab type="verse">/遠離/愚癡/人/．/　/親近/智慧/者/．/　/供養/於/應供/．/　/此/事/勝/吉祥/．/二/
+</ab>
+<ab type="verse">/靜/住/安/適/處/．/　/由/曾/作/福業/．/　/而/自/修/善/德/．/　/此/事/勝/吉祥/．/三/
+</ab>
+<ab type="verse">/凡/學/諸/律儀/．/　/真實/與/工巧/．/　/及/善說/語言/．/　/此/事/勝/吉祥/．/四/
+</ab>
+<ab type="verse">/侍奉/於/父母/．/　/攝受/妻/與/子/．/　/所/作/無/繫/累/．/　/此/事/勝/吉祥/．/五/
+</ab>
+<ab type="verse">/布施/與/修持/．/　/攝受/親/眷屬/．/　/諸/業/無/過咎/．/　/此/事/勝/吉祥/．/六/
+</ab>
+<ab type="verse">/遠離/諸/惡業/．/　/亦/不/飲/諸/酒/．/　/於/法/不/放逸/．/　/此/事/勝/吉祥/．/七/
+</ab>
+<ab type="verse">/尊敬/與/謙讓/．/　/知足/常/感/恩/．/　/依/時/聽/正法/．/　/此/事/勝/吉祥/．/八/
+</ab>
+<ab type="verse">/忍辱/與/謙卑/．/　/具足/正/知見/．/　/談論/於/正法/．/　/此/事/勝/吉祥/．/九/
+</ab>
+<ab type="verse">/苦行/與/梵行/．/　/而/得/見/聖諦/．/　/證悟/於/涅槃/．/　/此/事/勝/吉祥/．/十
+</ab>
+<ab type="verse">/接/觸/世間法/．/　/心/寂/不/為/動/．/　/無/憂/離/貪欲/．/　/此/事/勝/吉祥/．/十一/
+</ab>
+<ab type="verse">/如是/修/諸/行/．/　/而/能/無/墮/失/．/　/隨/處/得/安隱/．/　/此/諸/事/吉祥/．/十二/終/．/
+</ab></div>
+    </body>
+  </text>
+</TEI>

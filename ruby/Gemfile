@@ -1,3 +1,4 @@
 source 'https://rubygems.org'
 gem 'cbeta'
+gem 'chronic_duration'
 gem "open3"

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">CBETA電子佛典(量化分析版)</title>
+        <title type="subordinate">舜禪師等百餘人造像記</title>
+        <author>Dharma Drum Institute of Liberal Arts, Library and Information Center, Digital Archives Section 法鼓文理學院 圖書資訊館 數位典藏組</author>
+        <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+        <respStmt>
+          <resp>資料轉換</resp>
+          <name>周邦信</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>法鼓文理學院</publisher>
+        <address>
+          <addrLine>20842 新北市金山區法鼓路700號</addrLine>
+          <addrLine>da@dila.edu.tw</addrLine>
+        </address>
+        <date>2012-2021</date>
+        <availability>
+          <p>This document is published under a CC Attribution-Share Alike License</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title type="main">CBETA 電子佛典集成</title>
+          <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+          <pubPlace>臺灣‧臺北</pubPlace>
+          <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+          <date>2021-02-03</date>
+          <biblScope type="vol">I01</biblScope>
+          <idno type="Taisho">I01n0089</idno>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+    
+<div type="" level="1">
+<ab type="juan" subtype="open">/舜/禪師/等/百/餘/人/造像/記/</ab>
+<ab type="prose">/□邑/主/禪師/舜/　/象主/劉□/□/□/夫/明/明/萬/象/。/仰/之/誰/得/其/□/。/攸攸/兆庶/。/俯/之/熟測/其/際/。/唯/大/□/靈/尊/。/威神/无量/。/籠括/空/有/。/獨/在/環/中/。/演/三乘/於/苦海/。/為/眾生/之/樑棟/。/隨/六道/之/去來/。/示/北首/於/雙林/。/其/有/舜/禪師/者/。/閑/居/味/□/。/捨/苦樂/於/一心/。/據/披/无/罦/。/恒/方便/以/開導/。/欲/使/未曾有法/。/給□荼心/。/无緣/之/慈/。/引/其/鄙/意/。/復/有/劉洪/安/。/劉專/。/劉嶠/常/。/劉獻伯/。/□/□/□/。/劉黑/等/。/性/與/天道/。/直/置/□/□/□/慍/不/改/其/容/。/榮辱/何/關/在/□/。/□/鷲/鸑/之/長/歎/。/慨羅/預/之/見/損/。/傷/慧/日/□/□/傳/。/痛/金/棺/於/長夜/。/遂/率/宗門/一百/餘/人/。/共/興/□/攝/之/心/。/俱/起/□/天/之/念/。/欲/令/甘露/久/光/。/金/河/□/盡/。/法幢/更/暉/。/慧炬/復/照/。/即/敬/造/西方/阿彌陀/像/。/并/觀音/。/大勢/。/白毫/宛轉/。/與/五/山/如/爭/隆/。/青/目/分明/。/共/四海/如/競朗/。/一一/相好/。/不得/兼/二/以/觀/之/。/頌/德/弗閑/。/豈/復更/□/於/餘/偈/。/將/知/巍巍/難/量/。/猶/山玉/之/對/川長/。/唐/唐/易/睹/。/若/二/日/之/現/華池/。/昔/不/傾/不/動/。/由/□/木/如/往生/。/不/穢/不/濁/。/因/聚/沙/之/微業/。/況/功/同/□/石/。/神/等/育/王/。/豈/使/催/時/之/獸/虛/馳/如/往返/。/減/算/之/禽空/驟/於/去來/。/乃/為/頌/曰/。/　/　/二/儀/覆/載/。/万品/有/緣/。/受/業/各/異/。/感/果/相/牽/。/御/龍/奕世/。/英倫/比/肩/。/刻/作/能仁/。/相好/殊妍/。/昞/若/畫/石/。/猶/月/昇/天/□/□/□/飾/。/沾/及/无/邊/。/四恩/九居/。/□/茲/福田/。/慈氏/三/會/。/上首/俱/前/。/□/之/金/石/。/□/□/斯/年/。/　/大/齊/武平/元年/歲/在/攝提/星/　/□/□/月/□/寶/鐘/經/始/故/記/之/　/　/　/　/　/　/大/施主/劉□/□/</ab></div>
+    </body>
+  </text>
+</TEI>

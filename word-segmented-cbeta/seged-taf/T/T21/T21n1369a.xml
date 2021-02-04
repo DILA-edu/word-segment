@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">CBETA電子佛典(量化分析版)</title>
+        <title type="subordinate">百千印陀羅尼經</title>
+        <author>Dharma Drum Institute of Liberal Arts, Library and Information Center, Digital Archives Section 法鼓文理學院 圖書資訊館 數位典藏組</author>
+        <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+        <respStmt>
+          <resp>資料轉換</resp>
+          <name>周邦信</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>法鼓文理學院</publisher>
+        <address>
+          <addrLine>20842 新北市金山區法鼓路700號</addrLine>
+          <addrLine>da@dila.edu.tw</addrLine>
+        </address>
+        <date>2012-2021</date>
+        <availability>
+          <p>This document is published under a CC Attribution-Share Alike License</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title type="main">CBETA 電子佛典集成</title>
+          <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+          <pubPlace>臺灣‧臺北</pubPlace>
+          <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+          <date>2021-02-03</date>
+          <biblScope type="vol">T21</biblScope>
+          <idno type="Taisho">T21n1369a</idno>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+    
+<div type="jing" level="1">
+<ab type="juan" subtype="open">/百千/印/陀羅尼/經/一/卷/</ab>
+<byline>/大周/三藏/實叉難陀/奉/　/制/譯/</byline>
+<ab type="prose">/如是我聞/。/一時/佛/在/王舍城/耆闍崛山/。/與/大/比丘/眾/及/大/菩薩/眾/俱/。/爾時/世尊/告/諸/比丘/。/有/陀羅尼/名/百千/印/。/汝等/應當/受持/。/所謂/歸命/面貌/廣大/頂/出/真/金/光明/幢/如來/。/歸命/釋迦牟尼/如來/應/正等覺/。/即/說/根本/陀羅尼/曰/。/</ab>
+<ab type="dharani">怛姪他唵(一)部地部地部地部地(二)薩婆怛他揭多衢折囉(三)馱囉馱囉(四)訶囉訶囉(五)跋訶囉跋訶囉(六)摩訶菩提質多(七)炷魯炷魯(八)設多囉濕彌珊招地羝(九)薩婆怛他揭多遏地使咃那阿毘色羝(十)衢儜衢那跋羝(十一)部陀衢那阿婆婆(上聲)西(十二)弭禮弭禮(十三)伽伽(上聲)那怛犁薩婆怛他揭多阿地史恥羝納婆娑怛犁(十四)閃麼閃麼跋閃麼跋閃麼(十五)薩婆播波跋閃麼寧(十六)薩婆播波毘戍燒達寧(十七)虎盧虎盧(十八)菩提末伽三鉢囉瑟恥羝(十九)薩婆怛他揭多鉢囉羝瑟恥多戍遞娑婆訶</ab>
+<ab type="prose">/此/是/根本/陀羅尼/。/</ab>
+<ab type="dharani">唵(一)薩婆怛他揭多毘婆　枳羝(二)社耶社耶娑婆訶</ab>
+<ab type="prose">/此/是/陀羅尼/心/呪/。/</ab>
+<ab type="dharani">唵(一)虎嚧虎嚧社耶目佉娑婆訶</ab>
+<ab type="prose">/此/是/隨心/呪/。/</ab>
+<ab type="prose">/若/有/比丘/比丘尼/優婆塞/優婆夷/。/及/餘/淨信/善男子/善女人/等/。/能/造/一/塔/書寫/此/百千/印/陀羅尼/置/其中/者/。/造/此/一/塔/所/得/功德/。/如/造/百千/塔/功德/無異/。/佛/說/此/經/已/。/彼/諸/比丘/及/菩薩/眾/。/天/人/阿修羅/等/。/聞/佛/所/說/皆大歡喜/信受奉行/。/</ab>
+<ab type="juan" subtype="close">/百千/印/陀羅尼/經/</ab></div>
+    </body>
+  </text>
+</TEI>

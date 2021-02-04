@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">CBETA電子佛典(量化分析版)</title>
+        <title type="subordinate">佛說報恩奉盆經</title>
+        <author>Dharma Drum Institute of Liberal Arts, Library and Information Center, Digital Archives Section 法鼓文理學院 圖書資訊館 數位典藏組</author>
+        <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+        <respStmt>
+          <resp>資料轉換</resp>
+          <name>周邦信</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>法鼓文理學院</publisher>
+        <address>
+          <addrLine>20842 新北市金山區法鼓路700號</addrLine>
+          <addrLine>da@dila.edu.tw</addrLine>
+        </address>
+        <date>2012-2021</date>
+        <availability>
+          <p>This document is published under a CC Attribution-Share Alike License</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title type="main">CBETA 電子佛典集成</title>
+          <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+          <pubPlace>臺灣‧臺北</pubPlace>
+          <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+          <date>2021-02-03</date>
+          <biblScope type="vol">T16</biblScope>
+          <idno type="Taisho">T16n0686</idno>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+    
+<ab type="juan" subtype="open">/佛/說/報/恩/奉/盆/經/(/亦/云/報/像/功德/經/)/</ab>
+<byline>/闕譯/附/東晉/錄/</byline>
+<div type="jing" level="1">
+<ab type="prose">/聞/如是/：/</ab>
+<ab type="prose">/一時/，/佛/在/舍衛國/祇樹/給孤獨園/。/大目揵連/始/得/六通/，/欲/度/父母/報/乳哺/之/恩/，/即/以/道眼/觀視/世界/，/見/其/亡母/生/餓鬼/中/，/不/見/飲食/，/皮/骨/相/連柱/。/目連/悲哀/，/即/鉢/盛/飯/，/往/餉/其/母/。/母/得/鉢/飯/，/便/以/左/手/障/飯/、/右/手/摶食/，/食/未/入/口/化/成/火炭/，/遂/不/得/食/。/</ab>
+<ab type="prose">/目連/馳/還/白/佛/，/具/陳/如此/。/佛/告/目連/：/「/汝/母/罪根/深/結/，/非/汝/一/人/力/所/奈何/；/當/須/眾/僧/威神/之/力/，/乃/得/解脫/。/吾/今/當/說/救濟/之/法/，/令/一切/難/皆/離/憂苦/。/」/</ab>
+<ab type="prose">/佛/告/目連/：/「/七月/十五日/，/當/為/七/世/父母/在/厄難/中/者/，/具/麨/飯/、/五/果/、/汲/灌/瓫器/、/香/油/、/庭燭/、/床榻/、/臥具/，/盡/世/甘美/以/供養/眾/僧/。/當/此/之/日/，/一切/聖眾/，/或/在/山/間/禪定/、/或/得/四/道果/、/或/樹/下/經行/、/或/得/六通/飛行/，/教化/聲聞/、/緣覺/。/菩薩/大人/權示/比丘/在/大眾/中/，/皆/共同/心/受/鉢和羅/。/具/清淨/戒/聖眾/之/道/，/其/德/汪洋/，/其/有/供養/此等/之/眾/，/七/世/父母/、/五/種/親屬/得/出/三塗/，/應時/解脫/衣食/自然/。/」/</ab>
+<ab type="prose">/佛/勅/眾/僧/：/「/當/為/施主/家/七/世/父母/，/行/禪定/意/，/然後/食/此/供/。/」/</ab>
+<ab type="prose">/目連/、/比丘/及/一切/眾/，/歡喜/奉行/。/</ab></div>
+<ab type="juan" subtype="close">/佛/說/報/恩/奉/盆/經/</ab>
+    </body>
+  </text>
+</TEI>

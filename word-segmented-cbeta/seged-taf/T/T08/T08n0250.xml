@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">CBETA電子佛典(量化分析版)</title>
+        <title type="subordinate">摩訶般若波羅蜜大明呪經</title>
+        <author>Dharma Drum Institute of Liberal Arts, Library and Information Center, Digital Archives Section 法鼓文理學院 圖書資訊館 數位典藏組</author>
+        <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+        <respStmt>
+          <resp>資料轉換</resp>
+          <name>周邦信</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>法鼓文理學院</publisher>
+        <address>
+          <addrLine>20842 新北市金山區法鼓路700號</addrLine>
+          <addrLine>da@dila.edu.tw</addrLine>
+        </address>
+        <date>2012-2021</date>
+        <availability>
+          <p>This document is published under a CC Attribution-Share Alike License</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title type="main">CBETA 電子佛典集成</title>
+          <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+          <pubPlace>臺灣‧臺北</pubPlace>
+          <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+          <date>2021-02-03</date>
+          <biblScope type="vol">T08</biblScope>
+          <idno type="Taisho">T08n0250</idno>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+    
+<ab type="juan" subtype="open">/摩訶/般若波羅蜜/大/明/呪/經/</ab>
+<byline>/姚秦/天竺/三藏/鳩摩羅什/譯/</byline>
+<div type="jing" level="1">
+<ab type="prose">/觀世音/菩薩/，/行/深/般若波羅蜜/時/，/照/見/五陰/空/，/度/一切/苦厄/。/</ab>
+<ab type="prose">/「/舍利弗/！/色/空/故/無/惱/壞/相/，/受/空/故/無/受/相/，/想/空/故/無知/相/，/行/空/故/無/作/相/，/識/空/故/無/覺/相/。/何以/故/？/舍利弗/！/非/色/異/空/，/非/空/異/色/。/色/即是/空/，/空/即是/色/。/受/、/想/、/行/、/識/亦/如是/。/</ab>
+<ab type="prose">/「/舍利弗/！/是/諸/法/空相/，/不生不滅/，/不/垢/不淨/，/不/增/不/減/。/是/空法/，/非/過去/、/非/未來/、/非/現在/。/是故/空/中/無/色/，/無/受/、/想/、/行/、/識/，/無/眼/、/耳/、/鼻/、/舌/、/身/、/意/，/無/色/、/聲/、/香/、/味/、/觸/、/法/，/無/眼界/乃至/無/意識界/，/無/無明/亦/無/無明/盡/，/乃至/無/老/死/無/老/死/盡/，/無/苦/、/集/、/滅/、/道/，/無/智/亦/無/得/。/</ab>
+<ab type="prose">/「/以/無所得/故/，/菩薩/依/般若波羅蜜/故/，/心/無/罣礙/。/無/罣礙/故/，/無有/恐怖/，/離/一切/顛倒/夢想/苦惱/，/究竟涅槃/。/三世/諸/佛/依/般若波羅蜜/故/，/得/阿耨多羅/三藐三菩提/。/</ab>
+<ab type="prose">/「/故/知/般若波羅蜜/是/大/明/呪/，/無上/明/呪/，/無等等/明/呪/，/能/除/一切/苦/，/真實/不/虛/。/故/說/般若波羅蜜/呪/。/」/</ab>
+<ab type="prose">/即/說/呪/曰/：/</ab>
+<ab type="dharani">「竭帝　竭帝　波羅竭帝　波羅僧竭帝　菩提　僧莎呵」</ab></div>
+<ab type="juan" subtype="close">/摩訶/般若波羅蜜/大/明/呪/經/</ab>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">CBETA電子佛典(量化分析版)</title>
+        <title type="subordinate">寶樓閣經梵字真言</title>
+        <author>Dharma Drum Institute of Liberal Arts, Library and Information Center, Digital Archives Section 法鼓文理學院 圖書資訊館 數位典藏組</author>
+        <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+        <respStmt>
+          <resp>資料轉換</resp>
+          <name>周邦信</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>法鼓文理學院</publisher>
+        <address>
+          <addrLine>20842 新北市金山區法鼓路700號</addrLine>
+          <addrLine>da@dila.edu.tw</addrLine>
+        </address>
+        <date>2012-2021</date>
+        <availability>
+          <p>This document is published under a CC Attribution-Share Alike License</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title type="main">CBETA 電子佛典集成</title>
+          <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+          <pubPlace>臺灣‧臺北</pubPlace>
+          <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+          <date>2021-02-03</date>
+          <biblScope type="vol">T19</biblScope>
+          <idno type="Taisho">T19n1005B</idno>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+    <div level="1">
+<ab type="juan" subtype="open">/寶/樓閣/經/梵/字/真言/</ab>
+<ab type="prose">/驚覺/。/</ab>
+<ab type="dharani">􇖵namaḥsarvatathāgatebhyometiṣṭaṃtidaśadiśeoṃmaṇivajrahladayavajremārasainyavidrāpalohanavajragarbhatrāsayatrāsayasarvamārabhavanānihūṃhūṃsaṃdharasadharabuddhāmaitrīsarvatathāgata</ab>
+<ab type="prose">/驚覺/。/</ab>
+<ab type="dharani">oṃsarvatathāgatamaṇiśatridiptojvalejvaledharmmadhātugarbhemaṇimaṇimahāmaṇitathāgatahlatmaṇisvāhā􇖴</ab>
+<ab type="prose">/根本/。/</ab>
+<ab type="dharani">namaḥsarvatathāgatanāṃoṃvipulagarbhemaṇiprabhetathātānidarśanemaṇimaṇisuprabhevimalesāgaragambhīrehūṃhūṃjvalajvalabuddhāvilokiteśuphyādhiṣṭitagarbhesvāhā􇖴</ab>
+<ab type="prose">/心/及/隨心/。/</ab>
+<ab type="dharani">oṃmaṇivajrohūṃ􇖴</ab>
+<ab type="prose">/隨心/。/</ab>
+<ab type="dharani">oṃmaṇinvarehūṃphaṭ</ab>
+<ab type="prose">/坐/。/</ab>
+<ab type="dharani">oṃmaṇikuṇḍalihūṃhūṃsvāhā􇖴</ab>
+<ab type="prose">/結壇界/。/</ab>
+<ab type="dharani">oṃmaṇivajayedharadharahūṃsvāhā􇖴</ab>
+<ab type="prose">/結/十方/界/。/</ab>
+<ab type="dharani">oṃjvalitamaṇirucirāśya􈍇hūṃhūṃphaṭ􇖴</ab>
+<ab type="prose">/碎毘/那夜迦/。/</ab>
+<ab type="dharani">oṃmaṇiprabhāvatiharaharahūṃhūṃphaṭsvāhā􇖴</ab>
+<ab type="prose">/頂髻/。/</ab>
+<ab type="dharani">oṃvajramaṇitiṣṭatiṣṭahūṃhūṃphaṭ􇖴</ab>
+<ab type="prose">/加持/衣/。/</ab>
+<ab type="dharani">oṃmaṇivipuledhiridhirihūṃphaṭ􇖴</ab>
+<ab type="prose">/洗/嗽/。/</ab>
+<ab type="dharani">oṃvicyuvatiharaharamahāmaṇihūṃhūṃphaṭ􇖴</ab>
+<ab type="prose">/洗浴/。/</ab>
+<ab type="dharani">oṃsunirmalavatiharaharapāpaṃmilimihūṃsvāhā􇖴</ab>
+<ab type="prose">/法護/。/</ab>
+<ab type="dharani">oṃmaṇinvārihūṃhūṃphaṭ􇖴</ab>
+<ab type="prose">/神/線/。/</ab>
+<ab type="dharani">oṃdhiridhirimaṇakarihūṃhūṃphaṭ􇖴</ab>
+<ab type="prose">/獻/花/。/</ab>
+<ab type="dharani">oṃsarvatathāgatapūjamaṇihūṃhūṃ􇖴</ab>
+<ab type="prose">/塗香/。/</ab>
+<ab type="dharani">oṃsarvatathāgataganvamaṇispharaṇahūṃ􇖴</ab>
+<ab type="prose">/燒香/。/</ab>
+<ab type="dharani">oṃjvalitamaṇiabhrekuṭaspharaṇavigatihūṃ􇖴</ab>
+<ab type="prose">/燈/。/</ab>
+<ab type="dharani">oṃjvalitaśigaredhavalahūṃhūṃphaṭ􇖴</ab>
+<ab type="prose">/食/。/</ab>
+<ab type="dharani">oṃpravarāgravatisarasarahūṃhūṃ􇖴</ab>
+<ab type="prose">/閼伽/。/</ab>
+<ab type="dharani">oṃmahāmaṇipūrayadharadharahūṃhūṃ􇖴</ab>
+<ab type="prose">/供物/及/食/等/。/</ab>
+<ab type="dharani">oṃjvalasphuragaganapratāraṇihūṃhūṃ􇖴</ab>
+<ab type="prose">/加持/念/珠/。/</ab>
+<ab type="dharani">oṃruciramaṇipravarttayahūṃ</ab>
+<ab type="prose">/念/誦/先/誦/此/真言/。/</ab>
+<ab type="dharani">oṃvajramaṇikarakiṃkarihūṃhūṃphaṭ􇖴</ab>
+<ab type="prose">/結趺坐/。/</ab>
+<ab type="dharani">oṃsupravarttitavegemaṇimaṇisvāhā􇖴</ab>
+<ab type="prose">/驚覺/一切/如來/。/</ab>
+<ab type="dharani">oṃsarvatathāgatavāyujavataratarahūṃmaṇikānanesvāhā􇖴</ab>
+<ab type="prose">/請/一切/如來/。/</ab>
+<ab type="dharani">oṃsuvipralapravaredhurudhuruhūṃhūṃ􇖴</ab>
+<ab type="prose">/求/願/。/</ab>
+<ab type="dharani">oṃsarvatathāgatādhiṣṭanavittasarakṣaṇavajrehūṃhūṃ􇖴</ab>
+<ab type="prose">/求/菩薩/願/。/</ab>
+<ab type="dharani">oṃsuvipulavadaneharaharahūṃhūṃ􇖴</ab>
+<ab type="prose">/請/一切/天/龍/。/</ab>
+<ab type="dharani">oṃabhisamayavajredharadharahūṃ􇖴</ab>
+<ab type="prose">/請/四天王/等/。/</ab>
+<ab type="dharani">oṃmaṇivegavatihūṃ􇖴</ab>
+<ab type="prose">/加持/弟子/。/</ab>
+<ab type="dharani">oṃśubhamaṇihulahulahūṃ􇖴</ab>
+<ab type="prose">/令/弟子/入/壇/。/</ab>
+<ab type="dharani">oṃsarvatathāgatahladayavajriṇidharādharāhūṃhūṃ􇖴</ab>
+<ab type="prose">/獻/一切/佛/一切/菩薩/諸/天/等/食/。/</ab>
+<ab type="dharani">oṃvīrajegaganavāhitilahulahuhūṃhūṃ􇖴</ab>
+<ab type="prose">/訶送/諸/聖眾/。/</ab>
+<ab type="dharani">oṃsarvatathāgatavajrakuloditesmaraṇivigatejvalajvalahūṃhūṃsvāhā􇖴</ab>
+<ab type="prose">/獻/物/護/身/。/</ab>
+<ab type="dharani">oṃmaṇisuṃbhanivegavatirakṣarakṣamaṃhūṃ􇖴</ab>
+<ab type="prose">/為/弟子/灌頂/。/</ab>
+<ab type="dharani">oṃmahāvipulapratiṣṭitasiddheabhiṣicamaṃsarvatathāgatābhiṣekaiḥbharabharasaṃbhahūṃsaṃbharahūṃhūṃ􇖴</ab>
+<ab type="prose">/法/供養/護摩/。/</ab>
+<ab type="dharani">oṃsvāhāpatibhūrbhuvaḥhūṃhūṃphaṭ􇖴</ab>
+<ab type="prose">/我/今/悉皆/禮/。/</ab>
+<ab type="dharani">oṃmanimaṇipravarapravaraguhyapadmemahāprabhesvāhā</ab>
+<ab type="prose">/普遍/光明/如來/心/。/</ab>
+<ab type="dharani">oṃsarvatathāgatāhladayamaṇijvalateāviṣṭiyahūṃ􇖴</ab>
+<ab type="prose">/一切/如來/心/印/。/</ab>
+<ab type="dharani">oṃsarvatathāgatapravararugramaṇihuṃ􇖴</ab>
+<ab type="prose">/一切/如來/普遍/大/寶/三昧/耶/。/</ab>
+<ab type="dharani">oṃsarvatathāgatābhisaṃvodhanavajrehuṃhūṃ􇖴</ab>
+<ab type="prose">/一切/如來/莊嚴/大/寶/光/。/</ab>
+<ab type="dharani">oṃsarvatathāgatadhiṣṭānamaṇimaṇihuṃhūṃphaṭ􇖴</ab>
+<ab type="prose">/金剛/師子座/。/</ab>
+<ab type="dharani">oṃsarvatathāgatapravaramaṇiracirehūṃhuṃphaṭ􇖴</ab>
+<ab type="prose">/大/寶/出生/灌頂/。/</ab>
+<ab type="dharani">oṃsarvatathāgatavimalasaṃbhavehūṃhūṃ􇖴</ab>
+<ab type="prose">/摧/魔/熾然/法輪/神通/加持/。/</ab>
+<ab type="dharani">oṃsarvatāthāgatasamayamaṇivajrehūṃhūṃ􇖴</ab>
+<ab type="prose">/無/能/勝/。/</ab>
+<ab type="dharani">oṃsarvatāthāgatājayaajitavajrehūṃhūṃ􇖴</ab>
+<ab type="prose">/一切/如來/轉法輪/。/</ab>
+<ab type="dharani">oṃsarvatathāgatadharmmadhātumahāmaṇiśikhareharahahuṃhuṃphaṭ􇖴</ab>
+<ab type="prose">/金剛/手/。/</ab>
+<ab type="dharani">oṃsarvatathāgatamahāvajrājvaradharadharahūṃhūṃphaṭ􇖴</ab>
+<ab type="prose">/寶/金剛/菩薩/。/</ab>
+<ab type="dharani">oṃdhurudhurumaṇimaṇimahāmaṇivicyutyaṇisvāhā􇖴</ab>
+<ab type="prose">/四/大/天主/。/</ab>
+<ab type="dharani">oṃlokepālitejayajayahūṃ􇖴</ab>
+<ab type="prose">/吉祥/天女/。/</ab>
+<ab type="dharani">oṃvimarāgravatisabharahūṃ</ab>
+<ab type="prose">/鈎棄尼/天女/。/</ab>
+<ab type="dharani">oṃdaṃṣṭriṇivisarahūṃ􇖴</ab>
+<ab type="prose">/使者/天女/。/</ab>
+<ab type="dharani">oṃāgamayadhīramaṃcyāṭṭahāsinihūṃ􇖴</ab>
+<ab type="prose">/曼荼羅/中/一切/聖眾/。/</ab>
+<ab type="dharani">oṃsamantākālaparipraraṇidhakadhakahūṃhūṃ􇖴</ab>
+<ab type="prose">/花/齒/天女/。/</ab>
+<ab type="dharani">oṃsarasaravisarāhūṃhūṃ</ab>
+<div type="w" level="2">
+<ab type="prose">/　/承安/元年/六月/十日/於/仁和寺/以/常/林/房/御/本/書寫/　/　/本/云/以/根本/御/本/書/之/云/云/</ab>
+<ab type="prose">/　/　/　/　/　/　/　/　/　/金剛/　/　/顯耀/</ab></div></div>
+    </body>
+  </text>
+</TEI>

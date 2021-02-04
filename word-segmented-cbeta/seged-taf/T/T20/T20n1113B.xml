@@ -1,0 +1,289 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">CBETA電子佛典(量化分析版)</title>
+        <title type="subordinate">大慈大悲救苦觀世音自在王菩薩廣大圓滿無礙自在青頸大悲心陀羅尼</title>
+        <author>Dharma Drum Institute of Liberal Arts, Library and Information Center, Digital Archives Section 法鼓文理學院 圖書資訊館 數位典藏組</author>
+        <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+        <respStmt>
+          <resp>資料轉換</resp>
+          <name>周邦信</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>法鼓文理學院</publisher>
+        <address>
+          <addrLine>20842 新北市金山區法鼓路700號</addrLine>
+          <addrLine>da@dila.edu.tw</addrLine>
+        </address>
+        <date>2012-2021</date>
+        <availability>
+          <p>This document is published under a CC Attribution-Share Alike License</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title type="main">CBETA 電子佛典集成</title>
+          <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+          <pubPlace>臺灣‧臺北</pubPlace>
+          <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+          <date>2021-02-03</date>
+          <biblScope type="vol">T20</biblScope>
+          <idno type="Taisho">T20n1113B</idno>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+    <div level="1">
+<ab type="juan" subtype="open">/大慈大悲/救/苦/觀世音/自在/王/菩薩/廣大/圓滿/無礙/自在/青/頸/大悲/心/陀羅尼/</ab>
+<byline>/大/廣/智/不/空/譯/</byline>
+<div type="jing" level="2">
+<ab type="prose">/南無/歸命/頂禮/南方/海/上/蒲陀/落/淨/土/。/正法/教主/釋迦牟尼/如來/。/觀音/本師/無量/壽/如來/。/觀音/本/正法/明/如來/。/南無/千/手/千/眼/觀世音/菩薩/廣大/圓滿/無礙/大悲/心/大/陀羅尼/。/救/苦/陀羅尼/。/延/壽/陀羅尼/。/加/滅/惡趣/陀羅尼/。/破/業障/陀羅尼/滿/願/陀羅尼/。/隨心/自在/陀羅尼/。/速/超/上/地/陀羅尼/。/一/聞/神呪/超/第八/地/陀羅尼/。/四百四/病/一時/消滅/陀羅尼/。/</ab>
+<ab type="dharani">na　mo　ra　tna　tra　yā　ya　</ab>
+/南/　/無/喝/　/羅/　/怛那/　/哆羅/　/夜/　/㖿/(/一/)/　/
+
+<ab type="prose">/此/觀世音/菩薩/本/身/。/大須/慈悲/思/勿/高/聲/此/神性/忽/。/</ab>
+<ab type="dharani">na　mo　ā　ryā　</ab>
+/南/　/無/　/阿/　/唎㖿/(/二/)/　/
+
+<ab type="prose">/是/如意輪/菩薩/本/身/。/到/此/誦/在/心/。/</ab>
+<ab type="dharani">va　lo　ki　te　śva　rā　ya　</ab>
+婆/　/盧/　/羯/　/帝/　/爍/鉢/　/囉/　/㖿/(/三/)/　/
+
+<ab type="prose">/此/是/轉/鉢/觀音/。/昔/誦/此/理/轉/菩薩/。/</ab>
+<ab type="dharani">bo　dhi　sa　tvā　ya　</ab>
+菩/　/提/　/薩/　/哆婆/　/㖿/(/四/)/　/
+
+<ab type="prose">/此/不/空/羂/索/菩薩/。/降/押/天/兵眾/。/</ab>
+<ab type="dharani">ma　hā　sa　tvā　ya　</ab>
+摩/　/訶/　/薩/　/埵婆/　/㖿/(/五/)/　/
+
+<ab type="prose">/是/菩薩/種子/之/因/。/誦/呪/本/身/。/</ab>
+<ab type="dharani">ma　hā　kā　ru　ṇi　kā　ya　</ab>
+摩/　/訶/　/迦/　/嚧/　/昵/　/迦/　/㖿/(/六/)/　/
+
+<ab type="prose">/是/馬鳴/菩薩/本/身/。/手/把/拔折羅/印/菩薩/自身/。/</ab>
+<ab type="dharani">oṃ　</ab>
+/唵/(/七/)/　/
+
+<ab type="prose">/此/是/神唵/語/。/悉/合掌/聽/誦/呪/曰/。/</ab>
+<ab type="dharani">sa　rva　ra　bha　ye　</ab>
+薩/　/皤/　/囉/　/罰/　/曳/(/八/)/　/
+
+<ab type="prose">/此/是/四/天/大王/本/身/。/降伏/魔王/。/</ab>
+<ab type="dharani">śu　dha　na　da　sya　</ab>
+/數/　/怛/　/那/　/怛/　/寫/(/九/)/　/
+
+<ab type="prose">/此/是/四/天/大王/八/部/鬼神/名字/。/</ab>
+<ab type="dharani">na　mo　skṛ　ta　ī　mo　a　ryā　</ab>
+/南/　/無/　/悉/吉/㗚/　/埵/　/伊/　/蒙/　/阿/　/唎/耶/(/十/)/　/
+
+<ab type="prose">/此/是/龍/樹/菩薩/本/身/。/須/用/心/誦/勿/令/疎步/菩薩/性/勿/也/。/</ab>
+<ab type="dharani">ba　ru　ki　te　śva　raṃ　dha　va　</ab>
+婆/　/嚧/　/吉/　/帝/　/室/佛/　/楞/　/馱/　/婆/(/十一/)/　/
+
+<ab type="prose">/此/是/本/師/毘盧遮那/佛/本/身/。/廣大/圓滿/不可/思議/功德/。/</ab>
+<ab type="dharani">na　mo　na　ra　ki　dhi　</ab>
+/南/　/無/　/那/　/囉/　/謹/　/墀/(/十二/)/　/
+
+<ab type="prose">/此/是/清淨/圓滿/報/身盧舍那/佛/本/身/。/須/用/心/勿/令/放逸/。/</ab>
+<ab type="dharani">he　ri　ma　va　dha　ṣa　me　</ab>
+醯/　/利/　/摩/　/皤/　/哆/　/沙/　/咩/(/十三/)/　/
+
+<ab type="prose">/此/是/半/頭/神/王/。/菊/大/魔/以為/眷屬/。/</ab>
+<ab type="dharani">sa　rva　a　thā　du　śu　tuṃ　</ab>
+薩/　/婆/　/阿/　/陀/　/頭/　/輸/　/朋/(/十四/)/　/
+
+<ab type="prose">/此/是/甘露/菩薩/亦/是/觀世音/菩薩/部落/。/以為/眷屬/。/</ab>
+<ab type="dharani">a　je　yaṃ　</ab>
+/阿/　/遊/　/孕/(/十五/)/　/
+
+<ab type="prose">/此/是/飛騰/夜叉/大王/。/巡歷/四方/察/其/是非/。/</ab>
+<ab type="dharani">sa　rva　bhu　ta　na　ma　va　ga　</ab>
+薩/　/婆/　/菩/　/哆/　/那/　/摩/　/縛/　/伽/(/十六/)/　/
+
+<ab type="prose">/此/是/婆帝/王/其/形/黑/大/。/大/以/豹/皮/為/衣/。/神/手/把/衣叉/。/</ab>
+<ab type="dharani">ma　va　du　du　</ab>
+摩/　/罰/　/特/　/豆/(/十七/)/　/
+
+<ab type="prose">/此/是/剎利/菩薩/本/身/。/鐵/輪/手/把/夜叉/素/有/三/眼/是/也/。/</ab>
+<ab type="dharani">ta　dya　thā　oṃ　</ab>
+/怛/　/姪/　/他/(/十八/)/　/唵/　/
+
+<ab type="prose">/此/是/劍/語/。/</ab>
+<ab type="dharani">a　va　lo　ka　lo　ka　te　</ab>
+/阿/　/波/　/盧/　/醯/　/盧/　/迦/　/帝/(/十九/)/　/
+
+<ab type="prose">/此/是/梵天王/本/身/說/佛/為/部/。/</ab>
+<ab type="dharani">ka　ra　te　</ab>
+迦/　/羅/　/帝/(/二十/)/　/
+
+<ab type="prose">/此/是/立/門/五/神/。/長大/黑色/。/</ab>
+<ab type="dharani">e　hṛe　</ab>
+夷/　/醯唎/(/二十一/)/　/
+
+<ab type="prose">/此/是/三十三天/王/。/是/摩醯首羅/天王/神領/天兵/。/</ab>
+<ab type="dharani">ma　hā　bodhi　sa　tva　</ab>
+摩/　/訶/　/菩/　/薩/　/埵/(/二十二/)/　/
+
+<ab type="prose">/此/是/寶/心/更/無/雜/亂/心/節/名/薩埵/。/</ab>
+<ab type="dharani">sa　rva　sarva　</ab>
+薩/　/婆/　/薩婆/(/二十三/)/　/
+
+<ab type="prose">/此/是/香積/菩薩/。/押/五/方/兵/薩婆/為/侍從/不可思議/。/</ab>
+<ab type="dharani">ma　la　mala　ma　ma　hṛe　da　yaṃ　</ab>
+摩/　/羅/　/摩羅/　/摩/　/摩/　/醯唎/　/馱/　/孕/(/二十四/)/(/同/上/)/　/
+
+<ab type="dharani">ku　ru　kuru　ka　rmaṃ　</ab>
+/俱/　/嚧/　/俱/嚧/　/羯/　/蒙/(/二十五/)/　/
+
+<ab type="prose">/此/是/空/身/菩薩/。/押夫/將軍/領/二萬億/天/兵忽/。/</ab>
+<ab type="dharani">dhu　ru　dhuru　va　ja　ya　te　</ab>
+/度/　/嚧/　/度/嚧/　/罰/　/闍/　/耶/　/帝/(/二十六/)/　/
+
+<ab type="prose">/此/是/嚴峻/菩薩/。/孔雀王/兵/。/</ab>
+<ab type="dharani">ma　ha　va　ja　ya　te　</ab>
+摩/　/訶/　/罰/　/闍/　/耶/　/帝/(/二十七/)/(/同/上/)/　/
+
+<ab type="dharani">dha　ra　dhara　</ab>
+陀/　/羅/　/陀羅/(/二十八/)/　/
+
+<ab type="prose">/此/是/觀世音/菩薩/。/大/手/把/金輪/。/</ab>
+<ab type="dharani">dhi　ri　ṇi　</ab>
+/地/　/利/　/尼/(/二十九/)/　/
+
+<ab type="prose">/此/是/師子王/。/兵驗/不/調/。/</ab>
+<ab type="dharani">rā　ya　</ab>
+囉/　/耶/(/三十/)/　/
+
+<ab type="prose">/是/霹靂/降伏/魔/眷屬/。/</ab>
+<ab type="dharani">ca　la　ca　la　</ab>
+遮/　/囉/　/遮/　/囉/(/三十一/)/　/
+
+<ab type="prose">/此/是/摧碎/菩薩/。/本/身/手/把/金輪/。/</ab>
+<ab type="dharani">ma　ma　</ab>
+摩/　/摩/(/弟子/某甲/受持/)/　/
+
+<ab type="dharani">va　ma　ra　</ab>
+罰/　/摩/　/羅/(/三十二/)/　/
+
+<ab type="prose">/此/是/大/降魔/金剛/本/身/。/手/把/金輪/。/</ab>
+<ab type="dharani">su　kte　le　</ab>
+穆/　/帝/　/曬/(/三十三/)/　/
+
+<ab type="prose">/此/是/佛/合掌/。/聽/誦/千/手/千/眼/觀世音/菩薩/善/神妙/章句/。/</ab>
+<ab type="dharani">e　he　e　he　</ab>
+/伊/　/醯/　/移/　/醯/(/三十四/)/　/
+
+<ab type="prose">/此/是/喚/摩醯首羅天/。/</ab>
+<ab type="dharani">ci　nda　cinda　</ab>
+/室/　/那/　/室那/(/三十五/)/(/同/上/)/　/
+
+<ab type="dharani">a　rṣaṃ　pra　ca　li　</ab>
+/阿/　/羅參/　/佛羅/　/舍/　/利/(/三十六/)/　/
+
+<ab type="prose">/此/是/觀世音/菩薩/。/手/把/軍/弓箭/。/</ab>
+<ab type="dharani">va　ṣa　va　ṣaṃ　pra　śa　ya　</ab>
+罰/　/沙/　/罰/　/參/　/佛羅/　/舍/　/耶/(/三十七/)/　/
+
+<ab type="prose">/此/是/阿彌陀/佛/本/身/。/觀音/菩薩/師/主/。/</ab>
+<ab type="dharani">hu　ru　huru　ma　ra　</ab>
+/呼/　/嚧/　/呼/嚧/　/麼/　/囉/(/三十八/)/　/
+
+<ab type="prose">/此/是/呼/八/部/鬼神/。/</ab>
+<ab type="dharani">hu　ru　huru　hri　</ab>
+/呼/　/嚧/　/呼/嚧/　/醯唎/(/三十九/)/(/同/上/)/　/
+
+<ab type="dharani">sa　ra　sara　</ab>
+沙/　/囉/　/沙囉/(/四十/)/　/
+
+<ab type="prose">/此/是/五濁/惡/世/云/。/</ab>
+<ab type="dharani">si　ri　siri　su　ru　suru　</ab>
+/悉/　/唎/　/悉/唎/(/四十一/)/　/蘇/　/嚧/　/蘇嚧/(/四十二/)/　/
+
+<ab type="prose">/此/是/諸/佛/樹/樂/木/聲/也/。/</ab>
+<ab type="dharani">bo　dhi　ya　bodhiya　</ab>
+菩/　/提/　/㖿/　/菩提/㖿/(/四十三/)/　/
+
+<ab type="prose">/此/是/觀世音/豫/眾生/罪惡/。/</ab>
+<ab type="dharani">bo　dha　ya　bodhaya　</ab>
+菩/　/提/　/耶/　/菩提/耶/(/四十四/)/　/
+
+<ab type="prose">/此/是/阿難/本/身/也/。/</ab>
+<ab type="dharani">mai　tri　ya　</ab>
+彌/　/帝唎/　/耶/(/四十五/)/　/
+
+<ab type="prose">/此/是/本/車/菩薩/手/把/金/刀/。/</ab>
+<ab type="dharani">na　ra　ki　ndi　</ab>
+那/　/囉/　/謹/　/墀/(/四十六/)/　/
+
+<ab type="prose">/此/是/龍/樹/菩薩/。/手/把/金/刀/之/長/。/</ab>
+<ab type="dharani">dha　rṣi　ṇi　na　pa　ya　ma　na　</ab>
+/他/　/唎瑟/　/尼/　/那/　/波/　/夜/　/摩/　/那/(/四十七/)/　/
+
+<ab type="prose">/此/是/金光/幢/菩薩/。/手/把/跋折羅杵/。/</ab>
+<ab type="dharani">svā　hā　si　ddhā　ya　</ab>
+/娑婆/　/訶/(/四十八/)/(/同/上/)/　/悉/　/陀/　/夜/(/四十九/)/　/
+
+<ab type="prose">/此/是/達/一切/法門/。/</ab>
+<ab type="dharani">svā　hā　ma　hā　si　ddhā　ya　svā　hā　</ab>
+/娑婆/　/訶/(/五十/法語/)/　/摩/　/訶/　/悉/　/陀/　/夜/　/娑婆/　/訶/　/
+
+<ab type="prose">/此/是/施/光/幢/菩薩/手/把/幡/。/</ab>
+<ab type="dharani">si　ddhā　yo　ge　</ab>
+/悉/　/陀/　/喻/　/藝/(/五十二/)/　/
+
+<ab type="prose">/此/是/天/大/菩薩/悉/手/來/把/刀/或/菩薩/手/把/水椀/。/</ab>
+<ab type="dharani">śva　ka　ra　ya　svā　hā　</ab>
+/室/皤/　/伽/　/羅/　/耶/　/娑婆/　/訶/(/五十三/)/　/
+
+<ab type="prose">/此/是/名/安悉香/。/</ab>
+<ab type="dharani">na　ra　ki　ndi　svā　hā　ma　ra　na　
+那　囉　謹　墀(五十五)(同上)　娑婆　訶(五十六)　摩　囉　那　
+ra　</ab>
+囉/(/五十七/)/　/
+
+<ab type="prose">/此/是/散/水/菩薩/手/把/水椀/。/</ab>
+<ab type="dharani">svā　hā　si　ra　saṃ　ā　mu　khā　ya　</ab>
+/娑婆/　/訶/(/五十八/)/(/同/上/)/　/悉/　/囉/　/僧/　/阿/　/穆/　/佉/　/耶/(/五十九/)/　/
+
+<ab type="prose">/此/是/山/海/惠/菩薩/手/把/金/鉤/。/</ab>
+<ab type="dharani">svā　hā　pa　ma　hā　si　ddhā　ya　</ab>
+/娑婆/　/訶/(/六十/)/(/同/上/)/　/婆/　/摩/　/訶/　/悉/　/陀/　/夜/(/六十一/)/(/同/上/)/　/
+
+<ab type="dharani">svā　hā　ca　krā　si　ddhā　ya　</ab>
+/娑婆/　/訶/(/六十二/)/(/同/上/)/　/者/　/吉囉阿/　/悉/　/陀/　/夜/(/六十三/)/　/
+
+<ab type="prose">/此/是/藥王/菩薩/本/身/行/魔/。/</ab>
+<ab type="dharani">svā　hā　</ab>
+/娑婆/　/訶/(/六十四/)/(/同/上/)/　/
+
+<ab type="dharani">pa　dma　ka　sta　ya　</ab>
+婆/　/摩/　/羯/　/悉哆/　/夜/(/六十五/)/　/
+
+<ab type="prose">/是/藥上/菩薩/本/身/行/魔/痛/。/</ab>
+<ab type="dharani">svā　hā　</ab>
+/娑婆/　/訶/(/六十六/)/(/同/上/)/　/
+
+<ab type="dharani">na　ra　ki　ndi　va　ga　ra　ya　svā　hā　
+那　羅　謹　墀　皤　迦　羅　夜(六十七)(同上)　娑婆　訶(六十八)(同上)　
+ma　va　ri　śa　ṅka　ya　svā　hā　
+摩　婆　唎　勝　羯　夜(六十九)(同上)　娑婆　訶(七十)　
+na　mo　ra　tna　tra　yā　ya　
+南　無喝　囉　怛那　多囉　夜　耶(七十一)　
+na　mo　ā　ryā　va　ro　ki　te　śva　
+南　無　阿　唎耶(七十二)　婆　嚧　吉　帝(七十三)　爍皤　
+ra　ya　bo　dhi　svā　hā　</ab>
+囉/　/耶/(/七十四/)/　/菩/　/提/　/娑婆/　/呵/　/
+
+<ab type="juan" subtype="close">/青/頸/觀音/陀羅尼/一/卷/</ab></div>
+<div type="w" level="2">
+<ab type="prose">/青/頸/大悲/心/印/</ab>
+<ab type="prose">/虛心/合掌/屈/二/頭/指/。/各/拘/二/大/指/第二/節/(/是/法/螺/也/)/二/中/指/竪/合/(/是/蓮花/也/)/二/無/名/指竪/圓端/(/是/輪/也/)/二/小/指/直/竪/合/(/是/杖/也/)/於/一/印/具/四/印/。/謂/法/螺/蓮華/輪/杖/也/。/</ab></div></div>
+    </body>
+  </text>
+</TEI>

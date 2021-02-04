@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">CBETA電子佛典(量化分析版)</title>
+        <title type="subordinate">如來在金棺囑累清淨莊嚴敬福經</title>
+        <author>Dharma Drum Institute of Liberal Arts, Library and Information Center, Digital Archives Section 法鼓文理學院 圖書資訊館 數位典藏組</author>
+        <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+        <respStmt>
+          <resp>資料轉換</resp>
+          <name>周邦信</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>法鼓文理學院</publisher>
+        <address>
+          <addrLine>20842 新北市金山區法鼓路700號</addrLine>
+          <addrLine>da@dila.edu.tw</addrLine>
+        </address>
+        <date>2012-2021</date>
+        <availability>
+          <p>This document is published under a CC Attribution-Share Alike License</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title type="main">CBETA 電子佛典集成</title>
+          <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+          <pubPlace>臺灣‧臺北</pubPlace>
+          <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+          <date>2021-02-03</date>
+          <biblScope type="vol">T85</biblScope>
+          <idno type="Taisho">T85n2877</idno>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+    
+<ab type="juan" subtype="open">/如來/在/金/棺/囑累/清淨/莊嚴/敬/福/經/(/新/西方/胡國/中/來/出/皇/涅槃/中/)/</ab>
+<div type="jing" level="1">
+<ab type="prose">/如是我聞/。/一時/佛/在/拘尸那/城/娑羅/雙/樹/間/。/說/涅槃/訖竟/。/垂/入/金/棺/。/欲/焚/其/身/。/偏/坐/金/棺楯/上/。/雙/目/出/淚/放/光/動/地/。/無量/大/菩薩/眾/天龍八部/等/悉皆/生/疑/。/爾時/須菩提/白/佛/言/。/世尊/今/欲/普/為/大眾/仰/請/決/疑/。/不/審/聽/不/。/佛/言/。/任/汝/所/請/。/須菩提/白/佛/言/。/世尊/如來/恒/說/涅槃/常/樂/永/無/生死/。/何由/今/坐/金/棺楯/上/涕淚/交/流/令/眾/疑/也/。/</ab></div>
+    </body>
+  </text>
+</TEI>

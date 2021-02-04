@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">CBETA電子佛典(量化分析版)</title>
+        <title type="subordinate">正了知王藥叉眷屬法</title>
+        <author>Dharma Drum Institute of Liberal Arts, Library and Information Center, Digital Archives Section 法鼓文理學院 圖書資訊館 數位典藏組</author>
+        <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+        <respStmt>
+          <resp>資料轉換</resp>
+          <name>周邦信</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>法鼓文理學院</publisher>
+        <address>
+          <addrLine>20842 新北市金山區法鼓路700號</addrLine>
+          <addrLine>da@dila.edu.tw</addrLine>
+        </address>
+        <date>2012-2021</date>
+        <availability>
+          <p>This document is published under a CC Attribution-Share Alike License</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title type="main">CBETA 電子佛典集成</title>
+          <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+          <pubPlace>臺灣‧臺北</pubPlace>
+          <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+          <date>2021-02-03</date>
+          <biblScope type="vol">X02</biblScope>
+          <idno type="Taisho">X02n0182</idno>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+    <div level="1">
+<ab type="juan" subtype="open">/正/了知/王/藥叉/眷屬/法/</ab>
+<byline>/三藏/法師/義淨/奉/制/　/譯/</byline>
+<div type="" level="2">
+<ab type="prose">/僧/慎/爾/耶/此/云/正/了知/此/正/了知/王/有/二十八/藥叉/大將/佛/告/阿難陀/言/此/二十八部/藥叉/現/大/自在/神通/威德/能/於/十方/世界/覆護/一切/眾生/為/除/衰患/厄難/之/事/有/四/藥叉/大將/住/在/東面/擁護/東方/所有/眾生/令/離/憂苦/其/名/曰/。/</ab>
+<ab type="list">
+/地/嘌伽/(/長大/)/
+/蘇泥怛羅/(/妙/目/)/
+/晡/𠷈拏/(/圓滿/)/
+/却/畢羅/(/黃色/)/</ab>
+<ab type="prose">/唱/已/說/所/求/事/(/下/准/此/)/。/</ab>
+<ab type="prose">/阿難陀/有/四/藥叉/大將/住/在/南面/擁護/南方/所有/眾生/令/離/憂苦/其/名/曰/。/</ab>
+<ab type="list">
+/僧/訶/(/師子/)/
+/鄔波僧訶/(/小/師子/)/
+/商企羅/(/螺/)/
+/旃憚那/(/栴檀/)/</ab>
+<ab type="prose">/復/阿難陀/有/四/藥叉/大將/住/在/西面/擁護/西方/所有/眾生/令/離/憂苦/其/名/曰/。/</ab>
+<ab type="list">
+/𠿒/里/(/師子/)/
+/𭧸/里/雞/舍/(/師子/髮/)/
+/鉢/喇部/(/自在/)/
+/氷伽羅/(/青色/)/</ab>
+<ab type="prose">/復/阿難陀/有/四/藥叉/大將/住/在/北面/擁護/北方/所有/眾生/令/離/憂苦/其/名/曰/。/</ab>
+<ab type="list">
+/違/喇拏/(/能/持/)/
+/違/喇/難陀/(/持/喜/)/
+/嗢/猶/伽波羅/(/勇進/勤護/)/
+/吠/率/奴/(/天/名/)/</ab>
+<ab type="prose">/復/阿難陀/有/四/藥叉/大將/各/住/四維/擁護/四維/所有/眾生/令/離/憂苦/其/名/曰/。/</ab>
+<ab type="list">
+/半/支迦/(/有/五/)/
+/般遮羅/健荼/(/五/處/)/
+/娑跢/祇利/(/平山/)/
+/䤈/摩䟦多/(/雪山/)/</ab>
+<ab type="prose">/復次/阿難陀/有/四/藥叉/大將/住/在/地上/擁護/所有/地居/眾生/令/離/憂苦/其/名/曰/。/</ab>
+<ab type="list">
+/部摩/(/地/)/
+/蘇部摩/(/妙/地/)/
+/哥羅/(/黑/)/
+/鄔波哥羅/(/小/黑/)/</ab>
+<ab type="prose">/復次/阿難陀/有/四/藥叉/大將/住/在/空/中/擁護/所有/空居/眾生/令/離/憂苦/其/名/曰/。/</ab>
+<ab type="list">
+/蘇利耶/(/日/神/)/
+/蘇摩/(/月/神/)/
+/惡祁尼/(/火神/)/
+/婆庾/(/風神/)/</ab>
+<ab type="prose">/佛/言/此/鎮/護/法/如/說/唱/其/名號/守護/八方/上下/利安/一切/眾生/其/藥叉/利/生/相/無量/無邊/略說/少分/佛/說/此/法/已/若/召/請/之/時/名字/之/終/加/速/來/句/不/越/本/誓/必/垂/來/影/印/尋/之/。/</ab>
+<ab type="juan" subtype="close">/正/了知/王/藥叉/眷屬/法/</ab>
+<div type="w" level="3">
+<ab type="prose">/孔雀/明/王/經/云/蘇師奴/藥叉/住/那羯羅國/(/已/上/)/師/曰/蘇師奴/此/云/正/了知/亦/云/妙/了知/(/云/云/)/。/</ab></div></div></div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">CBETA電子佛典(量化分析版)</title>
+        <title type="subordinate">目錄</title>
+        <author>Dharma Drum Institute of Liberal Arts, Library and Information Center, Digital Archives Section 法鼓文理學院 圖書資訊館 數位典藏組</author>
+        <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+        <respStmt>
+          <resp>資料轉換</resp>
+          <name>周邦信</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>法鼓文理學院</publisher>
+        <address>
+          <addrLine>20842 新北市金山區法鼓路700號</addrLine>
+          <addrLine>da@dila.edu.tw</addrLine>
+        </address>
+        <date>2012-2021</date>
+        <availability>
+          <p>This document is published under a CC Attribution-Share Alike License</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title type="main">CBETA 電子佛典集成</title>
+          <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+          <pubPlace>臺灣‧臺北</pubPlace>
+          <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+          <date>2021-02-03</date>
+          <biblScope type="vol">ZW07</biblScope>
+          <idno type="Taisho">ZW07na040</idno>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+    <div level="1"><head>/目錄/</head>
+<ab type="table"/>
+<ab type="row"/>
+<ab type="cell">/卷首/語/</ab>
+<ab type="cell">/（/1/）/</ab>
+<ab type="row"/>
+<ab type="cell">/Foreword/</ab>
+<ab type="cell">/（/9/）/</ab>
+<ab type="row"/>
+<ab type="cell">/序/（/日/文/）/</ab>
+<ab type="cell">/（/23/）/</ab>
+<ab type="row"/>
+<ab type="cell">/目錄/</ab>
+<ab type="cell">/（/33/）/</ab>
+<ab type="row"/>
+<ab type="cell">/錄/文校/勘/體例/</ab>
+<ab type="cell">/（/35/）/</ab>
+<ab type="row"/>
+<ab type="cell">/三藏/論疏/</ab>
+<ab type="row"/>
+<ab type="cell">/注/心/要/法門/</ab>
+<ab type="cell">/（/39/）/</ab>
+<ab type="row"/>
+<ab type="cell">/佛/教/儀軌/</ab>
+<ab type="row"/>
+<ab type="cell">/金剛/五/禮/</ab>
+<ab type="cell">/（/52/）/</ab>
+<ab type="row"/>
+<ab type="cell">/金剛/禮/</ab>
+<ab type="cell">/（/63/）/</ab>
+<ab type="row"/>
+<ab type="cell">/阿吒力/教/典籍/</ab>
+<ab type="row"/>
+<ab type="cell">/護國/司南抄/</ab>
+<ab type="cell">/（/68/）/</ab>
+<ab type="row"/>
+<ab type="cell">/佛/說/消/災延/壽/藥師/灌頂/章句/儀/</ab>
+<ab type="cell">/（/114/）/</ab>
+<ab type="row"/>
+<ab type="cell">/藥師/道場/解/經頌/文/灌頂/章句/教誡/儀文/</ab>
+<ab type="cell">/（/115/）/</ab>
+<ab type="row"/>
+<ab type="cell">/佛/說/消/災延/壽/藥師/灌頂/章句/一時/儀文/</ab>
+<ab type="cell">/（/133/）/</ab>
+<ab type="row"/>
+<ab type="cell">/佛/說/藥師/二/時/科儀/文/</ab>
+<ab type="cell">/（/151/）/</ab>
+<ab type="row"/>
+<ab type="cell">/佛/說/藥師/三/時/儀文/</ab>
+<ab type="cell">/（/166/）/</ab>
+<ab type="row"/>
+<ab type="cell">/藥師/灌頂/章句/拔/苦/過罪/生死/得/度/綱/目/</ab>
+<ab type="cell">/（/199/）/</ab>
+<ab type="row"/>
+<ab type="cell">/佛/說/藥師/三/時/密咒/</ab>
+<ab type="cell">/（/210/）/</ab>
+<ab type="row"/>
+<ab type="cell">/附/：/放/生/儀文/</ab>
+<ab type="cell">/（/221/）/</ab>
+<ab type="row"/>
+<ab type="cell">/疑偽/經/</ab>
+<ab type="row"/>
+<ab type="cell">/淨/度/三昧/經/</ab>
+<ab type="cell">/（/226/）/</ab>
+<ab type="row"/>
+<ab type="cell">/佛/說/淨/度/三昧/經/卷/第一/</ab>
+<ab type="cell">/（/231/）/</ab>
+<ab type="row"/>
+<ab type="cell">/佛/說/淨/度/三昧/經/卷/第二/</ab>
+<ab type="cell">/（/262/）/</ab>
+<ab type="row"/>
+<ab type="cell">/佛/說/淨/度/三昧/經/卷/第三/</ab>
+<ab type="cell">/（/292/）/</ab>
+<ab type="row"/>
+<ab type="cell">/附/：/《/淨/度/三昧/經/》/的編/纂與/撰述/</ab>
+<ab type="cell">/（/327/）/</ab>
+<ab type="row"/>
+<ab type="cell">/地藏/菩薩/十齋日/</ab>
+<ab type="cell">/（/348/）/</ab>
+<ab type="row"/>
+<ab type="cell">/附/：/關/於/《/地藏/菩薩/十齋日/》/</ab>
+<ab type="cell">/（/363/）/</ab>
+<ab type="row"/>
+<ab type="cell">/西夏/佚典/</ab>
+<ab type="row"/>
+<ab type="cell">/寧/夏/西/夏/方/塔/出/土漢/文/佛/典敘/錄/</ab>
+<ab type="cell">/（/372/）/</ab>
+<ab type="row"/>
+<ab type="cell">/研/究/論/文/</ab>
+<ab type="row"/>
+<ab type="cell">/日/本/佛/教目/錄/學/的/形/成/—/—/以/《/東域/傳燈/錄/》/為/中心/</ab>
+<ab type="cell">/（/416/）/</ab>
+<ab type="row"/>
+<ab type="cell">/《/藏/外/佛/教/文獻/》/要/目/</ab>
+<ab type="row"/>
+<ab type="cell">/徵稿/啟/事/</ab></div>
+    </body>
+  </text>
+</TEI>

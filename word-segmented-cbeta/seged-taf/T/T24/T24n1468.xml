@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">CBETA電子佛典(量化分析版)</title>
+        <title type="subordinate">佛說目連所問經</title>
+        <author>Dharma Drum Institute of Liberal Arts, Library and Information Center, Digital Archives Section 法鼓文理學院 圖書資訊館 數位典藏組</author>
+        <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+        <respStmt>
+          <resp>資料轉換</resp>
+          <name>周邦信</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>法鼓文理學院</publisher>
+        <address>
+          <addrLine>20842 新北市金山區法鼓路700號</addrLine>
+          <addrLine>da@dila.edu.tw</addrLine>
+        </address>
+        <date>2012-2021</date>
+        <availability>
+          <p>This document is published under a CC Attribution-Share Alike License</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title type="main">CBETA 電子佛典集成</title>
+          <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+          <pubPlace>臺灣‧臺北</pubPlace>
+          <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+          <date>2021-02-03</date>
+          <biblScope type="vol">T24</biblScope>
+          <idno type="Taisho">T24n1468</idno>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+    
+<ab type="juan" subtype="open">/佛/說/目連/所/問/經/</ab>
+<byline>/西天/譯經/三藏/朝散大夫/試/鴻臚/少卿/傳教/大師/臣/法天/奉/　/詔/譯/</byline>
+<div type="jing" level="1">
+<ab type="prose">/如是我聞/：/</ab>
+<ab type="prose">/一時/佛/在/王舍城/竹林/精舍/。/爾時/尊者/大目犍連/，/於/夜/後分/從/自/住處/往/詣/佛/所/。/到/已/，/投/地/頂禮/佛/足/，/於/一面/坐/。/</ab>
+<ab type="prose">/彼/時/尊者/大目犍連/即/從/坐/起/，/白/佛/言/：/「/世尊/！/若/有/苾芻/、/苾芻尼/，/迷醉/犯戒/，/無/慚/無/愧/，/輕慢/律儀/，/行/非/法/行/。/世尊/！/彼/等/云何/而/得/其/福/？/」/</ab>
+<ab type="prose">/世尊/告/言/尊者/大目犍連/：/「/若/有/苾芻/、/苾芻尼/，/迷醉/犯戒/，/無/慚/無/愧/，/輕慢/律儀/，/行/非/法/行/。/彼/人/命/終/生/地獄/中/，/壽/等/四/大王/天/五百/年/，/計/人間/歲數/九百萬/歲/。/」/</ab>
+<ab type="prose">/尊者/大目犍連/復/白/佛/言/：/「/世尊/！/若/有/苾芻/、/苾芻尼/，/迷醉/犯戒/，/無/慚/無/愧/，/輕慢/律儀/，/不/依/說法/。/彼/等/云何/而/得/其/福/？/」/</ab>
+<ab type="prose">/世尊/告/言/尊者/大目犍連/：/「/若/有/苾芻/、/苾芻尼/，/迷醉/犯戒/，/無/慚/無/愧/，/輕慢/律儀/，/若/不/依/說法/。/彼/人/命/終/生/地獄/中/，/壽/等/忉利天/一千/歲/，/計/人間/算數/三/俱胝/六百萬/歲/。/」/</ab>
+<ab type="prose">/尊者/大目犍連/白/佛/言/：/「/世尊/！/若/有/苾芻/、/苾芻尼/，/迷醉/犯戒/，/無/慚/無/愧/，/輕慢/律儀/，/行/波逸提/法/。/彼/等/云何/而/得/其/福/？/」/</ab>
+<ab type="prose">/世尊/告/言/尊者/大目犍連/：/「/若/有/苾芻/、/苾芻尼/，/迷醉/犯戒/，/無/慚/無/愧/，/輕慢/律儀/，/行/波逸提/法/。/彼/人/命/終/生/地獄/中/，/壽/等/夜摩天/二千/歲/，/計/人間/算數/一十四/俱胝/四百萬/歲/。/」/</ab>
+<ab type="prose">/尊者/大目犍連/白/佛/言/：/「/世尊/！/若/有/苾芻/、/苾芻尼/，/迷醉/犯戒/，/無/慚/無/愧/，/輕慢/律儀/，/犯/吐羅鉢底/法/。/彼/等/云何/得/多/福利/？/」/</ab>
+<ab type="prose">/世尊/告/言/尊者/大目犍連/：/「/若/有/苾芻/、/苾芻尼/，/迷醉/犯戒/，/無/慚/無/愧/，/輕慢/律儀/，/犯/吐羅鉢底/法/。/彼/人/命/終/生/地獄/中/，/壽命/兜率陀天/四千/歲/，/計/人間/算數/五十七/俱胝/六萬/歲/。/」/</ab>
+<ab type="prose">/尊者/大目犍連/白/佛/言/：/「/世尊/！/若/有/苾芻/、/苾芻尼/，/迷醉/犯戒/，/無/慚/無/愧/，/輕慢/律儀/，/犯/僧伽婆尸沙/法/。/彼/等/云何/得/多/福利/？/」/</ab>
+<ab type="prose">/世尊/告/言/尊者/大目犍連/：/「/若/有/苾芻/、/苾芻尼/，/迷醉/犯戒/，/無/慚/無/愧/，/輕慢/律儀/，/犯/僧伽婆尸沙/法/。/彼/人/命/終/生/地獄/中/，/壽/等/化樂天/八千/歲/，/計/人間/算數/二百三十/俱胝/四百萬/歲/。/」/</ab>
+<ab type="prose">/尊者/大目犍連/白/佛/言/：/「/世尊/！/若/有/苾芻/、/苾芻尼/，/迷醉/犯戒/，/無/慚/無/愧/，/輕慢/律儀/，/犯/波羅夷/法/。/彼/等/云何/得/多/福利/？/」/</ab>
+<ab type="prose">/世尊/告/言/尊者/大目犍連/：/「/若/有/苾芻/、/苾芻尼/，/迷醉/犯戒/，/無/慚/無/愧/，/輕慢/律儀/，/犯/波羅夷/法/。/彼/人/命/終/生/地獄/中/，/壽/等/他化自在天/一萬六千/歲/，/計/人間/算數/九百一十五/俱胝/六百萬/歲/。/」/</ab>
+<ab type="prose">/尊者/大目犍連/聞/佛/說/已/，/心/大/歡喜/，/作禮/而/去/。/</ab></div>
+<ab type="juan" subtype="close">/佛/說/目連/所/問/經/</ab>
+    </body>
+  </text>
+</TEI>

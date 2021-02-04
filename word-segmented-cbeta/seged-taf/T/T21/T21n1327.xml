@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">CBETA電子佛典(量化分析版)</title>
+        <title type="subordinate">佛說呪齒經</title>
+        <author>Dharma Drum Institute of Liberal Arts, Library and Information Center, Digital Archives Section 法鼓文理學院 圖書資訊館 數位典藏組</author>
+        <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+        <respStmt>
+          <resp>資料轉換</resp>
+          <name>周邦信</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>法鼓文理學院</publisher>
+        <address>
+          <addrLine>20842 新北市金山區法鼓路700號</addrLine>
+          <addrLine>da@dila.edu.tw</addrLine>
+        </address>
+        <date>2012-2021</date>
+        <availability>
+          <p>This document is published under a CC Attribution-Share Alike License</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title type="main">CBETA 電子佛典集成</title>
+          <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+          <pubPlace>臺灣‧臺北</pubPlace>
+          <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+          <date>2021-02-03</date>
+          <biblScope type="vol">T21</biblScope>
+          <idno type="Taisho">T21n1327</idno>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+    
+<div type="jing" level="1">
+<ab type="juan" subtype="open">/佛/說/呪齒/經/</ab>
+<byline>/東晉/竺曇無蘭/譯/</byline>
+<ab type="prose">/南無/佛/南無/法/南無/比丘/僧/南無/舍利弗/大目乾連/比丘/。/南無/覺意/。/名聞/邊/北方/健陀摩呵衍山/。/彼/有/虫/王/名/差吼/無/。/在/某/牙齒/中/止/。/今/當/遣/使者/無/敢/食/某/牙/。/及/牙根/中/牙根/中/牙/邊/虫/。/不/即/下/器/中/頭/破/作/七/分/如/鳩羅/勤蟮/。/梵天/勸/是/呪/南無/佛/。/令/我/所/呪/皆/從/如/願/。/</ab>
+<ab type="juan" subtype="close">/佛/說/呪齒/經/</ab></div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">CBETA電子佛典(量化分析版)</title>
+        <title type="subordinate">《藏外佛教文獻》第一輯、第二輯要目</title>
+        <author>Dharma Drum Institute of Liberal Arts, Library and Information Center, Digital Archives Section 法鼓文理學院 圖書資訊館 數位典藏組</author>
+        <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+        <respStmt>
+          <resp>資料轉換</resp>
+          <name>周邦信</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>法鼓文理學院</publisher>
+        <address>
+          <addrLine>20842 新北市金山區法鼓路700號</addrLine>
+          <addrLine>da@dila.edu.tw</addrLine>
+        </address>
+        <date>2012-2021</date>
+        <availability>
+          <p>This document is published under a CC Attribution-Share Alike License</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title type="main">CBETA 電子佛典集成</title>
+          <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+          <pubPlace>臺灣‧臺北</pubPlace>
+          <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+          <date>2021-02-03</date>
+          <biblScope type="vol">ZW03</biblScope>
+          <idno type="Taisho">ZW03na016</idno>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+    <div level="1"><head>/《/藏/外/佛/教/文獻/》/第一/輯/、/第二/輯/要/目/</head>
+<ab type="prose">/敦煌/禪籍/專欄/</ab>
+<ab type="prose">/第一/輯/：/《/天竺國/菩提達摩禪師論/》/、/《/禪策/問答/》/、/《/息/諍論/》/；/</ab>
+<ab type="prose">/第二/輯/：/《/七祖/法寶/記/下/卷/》/、/《/天竺國/菩提達摩禪師論/》/。/</ab>
+<ab type="prose">/密/教/典籍/專欄/</ab>
+<ab type="prose">/第一/輯/：/《/八/種/粗/重/犯/墮/》/。/</ab>
+<ab type="prose">/三藏/論疏/專欄/</ab>
+<ab type="prose">/第一/輯/：/《/天/請問/經疏/》/、/《/〈/行/事/鈔/〉/中分門/圖錄/》/、/《/阿毗達磨/俱舍論/實義/疏/》/；/</ab>
+<ab type="prose">/第二/輯/：/《/淨/名/經/集/解/關/中/疏/卷/上/》/、/《/法華經/文外/義/》/。/</ab>
+<ab type="prose">/疑偽/經/專欄/</ab>
+<ab type="prose">/第一/輯/：/《/佛/為/心王/菩薩/說/頭陀經/》/、/《/佛/說/孝順/子/修行/成/佛經/》/、/《/最/妙勝/定/經/》/、/《/水月/觀音/經/》/、/《/佛/說/金剛/經/纂/》/、/《/大方廣/華/嚴/十惡/品/經/》/、/《/天公/經/》/、/《/佛/母/經/》/。/</ab>
+<ab type="prose">/天竺/要/典/專欄/</ab>
+<ab type="prose">/第二/輯/：/《/諦/義/證得/經/》/。/</ab>
+<ab type="prose">/遺珠/集/粹/專欄/</ab>
+<ab type="prose">/第二/輯/：/《/〈/瑜伽/師/地/論/〉/披/尋/記/敘/》/。/</ab>
+<ab type="prose">/研/究論/文/專欄/</ab>
+<ab type="prose">/第一/輯/：/《/關/於/禪藏/與/敦煌/禪籍/的/若干/問/題/》/；/</ab>
+<ab type="prose">/第二/輯/：/大/藏/經/編纂/及/電腦/化/研/討/會/論/文特/集/，/共/十一/篇/。/</ab></div>
+    </body>
+  </text>
+</TEI>

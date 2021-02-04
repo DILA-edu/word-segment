@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">CBETA電子佛典(量化分析版)</title>
+        <title type="subordinate">佛說八種長養功德經</title>
+        <author>Dharma Drum Institute of Liberal Arts, Library and Information Center, Digital Archives Section 法鼓文理學院 圖書資訊館 數位典藏組</author>
+        <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+        <respStmt>
+          <resp>資料轉換</resp>
+          <name>周邦信</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>法鼓文理學院</publisher>
+        <address>
+          <addrLine>20842 新北市金山區法鼓路700號</addrLine>
+          <addrLine>da@dila.edu.tw</addrLine>
+        </address>
+        <date>2012-2021</date>
+        <availability>
+          <p>This document is published under a CC Attribution-Share Alike License</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title type="main">CBETA 電子佛典集成</title>
+          <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+          <pubPlace>臺灣‧臺北</pubPlace>
+          <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+          <date>2021-02-03</date>
+          <biblScope type="vol">T24</biblScope>
+          <idno type="Taisho">T24n1498</idno>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+    
+<ab type="juan" subtype="open">/佛/說/八/種/長養/功德/經/</ab>
+<byline>/西天/譯經/三藏/朝散大夫/試/鴻臚卿/傳/梵/大師/賜紫/沙門/臣/法護/等/奉詔/譯/</byline>
+<div type="jing" level="1">
+<ab type="prose">/歸命/一切/佛/！/惟/願/一切/佛/、/菩薩/眾/攝受/於/我/！/即/說/伽陀/頌/曰/：/</ab>
+<ab type="verse">/「/我/今/歸命/勝/菩提/，/　/最上/清淨/佛法/眾/，/
+/我/發/廣大/菩提/心/，/　/自/他/利益/皆/成就/。/
+/懺除/一切/不善/業/，/　/隨喜/無邊/眾/福蘊/，/
+/先/當/不/食/一/日/中/，/　/後/修/八/眾/長養/法/。/」/
+</ab>
+<ab type="prose">/當/知/八/種/長養/法/者/，/所謂/八戒/，/弟子/應/於/阿闍梨/前/二/三/重復/。/說/是/伽陀/已/，/次復/當/稱/己/之/名字/：/「/我/名/某甲/，/惟/願/阿闍梨/攝受/於/我/。/我/從/今/時/發/淨信心/，/乃至/坐/菩提場/，/成/等正覺/。/誓/歸依/佛/，/二/足/勝/尊/；/誓/歸依/法/，/離/欲/勝/尊/；/誓/歸依/僧/，/調伏/勝/尊/。/如是/三寶/是/所/歸趣/。/我/某甲/淨信/優婆塞/，/惟/願/阿闍梨/憶持/護念/我/。/從/今日/今/時/發起/淨心/，/乃至/過/是/夜分/，/訖/於/明旦/日/初/出/時/，/於/其/中間/奉持/八戒/。/所謂/：/一/、/不/殺生/，/二/、/不/偷盜/，/三/、/不/非/梵行/，/四/、/不/妄語/，/五/、/不/飲酒/，/六/、/不/非時食/，/七/、/不/花鬘/莊嚴/其/身/及/歌舞/戲/等/，/八/、/不/坐臥/高/廣大/床/。/我/今/捨離/如是/等/事/，/誓願/不/捨/清淨/禁戒/八/種/功德/。/」/二/三/重/復/作/如是/說/。/又/言/：/「/我/持/戒行/，/莊嚴/其/心/，/令/心/喜悅/，/廣修/一切/相應/勝行/，/求/成/佛果/，/究竟/圓滿/。/」/又/說/伽陀/曰/：/</ab>
+<ab type="verse">/「/我/發/無/二/最上/心/，/　/為/諸/眾生/不/請/友/，/
+/勝/菩提/行/善/所/行/，/　/成佛/世間/廣/利益/。/
+/願/我/乘/是/善業/故/，/　/此/世/不久/成/正覺/，/
+/說法/饒益/於/世間/，/　/解說/眾生/三有/苦/。/」/
+</ab></div>
+<ab type="juan" subtype="close">/佛/說/八/種/長養/功德/經/</ab>
+    </body>
+  </text>
+</TEI>

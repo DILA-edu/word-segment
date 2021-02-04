@@ -1,0 +1,610 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">CBETA電子佛典(量化分析版)</title>
+        <title type="subordinate">大日如來劍印</title>
+        <author>Dharma Drum Institute of Liberal Arts, Library and Information Center, Digital Archives Section 法鼓文理學院 圖書資訊館 數位典藏組</author>
+        <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+        <respStmt>
+          <resp>資料轉換</resp>
+          <name>周邦信</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>法鼓文理學院</publisher>
+        <address>
+          <addrLine>20842 新北市金山區法鼓路700號</addrLine>
+          <addrLine>da@dila.edu.tw</addrLine>
+        </address>
+        <date>2012-2021</date>
+        <availability>
+          <p>This document is published under a CC Attribution-Share Alike License</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title type="main">CBETA 電子佛典集成</title>
+          <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+          <pubPlace>臺灣‧臺北</pubPlace>
+          <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+          <date>2021-02-03</date>
+          <biblScope type="vol">T18</biblScope>
+          <idno type="Taisho">T18n0864A</idno>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+    <div level="1">
+<ab type="juan" subtype="open">/大日/如來/劍/印/</ab>
+<div type="jing" level="2">
+<ab type="prose">/二/手/當/心/合掌/，/屈/二/頭/指/中/節/橫/相/跓/，/以/二/大母/指/並/押/二/頭/指/上/節/如/劍/形/。/結/此/印/即/觀/自/心/中/有/八/葉/蓮華/，/於/華/中/想/a/阿字/放/金色/光/與/印/相/應/，/想/彼/a/阿字/，/了/一切/法/本來/不/生/。/即/誦/真言/曰/：/</ab>
+<ab type="dharani">「na　maḥ　sa　ma　nta　bu　ddhā　naṃ　a　vi　
+娜　莫　三　滿　多　母　馱　南　惡　尾　
+ra　hūṃ　khaṃ　</ab>
+羅/　/吽/　/欠/」/　/
+
+<ab type="prose">/次/誦/真言/八/遍/，/以/印/如/前/加持/自身/五/處/，/所謂/額/、/右/肩/、/左/肩/、/心/、/喉/，/頂/上/散/。/一/字/頂輪王/印/　/先/合掌/，/以/左右/二/無/名/指/、/二/小/指/右/押/左/，/相刃/入/掌/，/二/中/指/直/竪/，/屈/第一/節/，/頭/相/跓/如/劍/形/，/二/大/指/入/掌/，/平伸/二/頭/指/，/屈押/二/大/指甲/頭/相/跓/，/名/頂輪王/根本/印/。/頌/曰/：/此/印/摩訶印/，/所謂/如來/頂/，/適/纔/結作/之/，/即/同/於/世尊/。/</ab>
+<ab type="prose">/頂輪王/真言/：/</ab>
+<ab type="dharani">「na　maḥ　sa　ma　nta　bu　ddhā　nāṃ　oṃ　
+曩　莫　三　滿　多　母　馱　南　唵(若有祈請所求一切事者於此應加孔雀王陀羅尼)　
+bhrūṃ部嚕唵」</ab>
+<ab type="prose">/次/結/孔雀王/印/　/以/二/手/內/相/刃/，/直/竪/檀慧/頭/相/跓/，/禪智/亦/直/竪/並/相/跓/，/其/印/即/成/。/誦/真言/三/遍/或/七/遍/，/與/頂/輪王/合誦/，/應/加/此/真言/句/。/誦/真言/曰/：/</ab>
+<ab type="dharani">「oṃ　ma　yu　rā　kra　nte　svā　hā　</ab>
+/唵/　/摩/　/庾/　/攞/　/迦蘭/　/帝/　/娑嚩/　/賀/」/　/
+
+<ab type="prose">/若/以/尋/常/持/念/一/字/頂輪王/真言/，/須/別/誦/孔雀王/真言/，/亦/須/別/誦/此/加/句/法/，/親/於/阿闍梨/所以/口/傳/授/之/，/修/瑜伽/者/知/耳/。/</ab>
+<ab type="prose">/金剛/解脫/真言/：/</ab>
+<ab type="dharani">「oṃ　va　jra　mu　kṣa　muḥ　</ab>
+/唵/　/嚩/　/日囉/　/謨/　/乞叉/　/穆/」/　/
+
+<ab type="prose">/葉/衣/觀世音/菩薩/真言/曰/：/</ab>
+<ab type="dharani">「oṃ　pa　lṇā　ca　va　ri　hūṃ　pha　ṭ　</ab>
+/唵/　/跛/　/哩娜/　/捨/　/嚩/　/哩/　/吽/　/發/　/吒/」/　/
+
+<ab type="prose">/智矩/如來/真言/：/</ab>
+<ab type="dharani">「na　mo　a　ṣṭa　śī　ti　naṃ　sa　mya　saṃ　
+曩　謨　阿　瑟吒　始　底　南　三　藐　三　
+bu　ddhā　ko　ṭi　nāṃ　oṃ　jñā　na　va　
+沒　馱　矩　胝　南　唵　枳孃　曩　嚩　
+bhā　se　dhi　ri　dhi　ri　hūṃ　</ab>
+婆/　/細/　/地/　/哩/　/地/　/哩/　/吽/」/　/
+
+<ab type="prose">/大悲/隨/心/真言/：/</ab>
+<ab type="dharani">「oṃ　pa　dma　ṣa　kra　śaṃ　kha　ga　dā　
+唵　鉢　怛麼　左　訖囉　商　佉　誐　那　
+dhā　rā　ṇi　ni　la　llā　si　dya　
+馱　囉　𩕳　儞　攞　建姹　悉　地也　
+si　dya　hūṃ　</ab>
+/悉/　/地/也/　/吽/」/　/
+
+<ab type="prose">/多羅/菩薩/真言/：/</ab>
+<ab type="dharani">「oṃ　ta　re　tu　ta　re　tu　re　re　svā　
+唵　跢　哩　都　跢　哩　覩　哩　哩　娑嚩」　
+hā　</ab>
+/賀/　/
+
+<ab type="prose">/如來/袈裟/真言/：/</ab>
+<ab type="dharani">「oṃ　ra　kṣa　sa　rva　bu　ddhā　dhi　ṣṭi　
+唵　𡀩　乞叉　薩　嚩　沒　馱　地　失恥　
+tā　tma　cī　va　ra　svā　hā　</ab>
+/跢/　/怛麼/　/紫/　/嚩/　/囉/　/娑嚩/　/賀/」/　/
+
+<ab type="prose">/一/字/頂輪/。/</ab>
+<ab type="dharani">「bhrūṃ部嚕唵」</ab>
+<ab type="prose">/金剛延/命/真言/：/</ab>
+<ab type="dharani">「oṃ　va　jra　yu　ṣe　svā　hā　</ab>
+/唵/　/嚩/　/日囉/　/喻/　/曬/　/娑嚩/　/賀/」/　/
+
+<ab type="prose">/金剛/命/真言/：/</ab>
+<ab type="dharani">「oṃ　ṭuṃ　va　jra　yuḥ　</ab>
+/唵/　/砧/　/嚩/　/日囉/　/欲/」/　/
+
+<ab type="prose">/金剛王/真言/：/</ab>
+<ab type="dharani">「oṃ　ṭa　ki　hūṃ　jjaḥ　</ab>
+/唵/　/吒/　/計/　/吽/　/惹/」/　/
+
+<ab type="prose">/白/傘蓋/佛頂/真言/：/</ab>
+<ab type="dharani">「oṃ　ma　ma　hūṃ　dīḥ　</ab>
+/唵/　/麼/　/麼/　/吽/　/䁥/」/　/
+
+<ab type="prose">/毘盧遮那/佛/真言/：/</ab>
+<ab type="dharani">「oṃ　bhuḥ　a　vi　ra　hūṃ　khaṃ　</ab>
+/唵/　/部/律/　/阿/　/尾/　/囉/　/吽/　/欠/」/　/
+
+<ab type="prose">/光/聚/佛/頂/真言/：/</ab>
+<ab type="dharani">「oṃ　kha　kha　kha　hi　kha　hi　hūṃ　hūṃ　jvā　
+唵　佉　佉　佉　係　佉　係　吽　吽　入嚩　
+la　pra　jvā　la　pra　jvā　
+囉　鉢囉　入嚩　囉　鉢囉　入嚩　
+la　ti　ṣṭa　ti　ṣṭa　kṣṭrī　
+囉　底　瑟吒　底　瑟吒　紇哩瑟胝　
+spha　ṭ　svā　hā　</ab>
+/薩泮/　/吒/　/娑嚩/　/賀/」/　/
+
+<ab type="prose">/觀自在菩薩/真言/：/</ab>
+<ab type="dharani">「oṃ　hrīḥ　haḥ　hūṃ　pha　ṭ　</ab>
+/唵/　/紇哩/　/郝/　/吽/　/泮/　/吒/」/　/
+
+<ab type="prose">/不/空/羂/索/心/真言/：/</ab>
+<ab type="dharani">「oṃ　a　mo　gha　pra　ti　ha　ta　hūṃ　pha　
+唵　阿　謨　誐　鉢囉　底　賀　跢　吽　泮　
+ṭ　</ab>
+吒/」/　/
+
+<ab type="prose">/虛空/藏/滿/願/真言/：/</ab>
+<ab type="dharani">「oṃ　sa　rva　ta　thā　ga　tā　mi　pe　ka　va　
+唵　薩　嚩　怛　他　蘖　多　鞞　󰵊　迦　嚩　
+jra　ra　tna　sa　rva　śā　pa　ri　pū　
+日囉　囉　怛那　薩　嚩　舍　跛　哩　布　
+ra　ka　jaḥ　hūṃ　vaṃ　hoḥ　trāṃ　</ab>
+囉/　/迦/　/惹/　/吽/　/鑁/　/斛/　/怛覽/」/　/
+
+<ab type="prose">/虛空/藏/三昧耶/真言/：/</ab>
+<ab type="dharani">「oṃ　va　jra　ra　tna　hūṃ　</ab>
+/唵/　/嚩/　/日囉/　/囉/　/怛娜/　/吽/」/　/
+
+<ab type="prose">/虛空藏/真言/：/</ab>
+<ab type="dharani">「oṃ　ga　ga　na　sa　bha　va　va　jra　hoḥ　oṃ　
+唵　誐　誐　曩　三　婆　嚩　嚩　日囉　斛　唵　
+a　hūṃ　</ab>
+/惡/　/吽/」/　/
+
+<ab type="prose">/虛空藏/羯麼/真言/：/</ab>
+<ab type="dharani">「oṃ　va　jra　ra　tno　hāṃ　</ab>
+/唵/　/嚩/　/日囉/　/囉/　/怛奴/　/憾/」/　/
+
+<ab type="prose">/文殊/八/字/真言/：/</ab>
+<ab type="dharani">「ā　vi　ra　hūṃ　kha　ca　raḥ　dhaṃ　</ab>
+/阿/　/尾/　/囉/　/吽/　/佉/　/左/　/𡀩/　/曇/」/　/
+
+<ab type="prose">/文殊/菩薩/六/字/真言/：/</ab>
+<ab type="dharani">「oṃ　va　ko　da　na　maḥ　</ab>
+/唵/　/嚩/　/計/　/娜/　/曩/　/莫/」/　/
+
+<ab type="prose">/孔雀王/真言/：/</ab>
+<ab type="dharani">「na　mo　te　ṭ　ra　ra　svā　hā　</ab>
+/曩/　/謨/　/諦/　/吒/　/囉/　/囉/　/娑嚩/　/賀/」/　/
+
+<ab type="prose">/普賢/菩薩/陀囉尼/曰/：/</ab>
+<ab type="dharani">「oṃ　sa　ma　ta　bha　dra　svā　hā　</ab>
+/唵/　/三/　/漫/　/多/　/婆/　/捺囉/　/娑嚩/　/賀/」/　/
+
+<ab type="prose">/除/毒/真言/曰/：/</ab>
+<ab type="dharani">「oṃ　a　ṇḍa　ri　pa　ṇḍa　ri　ṇḍa　ga　mā　li　
+唵　阿　拏　哩　跛　拏　哩　娜　誐　麼　哩　
+ni　hūṃ　pha　ṭ　svā　hā　</ab>
+儞/　/吽/　/泮/　/吒/　/娑嚩/　/賀/」/　/
+
+<ab type="prose">/菩提/心/真言/：/</ab>
+<ab type="dharani">「oṃ　bo　dhi　ci　ttā　mu　tpa　da　ya　mi　</ab>
+/唵/　/冐/　/地/　/唧/　/哆/　/沒/　/怛/　/跛娜/　/也/　/弭/」/　/
+
+<ab type="prose">/下𮇏/陀羅尼/曰/：/</ab>
+<ab type="dharani">「oṃ　va　jra　ci　tra　sa　ma　ye　hūṃ　</ab>
+/唵/　/嚩/　/日囉/　/質/　/怛囉/　/三/　/麼/　/曳/　/吽/」/　/
+
+<ab type="prose">/文殊師利/菩薩/陀羅尼/：/</ab>
+<ab type="dharani">「na　mo　a　ryā　ma　ju　sri　ya　
+曩　謨　阿　哩也　曼　視　室哩　曳　
+bo　dhi　sa　tvā　ya　ta　dya　thā　
+冐　地　薩　怛嚩　野　怛　儞也　他　
+ja　ye　ja　ya　la　ve　ja　ya　ma　hā　ma　he　
+惹　曳　惹　野　臘　吠　惹　野　麼　賀　摩　係　
+svā　hā　</ab>
+/娑嚩/　/賀/」/　/
+
+<ab type="prose">/祈雨/助/頂輪/加持/日/真言/：/</ab>
+<ab type="dharani">「oṃ　　　　　　　　　
+唵　部嚕唵　阿　儞　顛　誐　囉　迦　鼻艷　
+吽發吒」</ab>
+<ab type="prose">/金剛/大/輪陀羅尼/曰/：/</ab>
+<ab type="dharani">「na　maḥ　stryi　　　piṃ　kā　nāṃ　
+曩　麼　悉　咥哩　耶　墜　迦　南　
+ta　thā　ga　tā　naṃ　aṃ　vi　ra　ji　
+跢　多　伽　陀　南(二)　唵(三)　鞞　囉　時　
+vi　ra　ji　ma　hā　ca　kra　va　jra　
+鞞　囉　時(四)　摩　訶　斫　迦囉　嚩　日哩(五)　
+sa　ta　sa　ta　sa　ra　te　sa　ra　te　
+薩　多　薩　多　娑　囉　帝　娑　囉　帝　
+tra　yi　tra　yi　vi　dha　ma　ni　saṃ　ḍhaṃ　
+怛囉　曳　怛囉　曳　毘　陀　麼　儞(九)　三　盤　
+ja　ni　tra　ma　ti　si　ddhā　gri　
+誓　儞(十)　怛囉　麼　底(二)　悉　陀　揭唎　
+yattraṃ　svā　hā　</ab>
+/怛囑/炎/(/十二/)/　/娑嚩/　/賀/」/　/
+
+<ab type="prose">/懺悔/滅/罪/真言/：/</ab>
+<ab type="dharani">「oṃ　sa　rva　pā　pa　tta　hā　na　va　jra　
+唵　薩　嚩　跛　波　捺　賀　曩　嚩　日囉　
+ya　svā　hā　</ab>
+野/　/娑嚩/　/賀/」/　/
+
+<ab type="prose">/浴/像/偈/：/</ab>
+<ab type="verse">/「/我/今/灌沐/諸/如來/，/　/淨/智/功德/莊嚴/聚/，/
+/願/彼/五濁/眾生/類/，/　/速證/如來/淨/法身/。/」/
+</ab>
+<ab type="prose">/決/暯/偈/：/</ab>
+<ab type="verse">/「/諸/佛/今/為/汝/，/　/決/除/無/智/暯/，/
+/猶如/世/醫王/，/　/我/今/亦/如是/。/」/
+</ab>
+<ab type="prose">/次/結/佛眼/印/，/以/二/手/合掌/，/二/大/拇指/雙/屈/入/掌/，/二/頭/指/輔/二/中/指/第一/節/背/，/如/兩/眼/相/對/，/是/名/佛眼/印/。/成/已/，/加持/五/處/，/所謂/額/、/右/肩/、/左/肩/、/心/、/喉/，/頂/上/散/。/誦/真言/曰/：/</ab>
+<ab type="dharani">「na　maḥ　sa　rva　ta　thā　ga　te　bhyo　
+曩　莫　薩　嚩　怛　他　誐　帝　毘廋(一)　
+rha　bhyaḥ　sa　myaḥ　sa　bu　ddhe　bhyaḥ　
+囉賀　毘藥(二)　三　藐　三　沒　弟　毘藥(三)　
+oṃ　ru　ru　spha　ru　jvā　
+唵(四)　嚕　嚕　娑普　嚕(五)　入嚩　
+la　ti　ṣṭa　si　ddha　lo　ca　ni　
+攞　底　瑟姹(六)　悉　馱　路　左　寧(七)　
+sa　rvā　rtha　sa　ṭ　ni　svā　hā　</ab>
+薩/　/嚩/　/唎/他/　/娑/　/馱/　/𩕳/(/八/)/　/娑嚩/　/賀/」/　/
+
+<ab type="prose">/次/結/大日/如來/劍/印/。/</ab>
+<ab type="prose">/以/二/手/當/心/合掌/，/屈/二/頭/指/中/節/橫/相/跓/，/以/二/大/拇指/並/押/二/頭/指/上/節/如/劍/形/。/結/此/印/已/，/即/觀/自/心/中/有/八/葉/蓮華/，/於/蓮華/中/想/a/阿字/放/金色/光/與/印/相/應/，/想/彼/a/(/上/)/字/了/一切/法/本來/不/生/。/即/誦/真言/曰/：/</ab>
+<ab type="dharani">「na　maḥ　sa　ma　ta　bu　dā　nāṃ　a　vi　
+曩　莫　三　滿　多　母　馱　南　惡　尾　
+ra　hūṃ　khaṃ　</ab>
+囉/　/吽/　/欠/」/　/
+
+<ab type="prose">/次/誦/真言/八/遍/，/以/印/如/前/，/加持/自身/五/處/，/所謂/額/、/右/肩/、/左/肩/、/心/、/喉/，/於/頂/上/散/印/。/</ab>
+<ab type="prose">/次/以/軍荼利心/真言/，/遍/護/諸/物/去/垢/清淨/。/誦/真言/曰/：/</ab>
+<ab type="dharani">「oṃ　a　mṛ　to　hūṃ　pha　ṭ　</ab>
+/唵/　/阿/　/蜜/㗚/　/帝/　/吽/　/發/　/吒/」/　/
+
+<ab type="prose">/以/右/手/掬/淨水/，/加持/七/遍/，/用/灑/澡豆/等/物/，/便/成/清淨/。/次/誦/軍荼唎/根本/真言/及/密/印/攬/水/，/其/印/平展/慧/臂/，/屈方/、/願/二/度/入/掌/，/以/智度/捻/二/度/甲/上/，/慧/度/拳/於/方度/節/側/，/力/度/拳/於/願/度/節/側/，/以/此/印/攬/水/，/誦/根本/真言/七/遍/加持/，/然後/解/衣/隨意/澡浴/。/真言/曰/：/</ab>
+<ab type="dharani">「na　mo　ra　tna　tra　yā　ya　na　
+曩　莫　囉　怛曩　怛囉　夜　野　娜　
+maḥ　śve　ṇḍa　ma　hā　va　jra　ṭro　
+莫　室戰　拏　摩　賀　嚩　日囉　矩嚕　
+dha　ya　oṃ　hu　lu　hu　lu　ti　
+駄　野(三)　唵　護　嚕　護　嚕(四)　底　
+ṣṭa　ti　ṣṭa　va　nta　va　nta　ha　
+瑟姹　底　瑟姹(五)　滿　馱　滿　馱(六)　賀　
+na　ha　na　a　mṛ　ti　hūṃ　pha　ṭ　
+曩　賀　曩　阿　蜜㗚　帝　吽　發　吒　
+svā　hā　</ab>
+/娑嚩/　/賀/」/　/
+
+<ab type="prose">/凡/澡浴/法/，/三/分別/洗/，/須/知/次第/前後/，/從/足/至/臍/為/下/分/，/從/臍/至/頸/名/中分/，/從/頸/至/頂/為/上/分/。/應/先/洗/下/分/淨/已/，/即/以/皂/莢/澡豆/淨/手/，/次/洗/中分/；/又/淨/洗/手/，/次/注/上/分/。/本/經/云/：/「/凡/澡洗/時/，/寂然/一心/持/念/不應/散亂/，/亦/不/戲笑/及/無/義/談話/，/亦/勿/視/隱密/處/，/亦/不應/思念/男女/等/欲事/，/但/為/去/垢/故/而/為/澡浴/，/勿/作/嚴/身/之/想/，/一心/明記/次第/如/法/護持/，/亦/不應/嗔呵/大小/，/設/有/不/如意/事/應/慈心/善/言/教示/。/」/如是/依/教/如/法/浴/竟/。/次/應/灌頂/，/以/此/真言/加持/淨/瓶/用/灌/其/頂/。/真言/曰/：/</ab>
+<ab type="dharani">「oṃ　haḥ　kha　li　li　hūṃ　pha　ṭ　</ab>
+/唵/　/鸖/　/佉/　/哩/　/哩/　/吽/　/發/　/吒/」/　/
+
+<ab type="prose">/若/自/加持/，/但/誦/真言/二十一/遍/即/得/；/若/便/同伴/或/知/法/弟子/加持/，/滿/一百八/遍/。/如/無/瓶/或/無/人/，/但/以/此/印/掬/水/，/每/掬/水/加持/，/誦/真言/七/遍/。/三/度/掬/水/如/法/加持/，/自/灌/其/頂/。/其/印/以/檀慧/右/押/左/相叉/入/掌/，/以/戒/方雙/屈/並/押/交/上/，/以/忍/願/直/竪頭/相/跓/，/以/進/力/屈/跓/忍/願/背/上/節/，/禪智/並/竪/即/成/，/此/名/灌頂印/。/次/以/前/大/三昧/耶/真言/，/言/及/印/如/前/，/加持/自身/五/處/如/前/。/次/以/軍荼利心/如/前/，/掬/水/加持/灑/於/所/著/衣/上/，/令/其/清淨/，/然後/取著/。/仍/須/自/誦/吉祥/伽陀/，/不應/間斷/，/直/至/本/所/座/處/，/心想/以/此/清淨/身心/禮事/供養/一切/諸/佛/，/便/入/道場/供養/，/如/大/教/中/說/。/依/《/蘇悉地/經/》/及/《/金剛頂/經略/鈔/》/解/諸/觸穢/加持/三業法/，/夫/淨/三業/者/，/或時/身/有/觸穢/，/或/口/有/食噉/及/說/諸/雜/語言/，/或時/心/中/思惟/不/饒益/事/等/，/皆/名/三業/不淨/，/故/須/以/此/陀羅尼/及/正觀/加持/，/令/罪垢/消除/、/身/語/意業/速/得/清淨/。/真言/曰/：/</ab>
+<ab type="dharani">「oṃ　sva　bhā　va　śu　ddhā　sa　rva　
+唵　娑嚩　婆　嚩　秫　馱　薩　嚩　
+dha　rmā　sva　bhā　va　śu　ddhā　haṃ　</ab>
+達/　/磨/　/娑嚩/　/婆/　/嚩/　/秫/　/度/　/憾/」/　/
+
+<ab type="prose">/次/誦/真言/七/遍/，/彌/多/益/善/。/此/真言/能/除/身/語/意業/一切/罪垢/皆/得/清淨/。/正/誦/之/時/，/應/入/此/瑜伽/觀/思惟/，/一切/諸/法/本性/清淨/，/但/為/虛妄/客塵/煩惱/所/覆/，/迷失/正/理/，/故/有/顛倒/妄執/善惡/業果/。/我/今/入/法界/平等/不思議/觀/，/了知/一切/煩惱/罪垢/本來/清淨/，/又/以/陀羅尼/不思議/力/，/一切/諸/佛/共/以/神通/加持/相應力/故/，/應時/煩惱/妄想/皆/得/清淨/。/何以/故/？/了/彼/煩惱/彼/虛妄/生/無/自性/故/，/如幻/如/夢/本來/清淨/，/作/此/瑜伽/正觀/及/祕密/加持/，/一切/惡業/無不/清淨/。/本/經/中/名為/祕密/內/澡浴/法/。/凡/解/穢/法/有/二/種/穢/：/一/者/，/欲/入/觸/穢/處/，/即/以/烏蒭/澁麼/忿怒/真言/，/誦/真言/七/遍/，/能/辟除/一切/穢惡/，/不/著/身心/，/以/此/加持/身/，/如/忿怒/金剛/，/毘那/夜迦/不能/得/便/。/烏蒭/澁麼/忿怒王/真言/曰/：/</ab>
+<ab type="dharani">「oṃ　kro　dha　na　hūṃ　jjaḥ　</ab>
+/唵/　/矩嚕/　/馱/　/曩/　/吽/　/弱/」/　/
+
+<ab type="prose">/二/者/，/久/持/誦人/身心/清淨/，/忽然/不/覺悟/被/觸穢/，/或/食/著/穢/食/、/或/著/穢/衣/、/或/穢觸/陵突/，/自/覺/身心/不/安/之/時/，/當/須/速/以/灰/水/摩洗/一/金銀/器/或/白/瓷器/，/取/少許/新/汲/水/，/以/軍荼/唎/真言/加持/七/遍/，/或/二十一/遍/或/一百八/遍然/飲/之/，/應時/即/定/如/湯/沷/雪/。/此/真言/名/解/觸穢/。/此/二/真言/具/列/軍吒唎軌/。/真言/曰/：/</ab>
+<ab type="dharani">「na　mo　ra　tna　tra　yā　ya　na　maḥ　
+曩　謨　囉　怛曩　怛囉　夜　野　娜　莫　
+śca　ṇḍa　ma　hā　va　jra　kro　
+室戰　拏　摩　賀　嚩　日囉　矩嚕　
+dha　ya　oṃ　hu　lu　hulu　ti　ṣṭa　ti　
+馱　野　唵　護　嚕　護嚕　底　瑟姹　底　
+ṣṭa　va　ddhā　va　ddhā　ha　na　ha　na　a　
+瑟姹　滿　馱　滿　馱　賀　曩　賀　曩　阿　
+mṛ　ta　hūṃ　pha　ṭ　svā　hā　</ab>
+/蜜/㗚/　/帝/　/吽/　/發/　/吒/　/娑嚩/　/賀/」/　/
+
+<ab type="prose">/佛/部/心/三昧/耶印/。/以/止觀/十度/內/相叉/作/拳/，/以/禪智/並/竪/，/結/印/成/已/，/觀/諸/佛/遍/虛空/，/即/誦/真言/三/遍/，/頂/上/散/印/。/誦/真言/曰/：/</ab>
+<ab type="dharani">「oṃ　ji　na　ji　k　svā　hā　</ab>
+/唵/　/爾/　/曩/　/爾/　/迦/　/娑嚩/　/賀/」/　/
+
+<ab type="prose">/次/結/蓮華/部/三昧/耶印/。/準/前/佛/部/心/印/，/智度/屈/入/掌/，/直/竪/禪度/。/結/印/成/已/，/想/於/一切/如來/右邊/有/觀自在/菩薩/并/諸/眷屬/，/即/誦/真言/三/遍/，/頂/右散/印/。/誦/真言/曰/：/</ab>
+<ab type="dharani">「oṃ　a　ro　li　k　svā　hā　</ab>
+/唵/　/阿/　/嚧/　/力/　/迦/　/娑嚩/　/賀/」/　/
+
+<ab type="prose">/次/結/金剛/部/心/三昧/耶印/。/準/前/佛/部/心/印/，/以/禪度/屈/入/掌/，/直/竪/智度/，/想/於/一切/如來/左邊/有/金剛手/菩薩/并/諸/眷屬/，/即/誦/真言/三/遍/，/頂/左散/印/。/誦/真言/曰/：/</ab>
+<ab type="dharani">「oṃ　va　jra　dhṛi　k　svā　
+唵　嚩　日囉　地力　迦　娑嚩　
+hā　</ab>
+/賀/」/　/
+
+<ab type="prose">/次/結/被/甲護/身/印/。/以/觀/羽/禪度/橫/於/掌/內/，/以/進/忍/戒/檀/四/度/握/拳/，/結/印/成/已/，/加持/五/處/，/所謂/額/、/右/肩/、/左/肩/、/心/、/喉/，/是/名/為/五/處/。/護/身/真言/曰/：/</ab>
+<ab type="dharani">「oṃ　bhuḥ　jvā　la　hūṃ　</ab>
+/唵/　/部/　/入/嚩/　/囉/　/吽/」/　/
+
+<ab type="prose">/一/字/頂輪王/辟除/印/。/以/左右/頭/指/、/無/名/指/、/小/指/右/押/左/相叉/入/掌/作/拳/，/二/大/指/雙/屈/入/掌/，/二/中/指/直/竪/頭/相/跓/，/結/印/成/已/，/於/頂/上/左/轉/三匝/是/辟除/，/右轉/三匝/是/結護/，/想/心/所/到/便/成/界/方/。/此/印/能/破障/一切/佛頂/法事/，/若/一切/惡/天龍八部/，/藥叉/、/羅剎/、/阿修羅/、/迦樓羅/、/緊那羅/、/摩呼羅伽/、/毘那/夜/迦倫/，/見/是/印/悉皆/怖走/辟除/。/誦/真言/曰/：/</ab>
+<ab type="dharani">「na　maḥ　sa　ma　nta　bu　ddhā　nāṃ　oṃ　bhrūṃ　
+曩　莫　三　滿　多　母　馱　南　唵　奴嚕唵　
+ba　ndha　svā　hā　</ab>
+/滿/　/馱/　/娑嚩/　/賀/」/　/
+
+<ab type="prose">/次/獻/閼伽/真言/曰/：/</ab>
+<ab type="dharani">「na　maḥ　sa　ma　nta　bu　ddhā　nāṃ　ga　ga　na　
+曩　莫　三　滿　多　母　馱　南　誐　誐　曩　
+sa　mā　sa　ma　svā　hā　</ab>
+/三/　/摩/　/穇/　/麼/　/娑嚩/　/賀/」/　/
+
+<ab type="prose">/以/二/手/捧/器/當/額/，/䠒跪/誦/真言/三/遍/，/奉/閼伽/沐浴/聖眾/。/次/結/普/通/供養/印/：/</ab>
+<ab type="dharani">「na　maḥ　sa　ma　nta　bu　ddhā　nāṃ　sa　rva　tha　khaṃ　
+曩　莫　三　滿　多　母　駄　南　薩　嚩　他　欠　
+u　dga　te　spha　ra　he　maṃ　ga　ga　
+嗢　娜蘖　帝　娑頗　囉　呬　𤚥　誐　誐　
+naṃ　kaṃ　svā　hā　</ab>
+/曩/　/劍/　/娑嚩/　/賀/」/　/
+
+<ab type="prose">/由/此/真言/威力/，/流出/一切/燈明/雲/海/，/供養/一切/如來/及/諸/聖眾/。/復/觀/想/幢幡/蓋網/、/瓔珞/衣服/繒綵/等/物/，/遍/諸/供養/雲/海/無邊/法界/，/以/誠實/言/誦/妙伽陀/而/讚/之/曰/：/</ab>
+<ab type="verse">/「/以/我/功德力/，/　/如來/加持力/，/
+/及以/法界/力/，/　/普/供養/而/住/。/」/
+</ab>
+<ab type="prose">/次/結/佛/大慈/護/印/。/以/十度/相叉/作為/月/，/禪智檀/慧/竪/相著/，/結/印/成/已/，/印心/、/額/、/喉/，/頂/上/散/印/。/誦/真言/曰/：/</ab>
+<ab type="dharani">「oṃ　bu　ddhā　me　trī　va　jra　ra　
+唵　沒　駄　昧　底哩　嚩　日囉　落　
+kṣa　hāṃ　svā　hā　</ab>
+/乞/灑/　/憾/　/娑嚩/　/賀/」/　/
+
+<ab type="prose">/次/結/佛眼/印/。/以/二/手/合掌/，/二/大/拇指/雙/屈/入/掌/，/二/頭/指/輔/二/中/指/第一/節/背/，/如/兩/眼/相/對/，/是/名/佛眼/印/。/成/已/，/加持/五/處/，/所謂/額/、/右/肩/、/左/肩/、/心/、/喉/，/頂/上/散/印/。/真言/曰/：/</ab>
+<ab type="dharani">「na　maḥ　sa　rva　ta　tha　ga　te　bhyo　
+曩　莫　薩　嚩　怛　他　誐　帝　毘庾　
+rha　bhyāḥ　sa　mya　sa　bu　ddhe　bhyāḥ　
+囉賀　毘藥(一)　三　藐　三　沒　弟　毘藥(二)　
+oṃ　ru　ru　spha　ru　jvā　
+唵(四)　嚕　嚕　娑普　嚕　入嚩　
+la　ti　ṣṭa　si　ddha　lo　ca　ne　sa　
+囉　底　瑟𡛥(六)　悉　馱　路　左　寧(七)　薩　
+rva　rtha　sa　dha　ni　svā　hā　</ab>
+/嚩/　/唎/他/　/娑/　/馱/　/𩕳/(/八/)/　/娑嚩/　/賀/」/　/
+
+<ab type="prose">/次/結/一/字/頂輪王/印/。/先/合掌/，/以/左右/二/無/名/指/、/二/小/指/右/押/左/相叉/入/掌/，/二/中/指/直/竪/屈/第一/節/，/頭/相/跓/如/劍/形/，/二/大/指/入/掌/，/平伸/二/頭/指/屈/押/二/大/指甲/頭/相/跓/，/名/頂輪王/根本/印/。/頌/曰/：/</ab>
+<ab type="verse">/「/此/印/摩訶印/，/　/所謂/如來/頂/，/
+/適/纔/結作/之/，/　/即/同/於/世尊/。/」/
+</ab>
+<ab type="prose">/真言/曰/。/</ab>
+<ab type="dharani">「na　maḥ　sa　ma　ta　bu　ddhā　nāṃ　oṃ　
+曩　莫　三　滿　多　母　馱　南　唵　
+　bhrūṃ　</ab>
+/(/若/有/祈請/所/求/一切/事/者/於/此/應/加/孔雀王/陀羅尼/)/　/部嚕/唵/」/　/
+
+<ab type="prose">/次/孔雀王/印/。/以/二/手/內/相叉/，/直/竪/檀慧/頭/相/跓/，/禪智/亦/直/竪/並/相/跓/，/其/印/即/成/。/誦/真言/三/遍/或/七/遍/，/與/頂/輪王/合誦/，/應/加/此/真言/句/。/誦/真言/曰/：/</ab>
+<ab type="dharani">「oṃ　ma　yu　rā　kraṃ　te　svā　hā　</ab>
+/唵/　/摩/　/庾/　/攞/　/迦蘭/　/帝/　/娑嚩/　/賀/」/　/
+
+<ab type="prose">/若/以/尋/常/持/念/一/字/頂輪王/真言/，/須/別/誦/孔雀王/真言/，/亦/須/別/誦/此/加/句/法/，/親/於/阿闍梨/所以/口/傳/傳/授/之/，/修/瑜伽/者/知/耳/。/</ab>
+<ab type="prose">/復/說/祈/雨/壇/法/。/若/天/亢旱/時/，/欲/祈/請/雨/者/，/於/露地/作/壇/，/除/去/瓦礫/及/諸/穢物/，/張設/青/幕/懸/青/幡/，/香/埿/塗拭/作/一/方壇/，/於/壇/中/畫/七寶/水池/，/池/中/畫/海龍王宮/，/於/龍宮/中/有/釋迦牟尼/如來/住/說/法相/，/佛/右畫/觀自在菩薩/，/佛/左畫/金剛/手/菩薩/等/侍衛/，/於/佛/前/右畫/三千/大千世界/主/輪/蓋/龍王/，/佛/前/左畫/難陀/、/跋難陀/二/龍王/，/於/壇/四方/用/瞿摩夷/汁/各/畫/一/龍王/，/於/東方/畫/一/龍王/，/一/身/三/頭/，/量/三/肘/，/并/眷屬/圍繞/；/又/於/南方/畫/一/龍王/，/一/身/五/頭/，/量/長/五/肘/，/并/諸/眷屬/；/又/於/西方/畫/一/龍王/，/一/身/七/頭/，/量/七/肘/，/并/諸/眷屬/圍繞/；/又/於/北方/畫/一/龍王/，/一/身/九/頭/，/量/長/九/肘/，/并/諸/眷屬/圍繞/，/皆/在/靉靆/青/黑/雲/中/。/半身/以下/如/蛇/形/，/尾/在/池/中/，/半/身/以/上/如/菩薩/形/，/皆/合掌/從/池/涌/出/。/於/壇/四/角/置/四/清水瓶/，/隨/其/力/分/飲食/菓子/等/，/皆/作/深/青色/，/以/淨/布/列/供養/，/燒香/散/青色/華/。/道場/中/所/用/物/，/皆/作/青色/。/祈雨/之/人/，/若/是/出家/苾芻/應/具/律儀/；/若/是/俗士/應/受/八戒/。/作/法/之/時/，/喫/三/白/食/，/每/日/香/湯/沐浴/著/新/淨/青/衣/，/於/壇/西面/以/青/物/為/座/，/即/以/香/塗/手/，/先/應/三密/加持/護/自身/及/壇/上/，/案/上/置/此/《/大/雲/經/》/，/於/持/一切/有情/起/大/慈悲/心/，/志/誠/請/一切/佛/菩薩/加持/，/晝夜/虔誠/讀/此/《/大/雲/經/》/。/或/二/人/三/人/乃至/七/人/，/更/替/讀誦/經/聲/不應/間斷/。/亢旱/之/時/，/如是/依法/誦/此/《/大/雲/經/》/，/或/一/日/二/日/乃至/七/日/，/決定/降/注/甘/雨/。/若/災重/不/雨/，/更/作/亦/降/雨/。/假令/大海/或/過/限/越潮/，/依/此/經/作/法/轉/讀/，/無不/應/。/知/應/，/發願/讀/經/所/生/功德/迴向/諸/龍/，/願/皆/離/諸/苦難/、/發/無上/菩提心/，/為/一切/有情/降/注/甘/雨/，/密/經/所/居/之/處/，/去/村邑/等/處/也/。/</ab>
+<ab type="dharani">「唵誐誐阿帝誐誐娑嚩賀」</ab>
+<ab type="prose">/金剛/解脫/真言/：/</ab>
+<ab type="dharani">「oṃ　va　jra　mu　kṣa　muḥ　</ab>
+/唵/　/嚩/　/日囉/　/謨/　/乞叉/　/穆/」/　/
+
+<ab type="prose">/葉/衣/觀世音/菩薩/真言/曰/：/</ab>
+<ab type="dharani">「oṃ　pa　lṇa　ca　va　ri　hūṃ　pha　ṭ　</ab>
+/唵/　/跛/　/哩娜/　/捨/　/嚩/　/哩/　/吽/　/發/　/吒/」/　/
+
+<ab type="prose">/智/炬/如來/真言/曰/：/</ab>
+<ab type="dharani">「na　mo　a　ṣṭā　śī　ti　nāṃ　sa　mya　
+曩　謨　阿　瑟吒　始　底　南　三　藐　
+sa　bu　ddhā　ku　ṭi　nāṃ　oṃ　jñā　na　
+三　沒　駄　矩　胝　南　唵　枳孃　曩　
+va　bhā　sa　dhi　ri　hūṃ　</ab>
+/嚩/　/婆/　/細/　/地/　/哩/　/吽/」/　/
+
+<ab type="prose">/大悲/隨/心/真言/：/</ab>
+<ab type="dharani">「oṃ　pa　dma　ca　kra　śaṃ　kha　ga　dā　
+唵　鉢　怛麼　左　訖囉　商　佉　誐　那　
+dhā　rā　ṇi　ni　la　ghṇi　si　dya　
+馱　囉　𩕳　儞　攞　建吒　悉　地也　
+si　dya　hūṃ　</ab>
+/悉/　/地/也/　/吽/」/　/
+
+<ab type="prose">/無量/壽/如來/心/真言/：/</ab>
+<ab type="dharani">「oṃ　a　mṛ　ta　te　je　ha　ra　hūṃ　</ab>
+/唵/　/阿/　/密㗚/　/多/　/帝/　/際/　/賀/　/囉/　/吽/」/　/
+
+<ab type="prose">/多羅/菩薩/真言/：/</ab>
+<ab type="dharani">「oṃ　tā　re　tu　tā　re　tu　re　svā　
+唵　跢　哩　覩　跢　哩　覩　哩　娑嚩　
+hā　</ab>
+/賀/」/　/
+
+<ab type="prose">/如來/袈裟/真言/：/</ab>
+<ab type="dharani">「oṃ　ra　kṣa　sa　rva　bu　ddhā　dhi　ṣṭi　
+唵　𡀩　乞叉　薩　嚩　沒　馱　地　失恥　
+ta　tma　ci　va　ra　svā　hā　</ab>
+/跢/　/怛麼/　/紫/　/嚩/　/囉/　/娑嚩/　/賀/」/　/
+
+<ab type="prose">/《/大日/經/》/略/攝/念/誦/行/法/：/</ab>
+<ab type="verse">/「/稽首/無礙/智/，/　/密/教/意/生/子/，/
+/依/彼/蘇多羅/，/　/攝/此/隨/行/法/，/
+/真言/行/菩薩/，/　/先/住/平等/誓/，/
+/語/密/身/密/俱/，/　/後/作/相應/行/。/」/
+/三昧/耶/真言/：/
+</ab>
+<ab type="dharani">「na　maḥ　sa　ma　nta　bu　ddhā　nāṃ　oṃ　a　sa　me　
+曩　謨　三　曼　多　勃　馱　喃　唵　阿　三　謎　
+tri　sa　me　sa　ma　ye　svā　hā　</ab>
+/底/哩/　/三/　/謎/　/三/　/摩/　/曳/　/娑嚩/　/賀/」/　/
+
+<ab type="verse">/契謂/齊輪/合/，/　/並/建/於/二/空/，/
+/五/處/頂/肩/心/，/　/最後/加/咽位/。/
+/次/以/不/動/(/聖私/云/，/此/念/誦/行/法/全/同/世/流布/本/，/故/略/之/也/)/。/
+</ab>
+<ab type="prose">/八/轉/聲/者/，/體/、/業/、/作/具/、/所/為/、/從/、/屬/、/依/、/呼/是/也/。/且/釋/者/，/體/聲/者/，/如/菩薩/摩訶薩/等/是/體/聲/呼/也/。/二/、/業/聲/者/，/如/前/菩薩/修行/無所得/觀業/聲/也/。/三/、/作/具/聲/者/，/如何/菩薩/修行/無所得/觀/，/謂/用/般若波羅蜜多/，/是/作/具/聲/也/。/四/、/所/為/聲/者/，/為/何/修行/，/謂為/度/一切/眾生/為/聲/也/。/五/、/從/聲/者/，/從/何/修行/，/謂/從/諸/佛/出現/於/世/演說/正法/，/是/從/聲/也/。/六/、/屬/聲/者/，/誰/之/無所得/，/一切/法/之/無所得/，/是/屬/聲/也/。/七/、/依/聲/者/，/於/何/修行/，/依/三/賢/十地/等/，/是/依/聲/也/。/八/、/呼/聲/者/，/謂/上/來/呼/召/名/言/，/是/呼/聲/也/。/此/下/有/六/離/合/釋/，/全/同/世/布/流/文/相/，/是故/略/之/。/此/次/有/《/摩利支/菩薩/略/念/誦/法則/》/，/大興善寺/三藏/沙門/大廣智/不/空/所/譯/也/。/是/又/全/同世/流布/本/，/是故/略/之/也/。/《/摩利支/經/》/一/卷/，/是/又/今/略/之/。/次/有/金剛頂/經/瑜伽/三十七/尊/三昧/耶/真言/，/如/次第/列/之/，/今/又/略/之/。/《/金剛/頂/瑜伽/大/教/王/經/》/十六/大/菩薩/讚/：/</ab>
+<ab type="prose">/金剛/手/：/</ab>
+<ab type="dharani">「va　jra　sa　tvā　ma　hā　
+嚩　日囉　薩　埵嚩　摩　訶　
+sa　tvā　va　jra　sa　rva　ta　thā　
+薩　怛嚩　嚩　日囉　薩　嚩　怛　他　
+ga　tā　sa　ma　nta　bha　dra　va　jra　
+誐　多　三　滿　多　婆　𢴉囉　嚩　日囉　
+dya　va　jra　pā　ṇi　na　
+儞也　嚩　日囉　幡　膩　曩　
+mo　stu　te　</ab>
+/謨/　/娑都/　/帝/」/　/
+
+<ab type="prose">/金剛王/：/</ab>
+<ab type="dharani">「va　jra　ra　ja　mu　bu　ddhā　
+嚩　日囉　囉　惹　素　沒　馱　
+gra　va　jra　ku　śa　ta　thā　
+儗哩　嚩　日囉　俱　捨　多　佗　
+ga　ta　a　mo　gha　ra　ja　va　jra　
+誐　多　阿　謨　佉　囉　惹　嚩　日囉　
+dya　va　jra　ka　rṣa　
+儞也　嚩　日囉　羯　㗚灑　
+na　mā　stu　te　</ab>
+/曩/　/謨/　/娑都/　/帝/」/　/
+
+<ab type="prose">/金剛/愛/：/</ab>
+<ab type="dharani">「va　jra　ra　ga　ma　hā　sau　
+嚩　日囉　囉　誐　摩　訶　掃　
+khya　va　jra　vā　ṇa　va　śaṃ　ka　
+俱也　嚩　日囉　嚩　拏　嚩　商　迦　
+ra　ma　ra　ka　ma　ma　hā　va　jra　
+囉　摩　囉　迦　摩　摩　訶　嚩　日囉　
+ca　pa　na　mo　stu　te　</ab>
+/左/　/波/　/曩/　/謨/　/娑都/　/帝/」/　/
+
+<ab type="prose">/金剛/喜/：/</ab>
+<ab type="dharani">「va　jra　sa　dhu　mu　va　jra　
+嚩　日囉　娑　徒　蘇　嚩　日囉　
+grya　va　jra　tu　ṣṭi　
+誐囉也　嚩　日囉　都　瑟智　
+ma　hā　ra　te　prā　mo　dya　
+摩　訶　囉　帝　鉢囉　謨　儞也　
+ra　ja　va　jra　hā　rṣa　na　
+囉　惹　嚩　日囉　訶　㗚灑　曩　
+mo　stu　te　</ab>
+/謨/　/娑都/　/帝/」/　/
+
+<ab type="prose">/金剛/寶/：/</ab>
+<ab type="dharani">「va　jra　ra　tna　mu　va　
+嚩　日囉　囉　怛那　素　嚩　
+jra　rtha　va　jra　kā　
+日囉　㗚他　嚩　日囉　迦　
+śa　ma　hā　ma　ṇi　a　kā　śa　ga　
+舍　摩　訶　摩　膩　阿　迦　舍　蘖　
+rbha　va　jra　dya　va　jra　
+婆　嚩　日囉　擲也　嚩　日囉　
+ga　rbha　na　mo　stu　te　</ab>
+/蘖/　/婆/　/曩/　/謨/　/娑都/　/帝/」/　/
+
+<ab type="prose">/金剛/光/：/</ab>
+<ab type="dharani">「va　jra　ne　ja　ma　hā　
+嚩　日囉　帝　惹　摩　訶　
+jvā　la　va　jra　su　rya　
+入嚩　囉　嚩　日囉　素　哩也　
+ji　na　pra　bha　va　jra　ra　
+爾　曩　鉢羅　婆　嚩　日囉　囉　
+śmi　ma　hā　te　ja　va　jra　
+濕弭　摩　訶　帝　惹　嚩　日囉　
+pra　bha　</ab>
+/鉢囉/　/婆/(/曩謨/已/下/，/梵漢/如/上/，/次/下/皆/略/)/」/　/
+
+<ab type="prose">/金剛幢/：/</ab>
+<ab type="dharani">「va　jra　ke　tu　su　sa　tvā　
+嚩　日囉　計　都　蘇　薩　怛嚩　
+rtha　va　jra　dhva　ja　
+㗚他　嚩　日囉　墮嚩　惹　
+su　to　ṣa　ka　ra　tna　ke　tu　ma　
+素　覩　灑　迦　囉　怛娜　計　都　摩　
+hā　va　jra　ya　ṣṭā　ye　
+訶　嚩　日囉　野　瑟　智曳……　
+…」</ab>
+<ab type="prose">/金剛/笑/：/</ab>
+<ab type="dharani">「va　jra　ha　sa　ma　hā　hā　
+嚩　日囉　訶　薩　摩　訶　賀　
+sa　va　jra　śmi　ta　ma　hā　
+娑　嚩　日囉　悉弭　多　摩　訶　
+dbhu　ta　prī　ti　prā　mo　
+娜部　多　鉢哩　底　鉢囉　謨　
+dya　va　jra　prī　te　</ab>
+/儞/也/　/嚩/　/日囉/　/鉢哩/　/底/…/…/」/　/
+
+<ab type="prose">/金剛法/：/</ab>
+<ab type="dharani">「va　jra　dha　rmma　su　sa　tva　
+嚩　日囉　達　麼　素　薩　怛嚩　
+rtha　va　jra　pa　ma　su　
+㗚他　嚩　日囉　鉢　摩　素　
+dha　ka　lo　ke　śva　ra　su　va　jra　
+駄　迦　盧　計　濕嚩　囉　蘇　嚩　日囉　
+kṣa　va　jra　ne　tra　
+乞灑　嚩　日囉　尼　怛囉　
+………」</ab>
+<ab type="prose">/金剛利/：/</ab>
+<ab type="dharani">「va　jra　ti　kṣṇa　ma　hā　
+嚩　日囉　底　乞灑拏　摩　訶　
+ya　tta　va　jra　ku　śa　ma　hā　
+野　跢　嚩　日囉　俱　舍　摩　訶　
+yu　dha　ma　ju　śrī　va　jra　gā　
+庾　駄　𤚥　殂　室哩　嚩　日囉　誐　
+mbhī　rya　va　jra　bu　ddho　</ab>
+/鼻/　/哩/耶/　/嚩/　/日囉/　/沒/　/悌/…/…/…/」/　/
+
+<ab type="prose">/金剛/因/：/</ab>
+<ab type="dharani">「va　jra　he　tu　ma　hā　ma　
+嚩　日囉　係　都　摩　訶　莽　
+ṇḍa　va　jra　ca　kra　ma　hā　
+拏　嚩　日囉　作　羯囉　摩　訶　
+na　ya　sa　pra　va　rtta　na　va　
+曩　野　蘇　鉢囉　嚩　㗚多　曩　嚩　
+jro　ta　thā　va　jra　ma　ṇḍa　</ab>
+/日/嚧/　/多/　/他/　/嚩/　/日囉/　/曼/　/拏/…/…/…/」/　/
+
+<ab type="prose">/金剛語/：/</ab>
+<ab type="dharani">「va　jra　bha　ṣa　su　vi　dya　
+嚩　日囉　婆　灑　素　尾　儞也　
+grya　va　jra　ja　pa　su　
+誐囉也　嚩　日囉　惹　波　蘇　
+si　ddhi　da　a　vā　ca　va　jra　vi　
+悉　提　捺　阿　嚩　佐　嚩　日囉　尾　
+dya　gra　va　jra　bha　ṣa　
+儞也　誐囉　嚩　日囉　婆　娑　
+………」</ab>
+<ab type="prose">/金剛/業/：/</ab>
+<ab type="dharani">「va　jra　ka　rmma　su　va　jra　
+嚩　日囉　羯　麼　蘇　嚩　日囉　
+jñā　ka　rmma　va　jra　su　sa　
+枳惹　羯　麼　嚩　日囉　蘇　薩　
+rva　va　jra　mo　gha　ma　hā　do　
+嚩○誐　嚩　日囉　母　懼　摩　護　捺　
+rya　va　jra　vi　śva　</ab>
+哩/耶/　/嚩/　/日囉/　/尾/　/濕嚩/…/…/…/」/　/
+
+<ab type="prose">/金剛/護/：/</ab>
+<ab type="dharani">「va　jra　ra　kṣa　ma　hā　
+嚩　日囉　囉　乞叉　摩　訶　
+vai　rya　va　jra　va　rmma　ma　
+吠　哩耶　嚩　日囉　嚩　摩　摩　
+hā　dṛ　ḍha　du　ryo　dha　na　sa　
+訶　涅哩　捺　奴　哩庾　馱　曩　蘇　
+vī　rya　gra　va　jra　vī　
+尾　哩耶　誐囉　嚩　日囉　尾　
+rya　</ab>
+/㗚/耶/…/…/…/」/　/
+
+<ab type="prose">/金剛/牙/：/</ab>
+<ab type="dharani">「va　jra　ya　kṣa　ma　ho　
+嚩　日囉　藥　乞灑　摩　護　
+pā　ya　va　jra　daṃ　ṣṭrā　ma　
+波　野　嚩　日囉　能　瑟吒囉　摩　
+hā　bha　ya　ma　ra　pra　ma　di　va　
+訶　婆　野　摩　囉　鉢囉　摩　儞　嚩　
+jro　gra　va　jra　ca　ṇḍa　
+日嚧　誐囉　嚩　日囉　讚　拏…　
+……」</ab>
+<ab type="prose">/金剛/拳/：/</ab>
+<ab type="dharani">「va　jra　sa　nti　su　bha　ne　
+嚩　日囉　散　地　蘇　婆　尼　
+dhya　va　jra　va　nva　pra　mo　
+𠆙　嚩　日囉　滿　馱　鉢嚩　謨　
+ca　ka　va　jra　mu　ṣṭya　gra　
+左　迦　嚩　日囉　母　瑟吒耶　誐囉　
+sa　ma　yaṃ　va　jra　su　ṣṭa　
+三　摩　延　嚩　日囉　謀　瑟智　
+………」</ab>
+<ab type="prose">/此/次/有/諸/尊/真言/，/今/非/所/用/，/大概/同/世/流布/呪/陀羅尼/故/，/又/略/之/。/</ab></div>
+<div type="w" level="2">
+<ab type="prose">/右/大/日/劍/印/廣/本/者/，/大師/歸朝/之/日/，/慧/果/和尚/授/之/。/其/略/本/者/，/小野/僧/正/所/述/，/相/承/之/說/如是/。/今/歲/見/多/本/，/傳寫/差謬/不少/，/因/茲/對校/印版/，/令/讀/者/易/見/。/然/《/演/奧/鈔/》/四十二/釋/轉/字/輪品/歸敬/偈/云/，/歸命/菩提/心/等/者/，/以/下/六/句/讚/梵本/，/出/小/野/僧/正/大/日/劍/印/中/，/最/極/祕/也/。/茲/覺/、/慧運/、/宗睿/三師/錄/所/載/，/毘盧遮那/如來/菩提/心/讚/是/也/。/此/兩/本/中/無/其/梵讚/，/蓋/寫/脫/，/且/有/別/本/乎/，/更/可/尋/之/。/時/惟享和/元辛/酉年/秋/九/月/九日/。/</ab>
+<ab type="prose">/　/　/　/　/　/和州/長谷寺/歡憙/院/快/道/誌/</ab></div></div>
+    </body>
+  </text>
+</TEI>

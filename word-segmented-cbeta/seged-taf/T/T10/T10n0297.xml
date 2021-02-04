@@ -29,7 +29,7 @@
           <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
           <pubPlace>臺灣‧臺北</pubPlace>
           <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-          <date>2021-02-02</date>
+          <date>2021-02-03</date>
           <biblScope type="vol">T10</biblScope>
           <idno type="Taisho">T10n0297</idno>
         </bibl>
@@ -38,7 +38,7 @@
   </teiHeader>
   <text>
     <body>
-/<div level="1">
+    <div level="1">
 <ab type="juan" subtype="open">/普賢/菩薩/行/願/讚/</ab>
 <byline>/開府/儀同三司/特進/試/鴻臚卿/肅國公/食邑/三千/戶/賜紫/贈/司空/諡/大/鑑/正/號/大廣智/大興善寺/三藏/沙門/不/空/奉/　/詔/譯/</byline>
 <div type="jing" level="2">
@@ -167,7 +167,7 @@
 /我/獲得/此/普賢/行/，/　/殊勝/無量/福德/聚/，/
 /所有/群/生/溺/惡習/，/　/皆/往/無量光/佛/宮/。/
 </ab>
-<ab type="verse"><head>/八/大/菩薩/讚/</head>/圓寂/宮/城門/，/　/能/摧/戶/扇/者/，/
+<ab type="verse"><head>/八/大/菩薩/讚/(/出/《/八/大/菩薩/曼茶羅經/》/末/)/</head>/圓寂/宮/城門/，/　/能/摧/戶/扇/者/，/
 /諸/佛法/受用/，/　/救世/我/頂禮/。/
 /自/手/流/清水/，/　/能/除/餓鬼/渴/，/
 /三界/如意樹/，/　/頂禮/蓮花/手/。/
@@ -191,8 +191,8 @@
 <ab type="juan" subtype="close">/普賢/菩薩/行/願/讚/</ab>
 <div type="w" level="2">
 <ab type="prose">/速疾/滿/普賢/行/願/陀羅尼/曰/：/</ab>
-<ab type="dharani">襄麼悉底哩也地尾迦南怛佗孽哆南唵阿戌嚩囉尾擬儞娑嚩訶</ab>
+<ab type="dharani">襄麼悉底哩也(四合)地尾(二合)迦(引)南(二)怛佗(引)孽哆南(二)唵(引)(三)阿(引)戌嚩囉尾擬儞娑嚩(二合、引)訶(引)(四)</ab>
 <ab type="prose">/每/日/誦/普賢/菩薩/行/願/讚/後/，/即/誦/此/真言/，/纔/誦/一/遍/，/普賢/行/願/悉皆/圓滿/，/三摩地/人/，/速/得/三昧/現前/，/福德/智慧/，/二/種/莊嚴/，/獲/堅固/法/，/速疾/成就/。/</ab></div></div>
-/</body>
+    </body>
   </text>
 </TEI>

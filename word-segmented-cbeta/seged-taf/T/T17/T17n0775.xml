@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">CBETA電子佛典(量化分析版)</title>
+        <title type="subordinate">佛說四無所畏經</title>
+        <author>Dharma Drum Institute of Liberal Arts, Library and Information Center, Digital Archives Section 法鼓文理學院 圖書資訊館 數位典藏組</author>
+        <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+        <respStmt>
+          <resp>資料轉換</resp>
+          <name>周邦信</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>法鼓文理學院</publisher>
+        <address>
+          <addrLine>20842 新北市金山區法鼓路700號</addrLine>
+          <addrLine>da@dila.edu.tw</addrLine>
+        </address>
+        <date>2012-2021</date>
+        <availability>
+          <p>This document is published under a CC Attribution-Share Alike License</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title type="main">CBETA 電子佛典集成</title>
+          <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+          <pubPlace>臺灣‧臺北</pubPlace>
+          <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+          <date>2021-02-03</date>
+          <biblScope type="vol">T17</biblScope>
+          <idno type="Taisho">T17n0775</idno>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+    
+<ab type="juan" subtype="open">/佛/說/四無所畏/經/</ab>
+<byline>/西天/譯經/三藏/朝散大夫/試/鴻臚卿/傳法/大師/臣/施護/奉/　/詔/譯/</byline>
+<div type="jing" level="1">
+<ab type="prose">/如是我聞/：/</ab>
+<ab type="prose">/一時/，/佛/在/舍衛國/祇樹/給孤獨園/。/爾時/，/世尊/告/諸/苾芻/：/「/汝等/諦聽/！/如來/、/應/、/正等覺/，/成就/四無所畏/，/於/大眾/中/，/轉/大/法輪/，/如/師子吼/，/自在/無畏/。/」/</ab>
+<ab type="prose">/時/諸/苾芻/，/聞/是/語/已/，/五體/投/地/，/頂禮/佛/足/，/合掌/白/言/：/「/云何/如來/四無所畏/？/」/</ab>
+<ab type="prose">/佛/告/苾芻/：/「/我/於/往昔/在/大眾/中/，/而/作/是/言/：/『/如來/成就/正等正覺/。/』/如是/說/時/，/沙門/、/婆羅門/、/魔/梵/、/天人/俱/發/言/曰/：/『/此/所/宣說/，/非/依/法教/，/未曾/見聞/有/如是/事/。/』/爾時/，/世尊/於/彼/眾/中/，/無/驚/無/怖/，/心/得/安樂/，/住/無所畏/。/</ab>
+<ab type="prose">/「/又復/告/言/：/『/我/身/清淨/，/諸/漏/已/盡/。/』/如是/說/時/，/沙門/、/婆羅門/、/魔/梵/、/天人/俱/發/言/曰/：/『/此/所/宣說/，/非/依/法教/，/未曾/見聞/有/如是/事/。/』/爾時/，/世尊/於/彼/眾/中/，/無/驚/無/怖/，/心/得/安樂/，/住/無所畏/。/</ab>
+<ab type="prose">/「/復次/告/言/：/『/一/障/雜染/，/能/障/道果/，/此/障/若/滅/，/聖道/自/現/。/』/如是/說/時/，/沙門/、/婆羅門/、/魔/梵/、/天人/俱/發/言/曰/：/『/此/所/宣說/，/非/依/法教/，/未曾/見聞/有/如是/事/。/』/爾時/，/世尊/於/彼/眾/中/，/無/驚/無/怖/，/心/得/安樂/，/住/無所畏/。/</ab>
+<ab type="prose">/「/復次/告/言/：/『/修/戒/定/等/，/能/出/生死/，/盡/諸/苦報/。/』/如是/說/時/，/沙門/、/婆羅門/、/魔/梵/、/天人/俱/發/言/曰/：/『/此/所/宣說/，/非/依/法教/，/未曾/見聞/有/如是/事/。/』/爾時/，/世尊/於/彼/眾/中/，/無/驚/無/怖/，/心/得/安樂/，/住/無所畏/。/」/</ab>
+<ab type="prose">/佛/告/苾芻/：/「/是/名/如來/轉/大/法輪/四無所畏/。/</ab>
+<ab type="prose">/「/復次/，/苾芻/！/亦/於/八/大眾/中/，/具足/成就/，/四無所畏/。/云何/為/八/？/昔/於/一處/，/有/無數/百/沙門/眾/，/或/住/、/或/立/、/或/行/、/或/坐/，/互相/言/曰/：/『/往昔/佛/說/如是/法相/，/甚深/難/解/，/未曾/見聞/。/為/是/為/非/？/為/虛/為/實/？/』/爾時/，/如來/聞/彼/言/已/，/心/無/怯懼/，/身/無/毛/竪/，/自在/無畏/，/如/山/不/動/。/</ab>
+<ab type="prose">/「/復次/無數/百/婆羅門/眾/，/無數/百/剎帝利/眾/，/無數/百/居士/眾/，/無數/百四天王/眾/，/無數/百/忉利天/眾/，/無數/百/魔王/眾/，/無數/百/梵天/眾/。/如是/八/眾/，/或/住/、/或/立/、/或/行/、/或/坐/，/互相/言/曰/：/『/往昔/佛/說/如是/法相/，/甚深/難/解/，/未曾/見聞/。/為/是/為/非/？/為/虛/為/實/？/』/爾時/，/如來/聞/彼/言/已/，/心/無/怯懼/，/身/無/毛/竪/，/自在/無畏/，/如/山/不/動/。/」/</ab>
+<ab type="prose">/佛/言/：/「/苾芻/！/是/名/八/部/大眾/之/中/，/得/無所畏/。/」/即/說/頌/曰/：/</ab>
+<ab type="verse">/「/如來/自在/轉法輪/，/　/昔/能/成就/四無畏/，/
+/天/人/魔/梵/及/沙門/，/　/聞/師/章句/懷/猶豫/，/
+/身心/不/動/得/無畏/，/　/利樂/一切/諸/有情/，/
+/令/發/無上/菩提心/，/　/恭敬/修行/到/彼岸/。/」/
+</ab>
+<ab type="prose">/爾時/，/諸/大/苾芻/聞/佛/所/說/，/信受奉行/。/</ab></div>
+<ab type="juan" subtype="close">/佛/說/四無所畏/經/</ab>
+    </body>
+  </text>
+</TEI>

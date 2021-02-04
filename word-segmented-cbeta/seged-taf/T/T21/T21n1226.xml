@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">CBETA電子佛典(量化分析版)</title>
+        <title type="subordinate">烏芻澁明王儀軌梵字</title>
+        <author>Dharma Drum Institute of Liberal Arts, Library and Information Center, Digital Archives Section 法鼓文理學院 圖書資訊館 數位典藏組</author>
+        <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+        <respStmt>
+          <resp>資料轉換</resp>
+          <name>周邦信</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>法鼓文理學院</publisher>
+        <address>
+          <addrLine>20842 新北市金山區法鼓路700號</addrLine>
+          <addrLine>da@dila.edu.tw</addrLine>
+        </address>
+        <date>2012-2021</date>
+        <availability>
+          <p>This document is published under a CC Attribution-Share Alike License</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title type="main">CBETA 電子佛典集成</title>
+          <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+          <pubPlace>臺灣‧臺北</pubPlace>
+          <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+          <date>2021-02-03</date>
+          <biblScope type="vol">T21</biblScope>
+          <idno type="Taisho">T21n1226</idno>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+    <div level="1">
+<ab type="juan" subtype="open">/烏芻澁/明王/儀軌/梵字/</ab>
+<ab type="dharani">oṃtathāgatodbhavāyasvāhā􇖴</ab>
+<ab type="dharani">oṃpadmodbhavāyasvāhā􇖴</ab>
+<ab type="dharani">oṃvajrodbhavāyasvāhā􇖴</ab>
+<ab type="dharani">oṃvajrognipradīptāyasvāhā􇖴</ab>
+<ab type="dharani">oṃvajrakrodhamahābalahanadahapacavithaṃsayaucchaṣmakrodhahūṃphaṭsvāhā􇖴</ab>
+<ab type="dharani">oṃjvālajvālasarvaduṣṭastambhayastambhayadurdharaduṣṭānivārayarakṣarakṣamāṃsvāhā􇖴</ab>
+<ab type="dharani">oṃsarvāgajaṃmahātejaṃvajrāśanivayastambhayahūṃphaṭ􇖴</ab>
+<ab type="dharani">oṃkrodhanahūṃjaḥ􇖴</ab>
+<ab type="dharani">oṃhūṃphaṭugraśūlapāṇihūṃhūṃhūṃphaṭphaṭphaṭoṃjyotininādahūṃhūṃhūṃphaṭphaṭphaṭoṃoṃoṃmahāvalasvāhā􇖴</ab>
+<ab type="dharani">oṃkilikilivajravajribhūrvanvavanvahūṃphaṭ</ab>
+<ab type="dharani">oṃsarasaravajraprākarahūṃphaṭ</ab>
+<ab type="dharani">oṃvimalodadhisvāhā</ab>
+<ab type="dharani">oṃacalahūṃ</ab>
+<ab type="dharani">oṃacalavīresvāhā</ab>
+<ab type="dharani">oṃkamalasvāhā</ab>
+<ab type="dharani">namaḥsarvatathāgatebhyoviśvamukhebhyaḥsarvathākhaṃudgatespharahīmaṃgaganakaṃsvāhā􇖴</ab>
+<ab type="dharani">oṃsusiddhikarijvālitānaṃtamūrttayejvālajvālabandhabandhahanahanahūṃphaṭ􇖴</ab>
+<ab type="dharani">oṃturuturuhūṃ􇖴</ab>
+<ab type="dharani">namastryathikānāṃsarvatathāgatānāṃoṃvajraṃginyākarṣayahyehibhagavaṃsvāhā􇖴</ab>
+<ab type="dharani">oṃvajradhṛkehyehibhagavaṃvajradhṛkoṃvajrakrodhamahāvalakarakaracchindacchindahūṃphaṭ􇖴</ab>
+<ab type="dharani">oṃvisphuradrakṣavajrapaṃjanahūṃphaṭ􇖴</ab>
+<ab type="dharani">oṃasamaṃginihūṃphaṭ􇖴</ab>
+<ab type="dharani">oṃvajravīrāyasvāhā􇖴</ab>
+<ab type="dharani">mahābalāyacaṇḍāyavidyārājayadaṇḍinevināyakadhṛktājñāyanamaḥkrodhāyavajriṇe􇖴</ab>
+<ab type="dharani">oṃkulandharibandhabandhahūṃphaṭ􇖴</ab>
+<ab type="dharani">oṃśvetemahāśvetekhadanesvāhā􇖴</ab>
+<ab type="dharani">oṃvajradhṛk􇖴</ab>
+<ab type="dharani">oṃbhūḥjvālahūṃ􇖴</ab>
+<ab type="dharani">oṃkilikilivajrahūṃphaṭ􇖴</ab>
+<ab type="dharani">oṃehyehimahābhūtadevarṣidvijasattamagṛhitvādutimaharamasmisaṃnihitobhavaagniyehavyakavyavāhānāyasvāhā􇖴</ab>
+<ab type="dharani">oṃamṛtehanahanahūṃphaṭ􇖴</ab>
+<ab type="dharani">oṃvaradavajradhaṃ􇖴</ab>
+<ab type="dharani">agnayehavyakavyavāhanāyadīpyadīpyadīpayasvāhā􇖴</ab>
+<ab type="dharani">pūjitosimayābhaktyāgacchaagnisvabhavanāṃpunarapyāgamādayasvāhā􇖴</ab>
+<ab type="dharani">namaḥstryathikānāṃsarvatathāgatanāṃāṃvirajivirajimahāvajrisatasatasāratesāratetrayitrayividhamanisambhajanitaramatisiddhāgretrāṃsvāhā􇖴</ab>
+<ab type="dharani">oṃrudrāyasvāhā􇖴</ab>
+<ab type="dharani">oṃśakrāyasvāhā􇖴</ab>
+<ab type="dharani">oṃagnayesvāhā􇖴</ab>
+<ab type="dharani">oṃvaivasvātāyasvāhā􇖴</ab>
+<ab type="dharani">oṃrakṣasādhipatāyesvā􇖴</ab>
+<ab type="dharani">oṃmeghaśanāyasvāhā􇖴</ab>
+<ab type="dharani">oṃvāyavesvāhā􇖴</ab>
+<ab type="dharani">oṃyakṣavidyadharisvāhā􇖴</ab>
+<ab type="juan" subtype="close">/烏芻澁/摩儀/軌/一/卷/</ab></div>
+    </body>
+  </text>
+</TEI>

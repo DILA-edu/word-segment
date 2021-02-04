@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">CBETA電子佛典(量化分析版)</title>
+        <title type="subordinate">王氏道俗百人造像記</title>
+        <author>Dharma Drum Institute of Liberal Arts, Library and Information Center, Digital Archives Section 法鼓文理學院 圖書資訊館 數位典藏組</author>
+        <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+        <respStmt>
+          <resp>資料轉換</resp>
+          <name>周邦信</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>法鼓文理學院</publisher>
+        <address>
+          <addrLine>20842 新北市金山區法鼓路700號</addrLine>
+          <addrLine>da@dila.edu.tw</addrLine>
+        </address>
+        <date>2012-2021</date>
+        <availability>
+          <p>This document is published under a CC Attribution-Share Alike License</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title type="main">CBETA 電子佛典集成</title>
+          <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+          <pubPlace>臺灣‧臺北</pubPlace>
+          <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+          <date>2021-02-03</date>
+          <biblScope type="vol">I01</biblScope>
+          <idno type="Taisho">I01n0079</idno>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+    
+<div type="" level="1">
+<ab type="juan" subtype="open">/王氏/道俗/百/人/造像/記/</ab>
+<ab type="prose">/夫/玄籍/理融/。/妙/出/淨/言/之/表/。/□/□/□/窮/。/可/聞/難/睹/。/四/□/覆/育/。/普/救/□/物/。/出沒/自由/。/神變/自在/．/．/．/而/名/□/時/。/有/大/比丘/僧/法師/。/累/行/積/因/。/塵/劫/餘/□/□/□/□/□/背/塵/境/。/合寺/僧眾/。/威儀/逮/〃/．/．/．/名/經/披攬/。/演/法/未/聞/。/隨/機頓/漸/。/逕/救/講寺/。/契/．/．/．/．/．/．/．/利/。/帶/浮/自/守/。/應/託/閻浮/。/人/．/．/．/四/葳/齊等/。/宿/□/德/本/。/又/是/大士/。/能/以/不/足/．/．/．/．/．/．/．/．/．/已/抽/有/愍/愚/愛/智/．/．/．/率契/．/．/道俗/一百/人/等/。/時/以/王氏/。/磐根/太原/。/海/內/君/．/．/．/．/．/．/．/．/．/．/積/善/空/王/。/高鑒/自遠/。/里/人/若/歸/．/．/．/中/白/玉/石/像/一/區/。/舉/高/一/仞/。/釋迦/當/陽/。/．/．/．/．/．/．/．/．/．/．/藥王/。/文殊/。/維摩/大士/。/乃/重/．/．/．/天人/散/華/。/無/事/不/有/。/菩薩/乘空/。/百/．/．/．/．/．/．/．/．/．/．/．/．/頂禮/。/世/謂/希奇/。/此/土/未/有/。/道俗/．/．/．/可/因/此/福力/之/冥/。/上/為/皇帝/．/．/．/．/．/．/．/．/．/．/．/．/．/．/方/太然/。/干戈/不/起/。/龍/雨/順/時/。/□/涂/常/□/土/豐/民/寧/。/歸依/正道/。/．/．/．/．/．/．/．/．/．/．/．/．/．/．/．/．/海/望/英儒/。/標/心/悟/解/。/上/為/七祖/先靈/永/別/苦/因/。/超/昇/淨土/。/合邑/．/．/．/．/．/．/．/．/．/．/．/．/．/．/．/官持/寵/。/現在/常/安/。/不/乏/財/有/。/所/同/述/心/□/□/遐/壽/。/眷屬/康延/。/遠/塵/離/□/□/蠢/．/．/．/．/．/．/．/．/．/．/．/大/齊/河/清/三/年/二/月/八日/合邑/義/□/．/．/．/靈碁/磻礡/。/神/冑/淵/玄/。/河/．/．/．/．/．/．/．/．/．/．/．/．/．/天/豪/□/七/冏/八/相/。/花/□/如/．/．/．/獨朗/。/秋/蓮/　/　/綿綿/。/．/．/．/．/．/．/．/．/．/．/擾/四生/。/循/環/□/□/。/往返/難/平/。/大覺/翻/．/．/．/□榮/。/人/天/盛/顯/。/地獄/流明/。/□/□/河/□/客/茲/．/．/．/．/．/．/．/．/．/．/隨/波/遷/寶/隱/洛/．/．/．/簪/依/佛/。/出離/埃塵/。/青/蓮/比淨/．/．/．/．/．/．/．/．/．/．/．/．/．/．/．/德/合/境/稱/尊/．/．/．/志/在/道門/。/五/教/敷/慧/。/．/．/．/．/．/．/．/．/．/．/．/．/．/．/．/．/．/．/．/．/恒/居/一/．/．/．/紀/。/思念/菩提/。/長/．/．/．/．/．/．/．/．/．/．/．/．/．/．/．/．/．/．/．/．/．/．/永/傳/名/諱/．/．/．/．/．/堪/佛/主/王/．/．/．/</ab></div>
+    </body>
+  </text>
+</TEI>

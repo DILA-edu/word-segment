@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">CBETA電子佛典(量化分析版)</title>
+        <title type="subordinate">雷暉嫗造釋迦像記</title>
+        <author>Dharma Drum Institute of Liberal Arts, Library and Information Center, Digital Archives Section 法鼓文理學院 圖書資訊館 數位典藏組</author>
+        <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+        <respStmt>
+          <resp>資料轉換</resp>
+          <name>周邦信</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>法鼓文理學院</publisher>
+        <address>
+          <addrLine>20842 新北市金山區法鼓路700號</addrLine>
+          <addrLine>da@dila.edu.tw</addrLine>
+        </address>
+        <date>2012-2021</date>
+        <availability>
+          <p>This document is published under a CC Attribution-Share Alike License</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title type="main">CBETA 電子佛典集成</title>
+          <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+          <pubPlace>臺灣‧臺北</pubPlace>
+          <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+          <date>2021-02-03</date>
+          <biblScope type="vol">I01</biblScope>
+          <idno type="Taisho">I01n0081</idno>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+    <div level="1">
+<div type="" level="2">
+<ab type="juan" subtype="open">/雷暉/嫗/造/釋迦/像/記/</ab><head>/之/一/　/碑陽/</head>
+<div type="" level="3">
+<ab type="prose">/大/周保/定/五年/歲次/乙酉/五月/壬午/朔五日/丙戌/。/雷暉/嫗/者/。/三門/護軍/王/□/之/孫/。/功曹/張郎/之/女/也/。/父祖/相/承/。/關/中/豪/族/。/歷/代/酋/望/。/軀/雖/受/女身/。/志性/真明/。/殊/懷/丈夫/之/操/。/五德/六藏/。/體會/而/能/標/女/儀/婦/道/。/動/成/於/物/軌/。/年/在/初笄/。/從/禮/而/□/□/門/□/字/□□/。/本/是/□州河/東郡/蒲坂縣/人/也/。/忩朗/令/哲/。/譏會/無/方/。/覽練/眾/經/。/內外/斯/朗/。/於/神龜/年/中/。/跨/滻/河/□/□/□/觀/矚/跛/□/關隴/優遊/西/□/□氏/慕/德/因/□/為/親/繾綣/。/一生/事/同/魚/□/□/□/永熙/之/季/。/海/內/□/遶/魏/□/□/□/英/豪/岳/□/□/□/□/方/欲/掃定/宇宙/。/廣/募/賢良/猛/騎/。/時/忠/勇/奮/發/。/□/□/□/應/命/。/即/除/龍驤將軍/。/□/□/</ab></div></div>
+<div type="" level="2"><head>/之/二/　/碑側/</head>
+<div type="" level="3">
+<ab type="prose">/□/□/□/□/□/□/□/□/□/□/□/□/□/□/□/□/□/□/有/壹/子/。/字/令/業/。/長/成/□/□/□/有/父/風/。/文經/武略/。/庶/□/□/□/□/□/□/□/□/□/□/年/中/。/寢疾/而/終/。/凡/在/親知/。/愛/其/父子/仁義/□/□/。/莫不/留戀/。/嫗/愍/之/□/息/□/□/□/□/□/□/□/塗/三/塬/。/三/塬/者/。/天地/初/開/。/伏羲/之/舊/名/。/往古/來今/。/聖賢/之/所/都邑/。/皆/無/凶咎/。/遂/□/□/父子/同/埒/。/精靈/莫/二/。/其/墳/上/高/十/尺/。/下/至/黃泉/。/棺槨/相/重/。/儭幣/自周/。/蒔/柏/卅/餘/□/。/并/諸/□/□/有/□/春/冬/□/變/。/又/仰/憑/　/三寶/。/有/濟度/之/能/。/敬/造/釋/加/石/像/前後/兩/堪/。/并/諸/聖/之/像/。/□/□/□/□/□/□/。/等同/斯/福/。/法界/含/生/。/□/登/正道/。/物/之/堅固/者/。/莫/過/金/石/。/署/碑/於/墓/。/永存/．/．/．/</ab></div></div></div>
+    </body>
+  </text>
+</TEI>

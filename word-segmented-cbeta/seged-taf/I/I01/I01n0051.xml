@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">CBETA電子佛典(量化分析版)</title>
+        <title type="subordinate">邑子七十人等造大道如來記</title>
+        <author>Dharma Drum Institute of Liberal Arts, Library and Information Center, Digital Archives Section 法鼓文理學院 圖書資訊館 數位典藏組</author>
+        <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+        <respStmt>
+          <resp>資料轉換</resp>
+          <name>周邦信</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>法鼓文理學院</publisher>
+        <address>
+          <addrLine>20842 新北市金山區法鼓路700號</addrLine>
+          <addrLine>da@dila.edu.tw</addrLine>
+        </address>
+        <date>2012-2021</date>
+        <availability>
+          <p>This document is published under a CC Attribution-Share Alike License</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title type="main">CBETA 電子佛典集成</title>
+          <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+          <pubPlace>臺灣‧臺北</pubPlace>
+          <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+          <date>2021-02-03</date>
+          <biblScope type="vol">I01</biblScope>
+          <idno type="Taisho">I01n0051</idno>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+    <div level="1">
+<div type="" level="2">
+<ab type="juan" subtype="open">/邑/子/七十/人/等/造/大/道/如來/記/</ab><head>/之/一/　/碑側/</head>
+<div type="" level="3">
+<ab type="prose">/　/　/　/　/　/　/　/　/　/　/　/　/　/　/□/□/波/功/就/昌崇/。/故/能/垂/慈/下降/。/託/民/生/李氏/皼/應/洽/乎/構/車/□/□/揚/□/□/首/日月/□暉/。/迴/照/八/極/。/南化/則/演/禪/啓/□/心/。/西涉/則/胡/生/啓顙/。/北/訓夷/狄/體/□/。/東據/則/現/生/季俗/。/重/利/群/生/。/教/與/仙□/。/精誠/則/白/日/昇/天/。/豈非/人天/神尊/。/福/超/九/劫/者/矣/。/是以/合/諸/邑子/七十/人/。/等/輪/有/緣/。/值遇/至/法/。/識/信/三寶/。/思/建/功效/。/於/今/大魏/大統/十/有/四/年/四/月/廿/一/日/。/　/造/大/道/如來/。/二/聖/貞容/。/功/加/累朔/。/素/畫/成/訖/。/上/為/　/皇帝/陛下/。/大/丞相/。/群/僚/百/師/僧/父/父母/。/因緣/眷屬/。/合/門/大小/。/門徒/□/□/□/□/□/微/功/。/得/免/三惡/而/居/人道/。/永/被/</ab></div>
+<div type="" level="3">
+<ab type="prose">/邑子/韓智邑/正郭/祖願/邑/主/呂伏/歡像/主/昭/道/慶化/主郭/和悅/邑/子/魏/</ab></div></div>
+<div type="" level="2"><head>/之/二/　/碑陽/</head>
+<div type="" level="3">
+<ab type="prose">/邑子/劉興□/　/　/　/邑/子/韋黑丞/　/　/　/　/　/邑子/李法/智邑/子/趙道/千/　/　/　/邑子/杜/保達/　/　/　/　/　/邑/子/董□/□邑/子/□/□/□/　/　/　/邑/子/常/神通/　/　/　/　/　/邑/子/妙/□/榮邑/老王/阿洛/　/　/　/邑子/李世仁/　/　/　/　/　/邑/子/常/□/□/□/子/邵/石/柱/　/　/　/邑子王/法/洛/　/　/　/　/　/但/官/□/道/□/□/主/董/法/達/　/　/　/香/火/高/暎/因/　/　/　/　/　/邑/子/□/□/□/化/主/□/□/智/　/　/　/邑/子/房/進達/　/　/　/　/　/邑子/姚欽/伯邑/老武/袁孫/　/　/　/邑子王/宜/族/　/　/　/　/　/邑/子/高/□/□/邑/老□/阿□/　/　/　/邑/子/李學/文/　/　/　/　/　/邑子/杜元/族邑/老劉/尚/□/　/　/　/邑/子/楊神/歡/　/　/　/　/　/邑子王/馬□/</ab></div></div>
+<div type="" level="2"><head>/之/三/　/碑側/</head>
+<div type="" level="3">
+<ab type="prose">/像主/辛延/智/　/邑/子/樓伏/興/　/邑/子/房/常/仁/　/　/邑子/張景/賓邑/主/辛□/□/　/唯/那趙/同/保/　/邑/子/楊□/顯/　/　/邑/子/呂/洛/興/化主/張/敬/賓/　/香火/郭/潤和/　/邑/子/夫/蒙/洪/標/　/邑子/范延/寧/邑/子/王伏王/　/邑/子/房/法/萇/　/邑/子/房/□/子/　/　/邑/子/夫/蒙/貴/生/</ab></div></div>
+<div type="" level="2"><head>/之/四/　/碑陰/</head>
+<div type="" level="3">
+<ab type="prose">/□/□/□/□/□/　/　/　/邑/子/苻/向/榮/　/　/　/　/　/邑/子/張/奴/□/□/□/□/□/　/　/　/邑/子/趙□/保/　/　/　/　/　/邑子王/著/□/□/□/□/□/□/　/　/　/邑/子/□/□/□/　/　/　/　/　/邑/子/趙/遵/□/□/□/□/□/□/　/　/　/邑/子/范/□/□/　/　/　/　/　/邑/子/楊玉/□/□/□/□/□/□/　/　/　/典□王/寄顯/　/　/　/　/　/邑/子/董玉/生/邑/主/張/道/□/　/　/　/香/火/□/□/□/　/　/　/　/　/邑/子/閻□/問/唯/那/王/□/□/　/　/　/邑/老/王/定/周/　/　/　/　/　/邑子/李輔惠/像/主/王/□/□/　/　/　/邑/子/潘/□/□/　/　/　/　/　/邑/子/趙附/業邑/老呂/伏/生/　/　/　/邑/子/趙/富川/　/　/　/　/　/邑子王/枆/榆邑/子/夫/□/□/　/　/　/邑/子/焦/□/洛/　/　/　/　/　/邑/子/范/增春/</ab></div></div></div>
+    </body>
+  </text>
+</TEI>

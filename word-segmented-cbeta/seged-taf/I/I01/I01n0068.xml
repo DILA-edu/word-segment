@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">CBETA電子佛典(量化分析版)</title>
+        <title type="subordinate">東平郡須昌縣□檀寺造經碑</title>
+        <author>Dharma Drum Institute of Liberal Arts, Library and Information Center, Digital Archives Section 法鼓文理學院 圖書資訊館 數位典藏組</author>
+        <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+        <respStmt>
+          <resp>資料轉換</resp>
+          <name>周邦信</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>法鼓文理學院</publisher>
+        <address>
+          <addrLine>20842 新北市金山區法鼓路700號</addrLine>
+          <addrLine>da@dila.edu.tw</addrLine>
+        </address>
+        <date>2012-2021</date>
+        <availability>
+          <p>This document is published under a CC Attribution-Share Alike License</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title type="main">CBETA 電子佛典集成</title>
+          <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+          <pubPlace>臺灣‧臺北</pubPlace>
+          <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+          <date>2021-02-03</date>
+          <biblScope type="vol">I01</biblScope>
+          <idno type="Taisho">I01n0068</idno>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+    <div level="1">
+<div type="" level="2">
+<ab type="juan" subtype="open">/東平郡/須昌縣/□檀寺/造/經/碑/</ab>
+<div type="" level="3">
+<ab type="prose">/大/齊/東平郡/須昌縣/□檀寺/碑/</ab></div>
+<div type="" level="3">
+<ab type="prose">/夫/旨/理/淵/寂/。/凝然/澄湛/。/百/非/不能/非/其/非/。/千/是/無以/是/其/是/。/形/言/絕/相/。/万像/無/能/比/其/色/。/十住/猶/疑/。/□/凡/情/之/所/觀/□/。/自/非/應/說/教門/。/真/□/叵/顯/。/是以/降/神/閻浮/。/曜/靈/光/於/羅衛/。/戒/風/吹/於/大千/。/慈/海/流/於/十域/。/慧/鏡/照/愚/。/若/琉璃/之/現/色/影/。/魔/道/□/心/。/有/緣/皆/益/。/攝/影雙林/。/息/障/邁/於/千/□/□/不/疏/體/五/住/之/蹤/。/何/能/信/矣/。/□/佛/弟子/比丘/法/慧/欲/使/聖教/再/彰/。/神/暉/重/朗/。/遠/召/□/工/。/奉/剛/彫玉/。/置/靈/尊/於/上/堪/。/剟/觀音/經/於/下/□/。/願/使/　/皇道/竄/興/。/父/師/常/樂/。/邑儀/諸/人/。/龍/華/初/會/。/法界/有/形/。/等/成/正覺/。/其/頌/曰/。/真趣/幽微/。/弗/可/言/宣/。/大慈/垂/訓/。/以/教/流/傳/。/初/演/鹿菀/。/靈鷲陳章/。/摧/魔/伏道/。/如/日/照/霜/。/敬/造/□/形/。/置/于/巖壑/。/刊/經/揚/義/。/法/流/枯涸/。/大/齊/皇建/元年/庚辰/□/九/月/己/酉朔/三/日/辛亥/造/經/碑/</ab></div></div></div>
+    </body>
+  </text>
+</TEI>

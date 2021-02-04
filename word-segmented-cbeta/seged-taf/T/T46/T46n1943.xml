@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">CBETA電子佛典(量化分析版)</title>
+        <title type="subordinate">略法華三昧補助儀</title>
+        <author>Dharma Drum Institute of Liberal Arts, Library and Information Center, Digital Archives Section 法鼓文理學院 圖書資訊館 數位典藏組</author>
+        <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+        <respStmt>
+          <resp>資料轉換</resp>
+          <name>周邦信</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>法鼓文理學院</publisher>
+        <address>
+          <addrLine>20842 新北市金山區法鼓路700號</addrLine>
+          <addrLine>da@dila.edu.tw</addrLine>
+        </address>
+        <date>2012-2021</date>
+        <availability>
+          <p>This document is published under a CC Attribution-Share Alike License</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title type="main">CBETA 電子佛典集成</title>
+          <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+          <pubPlace>臺灣‧臺北</pubPlace>
+          <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+          <date>2021-02-03</date>
+          <biblScope type="vol">T46</biblScope>
+          <idno type="Taisho">T46n1943</idno>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+    <div level="1">
+<ab type="juan" subtype="open">/略/法華/三昧/補助/儀/并/序/</ab>
+<ab type="prose">/(/由/此/懺法/隨/事/觀想/。/並/指/法華/三昧/補/助/儀/文/。/今/恐/各/行/無/處/尋/。/檢翻/成/所/闕/故/。/從/要/急/略/彼/辭句/。/附/此/文/後/以/備/承用/。/請/對/前/事/儀/之/下/。/運/此/觀想/故/。/此/但/令/運/想/。/不/錄/事相/。/用/者/應/知/)/初/運/香華/(/運想/曰/。/願/此/香華/遍/十方/。/以為/微妙/光明臺/。/諸/天/音樂天/寶/香/。/諸/天/餚饍/天/寶/衣/。/不可/思議/妙/法/塵/。/一一/塵/出/一切/塵/。/一一/塵/出/一切/法/。/旋轉/無礙/互/莊嚴/。/遍至/一切/三寶/前/。/十方/法界/三寶/前/。/皆/有/我/身/修/供養/。/一一/皆悉/遍/法界/。/彼/彼/無/雜/無/障閡/。/盡/未來際/作/佛事/普熏/法界/。/諸/眾生/蒙/熏/皆/發/菩提心/。/同/入/無/生/證/佛智/)/請/佛/(/我/三業/性/如/虛空/。/釋迦牟尼/亦/如是/。/不/起/真際/為/眾生/與/眾/俱/來/受/供養/)/諸/佛/菩薩/(/但/改/牟尼/及/形相/來/處/)/請/法/(/法性/如/空/不可/見/。/常住/法寶/難思議/。/我/今/三業/如法/請/。/惟/願/影/現/受/供養/)/禮/佛/(/能/禮/所/禮性/空寂/。/感應/道/交/難/思議/。/我/此/道場/如/帝/珠/。/釋迦牟尼/影/現/中/。/我/今/影/現/牟尼/前/。/頭面/接/足/歸命/禮/)/餘/佛/菩薩/(/但/改/牟尼/為/異/)/禮法/(/真空/法性/如/虛空/。/常住/法寶/難思議/。/我/身/影/現/法寶/前/。/莫不/皆悉/歸命/禮/)/普/為/(/我/及/眾生/云/云/)/懺悔/前/運/逆順/十/心/(/我/與/眾生/云/云/)/。/</ab>
+<ab type="juan" subtype="close">/略/法華/三昧/補/助/儀/</ab></div>
+    </body>
+  </text>
+</TEI>

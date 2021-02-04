@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">CBETA電子佛典(量化分析版)</title>
+        <title type="subordinate">趙郡王高叡修定國寺頌</title>
+        <author>Dharma Drum Institute of Liberal Arts, Library and Information Center, Digital Archives Section 法鼓文理學院 圖書資訊館 數位典藏組</author>
+        <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+        <respStmt>
+          <resp>資料轉換</resp>
+          <name>周邦信</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>法鼓文理學院</publisher>
+        <address>
+          <addrLine>20842 新北市金山區法鼓路700號</addrLine>
+          <addrLine>da@dila.edu.tw</addrLine>
+        </address>
+        <date>2012-2021</date>
+        <availability>
+          <p>This document is published under a CC Attribution-Share Alike License</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title type="main">CBETA 電子佛典集成</title>
+          <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+          <pubPlace>臺灣‧臺北</pubPlace>
+          <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+          <date>2021-02-03</date>
+          <biblScope type="vol">I01</biblScope>
+          <idno type="Taisho">I01n0061</idno>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+    
+<div type="" level="1">
+<ab type="juan" subtype="open">/趙郡/王/高/叡/修/定/國/寺頌/</ab>
+<ab type="prose">/□/□/齊/天/保/八年/歲次/丁/丑/四/月/己/巳朔/八日/丙子/。/使/持/節/都督/定/瀛/幽滄/安平/東燕/七州/諸/軍事/撫軍將軍/儀同三司/定州/刺史/六州/大/都督/趙郡/王/高叡/。/地居/兩/獻/。/化凝/二/南/。/六度/是/宣/。/十善/無/滯/。/比丘/僧/琴/。/業/重/行/高/。/栖玄/宅妙/。/同/捨/異/珍/。/建/斯/靈宇/。/虯/簷/迥/構/。/寶/鐸/依/空/。/有/類/飛/來/。/無/殊/湧/出/。/當/願/福/鍾/七/廟/。/卜世/靡窮/。/聖主/臨/馭/。/弘/茲/萬/壽/。/先/王/道洽/群/氓/。/先/太妃/德/崇/列/閫/。/昊/倉/寡惠/。/慈/陰/夙/傾/。/思/所以/仰/報/　/亡靈/。/祚覃/遐裔/。/一切/六道/。/彼岸/咸/登/。/金/石/是/鐫/。/傳/之/不/朽/。/標/弟/胡/明達/。/定/國/寺/主/慧/照/□/□/□/□/□/□/主/僧/實/</ab></div>
+    </body>
+  </text>
+</TEI>

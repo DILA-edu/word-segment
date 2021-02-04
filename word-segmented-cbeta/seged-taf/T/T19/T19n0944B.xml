@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">CBETA電子佛典(量化分析版)</title>
+        <title type="subordinate">大佛頂大陀羅尼</title>
+        <author>Dharma Drum Institute of Liberal Arts, Library and Information Center, Digital Archives Section 法鼓文理學院 圖書資訊館 數位典藏組</author>
+        <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+        <respStmt>
+          <resp>資料轉換</resp>
+          <name>周邦信</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>法鼓文理學院</publisher>
+        <address>
+          <addrLine>20842 新北市金山區法鼓路700號</addrLine>
+          <addrLine>da@dila.edu.tw</addrLine>
+        </address>
+        <date>2012-2021</date>
+        <availability>
+          <p>This document is published under a CC Attribution-Share Alike License</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title type="main">CBETA 電子佛典集成</title>
+          <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+          <pubPlace>臺灣‧臺北</pubPlace>
+          <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+          <date>2021-02-03</date>
+          <biblScope type="vol">T19</biblScope>
+          <idno type="Taisho">T19n0944B</idno>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+    
+<ab type="juan" subtype="open">/大/佛頂/大陀羅尼/</ab>
+<div type="dharani" level="1">
+<ab type="dharani">stathāgatoṣṇīṣāṃ　sitātapatraṃ　aparājitaṃpratyuṅgiraṃ　dharaṇinamaḥ　sarvabuddhābodhisatvebhyaḥ　namo　saptānāṃ　samyaksaṃbuddhā　koṭīnāṃ　saśrāvakasaṃghanāṃ　namolokearhantānāṃ　namosrotāpannānāṃ　namosukṛtāgāmināṃ　namoanāgāmināṃ　namolokesamyaggatānāṃ　samyakpratipannānāṃ　namoratnatrayāya　namobhagavatedṛḍhaśurasena　praharaṇarājāya　tathāgatāyārhatesamyaksaṃbuddhāya　namobhagavateamitābhāya　tathāgatāyārhatesamyaksaṃbuddhāya　namobhagavateakṣobhyāya　tathāgatāyārhate　samyaksaṃbuddhāya　namobhagavate　bhaiṣaijyaguruvaitūryaprabharājāya　tathāgatāyarhate　samyaksaṃbuddhāyanamobhagavate　saṃpuṣpītāsālendrarājāya　tathāgatāyarhate　samyaksaṃbuddhāya　namobhagavate　śākyamunaye　tathāgatāyārhate　samyaksaṃbuddhāya　namobhagavate　ratnakusumaketurājāya　tathāgatāyārhate　samyaksaṃbuddhāya　namobhagavate　tathāgatākulāya　namobhagavate　padmakulāya　namobhagavate　vajrakulāya　namobhagavate　maṇikulāya　namobhagavategarjakulāya　namodevarṣīṇāṃ　namosiddhāvidyādharāṇāṃ　namosiddhāvidyādharārṣīṇāṃ　śāpanugrahasamarthānāṃ　namobrahmaṇe　namoindraya　namobhagavate　rudrāya　umāpatīsaheyāya　namonarāyaṇāya　rakṣaṃmisaheyāya　paṃcamahāmudra　namaskṛtāya　namomahākālāya　tripuranagaravidrāpaṇakārāya　adhimuktoka　śmaśānavasinimātṛgaṇa　namaskṛtāya　ebhyo　namaskṛtvā　imāṃ　bhagavatastathāgatoṣṇīṣāṃsitātapatraṃ　namāparājitāṃ　pratyuṅgiraṃ　sarvadeva　namaskṛtāṃ　sarvadevebhyaḥ　pūjitaṃ　sarvadeveścaparipālitaṃ　sarvabhūtagrahanigrahakarīṃ　paravidyācchedanakarīṃdunaṃtanāṃ　satvānāṃ　damakaṃ　duṣṭānāṃ　nīvāraṇīṃ　ākālamṛtyupraśamanakarīṃ　sarvabandhanamokṣanakarīṃ　sarvaduṣṭadusvapnanivāraṇīṃcaturaśītīnāṃ　grahasahasrānāṃvidhvaṃsanakarīṃ　aṣṭaviṃśatīnāṃnakṣatrānāṃ　prasādanakarīṃ　aṣṭanāṃ　mahāgrahānāṃ　vidhvaṃsanakarīṃsarvaśatrūnivāraṇīṃ　gurāṃdusvapnanāṃcanāśanīṃ　viṣaśastra　agniudakautraṇīṃ　aparājitāgurāmahācaṇṭhna　mahādīptāṃ　mahātejaṃmahāśvetāṃ　jvāla　mahābalāśrīyapaṇḍaravāsinīṃ　aryatārābhṛkuṭīṃcevajaṃ　vajramaleti　viśrūtāṃpadmakmāṃ　vajrajihvacaḥ　malācevāparājitāṃ　vajradaṇḍi　viśalācaśantāvaidehapūjitāḥ　saumirupāmahāśvetāṃ　āryatārā　mahābalāḥaparāvajraśaṅkalācevaḥ　vajrakaumāriḥ　kulandharī　vajrahastācamahāvidyā　tathākāṃcanāmālikaḥ　kusumbharatanacova　vairocana　kudārthoṣṇīṣa　vijṛmbhamāṇāca　vajrakanaka　prabhalocanāḥ　vajratuṇḍīca　śvetācakamalākṣa　śaśiprabhā　ityetemudrāgaṇaḥ　sarverākṣāṃkurvvantu　mamasya　oṃ　ṛṣigaṇapraśasta　tathāgatoṣṇīṣa　huṃ　bhrūṃ　jambhana　hūṃbhrūṃ　stambhana　hūṃbhrūṃ　bohānaḥ　hūṃbhrūṃ　mathāna　hūṃbhrūṃ　paravidyā　sambhakṣaṇakara　hūṃbhrūṃ　sarvaduṣṭānāṃ　stambhanakarahūṃbhrūṃ　sarvayakṣarākṣasagrahāṇāṃvidhvaṃsanakara　hūṃbhrūṃ　caturāśītīnāṃ　grahasahasrāṇāṃ　vināśanakara　hūṃbhrūṃ　aṣṭaviṃśatīnāṃ　nakṣatrānāṃ　prasādanakara　hūṃbhrūṃaṣṭānāṃ　mahagrahāṇāṃ　vidhvaṃsanakara　rakṣarakṣa　māṃ　bhagavāṃstathāgatoṣṇīṣa　mahāpratyuṅgire　mahāsahasrābhuje　sahasraśirṣai　koṭīśatasahasranetre　abheṃdya　jvālitanaṭanaka　mahāvajrodaratṛbhuvanamaṇḍala　oṃ　svastirbhavatu　mamarājabhaya　corabhayaagnibhaya　udakabhaya　viṣabhaya　śastrabhaya　paracakrabhayadurbhikṣabhaya　aśanibhaya　akāramṛtyubhaya　dharaṇībhumikaṃpabhaya　ulkopātabhaya　rajadaṇḍabhaya　nagabhaya　vidyubhaya　suparṇibhaya　yakṣagrahārakṣasagrahāpretagrahāpiśācagrahā　bhutagrahā　kumbhaṇḍagrahā　pūtanagrahā　kaṭapūtanagrahā　skandagrahā　apasmāragrahā　unmādagrahā　cchāyāgrahā　revatigrahā　ūjāhāriṇyā　garbhāhāriṇyā　jātāhāriṇyā　jīvitāhāriṇyā　rudhirāhāriṇyā　vasāhāriṇyā　maṃsāhāriṇyā　medāhāriṇyā　majjāhāriṇyā　vāntāhāriṇyā　aśucyāhāriṇyā　ciccāhāriṇyā　teṣāṃsarveṣāṃ　sarvagrahāṇāṃ　viṃdyāṃcchindayāmi　kīlayāmi　paribrajakakṛtāṃvidyāṃ　cchindayāmikīlayāmi　ḍākaḍākinīkṛtāṃ　vidyāṃcchindayāmikīrayāmi　mahāpaśupati　rudrakṛtāṃ　vidyāṃcchindayāmikīrayāmi　tatvagaruḍasaheya　kṛtāṃ　vidyāṃcchindayāmikīrakīlayāyāmi　mahākālamatṛgaṇakṛtāṃvidyāṃcchindayāmikīlayāmi　kāpālika　kṛtāṃvidyāṃcchindayāmikīrayāmi　jayakaramadhukara　sarvārtha　sādhana　kṛtāṃvidyāṃcchindayāmikīlayāmi　caturbhaginī　kṛtāṃvidyāṃcchindayāmikīrayāmibhṛṃgiriṭika　nandikeśvara　gaṇapati　saheya　kṛtāṃvidyāṃcchindayāmikīlayāmi　nagnaśramaṇa　kṛtāṃvidyāṃcchindayāmikīlayāmi　arhānta　kṛtāṃvidyāṃcchindayāmikīlayāmivītarāgaṇā　kṛtāṃ　vidyāṃcchindayāmikīlayāmi　vajrapāṇi　kṛtāṃvidyāṃcchindayāmikīlayāmi　brahmakṛtāṃ　rudrakṛtāṃ　narāyaṇakṛtāṃ　vidyāṃcchindayāmikīlayāmi　vajrapāṇiguhyakādhipati　kṛtāṃvidyāṃcchindayāmikīlayāmi　rakṣarakṣamāṃ　bhagavāṃsitātapatra　namostute　asitānalārkaḥ　prabhasphuṭavikasitātapatreḥ　jvalajvala　dhakadhaka　vidhakavidhaka　daradara　vidaravidara　cchindacchinda　bhindabhinda　hūṃhūṃ　phaṭ　phaṭ　svāhā　hehe　phaṭ　amoghayā　phaṭ　apratihatāya　phaṭ　varapradāya　phaṭ　asuravidrāpakāya　phaṭ　sarvadevebhyaḥ　phaṭ　sarvanāgebhyaḥphaṭ　sarvayakṣesebhyaḥ　phaṭ　sarvarākṣasebhyaḥ　phaṭ　sarvagaruḍebhyaḥ　phaṭ　sarvagandharvebhyaḥ　phaṭ　sarvaasurebhyaḥ　phaṭ　sarvakindarebhyaḥ　phaṭ　sarvamahoragebhyaḥ　phaṭ　sarvapiścācebhyaḥ　phaṭsarvakumbhaṇḍebhyaḥ　phaṭ　sarvapūtanebhyaḥ　phaṭ　sarvakaṭapūtanebhyaḥ　phaṭ　sarvadurlaṃghiṃtebhyaḥ　phaṭ　sarvaduṣprekṣirebhyaḥ　phaṭ　sarvajvarebhyaḥ　phaṭ　sarvaapasmarebhyaḥ　phaṭ　sarvaśramaṇebhyaḥ　phaṭsarvatīrthikebhyaḥ　phaṭ　sarvaunmāṃdebhyaḥ　phaṭ　sarvavidyācāryebhyaḥphaṭ　jayākara　madhukara　sarvārtha　saddhāhebhyo　vidyācāryebhyaḥphaṭ　caturbhaginībhyaḥ　phaṭ　vajrakaumārīkulandharī　vidyārajebhyaḥ　phaṭ　mahāpratyuṅgirebhyaḥ　phaṭ　vajraśaṅkalāya　pradyuṃgirarājaya　phaṭ　mahākālāya　mātṛgaṇa　namaskṛtāya　phaṭ　indrāya　phaṭ　brahmīṇīye　phaṭ　rudrāya　phaṭ　vīṣṇaviye　phaṭ　viṣṇeviye　phaṭ　brahmīye　phaṭ　varakiye　phaṭ　agniye　phaṭmahakālīye　phaṭ　raudrīye　phaṭ　kāladaṇḍīye　phaṭ　aindrīye　phaṭ　mātrīye　phaṭ　cāmuṇḍīye　phaṭ　kālarātrīye　phaṭkāpārīye　phaṭ　adhimuktokaśmaśāna　vāsinīye　phaṭ　yekecittāsatvā　mama　duṣṭacittā　pāpacittā　raudracittā　vidvaiṣacittā　amaitracittā　utpādayanti　kīlayanti　mantrayanti　jāpanti　johantiujāhārā　garbhāhārā　rudhirāhārā　maṃsāhārā　medāhārā　majjāhārā　vasāhārā　jātāhārā　jīvitāhārā　malyāhārā　balyāhārā　gandhāhārā　puṣpāhārā　phalāhārā　sasyāhārā　pāpacittā　duṣṭacittā　devagrahā　nagagrahā　yakṣagrahā　rākṣasagrahā　asuragrahā　garuṇagrahā　kindaragrahāmahoragagrahā　pretagrahā　piśācagrahā　bhūtagrahā　pūtanagrahā　kaṭapūtanagrahā　kumbhāṇḍagrahā　skandagrahā　unmādagrahā　cchāyāgrahā　apasmārāgrahā　ḍākaḍākinīgrahā　revatigrahā　jāmikāgrahā　śakunigrahā　nandīkāgrahālaṃvikagrahā　kaṇṭhapāṇigrahā　jvalā　ekāhikā　dvaitiyakā　tretiyakā　caturthakā　nityājvarā　viṣamajvarā　vātikā　paittikā　śleṣmikā　sandipatikā　sarvajvarāśirortti　ardhāvabhedhaka　arocaka　akṣirogaṃ　mukharogaṃ　hṛdrogaṃ　karṇūśūlaṃ　dandaśūlaṃ　hṛdayaśūlaṃ　marmaśūlaṃ　pārāśvaśūlaṃ　pariṣṭiśulaṃ　udaraśulaṃ　kaṭiśulaṃ　vastiśūlaṃ　ūrūśūlaṃjaṃghaśūlaṃ　hastaśūlaṃ　pādaśūlaṃ　sarvāṅgapratyuṅgaśūlaṃ　bhūtavetāḍa　ḍākāḍākinī　jvaradadrūkanṭyūkiṭi　bhalotāvai　sarpalohāliṅga　śoṣatrā　sagara　viṣayogaagni　udaka　maravera　kāntara　akālā　mṛtyu　traimuka　trailāṭaka　vṛścika　sarpanakulasīṃhā　vyāghra　rikṣa　tararikṣacamarajīvibhe　teṣāṃ　sarveṣāṃsitātapatra　mahāvajroṣṇīṣaṃ　mahāpratyuṅgiraṃ　yāvadvā　daśayojanābhyāntareṇa　sāmabandhaṃ　karomi　diśābandhaṃ　karomi　paravidya　bandhaṃ　karomi　tejo　bandhaṃkaromi　hastā　bandhaṃ　karomipāda　bandhaṃ　karomi　sarvāṅgapratyuṅga　bandhaṃ　karomi　tadyathāoṃ　anale　anale　viśadaviśada　bandhabandha　bandhanibandhani　vairavajrapāṇi　phaṭ　hūṃbhrūṃ　phaṭ　svāhā　namostathāgatāya　sugatāyārhate　samyaksaṃbuddhāya　siddhyaṃtu　vantrapadā　svāhāsamapta</ab></div>
+    </body>
+  </text>
+</TEI>

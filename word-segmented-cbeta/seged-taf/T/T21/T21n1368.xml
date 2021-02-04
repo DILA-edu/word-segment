@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">CBETA電子佛典(量化分析版)</title>
+        <title type="subordinate">佛說大七寶陀羅尼經</title>
+        <author>Dharma Drum Institute of Liberal Arts, Library and Information Center, Digital Archives Section 法鼓文理學院 圖書資訊館 數位典藏組</author>
+        <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+        <respStmt>
+          <resp>資料轉換</resp>
+          <name>周邦信</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>法鼓文理學院</publisher>
+        <address>
+          <addrLine>20842 新北市金山區法鼓路700號</addrLine>
+          <addrLine>da@dila.edu.tw</addrLine>
+        </address>
+        <date>2012-2021</date>
+        <availability>
+          <p>This document is published under a CC Attribution-Share Alike License</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title type="main">CBETA 電子佛典集成</title>
+          <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+          <pubPlace>臺灣‧臺北</pubPlace>
+          <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+          <date>2021-02-03</date>
+          <biblScope type="vol">T21</biblScope>
+          <idno type="Taisho">T21n1368</idno>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+    
+<div type="jing" level="1">
+<ab type="juan" subtype="open">/佛/說/大/七寶/陀羅尼/經/</ab>
+<byline>/失譯/人名/今/附/梁錄/</byline>
+<ab type="prose">/如是我聞/。/一時/佛/在/祇樹/給孤窮/精舍/。/佛/告/阿難/。/汝/受持/此/大/七寶/陀羅尼/呪/。/爾時/世尊/即便/說/之/。/</ab>
+<ab type="dharani">寫地也貸曇　坻闍律提　波羅若　波羅　式叉仇拏　比茶</ab>
+<ab type="prose">/阿難/若/有/受持/讀誦/修行/此/陀羅尼/呪/。/盡/其/形命/一切/怨仇/能/令/歡喜/。/火/不能/燒/刀/不能/傷水/不能/溺/。/無/方道/鬼魅/所/持/。/若/天/龍/阿修羅/乾闥婆/乃至/人/非人/等/。/阿難/此/七寶/呪/。/若/至/水火/中/若/怨賊/中/。/若/食/毒/若/方/道/毒/。/應/念/此/呪/。/若/怖畏/毛/豎/等/悉/得/解脫/。/以/毘婆尸/佛/威德/尸棄/神力/。/比尸婆/智慧/拘婁孫/佛力/。/迦那牟尼/戒/。/迦葉/功德/。/釋迦牟尼/精進/。/令/一切/眾生/悉/除/怖畏/。/令/得/安吉/。/爾時/阿難/聞/佛/所/說/歡喜/奉行/。/</ab>
+<ab type="juan" subtype="close">/佛/說/大/七寶/陀羅尼/經/</ab></div>
+    </body>
+  </text>
+</TEI>

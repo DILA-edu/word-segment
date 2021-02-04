@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">CBETA電子佛典(量化分析版)</title>
+        <title type="subordinate">嚴壽等重修故塔記</title>
+        <author>Dharma Drum Institute of Liberal Arts, Library and Information Center, Digital Archives Section 法鼓文理學院 圖書資訊館 數位典藏組</author>
+        <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+        <respStmt>
+          <resp>資料轉換</resp>
+          <name>周邦信</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>法鼓文理學院</publisher>
+        <address>
+          <addrLine>20842 新北市金山區法鼓路700號</addrLine>
+          <addrLine>da@dila.edu.tw</addrLine>
+        </address>
+        <date>2012-2021</date>
+        <availability>
+          <p>This document is published under a CC Attribution-Share Alike License</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title type="main">CBETA 電子佛典集成</title>
+          <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+          <pubPlace>臺灣‧臺北</pubPlace>
+          <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+          <date>2021-02-03</date>
+          <biblScope type="vol">I01</biblScope>
+          <idno type="Taisho">I01n0077</idno>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+    
+<div type="" level="1">
+<ab type="juan" subtype="open">/嚴壽/等/重/修/故/塔/記/</ab>
+<ab type="prose">/夫/四/葙/無常/。/三有/□邃/□/故/須彌/至/高/。/為/劫火/焰熾/。/□/海/淵/深/。/為/七/日/乾竭/。/況/閻浮/形像/。/理/在/難/固/。/竊/見/□/城/南面/有/故/塔/一/區/。/基□/損壞/。/窗戶/崩缺/。/塼石/分/□/而/信心/哲/人/嚴桃/校歎/□圖/之/狼藉/。/□/靈/塔/之/敗□/故/率/宗/眷援/及/四/有/。/鄉□/異/人/。/同/心/共/脩/此/善/樂/。/□/聖容/內外/俱/就/。/藉/茲/微/□/上/為/　/皇帝/。/下/及/含氣/□/見/眷屬/。/一時/成佛/。/維/大/齊/河/清/二年/歲次/癸/未/正/月/□寅/八/日/癸/未/建/　/北/堪/主/□/持/節□/．/．/．/軍/右/金/紫光/祿/大/都督/假/建□/．/．/．/威將軍/員外/奉朝/請/正都/．/．/．/寇/．/．/．/南新/安/二/縣/令/鞏/虎頭/．/．/．/邑主/將軍/員外/奉/朝請/騎兵/．/．/．/娜/．/．/．/嚴壽/都/光明/主/輔國/將軍/．/．/．/城/羅柵/防境/都督/韓/察/□/．/．/．/東/堪/主/成/洪/義/脩/故/主/假/□/陰郡/．/．/．/承伯/齋主/成/嵩/義/光明/主/郭/□/□/忠/．/．/．/光明/主/楊元明/比丘/法融/比丘/□/□/比丘/．/．/．/唯/那楊延/壽/唯/那/楊元璨/比丘/僧/暉邑/子/嚴/．/．/．/邑/子/嚴龍/潤邑/子/董始/敬邑/子/□/光/國邑/．/．/．/□/尚/邑/子孫/元/顯邑/子/嚴/文崇/邑/子/嚴/．/．/．/尚邑/子/嚴元/通邑/子/嚴子/熾邑/．/．/．/□/□/□邑/子侯/□□/邑/子/．/．/．/邑/子/韋遵/貴邑/子韓/光邑/．/．/．/邑子/嚴慶邑/子/李/晟維/．/．/．/邑/子/嚴長/貴邑/子/董定/城邑/子/．/．/．/　/比丘尼/道/勝/比丘尼/惠/超/比丘尼/．/．/．/　/塔/主/楊洪暉/清信/陳敬/始/□/□/．/．/．/　/　/令/清信侯/娥寂/清信/閻向令/．/．/．/　/　/　/洪妃/清信/陳/外/嬰/清/．/．/．/　/　/　/清信/馬/妙/姜/</ab></div>
+    </body>
+  </text>
+</TEI>

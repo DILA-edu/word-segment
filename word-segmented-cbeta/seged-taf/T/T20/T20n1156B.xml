@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">CBETA電子佛典(量化分析版)</title>
+        <title type="subordinate">宗叡僧正於唐國師所口受</title>
+        <author>Dharma Drum Institute of Liberal Arts, Library and Information Center, Digital Archives Section 法鼓文理學院 圖書資訊館 數位典藏組</author>
+        <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+        <respStmt>
+          <resp>資料轉換</resp>
+          <name>周邦信</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>法鼓文理學院</publisher>
+        <address>
+          <addrLine>20842 新北市金山區法鼓路700號</addrLine>
+          <addrLine>da@dila.edu.tw</addrLine>
+        </address>
+        <date>2012-2021</date>
+        <availability>
+          <p>This document is published under a CC Attribution-Share Alike License</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title type="main">CBETA 電子佛典集成</title>
+          <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+          <pubPlace>臺灣‧臺北</pubPlace>
+          <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+          <date>2021-02-03</date>
+          <biblScope type="vol">T20</biblScope>
+          <idno type="Taisho">T20n1156B</idno>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+    <div level="1">
+<ab type="juan" subtype="open">/宗󰤗/僧/正/於/唐/國師/所/口/受/</ab><head>/大/隨/求/根本/印/第一/</head>
+<ab type="prose">/二/手/內/相叉/。/二/中/指/合/竪/。/二/頭/指/於/中/指/後/微/屈/如/鉤/。/二/小/指/二/大/指/合/竪/微屈/即/成/。/</ab>
+<ab type="prose">/梵/云/嚩日羅/(/二/合/)/　/唐/云/五/股/金剛杵/</ab><head>/一切/如來/心/真言/第二/</head>
+<ab type="prose">/二/手/左/覆/右仰/背/相/著/。/中/指/互相/背/鉤/竪/如/斧/形/即/成/。/</ab>
+<ab type="prose">/梵/云/跛/羅戌/　/唐/云/鉞斧/(/安/云/二/手/背/立/中/指/相/鉤/)/</ab><head>/一切/如來/心/印/真言/第三/</head>
+<ab type="prose">/二/手/內/相叉/二/中/指頭/相/跓/屈/令/圓/即/成/。/</ab>
+<ab type="prose">/梵/云/跛羅/播/捨/　/唐/云/索/</ab><head>/一切/如來/金剛/被/甲/真言/印/第四/</head>
+<ab type="prose">/二/手/合掌/。/二/頭/指/屈/中/節/令/平偃/。/頭/相/跓/即/成/。/</ab>
+<ab type="prose">/梵/云/渴誐/　/唐/云/劍/</ab><head>/一切/如來/灌頂/真言/印/(/第五/歟/)/</head>
+<ab type="prose">/二/手/外/相叉/。/二/無/名/指/合/竪/。/二/小/指/竪/交/即/成/。/</ab>
+<ab type="prose">/梵/云/斫/羯羅/(/引/)/　/唐/云/輪/</ab><head>/一切/如來/結界/真言/印/(/第六/歟/)/</head>
+<ab type="prose">/二/大/指/捻/二/小/指甲/上/。/餘/指/竪/合/如/三/戟/叉/形/即/成/。/</ab>
+<ab type="prose">/梵/云/底/哩戌羅/　/唐/云/三/股叉/</ab><head>/一切/如來/心/中心/真言/印/(/第七/歟/)/</head>
+<ab type="prose">/二/手/外/相叉/。/二/頭/指/相/跓/蹴/如/寶/形/。/二/大/指/並/竪/即/成/。/</ab>
+<ab type="prose">/梵/云/進跢/(/引/)/麼尼/　/唐/云/寶/</ab><head>/一切/如來/隨心/真言/印/(/第八/歟/)/</head>
+<ab type="prose">/以/左/手/仰/於/當/心/展/五指/。/以/右/手/覆/於/左/上/相/合/令/平/即/成/。/</ab>
+<ab type="prose">/梵/云/摩訶尾/儞/也/(/二/合/)/馱羅/抳/(/異/)/　/唐/云/大/明/總持/</ab><head>/慈/覺/大師/大/隨/求/印/</head>
+<ab type="prose">/內/縛/五/股/印/是/也/。/</ab><head>/尊勝/佛頂/印/</head>
+<ab type="prose">/虛心/合掌/。/屈/二/風甲/相/對/。/以/二/空/捻/二/風/側/如/彈指/勢/也/(/本/軌/文/)/。/</ab><head>/文殊/根本/印/</head>
+<ab type="prose">/虛心/合掌/。/二/火/覆/。/捻/二/水/而/頭/相/拄/屈/二/風/橫/捻/二/空/上/　/又/說/內/縛/二/地/合/竪屈/二/風/橫/二/空/上/。/</ab><head>/滿足/句/印/</head>
+<ab type="prose">/二/地/合/針/。/二/水/內/鉤/。/二/火/如/寶/。/二/風/屈/捻/二/空/上/。/真言/曰/。/</ab>
+<ab type="dharani">阿尾羅吽欠</ab>
+<div type="w" level="2">
+<ab type="prose">/　/貞/觀/十九/年/三/月/二十二日/傳/</ab></div></div>
+    </body>
+  </text>
+</TEI>

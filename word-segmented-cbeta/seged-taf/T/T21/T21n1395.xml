@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">CBETA電子佛典(量化分析版)</title>
+        <title type="subordinate">拔濟苦難陀羅尼經</title>
+        <author>Dharma Drum Institute of Liberal Arts, Library and Information Center, Digital Archives Section 法鼓文理學院 圖書資訊館 數位典藏組</author>
+        <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+        <respStmt>
+          <resp>資料轉換</resp>
+          <name>周邦信</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>法鼓文理學院</publisher>
+        <address>
+          <addrLine>20842 新北市金山區法鼓路700號</addrLine>
+          <addrLine>da@dila.edu.tw</addrLine>
+        </address>
+        <date>2012-2021</date>
+        <availability>
+          <p>This document is published under a CC Attribution-Share Alike License</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title type="main">CBETA 電子佛典集成</title>
+          <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+          <pubPlace>臺灣‧臺北</pubPlace>
+          <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+          <date>2021-02-03</date>
+          <biblScope type="vol">T21</biblScope>
+          <idno type="Taisho">T21n1395</idno>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+    
+<div type="jing" level="1">
+<ab type="juan" subtype="open">/拔濟/苦難/陀羅尼/經/</ab>
+<byline>/大唐/三藏法師/玄奘/奉/　/詔/譯/</byline>
+<ab type="prose">/如是我聞/。/一時/薄伽梵/在/室羅筏/。/住/誓多林/給孤獨園/。/與/無央數/聲聞/菩薩/摩訶薩/俱/。/及/諸/天/人/阿素洛/等/。/無量/大眾/前後/圍繞/。/</ab>
+<ab type="prose">/爾時/眾/中/有/一/菩薩/。/名/不可說/功德/莊嚴/。/從/座/而/起/頂禮/佛/足/。/合掌/恭敬/白/佛/言/。/世尊/今/此/世界/無量/有情/。/煩惱/因緣/造/諸/惡業/。/當/墮/地獄/餓鬼/傍生/。/或/天/人/中/受/諸/劇/苦/。/唯/願/哀愍/方便/拔濟/。/</ab>
+<ab type="prose">/佛/言/善男子/善哉/善哉/。/汝/能/哀愍/一切/有情/作/如是/請/。/諦聽/諦聽/。/吾/今/為/汝/略說/拔濟/眾/苦/方便/。/善男子/有/佛/世尊/。/名為/不/動/如來/應/正等覺/。/為/欲/利樂/諸/有情/故/。/說/陀羅尼/令/眾/誦念/。/陀羅尼/曰/。/</ab>
+<ab type="dharani">羯羯尼羯羯尼　魯折尼魯折尼　咄盧磔尼咄盧磔尼　怛邏薩尼怛羅薩尼　般刺底喝那般刺底喝那　薩縛羯莫般藍般邏般謎　莎訶</ab>
+<ab type="prose">/若/有/善男子/善女人/。/至誠/敬禮/不/動/如來/應/正等覺/受持/此/呪/。/先/所/造作/五無間業/四/重/十惡/。/毀/諸/聖賢/謗/正法/罪/皆悉/除滅/。/臨/命/終/時/。/彼/不/動/佛/與/諸/菩薩/來/現/其/前/。/讚歎/慰喻/令/其/歡喜/。/復/告/之/言/。/今/來/迎/汝/應/隨/我/往/所/從/佛國/。/彼/命/終/已/。/決定/往生/不/動/如來/清淨/佛土/。/善男子/復/有/世尊/。/名/滅/惡趣/王/如來/應/正等覺/。/為/欲/利樂/諸/有情/故/。/說/陀羅尼/令/眾/誦念/。/陀羅尼/曰/。/</ab>
+<ab type="dharani">輸達泥輸達泥　薩縛播波毘輸達泥　戍睇毘戍睇　薩縛羯莫毘戍睇　莎訶</ab>
+<ab type="prose">/若/有/善男子/善女人/。/至誠/禮敬/滅/惡趣/王/如來/應/正等覺/受持/此/呪/。/萬四千/劫/常/憶/宿命/。/所/在/生/處/得/丈夫身/。/具足/諸/根/深信/因果/。/善/諸/技術/妙/解/諸/論/。/好/行/惠施/厭/捨/諸/欲/。/不/造/惡業/離/諸/危怖/。/具/正/命/慧/眾/所/愛重/。/常/近/善/友/恒/聞/正法/。/求/菩提心/曾/無/暫捨/。/以/諸/功德/而/自/莊嚴/。/具/善/律儀/怖/諸/惡業/。/恒/無/匱乏/調柔/樂/靜/。/於/天/人/中/常/受/快樂/。/速證/無上/正等/菩提/。/終/不退/於/十/到/彼岸/。/常/願/利樂/一切/有情/。/諸/所/修行/非/專/自/利/。/在/所/生/處/常/得/見/佛/。/護持/正法/預/賢聖/眾/。/</ab>
+<ab type="prose">/時/薄伽梵/說/此/經/已/。/聲聞/菩薩/及/諸/天/人/阿素洛/等/。/聞/佛/所/說/。/皆大歡喜/。/信受奉行/。/</ab>
+<ab type="juan" subtype="close">/拔濟/苦難/陀羅尼/經/</ab></div>
+    </body>
+  </text>
+</TEI>

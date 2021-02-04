@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">CBETA電子佛典(量化分析版)</title>
+        <title type="subordinate">大明太宗文皇帝御製文殊讚</title>
+        <author>Dharma Drum Institute of Liberal Arts, Library and Information Center, Digital Archives Section 法鼓文理學院 圖書資訊館 數位典藏組</author>
+        <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+        <respStmt>
+          <resp>資料轉換</resp>
+          <name>周邦信</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>法鼓文理學院</publisher>
+        <address>
+          <addrLine>20842 新北市金山區法鼓路700號</addrLine>
+          <addrLine>da@dila.edu.tw</addrLine>
+        </address>
+        <date>2012-2021</date>
+        <availability>
+          <p>This document is published under a CC Attribution-Share Alike License</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title type="main">CBETA 電子佛典集成</title>
+          <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+          <pubPlace>臺灣‧臺北</pubPlace>
+          <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+          <date>2021-02-03</date>
+          <biblScope type="vol">G083</biblScope>
+          <idno type="Taisho">G083n2073</idno>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+    
+<ab type="juan" subtype="open">/大/明/太宗文皇帝/御製/文殊/讚/</ab>
+<div type="jing" level="1">
+<ab type="verse">/三/名/微密含/多/義/　/妙/德/妙/首/妙吉祥/　/過去/無量/阿僧祇/　/號/龍/種/上/尊/王/佛/　/見/在/摩尼/寶/積/佛/
+/常/喜/世界/居/北方/　/爰/自/帝/胄/稱/法王/　/無上/之/心/能/獨悟/　/功/高/積/塵/邈/遐曠/　/豈/有/名/數/可/為/言/
+/一/遇/正覺/毓/靈/珠/　/遂/超玄/境/登/道位/　/大智/化度/無量/眾/　/演暢/實義/藏/一乘/　/恢廓/河沙/扇/真/風/
+/昭/映/幽冥/朗/千/日/　/圓應/密會/神通/力/　/具/體/微妙/運/天機/　/彌綸/宇宙/藹/慈悲/　/影跡/不/疾/動/常/寂/
+/能/使/聞/者/成/解脫/　/能/使/見/者/發/信心/　/事/不/動/智/起/因/行/　/智/照/無/二/惟/一/體/　/如來/昔/居/光明/藏/
+/乃/為/眾生/求/大乘/　/表/依/圓照/斷/無明/　/悉/離/種種/顛倒/想/　/虛空性/故/常/不/動/　/無/起滅/如來藏/中/
+/菩薩/發/此/清淨/心/　/令/修行/不/墮/邪見/　/世尊/曩/在/室羅伐/　/獨/以/智/德/為/上首/　/如來/所/說/無上/道/
+/是/何/成就/方便/門/　/乃/云/覺/海性/澄圓/　/復/道/圓/澄覺/元妙/　/惟/此/元明/照/生/所/　/所/立/性/妄/元照/亡
+/由來/迷妄/有/虛空/　/依/所/生/空/立/世界/　/妄想/澄凝/成/國土/　/妄/心/知/覺/作/眾生/　/要/知/空/生/大覺/中/
+/此/如/巨/海/一/漚發/　/彼/有漏/微塵/國土/　/悉皆/依/彼/空/所/生/　/是/漚/即/滅/空/本/無/　/而/況/所/生/三有界/
+/歸/于/本/元性/無二/　/故/此/方便/有/多/門/　/聖性/根源/無不/通/　/無分/順/逆/皆/方便/　/初/發心/入/三昧/者/
+/遲/速/有/異/不/同倫/　/發/啟/如是/妙/菩提/　/一/字/遍包/一切/義/　/成就/無始/與/無盡/　/永/成/佛道/賴/慈/津/
+</ab></div>
+    </body>
+  </text>
+</TEI>

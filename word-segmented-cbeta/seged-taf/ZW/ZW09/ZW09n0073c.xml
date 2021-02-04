@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">CBETA電子佛典(量化分析版)</title>
+        <title type="subordinate">金剛經讚集（擬）</title>
+        <author>Dharma Drum Institute of Liberal Arts, Library and Information Center, Digital Archives Section 法鼓文理學院 圖書資訊館 數位典藏組</author>
+        <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+        <respStmt>
+          <resp>資料轉換</resp>
+          <name>周邦信</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>法鼓文理學院</publisher>
+        <address>
+          <addrLine>20842 新北市金山區法鼓路700號</addrLine>
+          <addrLine>da@dila.edu.tw</addrLine>
+        </address>
+        <date>2012-2021</date>
+        <availability>
+          <p>This document is published under a CC Attribution-Share Alike License</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title type="main">CBETA 電子佛典集成</title>
+          <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+          <pubPlace>臺灣‧臺北</pubPlace>
+          <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+          <date>2021-02-03</date>
+          <biblScope type="vol">ZW09</biblScope>
+          <idno type="Taisho">ZW09n0073c</idno>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+    <div level="1"><head>/〔/錄文三/〕/</head>
+<ab type="prose">/（/前/殘/）/</ab>
+<ab type="prose">/經/云/：/「/有/持戒/修/福/者/」/</ab>
+<ab type="verse">/尸羅/得/清淨/，/　/無量/劫/來/因/。/
+/妄想/如/怨賊/，/　/貪愛/若/參辰/。/
+/在/欲/而/無/欲/，/　/居/塵/不/染/塵/。/
+/但/依/離垢地/，/　/當/證/法王身/。/
+</ab>
+<ab type="prose">/□/…/□/</ab>
+<ab type="verse">/□/…/□/，/　/大聖/□/□/□/。/
+/□/…/□/，/　/定/入/法王/家/。/
+</ab>
+<ab type="prose">/經/云/：/「/離/一切/諸/相/，/即/名/諸/佛/」/</ab>
+<ab type="verse">/如/能/發心/者/，/　/應當/遠/二/邊/。/
+/涅槃/無有/相/，/　/菩薩/離/能/詮/。/
+/無/乘/及/乘/者/，/　/人/法/兩/俱/捐/。/
+/欲/達/無生忍/，/　/應當/絕/大/源/。/
+</ab>
+<ab type="prose">/經/云/：/「/如是/」/至/「/第一/波羅蜜/」/</ab>
+<ab type="verse">/波羅/稱/彼岸/，/　/於/中/十/種/名/。/
+/高/卑緣/妄識/，/　/次第/為/迷情/。/
+/燄/裏/尋求/水/，/　/琴/中/覓/響聲/。/
+/真/如何/得失/，/　/今/乃/號/圓成/。/
+</ab>
+<ab type="prose">/經/云/：/「/如/我/昔/為/歌利/王/」/至/「/應/生/嗔恨/」/</ab>
+<ab type="verse">/暴虐/誰/無道/，/　/時/稱/歌離王/。/
+/逢/軍出/遊獵/，/　/仙人/橫/被/傷/。/
+/已/經/五百/歲/，/　/前後/極/時/長/。/
+/乘/斯/忍辱/力/，/　/今/乃/證/真常/。/
+</ab>
+<ab type="prose">/經/云/：/「/不應/住/色/生/心/，/不應/住/色/布施/」/</ab>
+<ab type="verse">/菩薩/行/深/智/，/　/何/曾/不/帶/悲/。/
+/投/身/飼/餓/虎/，/　/割/肉/濟/鷹/饑/。/
+/精勤/三/大劫/，/　/曾/無/一/念/疲/。/
+/如/能/行/此/行/，/　/皆/作/四生師/。/
+</ab>
+<ab type="prose">/經/云/：/「/真語/，/不/異/語/」/</ab>
+<ab type="verse">/眾生/與/蘊界/，/　/名/別/體/非/殊/。/
+/了/心/知/是/幻/，/　/迷情/見/有無/。/
+/真言/言/不/妄/，/　/實/語/語/非/虛/。/
+/始/終/無/變易/，/　/性相/本來/如/。/
+</ab>
+<ab type="prose">/經/云/：/「/如來/所/得/法/無/實/無/虛/」/</ab>
+<ab type="verse">/證/空/便/為/實/，/　/執/無/乃/成/虛/。/
+/非/真/亦/非/假/，/　/誰/有/復/誰/無/。/
+/對/病/應須/藥/，/　/病/癒/藥/還/除/。/
+/常/依/般若/觀/，/　/凝/寂契/真如/。/
+</ab>
+<ab type="prose">/經/云/：/「/初/日/分/」/至/「/其/福/勝/彼/」/</ab>
+<ab type="verse">/眾生/與/人/我/，/　/蘊/上/執/虛/名/。/
+/如/龜/毛/不/實/，/　/似/兔/角/無/形/。/
+/捨/身/緣/妄識/，/　/施/命/為/愚/情/。/
+/未/離/人/無我/，/　/何以/證/圓成/。/
+</ab>
+<ab type="prose">/經/云/：/「/如來/為/發/大乘/、/最上/乘/者/」/</ab>
+<ab type="verse">/所/作/皆/依/性/，/　/修/成/功德/林/。/
+/終/無/趣/寂滅/，/　/唯/□/□/□/□/。/
+/□/□/□/□/□/，/　/用/智/智慧/深/。/
+/利/□/…/□/
+</ab>
+<ab type="prose">/（/下殘/）/</ab>
+<ab type="prose">/〔/錄/文完/〕/</ab></div>
+    </body>
+  </text>
+</TEI>

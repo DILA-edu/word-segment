@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">CBETA電子佛典(量化分析版)</title>
+        <title type="subordinate">教乘法數（選錄序文）</title>
+        <author>Dharma Drum Institute of Liberal Arts, Library and Information Center, Digital Archives Section 法鼓文理學院 圖書資訊館 數位典藏組</author>
+        <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+        <respStmt>
+          <resp>資料轉換</resp>
+          <name>周邦信</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>法鼓文理學院</publisher>
+        <address>
+          <addrLine>20842 新北市金山區法鼓路700號</addrLine>
+          <addrLine>da@dila.edu.tw</addrLine>
+        </address>
+        <date>2012-2021</date>
+        <availability>
+          <p>This document is published under a CC Attribution-Share Alike License</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title type="main">CBETA 電子佛典集成</title>
+          <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+          <pubPlace>臺灣‧臺北</pubPlace>
+          <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+          <date>2021-02-03</date>
+          <biblScope type="vol">P189</biblScope>
+          <idno type="Taisho">P189n1630</idno>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+    
+<ab type="juan" subtype="open">/教/乘/法/數/序/　/　/　/　/　/　/　/　/　/　/穡一/</ab>
+<div type="" level="1">
+<ab type="prose">/原夫/經律/論/藏/其/文洁/愽奚/翅/踰/數/千百/卷/之/夥/以/至/從/末究/本/攝/果/該/因/性相/殊途/而/詮表/匪/一/各/有/關鍵/未/易/徧尋/故/前/代/碩/師/舉/其/綱節/其/要/會/粹/成/書/目/之/曰/藏乘法/數庶/幾覽/者/籍/是/可以/得/諸/宗/歸趣/之/大/畧/及/其/行/世/既/久/厥/後/有為/賢/首氏/之/學/者/潛溪/深公/又/為/增治/補/其/不/足/亦/已/流布/散/在/四方/然/斯/二/者/用/志/之/勤/羙/則/羙/矣惜/乎/尚/多/遺缺/故/從事/乎/簡編/者/未/免/有/臨/文/之/歎/今/僧/錄/司/右/善/世/心/源/瀞公/法師/研/精/教/部/愽/綜/羣籍/講演/之/隙/焚膏/繼晷/不/棄/寸/陰/凡/內典/之/文旁/及/百氏/悉/以/採/摭詳/加/訂/定/續/入/而/彙次/之/離/為/十/有/二/卷/銘/曰/教乘法/數/將/壽/諸/梓/以/廣/其/傳間/以/示/予/俾/序/編/首/予/弗/獲/以/孤陋/荒/落/辭/乃/受/而/寘/諸/凡/案閱/之/忌倦/者/殆/三/四/日/其/上下/排列/之/妙/先後/次第/之/宜/皎然/而/明/秩然/有/序/視/舊/本/實/相/倍/蓰/而/不/紊/不/繁始/自/一心/終/之/於/八萬四千/法門/門/合/之/總/別/稱/謂/之/異/同/不/勞/窮/討/瞭然/在/目/譬/猶/當/臺/明/鏡/湛/水/摩尼/物/象/洪/纖靡/逃眹/跡/吁/是/編/之/作/其/於/宗/教/誠/非/小/補/或/者/謂/法/離/言說/乃至/名字/尚/不可/得/安/能/以/數量/而/盡/之/耶予/曰/不然子/胡/不/聞/經/云/治/世/語言/資生業/等/皆/順/正法/矧/茲/法/數/示/筌蹄/耳/法師/汲汲/於/此/豈/惟/以/便/人人/撿閱/而已/其/寓/意/有/深/旨/焉/或/者/唯/唯/而/退/因/併/書/以/告/夫/同/志/云/。/</ab>
+<ab type="prose">/時/宣/德/六/年/歲/在/辛亥/秋/九/月/九/日/行/在/僧/錄司/右講/經/江左/衟/遐序/</ab>
+<ab type="prose">/吾/佛/所/說/一/大/藏/教/諸/祖判/釋/䟽/記/其間/名相/數量/如/海/浩/愽/學/者/未/易/測/其/涯涘/昔/有為/藏/乘/法/數/者/要/而/太簡/後/深公/繼集/之/名/賢首法/數/間/嘗/閱/之/未/免/有/彼此/廣畧/之/見/圓瀞/早/遊/天竺/從/先/師/雨/翁/習/天/台/教/既/而/從事/長干/間/居/觀/室/得/以/披/尋/經/教/采集/名/數/歷/寒暑/而/槀/始/成/茲/承檀/施/壽/梓/流行/學/佛/者/覽/之/庶/以/上/報/聖朝/隆/教/之/恩/抑/亦/有/少/助/於/進修/云/。/</ab>
+<ab type="prose">/爾時/宣德/辛亥/二月/九日/寓慶/壽/寺/松/陰/序/</ab></div>
+    </body>
+  </text>
+</TEI>

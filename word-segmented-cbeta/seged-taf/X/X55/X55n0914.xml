@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">CBETA電子佛典(量化分析版)</title>
+        <title type="subordinate">普賢菩薩發願文</title>
+        <author>Dharma Drum Institute of Liberal Arts, Library and Information Center, Digital Archives Section 法鼓文理學院 圖書資訊館 數位典藏組</author>
+        <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+        <respStmt>
+          <resp>資料轉換</resp>
+          <name>周邦信</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>法鼓文理學院</publisher>
+        <address>
+          <addrLine>20842 新北市金山區法鼓路700號</addrLine>
+          <addrLine>da@dila.edu.tw</addrLine>
+        </address>
+        <date>2012-2021</date>
+        <availability>
+          <p>This document is published under a CC Attribution-Share Alike License</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title type="main">CBETA 電子佛典集成</title>
+          <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+          <pubPlace>臺灣‧臺北</pubPlace>
+          <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+          <date>2021-02-03</date>
+          <biblScope type="vol">X55</biblScope>
+          <idno type="Taisho">X55n0914</idno>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+    
+<ab type="juan" subtype="open">/普賢/菩薩/發/願/文/</ab>
+<byline>/天台/　/智者/大師/　/撰/</byline>
+<div type="" level="1">
+<ab type="prose">/稽首/十方/三世/一切/諸/佛/。/願/當/證知/某甲/。/諸/佛/所有/一切/波羅蜜/行/。/我/今/然/當/如/彼/修學/。/唯/願/諸/佛/如來/慈悲/哀/念/。/我/願/於/菩提/心/得/大/固/力/。/於/不可思議/諸/佛法/中/得/深/信力/。/於/多聞/中/得/不/忘/力/。/於/往來/生死/中/得無/疲倦/力/。/於/諸/眾生/中/得/堅/大悲力/。/於/布施/中/得/堅/捨/力/。/於/持戒/中/得/不/壞/力/。/於/忍辱/中/得/堅/受/力/。/魔/不能/壞/得/智慧/力/。/於/深/法/中/得/信樂/力/。/一/者/。/願/我/於/一切/生/處/。/一切/法/中/。/常/得/供養/十方/一切/諸/佛/。/盡/未來際/無有/休息/。/二/者/。/願/我/受持/如來/甚深/法海/。/即/自/明/解/不/由/佗悟/。/盡/未來際/無有/休息/。/三/者/。/諸/佛/坐/道場/處/。/願/我/於/中/作/攝/法/上首/。/請/轉法輪/度脫/眾生/。/盡/未來際/無有/休息/。/四/者/。/願/我/修行/一切/諸/菩薩/無邊/廣大/願/。/盡/未來際/無有/休息/。/五/者/。/願/我/教化/一切/眾生/。/卵生/．/胎生/．/濕生/．/化生/。/悉皆/令/入/無餘涅槃/。/盡/未來際/無有/休息/。/六/者/。/願/我/生/諸/佛剎/如/對/目/前/。/盡/未來際/無有/休息/。/七/者/。/願/我/嚴淨/諸/佛/如來/甚深/剎/海/。/盡/未來際/無有/休息/。/八/者/。/願/我/與/一切/諸/菩薩/同行/。/集/諸/善根/。/盡/未來際/無有/休息/。/九/者/。/願/我/所有/身/口/意/業/。/眾生/見聞/皆/獲/利益/。/如/藥樹王/無/空/過/者/。/盡/未來際/無有/休息/。/十/者/。/願/我/於/一切/微塵道/中/成/等正覺/。/轉/大/法輪/。/度脫/眾生/。/盡/未來際/無有/休息/。/佛子/若/能/發/此/十/大願/者/。/百萬/阿僧祗/願/門/皆悉/見/發/。/願/以/此/廣大/誓願/。/種種/善根/。/迴向/一切/眾生/。/願/皆/永/離/三惡道/苦/。/具足/普賢/菩薩/行願/。/我/又/以/此/善根/迴向/無上/菩提/。/不/求/世間/二乘/果報/。/我/又/以/此/善根/迴向/真如/法界/海/。/真如/無/滅/。/無漏/無為/。/不可/破壞/。/願/我/善根/亦復/如是/。/如/三世/諸/佛/迴向/。/我/亦/如是/迴向/。/迴向/已/歸命/禮/三寶/。/</ab></div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">CBETA電子佛典(量化分析版)</title>
+        <title type="subordinate">觀世音菩薩救苦經</title>
+        <author>Dharma Drum Institute of Liberal Arts, Library and Information Center, Digital Archives Section 法鼓文理學院 圖書資訊館 數位典藏組</author>
+        <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+        <respStmt>
+          <resp>資料轉換</resp>
+          <name>周邦信</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>法鼓文理學院</publisher>
+        <address>
+          <addrLine>20842 新北市金山區法鼓路700號</addrLine>
+          <addrLine>da@dila.edu.tw</addrLine>
+        </address>
+        <date>2012-2021</date>
+        <availability>
+          <p>This document is published under a CC Attribution-Share Alike License</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title type="main">CBETA 電子佛典集成</title>
+          <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+          <pubPlace>臺灣‧臺北</pubPlace>
+          <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+          <date>2021-02-03</date>
+          <biblScope type="vol">X01</biblScope>
+          <idno type="Taisho">X01n0034</idno>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+    
+<ab type="juan" subtype="open">/觀世音/菩薩/救/苦/經/</ab>
+<div type="" level="1">
+<ab type="prose">/南無/救/苦/觀世音/菩薩/。/百千萬億/佛/。/恒河沙/數/佛/。/無量/功德/佛/。/佛/告/阿難/言/。/此/經/大聖/。/能/救獄/囚/。/能/救/重/病/。/能/救/千/災百/難/苦/。/若/有/人/。/誦/得/一千/遍/。/一/身/離/苦難/。/誦/得/一萬/遍/。/合/家/離/苦難/。/南無/佛力/威/。/南無/佛力/護/。/使/人/無/惡/心/。/令/人身/得/度/。/回光/菩薩/。/回/善/菩薩/。/阿耨大天/王/。/正殿/菩薩/。/摩邱/摩邱/。/清淨/比邱/。/官事/得/散/。/私事/得/休/。/諸/大/菩薩/。/五百/羅漢/。/救護/弟子/身/。/悉皆/離/苦難/。/自然/觀世音/。/纓絡/不/須/解/。/勤/誦/千萬/遍/。/災難/自然/得/解脫/。/信受奉行/。/即/說/真言/曰/。/</ab>
+<ab type="dharani">今菩今菩提　陀羅尼帝　尼佉羅帝　菩提薩婆訶</ab></div>
+    </body>
+  </text>
+</TEI>

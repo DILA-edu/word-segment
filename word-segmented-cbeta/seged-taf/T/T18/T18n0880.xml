@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">CBETA電子佛典(量化分析版)</title>
+        <title type="subordinate">瑜伽金剛頂經釋字母品</title>
+        <author>Dharma Drum Institute of Liberal Arts, Library and Information Center, Digital Archives Section 法鼓文理學院 圖書資訊館 數位典藏組</author>
+        <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+        <respStmt>
+          <resp>資料轉換</resp>
+          <name>周邦信</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>法鼓文理學院</publisher>
+        <address>
+          <addrLine>20842 新北市金山區法鼓路700號</addrLine>
+          <addrLine>da@dila.edu.tw</addrLine>
+        </address>
+        <date>2012-2021</date>
+        <availability>
+          <p>This document is published under a CC Attribution-Share Alike License</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title type="main">CBETA 電子佛典集成</title>
+          <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+          <pubPlace>臺灣‧臺北</pubPlace>
+          <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+          <date>2021-02-03</date>
+          <biblScope type="vol">T18</biblScope>
+          <idno type="Taisho">T18n0880</idno>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+    
+<div type="jing" level="1">
+<ab type="juan" subtype="open">/瑜伽/金剛頂/經/釋字母/品/一/卷/</ab>
+<byline>/開府/儀同三司/特進/試/鴻臚卿/肅國公/食邑/三千/戶/賜紫/贈/司空/諡/大鑒/正號/大廣智/大興善寺/三藏/沙門/不/空/奉/　/詔/譯/</byline>
+<ab type="prose">/a/阿字門/，/一切/法/本/不/生/故/。/</ab>
+<ab type="prose">/ā/阿字門/，/一切/法/寂靜/故/。/</ab>
+<ab type="prose">/i/伊字門/，/一切/法/根/不可/得/故/。/</ab>
+<ab type="prose">/ī/伊字門/，/一切/法/災禍/不可得/故/。/</ab>
+<ab type="prose">/u/塢/字/門/，/一切/法/譬喻/不可得/故/。/</ab>
+<ab type="prose">/ū/污/字/門/，/一切/法/損減/不可/得/故/。/</ab>
+<ab type="prose">/ṛ哩/字/門/，/一切/法/神通/不可/得/故/。/</ab>
+<ab type="prose">/ṝ哩/字/門/，/一切/法/類/例/不可得/故/。/</ab>
+<ab type="prose">/ḷ/󰳆/字/門/，/一切/法/染/不可/得/故/。/</ab>
+<ab type="prose">/ḹ/𡃖/字/門/，/一切/法/沈沒/不可得/故/。/</ab>
+<ab type="prose">/e/曀/字/門/，/一切/法/求/不可得/故/。/</ab>
+<ab type="prose">/a/i/愛/字/門/，/一切/法/自在/不可得/故/。/</ab>
+<ab type="prose">/o/污/字/門/，/一切/法/瀑流/不可得/故/。/</ab>
+<ab type="prose">/a/u/奧/字/門/，/一切/法/化生/不可得/故/。/</ab>
+<ab type="prose">/aṃ/暗/字/門/，/一切/法/邊際/不可得/故/。/</ab>
+<ab type="prose">/a/ḥ/惡/字/門/，/一切/法/遠離/不可得/故/。/</ab>
+<ab type="prose">/ka迦/字/門/，/一切/法/離/作/業/故/。/</ab>
+<ab type="prose">/k/ha/佉字門/，/一切/法/等/虛空/不可得/故/。/</ab>
+<ab type="prose">/g/a/誐/字/門/，/一切/法行/不可得/故/。/</ab>
+<ab type="prose">/g/ha伽/字/門/，/一切/法/一/合/不可得/故/。/</ab>
+<ab type="prose">/ṅ/a/仰/字/門/，/一切/法/支/分/不可得/故/。/</ab>
+<ab type="prose">/c/a/左/字/門/，/一切/法/離/一切/遷變/故/。/</ab>
+<ab type="prose">/c/h/a/磋/字/門/，/一切/法/影像/不可/得/故/。/</ab>
+<ab type="prose">/ja/惹字門/，/一切/法/生/不可得/故/。/</ab>
+<ab type="prose">/j/h/a/酇/字/門/，/一切/法/戰敵/不可/得/故/。/</ab>
+<ab type="prose">/ñ/a/穰/字/門/，/一切/法智/不可得/故/。/</ab>
+<ab type="prose">/ṭa吒/字/門/，/一切/法慢/不可/得/故/。/</ab>
+<ab type="prose">/ṭ/h/a/咤/字/門/，/一切/法/長養/不可得/故/。/</ab>
+<ab type="prose">/ḍa/拏/字/門/，/一切/法/怨敵/不可/得/故/。/</ab>
+<ab type="prose">/ḍh/a荼/字門/，/一切/法/執持/不可得/故/。/</ab>
+<ab type="prose">/ṇa/拏/字/門/，/一切/法/諍/不可得/故/。/</ab>
+<ab type="prose">/ta/多/字/門/，/一切/法/如如/不可得/故/。/</ab>
+<ab type="prose">/th/a/他/字/門/，/一切/法/住處/不可得/故/。/</ab>
+<ab type="prose">/d/a/娜/字/門/，/一切/法施/不可得/故/。/</ab>
+<ab type="prose">/d/h/a/馱/字/門/，/一切/法界/不可得/故/。/</ab>
+<ab type="prose">/na曩/字/門/，/一切/法/名/不可得/故/。/</ab>
+<ab type="prose">/p/a/跛/字/門/，/一切/法/第一義/諦/不可得/故/。/</ab>
+<ab type="prose">/p/h/a/頗/字/門/，/一切/法/不/堅/，/如/聚/沫/故/。/</ab>
+<ab type="prose">/ba/麼/字/門/，/一切/法/縛/不可/得/故/。/</ab>
+<ab type="prose">/b/ha/婆字門/，/一切/法/有/不可得/故/。/</ab>
+<ab type="prose">/m/a/莽/字/門/，/一切/法/吾/我/不可/得/故/。/</ab>
+<ab type="prose">/y/a/野/字/門/，/一切/法/乘/不可得/故/。/</ab>
+<ab type="prose">/ra囉/字門/，/一切/法/離/諸/塵/染/故/。/</ab>
+<ab type="prose">/l/a/邏/字/門/，/一切/法相/不可得/故/。/</ab>
+<ab type="prose">/va/嚩字門/，/一切/法/語言/道/斷/故/。/</ab>
+<ab type="prose">/śa/捨/字/門/，/一切/法/本/性/寂/故/。/</ab>
+<ab type="prose">/ṣ/a/灑/字/門/，/一切/法性/鈍/故/。/</ab>
+<ab type="prose">/s/a/娑字門/，/一切/法/一切/諦/不可得/故/。/</ab>
+<ab type="prose">/h/a/賀/字/門/，/一切/法/因/不可得/故/。/</ab>
+<ab type="prose">/k/ṣ/a/乞/灑/字/門/，/一切/法/盡/不可得/故/。/</ab>
+<ab type="juan" subtype="close">/瑜伽/金剛頂/經/釋字母/品/一/卷/</ab></div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">CBETA電子佛典(量化分析版)</title>
+        <title type="subordinate">合邑四十人造像記</title>
+        <author>Dharma Drum Institute of Liberal Arts, Library and Information Center, Digital Archives Section 法鼓文理學院 圖書資訊館 數位典藏組</author>
+        <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+        <respStmt>
+          <resp>資料轉換</resp>
+          <name>周邦信</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>法鼓文理學院</publisher>
+        <address>
+          <addrLine>20842 新北市金山區法鼓路700號</addrLine>
+          <addrLine>da@dila.edu.tw</addrLine>
+        </address>
+        <date>2012-2021</date>
+        <availability>
+          <p>This document is published under a CC Attribution-Share Alike License</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title type="main">CBETA 電子佛典集成</title>
+          <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+          <pubPlace>臺灣‧臺北</pubPlace>
+          <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+          <date>2021-02-03</date>
+          <biblScope type="vol">I01</biblScope>
+          <idno type="Taisho">I01n0039</idno>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+    <div level="1">
+<div type="" level="2">
+<ab type="juan" subtype="open">/合邑/四十/人/造像/記/</ab><head>/碑陰/</head>
+<div type="" level="3">
+<ab type="prose">/邑師/法仙/門師/僧/欽門/師/靜/□/</ab></div>
+<div type="" level="3">
+<ab type="prose">/大魏/大統/四年/歲/在/戊午/十二月/丙戊/朔辛/亥日/。/佛/弟子/合邑/卌/人/等/。/生/閻浮/。/運/遭/末劫/。/自/飛/高/因/妙/業/。/无/以/同/生/彼岸/。/遂/尒謫/相/率/化/。/頃/竭/己/資/。/仰/為/皇帝/國主/。/建崇/四面/天宮/石/像/一/區/。/逮/及/師/僧/父母/。/七/世/所/生/。/因緣/眷屬/。/香/火邑/義/。/生/〃/世/〃/。/值/佛/聞法/。/彌勒/現世/。/願/登/先/首/。/邊地/眾生/。/普/同/正覺/。/咸/登/正/果/。/</ab></div>
+<div type="" level="3">
+<ab type="prose">/□那侯/桃枝/□那/魯/法容/　/蔡典/錄/魯/阿迴/　/王/晏/□主侯/真姜/　/郭/阿□/□/主/董雙臺/　/魯神/妃/像/主/蔡/阿早/　/魯/阿妃/像主/李思好/　/魯/早/妃/　/王/□/□/□/□/敬/容/　/　/□/買/姜/　/袁次/男/□/□/□/貴/　/　/侯樂/善/　/王/定/貴/□/女/□/□/　/　/張敬/姜/　/敬/女/晹/□/賜/王/　/　/　/魯要/容/　/張/僧/賣/魯/洛姿/　/　/　/董/洛媚/　/侯憎/迺/魯/舍貴/　/　/　/陳賤/貴/　/董/先/敬/魯義/勝/　/　/　/楊/令/姿/　/張定/姜任/始/貴/　/　/　/魯/阿令/魯/妙/姿/□/小/姿/</ab></div></div></div>
+    </body>
+  </text>
+</TEI>
