@@ -1,4 +1,6 @@
-# bin 自動分詞程式
+# 自動分詞程式
+
+使用 [Ruby](https://www.ruby-lang.org/) 撰寫，執行前需先安裝 Ruby。
 
 ## Configuration
 
