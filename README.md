@@ -7,6 +7,19 @@ This corpus is a word segmented corpus of CBETA Buddhist literature created by D
 The method of automatic segmentation tool is based on Conditional Random Filed (CRF) model, implemented by CRF++ 0.5.8. The detatils of the implementation and the accuracy of word segmentation can be refered to the following publication:
 * Yu-Chun Wang (2020). Word Segmentation for Classical Chinese Buddhist Literature. *Journal of the Japanese Association for Digital Humanities*, 5(2), 154-172.
 
+```
+@article{wang2020classical-cws,
+  title={Word Segmentation for Classical Chinese Buddhist Literature},
+  author={Wang, Yu-Chun},
+  journal={Journal of the Japanese Association for Digital Humanities},
+  volume={5},
+  number={2},
+  pages={154--172},
+  year={2020},
+  publisher={Japanese Association for Digital Humanities}
+}
+```
+
 # Structure
 
 ## traininig_corpus
@@ -37,6 +50,19 @@ http://hai.dila.edu.tw/word_seg/index
 
 其自動分詞工具之方法，基於條件隨機域 (Conditional Random Field, CRF)模型，使用CRF++ 0.5.8進行訓練而得。其模型之實作細節及分詞正確率，可參閱如下論文：
 * Yu-Chun Wang (2020). Word Segmentation for Classical Chinese Buddhist Literature. *Journal of the Japanese Association for Digital Humanities*, 5(2), 154-172.
+
+```
+@article{wang2020classical-cws,
+  title={Word Segmentation for Classical Chinese Buddhist Literature},
+  author={Wang, Yu-Chun},
+  journal={Journal of the Japanese Association for Digital Humanities},
+  volume={5},
+  number={2},
+  pages={154--172},
+  year={2020},
+  publisher={Japanese Association for Digital Humanities}
+}
+```
 
 # 目錄架構
 
