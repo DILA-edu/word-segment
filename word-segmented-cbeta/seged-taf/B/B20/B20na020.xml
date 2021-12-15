@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">CBETA電子佛典(量化分析版)</title>
+        <title type="subordinate">編輯說明</title>
+        <author>Dharma Drum Institute of Liberal Arts, Library and Information Center, Digital Archives Section 法鼓文理學院 圖書資訊館 數位典藏組</author>
+        <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+        <respStmt>
+          <resp>資料轉換</resp>
+          <name>周邦信</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>法鼓文理學院</publisher>
+        <address>
+          <addrLine>20842 新北市金山區法鼓路700號</addrLine>
+          <addrLine>da@dila.edu.tw</addrLine>
+        </address>
+        <date>2012-2021</date>
+        <availability>
+          <p>This document is published under a CC Attribution-Share Alike License</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title type="main">CBETA 電子佛典集成</title>
+          <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+          <pubPlace>臺灣‧臺北</pubPlace>
+          <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+          <date>2021-12-15</date>
+          <biblScope type="vol">B20</biblScope>
+          <idno type="Taisho">B20na020</idno>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+    <div level="1"><head>/編輯/說/明/</head>
+<ab type="prose">/本/冊/只/收/五部書/，/為/中國/佛教/典籍/，/都/各/具/特色/。/</ab>
+<ab type="prose">/「/諸/佛/世尊/如來/菩薩/尊者/名稱/歌曲/」/為/明/成/祖御/撰/。/是/依/據/「/讚/誦/佛/菩薩/能/生/廣大/功德/」/的/佛教/信仰/原理/而/來/的讚/誦/歌曲/集/。/由於/各/曲/只錄/歌詞/及/曲/牌/（/如/「/普/天樂/」/、/「/清江/引/」/等/）/，/現/代/人/如/無/法/依/曲/牌/以/研/究/出/該曲/旋/律/，/則/全/書/僅/係/對/佛/菩薩/尊者/的讚/歌/文字/而已/。/因/此/，/佛/教界/的/有/心/人/如/能/據/之/以/考/證/出/舊/曲/旋/律/，/甚/或/另/創/新/聲/，/然後/普遍/傳授/，/則/仙/樂/飄飄/、/處處/可/聞/讚/佛/之/聲/的日/子/，/當/指/日/可/待/。/</ab>
+<ab type="prose">/「/天樂/鳴/空/集/」/是/明/末鮑/宗肇/（/性/泉/）/居士/的/佛/學/隨/筆/，/頗/可以/據/此/看/出/當時/一/位/知識/分子/的/信/佛/態/度/。/「/黃蘗/無念禪師/復/問/」/為/明/末/黃蘗山/法眼寺/住持/無念禪師/（/一/字/「/深/有/」/）/所/撰/。/全/書/共/六卷/。/前/三/卷/是/回/答/信/眾/友/人/等/的/書/信/集/。/後/三/卷/則/是/法語/、/酬問/及/附錄/若干/篇/。/前/三/卷/題/為/「/復/問/」/，/後/三/卷/題/為/「/醒昏錄/」/。/全/書/又/以/「/黃蘗/無念禪師/語錄/」/之/名/行/世/。/這/也/是/一/部/明/末的/佛教/史料/。/</ab>
+<ab type="prose">/「/南/宋/江陰/軍/乾明院/羅漢/尊號/碑/」/雖/然/只/是/石/碑/上/之/十八/羅漢/及/五百/羅漢/名號/，/但/是/由於/係/南/宋的/碑文/，/時/代/甚/古/，/在/研/究/十八/羅漢/或/五百/羅漢/的信/仰史/時/，/頗/可以/作為/重/要/依/據/。/故/亦/錄/之/於/此/。/</ab>
+<ab type="prose">/「/寂/音/尊者/智/證/傳/」/是/宋代/名/僧/慧/（/惠/）/洪/所/撰/。/慧/洪/又/有/覺範/、/德洪/、/寂/音/尊者/等/字號/，/是/一/個/世/學/與/佛/學/都/有/相/當/素/養的/僧人/。/著/述/甚/多/，/「/禪林/僧寶傳/」/、/「/林間錄/」/、/「/石門/文字禪/」/等/書/皆/頗/行/於/世/。/其/人/一/生/曾/四/度/入/獄/，/且/所/發/言論/亦/往/往/為/時/人/或/後/人/所/不/喜/，/故/所/得/評價/優劣/參/半/。/此/書/為/作/者/對/經論/所/說/或/古/代/公案/所/作/的/詮/釋/。/書/名為/「/寂/音/尊者/智/證/傳/」/頗/滋/誤/解/。/實/則/「/寂/音/尊者/」/為/作/者/稱/號/，/「/智/證/」/二/字/，/蓋/指/用/理/智/去/證明/、/推/敲/之/意/；/「/傳/」/即/「/詮/釋/」/之/謂/。/全/書/並/不/是/某/一/位/僧/人的/傳記/。/</ab></div>
+    </body>
+  </text>
+</TEI>

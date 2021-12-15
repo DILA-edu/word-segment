@@ -1,6 +1,6 @@
 
     
-/蓮華/部/心念/誦/儀軌/
+/蓮華/部/心念/誦儀/軌/
 
 /淨地/：/
 􇖵rajepagatāḥsarvadharmma
@@ -20,7 +20,7 @@ oṃsarvatathāgatāpūjapravartnanāyāānāniryātayāsisarvatathāgatāvajrad
 oṃsarvatathāgatāpūjakarmmaṇiāānāṃniryātayāmisarvatathāgatāvajrakarmmakurumāṃ　aḥ
 /金剛/持/：/
 oṃsarvatathāgatakāyavākvintavajravadmanāṃkaromioṃvajravi
-/證定/：/
+/證/定/：/
 oṃsarvatathāgatāśaṃsitāḥsarvasatvānāṃsarvasiddhayaḥsaṃpadyatnāṃtathāgatāścādhitiṣṭatnā
 /遍觀/：/
 vajradṛṣṭimaṭ
@@ -28,7 +28,7 @@ vajradṛṣṭimaṭ
 vajrajali
 /金剛/縛/：/
 vajabaddha
-/開/心/：/
+/開心/：/
 vajravatva
 /入/智/：/
 vajraveśaaḥ
@@ -50,7 +50,7 @@ oṃsuratavajraṃ　jraḥhūṃvaṃhosamayastvaṃ
 oṃmahāsukhavajraṃsādhayasarvasatvebhyojaḥhūṃvaṃhoḥ
 /召/罪/：/
 oṃsarvapāpakarṣaṇaviśodhanavajrasatvasamayahūṃphaṭ
-/擢罪/：/
+/擢/罪/：/
 oṃvajrapāṇivisphoṭayasarvapāyabaddhānānipramokṣayasarvapāyagatibhyaḥsarvasatvāsarvatathāgatavajrasamayahūṃtraṭ
 /淨/三業/：/
 oṃvajrakarmmāviśodhayasarvavaraṇanibuddhasabhyenasamayahūṃ
@@ -109,7 +109,7 @@ oṃvajradvārodmāṭayasamayapraveśayahūṃ
 /啟請/伽陀/曰/：/
 āyāṃtusarvebhuvanakasātāḥpraṇāmitāḥśaṣakaṭāramārāḥsākṣakṛtānatnabhavasvabhāvāḥsvāyaṃbhu
 vonatnabhavasvabhavāḥ
-/佛/海/會/：/
+/佛/海會/：/
 oṃvajrasamajajaḥ
 /東/：/
 vajrasatvamahāsatvavajrasarvantathāgatasamantabhadravajradyavajrapāṇanamostute
@@ -174,13 +174,13 @@ sutejāgri　sugaḍāṅgi
 hesphoṭavaṃ　ghaṃṭaaḥaḥ
 /遍照/尊/：/
 oṃsarvatathāgatāvajradhātvanuttarapūjaspharaṇasamayehūṃ
-/金剛/薩埵/：/
+/金剛薩埵/：/
 oṃsarvatathāgatavajrasatvanuttarapūjaspharaṇasamayehūṃ
 /金剛/寶/：/
 oṃsartatathāgatāvajraratnanuttarapūjaspharaṇasamayehūṃ
 /金剛法/：/
 oṃsarvatathāgatāvajradharmmanuttarapūjaspharaṇasamayehūṃ
-/金剛/業/：/
+/金剛業/：/
 oṃsarvatathāgatāvajrakarmmanutarapūjaspharaṇasamayeoṃ
 /心/上/金剛/縛/。/
 /東/：/
@@ -200,14 +200,14 @@ oṃnamaḥsarvatathāgatasuryebhyovajratejinijvālahrīḥ
 oṃnamaḥsarvatathāgatāśāparipūraṇacintamaṇidhvajagrebhyovajradhvajagritrāṃ
 /口/上/咲/處/：/
 oṃnamaḥsarvatathāgatāmahāprītiprāmodyākarebhyokarebhyovajrahasehaḥ
-/口/上/密/語/：/
+/口/上/密語/：/
 /　/西/：/
 oṃsarvatathāgatāvajradharmmatāsumadhibhiḥstunāmimahādharmmāgrihrīḥ
 /右/耳/：/
 oṃsarvatathāgatāprajñāpāramitābhiḥnirhostunomimahāghoṣanugedhaṃ
 /左/耳/：/
 oṃsarvatathāgatācakrakṣaraparivarttanasarvasutrātanayayaiḥstunomisarvamaṇḍalahūṃ
-/頂後/：/
+/頂/後/：/
 oṃsarvatathāgatasaṃdhābhāṣabuddhaksaṃgītibhiḥgadaṃstunomivajravācecaḥ
 /頂/上/：/
 /　/北/：/
@@ -252,7 +252,7 @@ oṃsarvatathāgatānuttaraklegajñeyāvaraṇavāsanāvinayanamahāprajñāpār
 oṃsarvatathāgatāgubhyamahāpratipantipūjameghasamudraspharaṇasamayehūṃ
 /合/指爪/：/
 oṃsarvatathāgatavoniryātanapūjameghasamudraspharaṇasamayehūṃ
-/金剛/拳/：/
+/金剛拳/：/
 oṃhṛdayanīṣitānisarvatathāgatānāṃsiddhyattā
 /三昧/耶/：/
 sarvamudrāṃmepṛyābhavatu
@@ -275,7 +275,7 @@ namomitābhayanamomitayuṣa􇟄namonamecityaguṇakaratmane􇟄namomitābhayaji
 oṃnamaḥvaṃhūṃtraḥhrīḥāḥjaḥhūṃvaṃhoḥ
 namaḥ
 vajradhatudharmaekavīdhiraccha
-/略/念/誦/，/行道/及/草草/時/念/誦/法/。/先/護/身/，/自/器/世間/至/被甲/，/次/結/小/金剛/輪/印/，/真言/誦/之/。/次/結/根本/印/，/誦/根本/真言/加持/四/處/。/次/金剛/合掌/置/頂/上/，/誦o/ṃ/字/二十一/遍/，/是/供養/法/也/。/次/結/根本/印/，/念/誦/根本/真言/二十一/遍/，/以/下/不必/捻/珠/數/，/自/茲/以後/隨宜/行/耳/。/
+/略/念/誦/，/行道/及/草/草/時/念/誦/法/。/先/護/身/，/自/器/世間/至/被/甲/，/次/結/小/金剛/輪/印/，/真言/誦/之/。/次/結/根本/印/，/誦/根本/真言/加持/四/處/。/次/金剛/合掌/置/頂/上/，/誦/o/ṃ/字/二十一/遍/，/是/供養/法/也/。/次/結/根本/印/，/念/誦/根本/真言/二十一/遍/，/以下/不必/捻/珠/數/，/自/茲/以後/隨宜/行/耳/。/
 
 /寫/本/云/：/
 /永/長/二/秊/四月/二十七/日/奉寫/了/。/僧/賢/尊/

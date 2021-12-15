@@ -29,7 +29,7 @@
           <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
           <pubPlace>臺灣‧臺北</pubPlace>
           <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-          <date>2021-02-03</date>
+          <date>2021-12-15</date>
           <biblScope type="vol">T21</biblScope>
           <idno type="Taisho">T21n1213</idno>
         </bibl>
@@ -39,13 +39,13 @@
   <text>
     <body>
     <div level="1">
-<ab type="juan" subtype="open">/千/臂/軍荼利梵/字/真言/</ab>
+<ab type="juan" subtype="open">/千/臂/軍/荼利/梵字/真言/</ab>
 <div type="jing" level="2">
 <ab type="prose">/千/臂/軍/荼利/真言/曰/。/</ab>
 <ab type="dharani">􇖵namoratnatrayāya􇟄namaḥścaṇḍavajrapāṇaye􇟄mahāyakṣasenāpataye􇟄namovajrakrodhaya􇟄nityapraprajvālitadītta􇟄vajrakarāya􇟄ukaradaṃṣṭretkaṭabhaya􇟄bhairavāya􇟄asimusala􇟄buddhagraśakti􇟄śolaparaśopāśahastāya􇟄vajrakanakā􇟄vajravaitūrya􇟄likṛttāśarilāya􇟄sarvanāgayakṣarakṣasā􇟄asurapreta􇟄piśācavighna􇟄vinayakajivināṃtakarāya􇟄tadyathāoṃamṛtakuṇḍali􇟄huli􇥗􇟄culu􇥗mulu􇥗􇟄hana􇥗daha􇥗􇟄paca􇥗􇟄mathakuṇḍali􇟄mūrtvanaṃtaṇāya􇟄vajroṇa􇟄hūṃhūṃhūṃhūṃhūṃhūṃ􇟄phaṭ􇥗phaṭ􇥗phaṭphaṭ􇥗􇟄krodhagnayakuru􇥗􇟄suru􇥗turu􇥗􇟄hahaha􇟄hihihi􇟄huhuhusiddhyaṃtu􇟄mandrapadasvāhā􇖴</ab></div>
 <div type="w" level="2">
-<ab type="prose">/梵書/千/臂/軍/荼利陀羅尼/</ab>
-<ab type="prose">/　/大唐/青龍寺/東/塔/院/內/供奉/傳法/灌頂/故/大/阿闍梨/義/操/梵/書/記/</ab></div></div>
+<ab type="prose">/梵書/千臂軍荼利陀羅尼/</ab>
+<ab type="prose">/　/大唐/青龍寺/東/塔/院/內/供奉/傳法/灌頂/故/大/阿闍梨/義/操/梵書記/</ab></div></div>
     </body>
   </text>
 </TEI>

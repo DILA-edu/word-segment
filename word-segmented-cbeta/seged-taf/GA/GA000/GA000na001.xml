@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">CBETA電子佛典(量化分析版)</title>
+        <title type="subordinate">編輯說明</title>
+        <author>Dharma Drum Institute of Liberal Arts, Library and Information Center, Digital Archives Section 法鼓文理學院 圖書資訊館 數位典藏組</author>
+        <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+        <respStmt>
+          <resp>資料轉換</resp>
+          <name>周邦信</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>法鼓文理學院</publisher>
+        <address>
+          <addrLine>20842 新北市金山區法鼓路700號</addrLine>
+          <addrLine>da@dila.edu.tw</addrLine>
+        </address>
+        <date>2012-2021</date>
+        <availability>
+          <p>This document is published under a CC Attribution-Share Alike License</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title type="main">CBETA 電子佛典集成</title>
+          <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+          <pubPlace>臺灣‧臺北</pubPlace>
+          <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+          <date>2021-12-15</date>
+          <biblScope type="vol">GA000</biblScope>
+          <idno type="Taisho">GA000na001</idno>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+    <div level="1"><head>/編輯/說/明/</head>
+<ab type="prose">/本/集/成/陸續/進/行/中/之/「/中國/佛寺/志/」/文/本來/自/以下/兩/套/叢書/：/</ab>
+<ab type="list">
+/中國/佛寺/史志/彙/刊/　/台/北/：/1980/-/1994/　/杜潔祥/　/主編/　/110/vols/./
+/中國/佛寺/志/叢刊/　/揚州/：/廣陵/書社/2006/　/白/化/文/　/張/智/　/主編/　/130/vols/./</ab>
+<ab type="prose">/以/上/共/240/冊/，/合/237/寺志/。/CBETA/目前/已/收錄/其中/36/部寺/志/，/詳/目/如/下/：/</ab>
+<ab type="list">
+/G/A0002/洛陽/伽藍/記/集/證/
+/G/A0003/洛陽/伽藍/記/鉤沉/
+/G/A0004/洛陽/伽藍/記/合校/本/
+/G/A0005/南朝/佛寺/志/
+/G/A0008/重/修/普陀山/志/
+/G/A0009/普陀洛迦/新/志/
+/G/A/0010/明州/阿育王/山/志/
+/G/A/0011/明州/阿育王/山/續/志/
+/G/A/0012/天童寺/志/
+/G/A/0013/七/塔寺/志/
+/G/A/0014/明州/岳林寺/志/
+/G/A/0/0/15/大/昭慶律寺/志/
+/G/A/0017/玉岑山/慧因/高麗/華嚴/教/寺/志/
+/G/A/0/0/1/8/鳳凰/山/聖果寺/志/
+/G/A/0019/武林/理安寺/志/
+/G/A0020/龍/井見/聞錄/
+/G/A0021/武林/靈隱寺/志/
+/G/A0022/增/修/雲林寺/志/
+/G/A0023/雲林寺/續/志/
+/G/A0024/杭州/上天竺講寺/志/
+/G/A0025/雲/居/聖水寺/志/
+/G/A0028/龍/興/祥符/戒壇寺/志/
+/G/A0029/西谿/梵隱/志/
+/G/A/0030/崇福寺/志/
+/G/A/0031/續/崇福寺/志/
+/G/A/0032/徑山/志/
+/G/A/0036/破/山/興福寺/志/
+/G/A0043/寒山寺/志/
+/G/A0049/峨眉山/志/
+/G/A0062/泉州/開元寺/志/
+/G/A/0/0/7/7/九/華/山/志/
+/G/A/0/08/1/清涼/山/志/
+/G/A/0/0/8/4/雞足山寺/志/
+/G/A0086/黃檗山寺/志/
+/G/A0089/天台山/方/外/志/
+/G/B0109/徑山/集/</ab>
+<ab type="prose">/「/中國/佛寺/志/」/原始/全文/XML/標記/文檔/及/內容/註解/皆/由/法鼓/文理/學/院/（/DILA/）/提供/，/謹/此/致/謝/！/</ab></div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">CBETA電子佛典(量化分析版)</title>
+        <title type="subordinate">編輯說明</title>
+        <author>Dharma Drum Institute of Liberal Arts, Library and Information Center, Digital Archives Section 法鼓文理學院 圖書資訊館 數位典藏組</author>
+        <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+        <respStmt>
+          <resp>資料轉換</resp>
+          <name>周邦信</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>法鼓文理學院</publisher>
+        <address>
+          <addrLine>20842 新北市金山區法鼓路700號</addrLine>
+          <addrLine>da@dila.edu.tw</addrLine>
+        </address>
+        <date>2012-2021</date>
+        <availability>
+          <p>This document is published under a CC Attribution-Share Alike License</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title type="main">CBETA 電子佛典集成</title>
+          <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+          <pubPlace>臺灣‧臺北</pubPlace>
+          <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+          <date>2021-12-15</date>
+          <biblScope type="vol">B09</biblScope>
+          <idno type="Taisho">B09na007</idno>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+    <div level="1"><head>/編輯/說/明/</head>
+<ab type="prose">/我/國譯/經史/上/所/傳/譯的/經典/，/大/多/屬/於/印度/大乘/中/期/以/前/的/佛/典/。/至於/大乘/後/期/的/佛書/，/則/為/數/甚/少/。/印度/大乘/後/期/的/佛教/發/展/，/有/兩/大/潮流/，/其/一/為/思辨/系統/，/此/即/包含/認/識/論/與/論/理/學/的/因/明/學/，/其/二/即/密/教/，/尤/其/是/晚/期/的/金剛/乘/與/時/輪/乘/。/這/兩/大/潮/流的/典籍/，/在/中國/佛/典傳/譯史/上的/份量/頗/為/不/足/。/這是我國/佛/教史/上的/一/項/缺/憾/。/</ab>
+<ab type="prose">/本/冊/所/收/諸/書/，/都/是/民/國/以後/的新/譯/，/各/書/時/代/雖/非/盡/在/大乘/中/期/以後/，/但/絕/大/部/份/都/是/印度/佛教/思/辨/系/統/上的/要籍/，/稍/可/以/補/充/我/國舊/譯/之/不/足/。/這些/書/大/體/可以/劃/歸/下/列/幾/類/:/</ab>
+<ab type="prose">/一/、/「/中觀/學派/」/類/：/七十/空性/論/、/入/中論/、/中論/略/義/、/中/論/文句/釋/等/書/。/</ab>
+<ab type="prose">/二/、/「/瑜伽/行/派/」/類/：/現觀/莊嚴/論/、/辨/法/法性/論/、/攝/大乘論/、/三/自性/論/、/集/量/論/、/安慧/三十/唯識/釋/、/正/理/滴/論/、/釋量論/等/書/。/</ab>
+<ab type="prose">/三/、/其/他/類/：/大乘/修/心/七/義/論/釋/。/</ab>
+<ab type="prose">/印度/的/大乘/佛/學/思想/，/主/流/為/中觀/學/派/與/瑜伽/行/派/兩/大/系統/。/本/冊/所/收/諸/書/即/多/屬/於/這/兩/系/。/其中/，/中觀/學/派的/七十/空性/論/、/入/中論/；/瑜伽/行/派的/現觀/莊嚴/論/、/辨/法/法性/論/、/集/量/論/、/正/理/滴/論/、/釋量論/等/書/，/都/是/甚/為/重/要/而/為/大正/、/卍續/等藏經/所/未/收的/佛/典/。/在/研/究/印度/佛教/思想/史/上/，/有/相/當/高的/應/用/價/值/。/</ab>
+<ab type="prose">/在/這些/書/中/，/像/陳那/的/集/量/論/、/法/稱的/正/理/滴/論/與/釋量論/等/書/，/都/是/近代/西洋/及/日/本/之/佛教/學者/所/至/為/重/視的/。/在/印度/佛教/思想/史/上/，/這些/書/是/知識/論/與/論/理/學/方面/的/核/心/要典/，/它/們的/作/者/陳那/與/法/稱/，/曾/分別/被/歐洲/學者/如/：/徹/爾/巴/斯/基/（/Th/./Stchrbatsky/）/等/人/比喻/為/印度/的/康德/，/用/以/稱譽/他/們/在/知識/論/上的/成/績/。/由/這些/著/作/，/乃/使/今/人/瞭/解/印度/佛教/不/祇/在/神/秘/層/面/震/古/鑠/今/，/而/且/在/思/辨/層/面/，/也/有/不/凡的/成/果/。/一向/在/思/辨/層/面/不曾/充分/發/輝的/中國/佛/教徒/，/對/這/些/書/也/許/更/應/該/多/加/注/意/吧/！/</ab></div>
+    </body>
+  </text>
+</TEI>

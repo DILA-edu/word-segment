@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">CBETA電子佛典(量化分析版)</title>
+        <title type="subordinate">編輯說明</title>
+        <author>Dharma Drum Institute of Liberal Arts, Library and Information Center, Digital Archives Section 法鼓文理學院 圖書資訊館 數位典藏組</author>
+        <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+        <respStmt>
+          <resp>資料轉換</resp>
+          <name>周邦信</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>法鼓文理學院</publisher>
+        <address>
+          <addrLine>20842 新北市金山區法鼓路700號</addrLine>
+          <addrLine>da@dila.edu.tw</addrLine>
+        </address>
+        <date>2012-2021</date>
+        <availability>
+          <p>This document is published under a CC Attribution-Share Alike License</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title type="main">CBETA 電子佛典集成</title>
+          <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+          <pubPlace>臺灣‧臺北</pubPlace>
+          <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+          <date>2021-12-15</date>
+          <biblScope type="vol">B31</biblScope>
+          <idno type="Taisho">B31na031</idno>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+    <div level="1"><head>/編輯/說/明/</head>
+<ab type="prose">/朝/鮮/半/島的/佛教/，/由於/該地/區/與/我/國/版圖/相/連接/，/因/此/承受/我/國/佛教/文化/的/影響/極/大/。/透視/這地/區的/佛教/，/往/往/可以/反/映/出/我/國/舊/日/佛/教的/風貌/，/因/此/，/現/代/人/之/注/意/韓國/佛/教史/，/其/學/術/意/義/當/不/祇限/定/在/揭示/韓國/佛教/而已/。/</ab>
+<ab type="prose">/本/冊/收/輯的/二/書/，/都/是/研/究朝/鮮半島/佛教/史的/要籍/。/其中/「/朝/鮮寺/剎史料/」/是/一/九/一一/年/（/日/本/明/治/四十四年/）/，/日/本/入/侵朝/鮮/不久/時/，/由/所謂/的/「/朝鮮/總督府/」/所/蒐/輯的/。/內/容/取/自/各/佛教/寺院/現/存的/碑文/、/匾/額/、/及/其/他/古/文書/。/在/保/存/史料/方面/，/無/疑的/，/這/一/工/作/確/實/具/有/相/當/重/要的/意/義/。/今/天/，/對/有/意/研/究/韓國/佛教/史的人/而/言/，/這/部史/料書/當/可/能/提/供/相/當/程度/的幫/助/。/</ab>
+<ab type="prose">/「/補編/」/之/收/入/這部書/，/除/了/上/述/諸/項/以/外/，/至/少/還/有/下/列/幾/點/意/義/：/</ab>
+<ab type="prose">/其/一/、/希望/藉/此/開拓/國/內/佛/學/研/究/者/的/視/野/，/讓/大家/也/醒悟/到/鄰邦韓國/也/有/豐/富的/佛教/內/涵/、/也/值/得/研/究/。/</ab>
+<ab type="prose">/其/二/、/我/們/想/透/過/這些寺/院/史料/，/也/為/研/究/中國/佛教/史的/人/提/供/一/些/旁/證/，/也/許/其中/有/極/其/珍貴/、/可/資/說/明/中國/佛/教史/實的/資料/亦/未/可/知/。/關/於/這/一/點/，/希望/有/心/人/會/作/進/一/步/的/研/索/。/</ab>
+<ab type="prose">/其/三/、/台/灣的寺/院史/料迄/未/有/人/收集/，/這/本/書/刊行/之/後/，/也/許/會/使/某/些/人/生起/蒐/求/台灣寺/院史/料的/興趣/。/</ab>
+<ab type="prose">/第二/部/書/「/朝鮮/佛教/通史/」/是/有/關朝/鮮半島/佛教/史的/名/著/。/作/者/朝鮮/．/李/能/和/於/一/九/一/七年/完成/此/書/。/全/書/共/分/上/中/下/三/編/，/合/訂/兩/冊/刊行/。/作/者/自/序/云/：/</ab>
+<ab type="prose">/「/西域/無為/之/法/，/入/我/東方/有/緣/之/土/。/金剛/名/山/自是/菩薩/之/住處/，/海/印/藏經/亦/為/世界/之/法寶/。/禪僧/法侶/之/得道/者/如/麻/，/國王/大臣/之/護/法/者/若/林/。/十二/宗派/之/沿/革/，/九百寺/剎/之/由緒/…/…/有/耳/者/無/所/聞/，/有/目/者/無/所/見/。/不/佞/于/是/患/之/，/冒昧/而/始/事/焉/。/」/</ab>
+<ab type="prose">/從/這段/文字/，/多少/可以/窺/見/其/撰/述動機/。/根/據/這/部/書/的/敘/述/，/加/上/「/朝/鮮寺/剎史料/」/的碑/、/匾/等/文字/，/我/們/要/對/韓國/佛/教史/有/一/基/礎/的/理/解/，/應/該/是/不/會/困/難的/。/</ab></div>
+    </body>
+  </text>
+</TEI>

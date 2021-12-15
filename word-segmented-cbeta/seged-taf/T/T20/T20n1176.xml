@@ -29,7 +29,7 @@
           <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
           <pubPlace>臺灣‧臺北</pubPlace>
           <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-          <date>2021-02-03</date>
+          <date>2021-12-15</date>
           <biblScope type="vol">T20</biblScope>
           <idno type="Taisho">T20n1176</idno>
         </bibl>
@@ -39,14 +39,14 @@
   <text>
     <body>
     
-<ab type="juan" subtype="open">/曼殊室利/童子/菩薩/五/字/瑜伽/法/一/卷/</ab>
-<byline>/開府/儀同三司/特進/試/鴻臚卿/肅國公/食邑/三千/戶/賜紫/贈/司空/諡/大鑒/正號/大廣智/大興善寺/三藏/沙門/不/空/奉/　/詔/譯/</byline>
+<ab type="juan" subtype="open">/曼殊室利/童子/菩薩/五/字/瑜伽法/一/卷/</ab>
+<byline>/開府/儀同三司/特進/試/鴻臚卿/肅國公/食邑/三千/戶/賜紫/贈/司空/諡/大鑒正/號/大廣智/大興善寺/三藏/沙門/不/空/奉/　/詔/譯/</byline>
 <div type="dharani" level="1">
 <ab type="dharani">一曰maṃ　</ab>
 /𤚥/(/用/孔雀/座/印/如/上/)/　/
 
 <ab type="dharani">二曰trhyīṃ　</ab>
-/體/哩/呬/淫/(/如/上/)/　/
+/體/哩呬/淫/(/如/上/)/　/
 
 <ab type="dharani">次三字真言vā　ke　hūṃ　</ab>
 /嚩/　/計/　/吽/　/
@@ -56,7 +56,7 @@
 /阿/　/囉/　/跛/　/左/　/曩/　/
 
 <ab type="dharani">二曰oṃ　va　jra　tī　kṣṇa　</ab>
-/唵/　/嚩/　/日囉/　/底/　/乞叉拏/　/
+/唵/　/嚩/　/日囉/　/底/　/乞/叉拏/　/
 
 <ab type="dharani">三曰oṃ　du　kha　cche　da　</ab>
 /唵/　/耨/　/佉/　/泚/　/娜/　/
@@ -86,7 +86,7 @@
 <ab type="dharani">oṃ　vā　kle　ma　na　sa　</ab>
 /唵/　/嚩/　/計/曳/　/麼/　/曩/　/娑/　/
 
-<ab type="prose">/次/加持/灌頂瓶/真言/曰/。/</ab>
+<ab type="prose">/次/加持/灌頂/瓶/真言/曰/。/</ab>
 <ab type="dharani">na　maḥ　stryi　dhvi　kā　nāṃ　
 娜　謨　悉底哩野　地尾　迦　南　
 ta　thā　ga　tā　nāṃ　hrīḥ　sa　rva　
@@ -126,7 +126,7 @@ ga　mbhī　rya　va　jra　bu　ddhe　na　
 mu　stu　te　</ab>
 /謨/　/窣覩/　/帝/　/
 
-<ab type="juan" subtype="close">/曼殊室利/童子/菩薩/五/字/瑜伽/法/一/卷/</ab></div>
+<ab type="juan" subtype="close">/曼殊室利/童子/菩薩/五/字/瑜伽法/一/卷/</ab></div>
     </body>
   </text>
 </TEI>

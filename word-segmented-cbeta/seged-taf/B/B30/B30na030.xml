@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">CBETA電子佛典(量化分析版)</title>
+        <title type="subordinate">編輯說明</title>
+        <author>Dharma Drum Institute of Liberal Arts, Library and Information Center, Digital Archives Section 法鼓文理學院 圖書資訊館 數位典藏組</author>
+        <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+        <respStmt>
+          <resp>資料轉換</resp>
+          <name>周邦信</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>法鼓文理學院</publisher>
+        <address>
+          <addrLine>20842 新北市金山區法鼓路700號</addrLine>
+          <addrLine>da@dila.edu.tw</addrLine>
+        </address>
+        <date>2012-2021</date>
+        <availability>
+          <p>This document is published under a CC Attribution-Share Alike License</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title type="main">CBETA 電子佛典集成</title>
+          <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+          <pubPlace>臺灣‧臺北</pubPlace>
+          <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+          <date>2021-12-15</date>
+          <biblScope type="vol">B30</biblScope>
+          <idno type="Taisho">B30na030</idno>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+    <div level="1"><head>/編輯/說/明/</head>
+<ab type="prose">/本/冊/所/收/集/約/六部寺/志/，/都/具/有/相/當/重/要的/研/究/價/值/。/其中/，/「/重/修/曹溪/通志/」/與/「/天台山/方/外/志/」/分別/是/禪宗/與/天台宗/的主/要史/地/資料/；/另/外/的/四部書/：/「/普陀洛迦/新/志/」/、/「/清涼/山志/」/、/「/九/華/山/志/」/、/「/峨眉山/志/」/，/正是我國/佛/教界/所謂/之/四大/名/山的/佛教/文獻集/。/其/在/宗教/信/仰/上/、/或/學/術/研/究/上/的重/要性/，/是/可/想/而/知/的/。/</ab>
+<ab type="prose">/「/重/修/曹溪/通志/」/內容/輯錄/的/是/有/關/廣/東/韶州/南華寺/的/佛教/史地/資料/。/南華寺/是/禪宗/六祖/慧/能/弘法/的/根本/道場/，/該地/位/於/曹溪/上流/，/因/此/後/人/往/往/用/「/曹溪/」/二/字/來/象/徵/南華寺/、/或/象/徵/六祖/慧/能/的/法門/。/本/書/所/輯/，/既/為/南華寺/史料/，/則/其/必/可/為/研究禪/宗史/者/所/取/資/、/是/可/想/而/知/的/。/</ab>
+<ab type="prose">/依/照/我/國/佛/教界/所/傳/，/四大/名/山曾經/有/四大/菩薩/示現/。/相/傳/「/普陀洛迦/新/志/」/一/書/所/載/的/浙江/普陀山/，/即/觀世音/菩薩/應化/的/道場/。/因/此/，/該書/除/了/輯錄/普陀山/的/地理/形/勢/、/全/山/名/剎/、/及/相/關藝/文/之/外/，/對/觀世音/菩薩/的/聖德/及/歷代/信/徒的/感應/事/蹟/，/也/敘/述/甚/詳/。/所以/，/本/書/也/可/視/為/我/國/佛/教界/的/觀世音/菩薩/信仰/史略/。/其次/，/山/西/清涼山/（/五台山/）/曾/為/文殊/菩薩/所/應化/、/安徽/九華山/為/地藏/菩薩/應化/之/名/山/，/四川省/的峨/眉山/則/是/普賢/菩薩/所/應化/的/道場/。/此/處所/收的/「/清涼/山志/」/、/「/九/華/山/志/」/、/「/峨眉山/志/」/，/其中/所/載/，/也/與/「/普陀洛迦/新/志/」/一/樣/，/除/了/此/等/名/山的/地理/形/勢/、/名/剎歷史/、/名/僧/事/蹟/、/及/相/關/文獻/之/外/，/同時/也/是/文殊/、/地藏/、/普賢/三/菩薩/的/信仰/簡史/。/</ab>
+<ab type="prose">/本/冊/所/收的/最後/一/書/：/「/天台山/方/外/志/」/，/是/浙江/天台山/的宗/教史/地/資/料集/。/天台山/是/天台/宗的/發源/地/，/加/上/歷代/不/少/佛教/大德/與/該山/有/關/，/因/此/，/是/研/究/我/國/佛/教史/所/不可/忽/略/的/名/山/。/此/處所/收的/這部/「/方/外/志/」/，/不/祇包/含/天台宗/歷代/祖師/、/禪宗/名/僧/，/及/豐干/、/拾/得/、/寒山/等/異/僧/事/蹟/，/而/且/也/輯/錄/不/少/道教/史/上/所/相/傳的/神仙/、/道士/，/隱士/之/事/略/，/以/及/其/他/相/關藝/文/等/，/內/容/頗/為/可觀/，/蓋/不/祇/可/資談/助/而已/。/</ab></div>
+    </body>
+  </text>
+</TEI>
