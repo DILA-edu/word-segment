@@ -1,4 +1,4 @@
-# DILA Word Segemented CBETA Corpus and Auto Segmentation Tool
+# DILA Word Segmented CBETA Corpus and Auto Segmentation Tool
 
 # Introduction
 
