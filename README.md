@@ -22,7 +22,7 @@ The method of automatic segmentation tool is based on Conditional Random Filed (
 
 # Structure
 
-## traininig_corpus
+## training_corpus
 
 Human annottated word segmented data
 
