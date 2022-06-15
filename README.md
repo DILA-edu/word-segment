@@ -1,4 +1,4 @@
-# DILA Word Segemented Corpus and Auto Segmentation Tool
+# DILA Word Segmented CBETA Corpus and Auto Segmentation Tool
 
 # Introduction
 
@@ -22,7 +22,7 @@ The method of automatic segmentation tool is based on Conditional Random Filed (
 
 # Structure
 
-## traininig_corpus
+## training_corpus
 
 Human annottated word segmented data
 
