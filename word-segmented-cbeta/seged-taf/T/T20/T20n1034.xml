@@ -29,7 +29,7 @@
           <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
           <pubPlace>臺灣‧臺北</pubPlace>
           <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-          <date>2021-12-15</date>
+          <date>2022-06-14</date>
           <biblScope type="vol">T20</biblScope>
           <idno type="Taisho">T20n1034</idno>
         </bibl>
@@ -38,15 +38,15 @@
   </teiHeader>
   <text>
     <body>
-    <div level="1">
-<ab type="juan" subtype="open">/呪/五首/</ab>
-<byline>/大唐/三藏法師/玄奘/奉/　/詔/譯/</byline><head>/能/滅/眾/罪/千/轉/陀羅尼/呪/</head>
+<milestone n="1" unit="juan"/><div level="1">
+<ab type="juan" subtype="open">/呪/五/首/</ab>
+<byline>/大唐/三藏/法師/玄奘/奉/　/詔/譯/</byline><head>/能/滅/眾/罪/千/轉/陀羅尼/呪/</head>
 <ab type="dharani">納慕曷喇怛那怛喇夜(余賀反)耶(一余何反)納慕阿喇耶(二余何反)縛(夫何反)盧枳低濕筏囉耶(三余何反)步地薩埵耶(四余何反)莫訶薩埵耶(五余何反)莫訶迦嚧匿迦耶(六余何反)怛姪他(十)闍曳闍曳(八)闍耶縛(夫訶反)呬儞(九)闍逾怛唎(十)羯囉羯囉(十一)末羅末羅(十二)折羅折羅(十三)廁尼廁尼(十四)薩縛羯摩(十五)筏喇拏儞謎(十六)薄伽伐底(十七丁履反下同)索訶薩羅伐喇帝(十八)薩縛佛陀(十九)縛(夫何反)盧枳帝(二十)斫芻(二十一)室𡀔怛囉(二十二)揭囉拏(二十三)市吸縛(二十四夫何反)迦耶(二十五)末奴(二十六)毘輸達尼(二十七)素囉素囉(二十八)鉢囉素囉(二十九)鉢囉素囉(三十)薩嚩(夫何反)佛陀(三十一)地瑟恥帝(三十二)莎訶(三十三)達磨馱覩揭鞞(三十四)莎訶(三十五)𧙃婆縛(三十六夫何反)颯縛(夫何反)婆嚩(三十七夫何反)薩縛(夫何反)達磨(三十八)縛(夫何反)蒲達泥(三十九)莎訶(四十)</ab><head>/六/字/呪/</head>
 <ab type="dharani">納慕阿利耶(余何反)曼殊室利曳　瓮縛(夫何反)繫淡納莫</ab><head>/七/俱胝/佛/呪/</head>
 <ab type="dharani">納莫颯多南(去)三藐三勃陀俱胝南(去)怛姪他　唵折麗　主麗准第莎訶</ab><head>/一切/如來/隨心/呪/</head>
 <ab type="dharani">納莫薩縛　怛他阿揭多頡唎達耶(途何反)阿奴揭帝怛姪他瓮屈(居勿反)挊岐(上)尼莎呵</ab><head>/觀自在/菩薩/隨心/呪/</head>
 <ab type="dharani">南慕曷喇怛那怛邏夜(余賀反)耶(余何反)納莫阿唎耶(余何反)縛(夫何反)盧枳低濕筏囉耶(余何反)步地薩埵耶(余何反)莫訶薩埵耶(余何反)莫訶迦(去)嚧匿迦(去)耶(余何反)怛姪他瓮多囇咄多囇咄多囇　莎賀</ab>
-<ab type="juan" subtype="close">/呪/五首/</ab>
+<ab type="juan" subtype="close">/呪/五/首/</ab>
 <div type="w" level="2">
 <ab type="dharani">namoratnatrayāyanamaḥāryavalokiteśvarāyabodhisatvāyamahāsatvāyamahākāruṇikāyatacyathājaye􇥗jayavahinijayotarikara􇥗mara􇥗cara􇥗kṣiṇi􇥗sarvakarmāvaraṇanimebhāgavatisahasravarttesarvabuddhāvalokitecakṣaśrūtragāṇajihvakāyamanuviśudhanisura􇥗prasuraprasurasarvabuddhādhiṣṭitesvāhādharmmadhātugarbhesvāhāabhavasvabhavasarvadharmmavavodhanesvāhā</ab></div></div>
     </body>

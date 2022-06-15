@@ -29,7 +29,7 @@
           <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
           <pubPlace>臺灣‧臺北</pubPlace>
           <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-          <date>2021-12-15</date>
+          <date>2022-06-14</date>
           <biblScope type="vol">T19</biblScope>
           <idno type="Taisho">T19n0974B</idno>
         </bibl>
@@ -38,8 +38,8 @@
   </teiHeader>
   <text>
     <body>
-    <div level="1">
-<ab type="juan" subtype="open">/佛頂/尊勝/陀羅尼/</ab>
+<milestone n="1" unit="juan"/><div level="1">
+<ab type="juan" subtype="open">/佛/頂/尊勝/陀羅尼/</ab>
 <div type="dharani" level="2">
 <ab type="dharani">􇖵　na　mo　bha　ga　va　te　trai　lo　
 　曩　謨　婆　誐　縛　帝(歸命世尊)　怛𡂖　路　
@@ -158,8 +158,8 @@ hṛ　da　yā　dhi　ṣṭa　na　dhi　
 svā　hā􇥐samapta　</ab>
 /娑縛/　/賀/(/吉祥/之/句/。/又/云/成就/之/義/。/已/上/第十/成就/涅槃門/)/　/
 
-<ab type="prose">/師/云/。/此/陀羅尼/凡/有/九/本/。/所謂/杜行/鎧/月/照/三藏/。/義淨/三藏/。/佛陀波利善無畏/三藏/。/金剛智/三藏/。/不/空/三藏/等/所/譯/本/。/及/法/崇/注/釋/。/弘法/大師/所/傳/梵本/等/也/。/之/中/今/以/弘法/大師/梵本/。/與/金剛智/三藏/所/譯/加/字/具足/漢/字/本/所/雙/書/也/。/件/梵本/是/弘法/大師/在/唐/之/日/。/惠/果/阿闍梨/所/授/多羅/葉/梵本/也/。/七佛/及/觀音/梵號/裁干/此/中/。/異/他/梵本/也/。/後/人/知/之/。/</ab></div>
-<ab type="juan" subtype="close">/佛頂/尊勝/陀羅尼/</ab>
+<ab type="prose">/師/云/。/此/陀羅尼/凡/有/九/本/。/所謂/杜行/鎧/月/照/三藏/。/義淨/三藏/。/佛陀波利/善/無畏/三藏/。/金剛智/三藏/。/不/空/三藏/等/所/譯/本/。/及/法/崇/注/釋/。/弘法/大師/所/傳/梵本/等/也/。/之/中/今/以/弘法/大師/梵本/。/與/金剛智/三藏/所/譯/加/字/具足/漢/字/本/所/雙/書/也/。/件/梵/本/是/弘法/大師/在/唐/之/日/。/惠/果/阿闍梨/所/授/多羅/葉/梵/本/也/。/七佛/及/觀音/梵號/裁干/此/中/。/異/他/梵本/也/。/後/人/知/之/。/</ab></div>
+<ab type="juan" subtype="close">/佛/頂/尊勝/陀羅尼/</ab>
 <div type="w" level="2">
 <ab type="prose">/　/建久/二年/辛/</ab></div></div>
     </body>

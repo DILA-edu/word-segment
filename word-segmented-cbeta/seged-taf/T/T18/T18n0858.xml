@@ -29,7 +29,7 @@
           <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
           <pubPlace>臺灣‧臺北</pubPlace>
           <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-          <date>2021-12-15</date>
+          <date>2022-06-14</date>
           <biblScope type="vol">T18</biblScope>
           <idno type="Taisho">T18n0858</idno>
         </bibl>
@@ -38,12 +38,12 @@
   </teiHeader>
   <text>
     <body>
-    <div level="1">
-<ab type="juan" subtype="open">/大/毘盧遮那/略/要/速疾/門/五/支/念/誦/法/</ab>
+<milestone n="1" unit="juan"/><div level="1">
+<ab type="juan" subtype="open">/大/毘盧遮那/略/要/速疾/門/五支/念/誦/法/</ab>
 <div type="jing" level="2">
 <ab type="prose">/三/金剛/真言/(/誦/三/遍/)/：/</ab>
 <ab type="dharani">吽(引)吽(引)吽(引)</ab>
-<ab type="prose">/三昧/耶/真言/(/誦/三/遍/)/：/</ab>
+<ab type="prose">/三昧/耶真/言/(/誦/三/遍/)/：/</ab>
 <ab type="dharani">曩莫三滿多沒馱南(引)阿參迷怛里參迷三摩曳娑縛(二合)賀</ab>
 <ab type="prose">/法界/生/真言/(/誦/三/遍/)/：/</ab>
 <ab type="dharani">曩莫三滿多沒馱南(引)達磨馱暏娑縛婆縛句唅(引)</ab>
@@ -64,7 +64,7 @@
 <ab type="prose">/烏蒭/澁摩/金剛/真言/(/誦/五/遍/)/：/</ab>
 <ab type="dharani">唵俱嚕馱喃吽惹</ab></div>
 <div type="w" level="2">
-<ab type="prose">/慈覺錄/云/大/毘盧遮那/略/要/速疾/門/五/支/念/誦/法/一/卷/(/仁/運睿/)/。/</ab></div></div>
+<ab type="prose">/慈覺錄/云/大/毘盧遮那/略/要/速疾/門/五支/念/誦/法/一/卷/(/仁/運/睿/)/。/</ab></div></div>
     </body>
   </text>
 </TEI>

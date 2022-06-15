@@ -29,7 +29,7 @@
           <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
           <pubPlace>臺灣‧臺北</pubPlace>
           <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-          <date>2021-12-15</date>
+          <date>2022-06-14</date>
           <biblScope type="vol">G084</biblScope>
           <idno type="Taisho">G084n2084</idno>
         </bibl>
@@ -38,11 +38,11 @@
   </teiHeader>
   <text>
     <body>
-    
+<milestone unit="juan" n="1"/>
 <ab type="juan" subtype="open">/坐禪/箴/</ab>
 <byline>/永平/承陽/大師/道元/撰/</byline>
 <div type="" level="1">
-<ab type="prose">/佛/佛/要機/。/祖祖/機要/。/不/思量/而/現/。/不/回互/而/成/。/不/思量/而/現/。/其/現/自/親/。/不/回互/而/成/。/其/成/自/證/。/其/現/自/親/。/曾/無/染汙/。/其/成/自/證/。/曾/無/正/偏/。/曾/無/染汙/之/親/。/其/親/無/委/而/脫落/。/曾/無/正/偏/之/證/。/其/證/無/圖/而/工夫/。/水/清徹/地/兮/魚/行/似/魚/。/空/闊/透/天/兮/鳥/飛/如/鳥/。/</ab>
+<ab type="prose">/佛/佛/要機/。/祖祖/機要/。/不/思量/而/現/。/不/回互/而/成/。/不/思量/而/現/。/其/現/自/親/。/不/回互/而/成/。/其/成/自證/。/其/現/自/親/。/曾/無/染汙/。/其/成/自證/。/曾/無/正/偏/。/曾/無/染汙/之/親/。/其/親/無/委/而/脫/落/。/曾/無/正/偏/之/證/。/其/證/無/圖/而/工夫/。/水/清徹/地/兮/魚/行/似/魚/。/空闊/透天/兮/鳥/飛/如/鳥/。/</ab>
 <ab type="juan" subtype="close">/坐禪/箴/</ab></div>
     </body>
   </text>

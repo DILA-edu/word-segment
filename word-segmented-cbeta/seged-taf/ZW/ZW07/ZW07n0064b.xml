@@ -29,7 +29,7 @@
           <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
           <pubPlace>臺灣‧臺北</pubPlace>
           <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-          <date>2021-12-15</date>
+          <date>2022-06-14</date>
           <biblScope type="vol">ZW07</biblScope>
           <idno type="Taisho">ZW07n0064b</idno>
         </bibl>
@@ -38,17 +38,17 @@
   </teiHeader>
   <text>
     <body>
-    <div level="1"><head>/〔/錄/文/二/〕/</head>
+<milestone unit="juan" n="1"/><div level="1"><head>/〔/錄/文/二/〕/</head>
 <ab type="list">
 /月/一/日/，/童子/下/，/念/定光/如來/佛/；/
 /八/日/，/太山/下/，/念/藥/師/琉璃/光/佛/；/
 /十四日/，/察/命/下/，/念/賢劫/千/佛/；/
 /十五日/，/五道/大將軍/下/，/念/阿閦/佛/；/
-/十八/日/，/閻羅王/下/，/念/觀世音/菩薩/；/
-/二十三日/，/天/大將軍/下/，/念/盧舍那/佛/；/
+/十八日/，/閻羅王/下/，/念/觀世音/菩薩/；/
+/二十三日/，/天/大將軍/下/，/念盧舍那/佛/；/
 /二十四日/，/太山府/君/下/，/念/地藏/菩薩/；/
 /二十八日/，/天帝釋/下/，/念/阿彌陀/佛/；/
-/二十九/日/，/四天王/下/，/念/藥王/藥上/菩薩/；/
+/二十九/日/，/四天王/下/，/念/藥王/藥/上/菩薩/；/
 /三十/日/，/大梵王/下/，/念/釋迦牟尼/佛/。/</ab>
 <ab type="prose">/〔/錄/文/完/〕/</ab></div>
     </body>

@@ -29,7 +29,7 @@
           <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
           <pubPlace>臺灣‧臺北</pubPlace>
           <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-          <date>2021-12-15</date>
+          <date>2022-06-14</date>
           <biblScope type="vol">T19</biblScope>
           <idno type="Taisho">T19n1021</idno>
         </bibl>
@@ -38,14 +38,14 @@
   </teiHeader>
   <text>
     <body>
-    <div level="1">
-<ab type="juan" subtype="open">/華嚴經/心陀羅尼/</ab>
+<milestone n="1" unit="juan"/><div level="1">
+<ab type="juan" subtype="open">/華嚴/經/心陀羅尼/</ab>
 <div type="dharani" level="2">
 <ab type="dharani">唵枳那枳那怛他伽頭踟婆陛珊隱底婆囉底烏陀慕陀迷唵薩陛梯薩嚩(二合)訶</ab>
 <ab type="prose">/此/陀羅尼/是/普賢/如來/說/。/于闐國/三藏/實叉難陀/譯/。/</ab>
 <ab type="prose">/別/有/本/經/云/。/若/人/誦/此/一/遍/。/準/誦/龍/藏/中/華嚴經/上/中/下/三/本/一/遍/。/何況/常/持/。/若/能/滿/十萬/遍/者/。/其/人/敏悟/精微/。/洞徹/一切/教藏/。/至於/福/聚/轉/障/不可/具說/。/</ab></div>
 <div type="w" level="2">
-<ab type="prose">/上元縣/高公/寺/摩訶衍/和尚/授/</ab></div></div>
+<ab type="prose">/上元縣/高公寺/摩訶衍/和尚/授/</ab></div></div>
     </body>
   </text>
 </TEI>

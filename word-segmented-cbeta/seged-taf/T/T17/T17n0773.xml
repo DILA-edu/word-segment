@@ -29,7 +29,7 @@
           <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
           <pubPlace>臺灣‧臺北</pubPlace>
           <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-          <date>2021-12-15</date>
+          <date>2022-06-14</date>
           <biblScope type="vol">T17</biblScope>
           <idno type="Taisho">T17n0773</idno>
         </bibl>
@@ -38,7 +38,7 @@
   </teiHeader>
   <text>
     <body>
-    
+<milestone n="1" unit="juan"/>
 <ab type="juan" subtype="open">/佛/說/菩薩/修行/四/法/經/</ab>
 <byline>/大唐/天竺/三藏/地婆訶羅/譯/</byline>
 <div type="jing" level="1">
@@ -46,7 +46,7 @@
 <ab type="prose">/一時/佛/在/舍衛國/祇樹/給孤獨/園/，/與/大/比丘/眾/千二百五十/人/俱/。/爾時/世尊/告/諸/比丘/：/「/汝等/已/得/無量/善利/，/當/求/無上/佛/大菩提/。/何以/故/？/佛/菩提/者/，/世/、/出世間/無等等/故/。/若/未來世/諸/眾生/等/，/發意/欲/求/佛/菩提/者/，/當/修/四/法/。/何等/為/四/？/一/者/、/當/發/大菩提心/，/寧/失/身命/，/不應/退轉/；/二/者/、/應當/親近/善/友/，/寧/失/身命/，/不應/遠離/；/三/者/、/應/修/忍辱/柔和/，/寧/失/身命/，/不/生/瞋恚/；/四/者/、/當/依/寂靜/之/處/，/寧/失/身命/，/不/思/憒閙/。/諸/善男子/！/如是/四/法/，/菩薩/摩訶薩/應當/修學/。/」/</ab>
 <ab type="prose">/爾時/世尊/即/說/偈言/：/</ab>
 <ab type="verse">/「/諸/欲/求/勝/果/，/　/當/發/菩提心/，/
-策/勤/精進/行/，/　/須/依/善知識/。/
+/策/勤/精進/行/，/　/須/依/善知識/。/
 /忍辱/佛/所/讚/，/　/稱/為/有/力/人/，/
 /空閑/聖/所/居/，/　/無畏/猶/師子/。/」/
 </ab>

@@ -29,7 +29,7 @@
           <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
           <pubPlace>臺灣‧臺北</pubPlace>
           <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-          <date>2021-12-15</date>
+          <date>2022-06-14</date>
           <biblScope type="vol">F27</biblScope>
           <idno type="Taisho">F27n1060</idno>
         </bibl>
@@ -38,7 +38,7 @@
   </teiHeader>
   <text>
     <body>
-    
+<milestone unit="juan" n="1"/>
 <ab type="juan" subtype="open">/梵本/般若波羅蜜多心經/一/卷/　/　/　/丁/</ab>
 <byline>/大契丹國師/中/天竺/摩竭/陁國/三藏法師/　/　/慈賢/　/譯/</byline>
 <div type="dharani" level="1">

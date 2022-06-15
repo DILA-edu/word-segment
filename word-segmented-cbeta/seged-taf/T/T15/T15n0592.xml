@@ -29,7 +29,7 @@
           <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
           <pubPlace>臺灣‧臺北</pubPlace>
           <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-          <date>2021-12-15</date>
+          <date>2022-06-14</date>
           <biblScope type="vol">T15</biblScope>
           <idno type="Taisho">T15n0592</idno>
         </bibl>
@@ -38,12 +38,12 @@
   </teiHeader>
   <text>
     <body>
-    
+<milestone n="1" unit="juan"/>
 <ab type="juan" subtype="open">/天/請問/經/</ab>
-<byline>/大唐/三藏法師/玄奘/奉/　/詔/譯/</byline>
+<byline>/大唐/三藏/法師/玄奘/奉/　/詔/譯/</byline>
 <div type="jing" level="1">
 <ab type="prose">/如是我聞/：/</ab>
-<ab type="prose">/一時/薄伽梵/在/室羅筏國/，/住/誓多林/給孤獨/園/。/時/有/一/天/，/顏容/殊妙/，/過/於/夜分/，/來/詣/佛/所/，/頂禮/佛/足/，/却住/一面/。/是/天/威光/，/甚/大/赫奕/，/周遍/照曜/誓多/園林/。/</ab>
+<ab type="prose">/一時/薄伽梵/在/室羅筏國/，/住/誓多林/給孤獨/園/。/時/有/一/天/，/顏容/殊妙/，/過/於/夜分/，/來/詣/佛/所/，/頂禮/佛/足/，/却住/一面/。/是/天/威光/，/甚/大/赫奕/，/周遍/照曜/誓/多/園林/。/</ab>
 <ab type="prose">/爾時/彼/天/以/妙/伽他/而/請/佛/曰/：/</ab>
 <ab type="verse">/「/云何/利/刀劍/？/　/云何/磣/毒藥/？/
 /云何/熾盛/火/？/　/云何/極/重/暗/？/」/
@@ -86,11 +86,11 @@
 </ab>
 <ab type="prose">/天/復/請/曰/：/</ab>
 <ab type="verse">/「/何者/愛/非/宜/？/　/何者/宜/非/愛/？/
-/何者/極/熱病/？/　/誰/是/大/良醫/？/」/
+/何/者/極/熱/病/？/　/誰/是/大/良醫/？/」/
 </ab>
 <ab type="prose">/世尊/告/曰/：/</ab>
 <ab type="verse">/「/諸/欲愛/非/宜/，/　/解脫/宜/非/愛/，/
-/貪/為/極/熱病/，/　/佛/是/大/良醫/。/」/
+/貪/為/極/熱/病/，/　/佛/是/大/良醫/。/」/
 </ab>
 <ab type="prose">/天/復/請/曰/：/</ab>
 <ab type="verse">/「/誰/能/覆/世間/？/　/世間/誰/所/魅/？/

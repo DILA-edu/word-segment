@@ -29,7 +29,7 @@
           <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
           <pubPlace>臺灣‧臺北</pubPlace>
           <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-          <date>2021-12-15</date>
+          <date>2022-06-14</date>
           <biblScope type="vol">T85</biblScope>
           <idno type="Taisho">T85n2852</idno>
         </bibl>
@@ -38,12 +38,12 @@
   </teiHeader>
   <text>
     <body>
-    <div level="1">
+<milestone n="1" unit="juan"/><div level="1">
 <ab type="juan" subtype="open">/入/布薩堂/說/偈/文/等/</ab>
 <ab type="verse">/持戒/清淨/如/滿月/　/身/口/皎潔/無/瑕穢/
-/清淨/和合/無/違/諍/　/爾乃/可/得/同/布薩/
+/清淨/和合/無/違諍/　/爾乃/可/得/同/布薩/
 </ab><head>/受/水/偈/文/</head>
-<ab type="verse">/八/功德水/淨/諸/塵/　/灌/掌/去/垢/心/無/染/
+<ab type="verse">/八/功德/水/淨/諸/塵/　/灌/掌/去/垢/心/無/染/
 /奉持/禁戒/無/缺/犯/　/一切/眾生/悉/如是/
 </ab><head>/浴/籌/說/偈/文/</head>
 <ab type="verse">/羅漢/聖僧/集/　/凡夫/眾/和合/

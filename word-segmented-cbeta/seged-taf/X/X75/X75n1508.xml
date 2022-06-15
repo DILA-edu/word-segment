@@ -29,7 +29,7 @@
           <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
           <pubPlace>臺灣‧臺北</pubPlace>
           <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-          <date>2021-12-15</date>
+          <date>2022-06-14</date>
           <biblScope type="vol">X75</biblScope>
           <idno type="Taisho">X75n1508</idno>
         </bibl>
@@ -38,9 +38,9 @@
   </teiHeader>
   <text>
     <body>
-    
+<milestone unit="juan" n="1"/>
 <ab type="juan" subtype="open">/釋迦/如來/成道/記/一/卷/</ab>
-<byline>/唐/　/王勃/撰/</byline>
+<byline>/唐/　/王/勃/撰/</byline>
 <div type="" level="1">
 <ab type="prose">/(/會/入/于/釋迦/如來/道/記/注/)/</ab></div>
     </body>

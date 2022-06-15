@@ -29,7 +29,7 @@
           <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
           <pubPlace>臺灣‧臺北</pubPlace>
           <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-          <date>2021-12-15</date>
+          <date>2022-06-14</date>
           <biblScope type="vol">F12</biblScope>
           <idno type="Taisho">F12n0546</idno>
         </bibl>
@@ -38,11 +38,11 @@
   </teiHeader>
   <text>
     <body>
-    
+<milestone unit="juan" n="1"/>
 <div type="w" level="1">
 <byline>/通/理/大師/集/</byline>
 <ab type="juan" subtype="open">/金剛/礼/一/本/</ab>
-<ab type="prose">/作/供/梵/嘆/如/常/依/慈氏/礼/聲/</ab>
+<ab type="prose">/作/供/梵嘆/如/常/依/慈氏/礼聲/</ab>
 <ab type="table"/>
 <ab type="row"/>
 <ab type="cell">/志心/㱕/命/礼/</ab>
@@ -51,7 +51,7 @@
 <ab type="cell">/福智/無比/</ab>
 <ab type="cell">/無為/福/勝/</ab>
 <ab type="row"/>
-<ab type="cell">/一/相/無相/</ab>
+<ab type="cell">/一相/無相/</ab>
 <ab type="cell">/化/無/所/化/</ab>
 <ab type="cell">/無/断/無/滅/</ab>
 <ab type="cell">/法界/通化/</ab>
@@ -64,7 +64,7 @@
 <ab type="cell">/善現/起/請/</ab>
 <ab type="cell">/尊重/正教/</ab>
 <ab type="cell">/無/法/可/得/</ab>
-<ab type="cell">/依法/出生/</ab>
+<ab type="cell">/依/法/出生/</ab>
 <ab type="row"/>
 <ab type="cell">/一/礼/合相/</ab>
 <ab type="cell">/法會/因/由/</ab>
@@ -77,7 +77,7 @@
 <ab type="cell">/一切/法寶/</ab>
 <ab type="row"/>
 <ab type="cell">/妙/行/無住/</ab>
-<ab type="cell">/正信/希有/</ab>
+<ab type="cell">/正/信/希有/</ab>
 <ab type="cell">/離/相/寂滅/</ab>
 <ab type="cell">/能/淨/業障/</ab>
 <ab type="row"/>
@@ -92,11 +92,11 @@
 <ab type="cell">/一切/僧寶/</ab>
 <ab type="table"/>
 <ab type="row"/>
-<ab type="cell">/志心/普/奉/為/</ab>
+<ab type="cell">/志/心/普/奉/為/</ab>
 <ab type="cell">/三十二/分/滿/</ab>
 <ab type="cell">/一十八/住/圓/</ab>
 <ab type="cell">/二十七/疑/遣/</ab>
-<ab type="cell">/德/海/難思議/</ab>
+<ab type="cell">/德/海/難/思議/</ab>
 <ab type="row"/>
 <ab type="cell">/四恩/并/七趣/</ab>
 <ab type="cell">/法界/諸/群生/</ab>
@@ -105,7 +105,7 @@
 <ab type="prose">/志心/懺悔/</ab>
 <ab type="table"/>
 <ab type="row"/>
-<ab type="cell">/志心/普/懺/願/</ab>
+<ab type="cell">/志心/普/懺願/</ab>
 <ab type="cell">/先/身/有/報障/</ab>
 <ab type="cell">/今日/受持/經/</ab>
 <ab type="cell">/暫/被/人/輕賤/</ab>

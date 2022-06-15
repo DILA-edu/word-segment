@@ -29,7 +29,7 @@
           <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
           <pubPlace>臺灣‧臺北</pubPlace>
           <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-          <date>2021-12-15</date>
+          <date>2022-06-14</date>
           <biblScope type="vol">T21</biblScope>
           <idno type="Taisho">T21n1325</idno>
         </bibl>
@@ -38,7 +38,7 @@
   </teiHeader>
   <text>
     <body>
-    
+<milestone n="1" unit="juan"/>
 <div type="jing" level="1">
 <ab type="juan" subtype="open">/佛/說/療/痔/病/經/</ab>
 <byline>/大唐/三藏/義淨/奉/　/制/譯/</byline>
@@ -50,7 +50,7 @@
 <ab type="dharani">「怛姪他　揭賴米　室利　室利　魔揭室至　三磨𮧔都　莎訶</ab>
 <ab type="prose">/「/此/呪/(/丹藏/云/)/：/</ab>
 <ab type="dharani">「怛姪他　頞闌帝　頞藍謎　室利鞞　室里室里　磨羯失質　三婆跋覩　莎訶</ab>
-<ab type="prose">/「/阿難陀/！/於/此/北方/，/有/大/雪山/王/。/中/有/大/莎羅樹/，/名/曰/『/難勝/』/。/有/三/種/華/：/一/者/初/生/、/二/者/圓滿/、/三/者/乾枯/。/猶如/彼/華/，/乾燥/落/時/，/我/諸/痔/病/亦復/如是/，/勿/復/血/出/，/亦/勿/膿流/，/永/除/苦痛/，/悉皆/乾燥/。/又復/若/常/誦/此/經/者/，/得/宿住/智/，/能/憶/過去/七/生/之/事/。/呪法/成就/，/莎訶/。/」/</ab>
+<ab type="prose">/「/阿難陀/！/於/此/北方/，/有/大/雪山/王/。/中/有/大/莎羅樹/，/名/曰/『/難勝/』/。/有/三/種/華/：/一/者/初/生/、/二/者/圓滿/、/三/者/乾枯/。/猶如/彼/華/，/乾燥/落/時/，/我/諸/痔/病/亦復/如是/，/勿/復/血/出/，/亦/勿/膿流/，/永/除/苦痛/，/悉皆/乾燥/。/又復/若/常/誦/此/經/者/，/得/宿/住/智/，/能/憶/過去/七/生/之/事/。/呪法/成就/，/莎訶/。/」/</ab>
 <ab type="prose">/又/說/呪/曰/：/</ab>
 <ab type="dharani">「怛姪他　占米　占米　捨占米　占沒儞　捨占泥　莎訶」</ab>
 <ab type="prose">/佛/說/是/經/已/，/時/，/具壽/阿難陀/及/諸/大眾/，/皆大歡喜/，/信受奉行/。/</ab>

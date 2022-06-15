@@ -29,7 +29,7 @@
           <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
           <pubPlace>臺灣‧臺北</pubPlace>
           <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-          <date>2021-12-15</date>
+          <date>2022-06-14</date>
           <biblScope type="vol">X65</biblScope>
           <idno type="Taisho">X65n1291</idno>
         </bibl>
@@ -38,9 +38,9 @@
   </teiHeader>
   <text>
     <body>
-    <div level="1">
+<milestone unit="juan" n="1"/><div level="1">
 <div type="xu" level="2"><head>/No/./1291/-/A/南明/泉頌/永嘉/證道/謌序/</head>
-<ab type="prose">/我/聞/。/如來/善/護念/諸/菩薩/以/心/。/善/付囑/諸/菩薩/以/法/。/心/之/所/示/。/言/所/不能/該/。/法/之/所/傳/。/意/所/不能/盡/。/即/言/即/意/。/皆/諸/妄想/。/離/言/意/者/。/亦復/如是/。/不/即/不/離/。/種種/平等/。/不/墮/於/無/。/不/麗/於/有/。/言/意/兩/忘/。/而/心法/得/矣/。/夫/法/本/無為/。/對/境/而/立/。/心/非/有相/。/隨/物/而/現/。/故/前/際/不/來/。/後/際/不/去/。/其/於/今/也/。/如/轉輪/。/如/流水/。/不/流/不/轉/。/而/亦/不/住/。/不/住/則/無/在/也/。/無/在/而/無不/在/。/是/真/常住/者/也/。/而/昧/者/不/知/。/乃/以/色/見/如來/。/以/音聲/求/如來/。/豈/不/謬/哉/。/永嘉禪師/證/道歌/。/其/深/於/道/矣/。/然/道/無/所/事/於/證/也/。/而/永/嘉方/且/嘵/嘵/。/而/與/世俗/辯/者/。/彼/豈/累/於/言/意/為/哉/。/惟/如來/不厭/世間/。/而/入/涅槃/。/不/去/文字/。/而/住/解脫/。/不/斷/煩惱/。/而/流/出/一切/真如/菩提/。/永嘉/蓋/得/諸/此/而已/。/南明禪師/泉公/。/昔/居/千/頃/。/復/頌/證/道歌/。/成/三百二十/篇/。/嗚呼/。/發/如來/大/智慧/海/。/使/人/皆/得/望/其/涯涘/。/而/泝/其/流/。/不/絕/諸/念/。/不/著/諸/相/。/不/外/諸/因緣/。/普/以/吾/覺/。/悅可/眾/心/。/何其/盛/哉/。/觀/其/頌/。/而/吾/無/能/惜/其/狂/言/。/故/為/之/序/云/。/</ab>
+<ab type="prose">/我/聞/。/如來/善/護念/諸/菩薩/以/心/。/善/付囑/諸/菩薩/以/法/。/心/之/所/示/。/言/所/不能/該/。/法/之/所/傳/。/意/所/不能/盡/。/即/言/即/意/。/皆/諸/妄想/。/離/言/意/者/。/亦復/如是/。/不/即/不/離/。/種種/平等/。/不/墮/於/無/。/不/麗/於/有/。/言/意/兩/忘/。/而/心法/得/矣/。/夫/法/本/無為/。/對/境/而/立/。/心/非/有相/。/隨/物/而/現/。/故/前/際/不/來/。/後/際/不/去/。/其/於/今/也/。/如/轉輪/。/如/流水/。/不/流/不/轉/。/而/亦/不/住/。/不/住/則/無/在/也/。/無/在/而/無不/在/。/是/真/常住/者/也/。/而/昧/者/不/知/。/乃/以/色/見/如來/。/以/音聲/求/如來/。/豈/不/謬/哉/。/永嘉禪師/證/道歌/。/其/深/於/道/矣/。/然/道/無/所/事/於/證/也/。/而/永/嘉方/且/嘵/嘵/。/而/與/世俗/辯/者/。/彼/豈/累/於/言/意/為/哉/。/惟/如來/不/厭/世間/。/而/入/涅槃/。/不/去/文字/。/而/住/解脫/。/不/斷/煩惱/。/而/流/出/一切/真如/菩提/。/永/嘉蓋/得/諸/此/而已/。/南明禪師/泉公/。/昔/居/千/頃/。/復/頌/證/道歌/。/成/三百二十篇/。/嗚呼/。/發/如來/大/智慧/海/。/使人/皆/得/望/其/涯涘/。/而/泝/其/流/。/不/絕/諸/念/。/不/著/諸/相/。/不/外/諸/因緣/。/普/以/吾/覺/。/悅可/眾/心/。/何其/盛/哉/。/觀/其/頌/。/而/吾/無/能/惜/其/狂/言/。/故/為/之/序/云/。/</ab>
 <ab type="prose">/時/熈寧/十年/丁巳/七月/　/括蒼/　/吳庸天/用/　/序/</ab></div>
 <ab type="juan" subtype="open">/永嘉/真覺禪師/證/道歌/</ab>
 <byline>/千/頃/山/沙門/　/法/泉/　/繼頌/</byline>
@@ -51,7 +51,7 @@
 <div type="orig" level="2">
 <ab type="prose">/君/不/見/。/</ab></div>
 <div type="commentary" level="2">
-<ab type="prose">/是/何/顏/。/擬/議/思量/隔亂山/。/從/此/曹磎門/外/句/。/依/前/流落/向/人間/。/</ab></div>
+<ab type="prose">/是/何/顏/。/擬/議/思量/隔/亂/山/。/從/此/曹磎門/外/句/。/依/前/流落/向/人間/。/</ab></div>
 <div type="orig" level="2">
 <ab type="prose">/絕/學/無為/閑/道人/。/</ab></div>
 <div type="commentary" level="2">
@@ -79,7 +79,7 @@
 <div type="orig" level="2">
 <ab type="prose">/五陰/浮/雲/空/去來/。/</ab></div>
 <div type="commentary" level="2">
-<ab type="prose">/英/英/似/有/還/非/實/。/西/風/一/陣/埽/無/蹤/。/萬里山/河/共/晴/日/。/</ab></div>
+<ab type="prose">/英英/似/有/還/非/實/。/西風/一/陣/埽/無/蹤/。/萬里山河/共/晴日/。/</ab></div>
 <div type="orig" level="2">
 <ab type="prose">/三毒/水泡/虗/出沒/。/</ab></div>
 <div type="commentary" level="2">
@@ -91,23 +91,23 @@
 <div type="orig" level="2">
 <ab type="prose">/無/人/法/。/</ab></div>
 <div type="commentary" level="2">
-<ab type="prose">/只/此/人/。/見/說/今/年/直/是/貧/。/舉目/已/無/依倚/處/。/金剛門/外/尚/含/瞋/。/</ab></div>
+<ab type="prose">/只/此/人/。/見/說/今/年/直/是/貧/。/舉/目/已/無/依倚/處/。/金剛門/外/尚/含/瞋/。/</ab></div>
 <div type="orig" level="2">
 <ab type="prose">/剎那/滅/却/阿鼻業/。/</ab></div>
 <div type="commentary" level="2">
-<ab type="prose">/休/言/善惡/不/同/途/。/須/知/罪/性/猶/霜雪/。/慧日/才/昇/一/點/無/。/</ab></div>
+<ab type="prose">/休/言/善惡/不/同/途/。/須/知/罪性/猶/霜雪/。/慧日/才/昇/一/點/無/。/</ab></div>
 <div type="orig" level="2">
 <ab type="prose">/若/將/妄語/誑/眾生/。/</ab></div>
 <div type="commentary" level="2">
-<ab type="prose">/自己/何緣/能/出離/。/此/心/終日/類/孤舟/。/只/欲/含/靈/免/淪墜/。/</ab></div>
+<ab type="prose">/自己/何緣/能/出離/。/此/心/終日/類/孤舟/。/只/欲/含/靈/免/淪/墜/。/</ab></div>
 <div type="orig" level="2">
-<ab type="prose">/自/招/拔/舌/塵沙/劫/。/</ab></div>
+<ab type="prose">/自/招/拔/舌/塵/沙/劫/。/</ab></div>
 <div type="commentary" level="2">
 <ab type="prose">/莫/大/之/恩/豈/易/酧/。/對/此/翻憐/遠/遊子/。/光陰/喪/盡/不/迴/頭/。/</ab></div>
 <div type="orig" level="2">
 <ab type="prose">/頓/覺了/。/</ab></div>
 <div type="commentary" level="2">
-<ab type="prose">/即/忘/筌/。/依/舊/眉毛/在/眼/邊/。/向/上/機關/何/足/道/。/飢/來/喫/食/困來/眠/。/</ab></div>
+<ab type="prose">/即/忘/筌/。/依/舊/眉/毛/在/眼/邊/。/向/上/機關/何/足/道/。/飢/來/喫/食/困來/眠/。/</ab></div>
 <div type="orig" level="2">
 <ab type="prose">/如來/禪/。/</ab></div>
 <div type="commentary" level="2">
@@ -123,11 +123,11 @@
 <div type="orig" level="2">
 <ab type="prose">/覺/後/空/空/無/大千/。/</ab></div>
 <div type="commentary" level="2">
-<ab type="prose">/始/信/從/前/自/拘縛/。/如今/要/識/本來/空/。/門/外/青山/倚/寥廓/。/</ab></div>
+<ab type="prose">/始/信/從/前/自/拘縛/。/如今/要/識/本來/空/。/門/外/青/山/倚/寥廓/。/</ab></div>
 <div type="orig" level="2">
 <ab type="prose">/無/罪福/。/</ab></div>
 <div type="commentary" level="2">
-<ab type="prose">/妄/真/捐/。/皎月/當/秋/莫/喻/圓/。/仗/劍/文殊/猶/不/見/。/豈/容/生死/到/伊/邊/。/</ab></div>
+<ab type="prose">/妄/真捐/。/皎月/當/秋/莫/喻/圓/。/仗/劍/文殊/猶/不/見/。/豈/容/生死/到/伊/邊/。/</ab></div>
 <div type="orig" level="2">
 <ab type="prose">/無/損益/。/</ab></div>
 <div type="commentary" level="2">
@@ -135,7 +135,7 @@
 <div type="orig" level="2">
 <ab type="prose">/寂滅/性/中/莫/問/覓/。/</ab></div>
 <div type="commentary" level="2">
-<ab type="prose">/坐/斷/千/峯/過/者/難/。/莫/訝/空堂/無/客/到/。/從/來/不/許/外人/看/。/</ab></div>
+<ab type="prose">/坐/斷/千/峯/過/者/難/。/莫/訝/空堂/無/客/到/。/從/來/不/許/外/人/看/。/</ab></div>
 <div type="orig" level="2">
 <ab type="prose">/比/來/塵/鏡/未曾/磨/。/</ab></div>
 <div type="commentary" level="2">
@@ -151,19 +151,19 @@
 <div type="orig" level="2">
 <ab type="prose">/誰/無生/。/</ab></div>
 <div type="commentary" level="2">
-<ab type="prose">/生/是/妄/。/妄/起/無/根/即/實相/。/一/夜/曹溪/水/逆/流/。/平/人/無/生/限/隨/波浪/。/</ab></div>
+<ab type="prose">/生/是/妄/。/妄/起/無/根/即/實相/。/一/夜/曹溪/水/逆/流/。/平/人/無/生限/隨/波浪/。/</ab></div>
 <div type="orig" level="2">
 <ab type="prose">/若/實/無/生/無不/生/。/</ab></div>
 <div type="commentary" level="2">
-<ab type="prose">/生生/豈/與/無生/異/。/無不/生/時/一/物/無/。/欲/識/無生/萬/法/是/。/</ab></div>
+<ab type="prose">/生生/豈/與/無生/異/。/無不/生/時/一/物/無/。/欲/識/無生萬/法/是/。/</ab></div>
 <div type="orig" level="2">
 <ab type="prose">/喚/取/機關/木/人/問/。/</ab></div>
 <div type="commentary" level="2">
-<ab type="prose">/此/理/從/來/不/屬/知/。/若/謂/無/知/是/真/道/。/秋風臺殿/黍/離離/。/</ab></div>
+<ab type="prose">/此/理/從/來/不/屬/知/。/若/謂/無/知/是/真/道/。/秋/風/臺/殿/黍/離/離/。/</ab></div>
 <div type="orig" level="2">
 <ab type="prose">/求/佛/施/功/早/晚/成/。/</ab></div>
 <div type="commentary" level="2">
-<ab type="prose">/無/證/無/修/功/自/久/。/看/取/虗/空/滿/目前/。/豈/容/捉/搦/隨/人/手/。/</ab></div>
+<ab type="prose">/無/證/無/修/功/自/久/。/看/取/虗/空/滿/目/前/。/豈/容/捉/搦/隨/人/手/。/</ab></div>
 <div type="orig" level="2">
 <ab type="prose">/放/四大/。/</ab></div>
 <div type="commentary" level="2">
@@ -171,7 +171,7 @@
 <div type="orig" level="2">
 <ab type="prose">/莫/把/捉/。/</ab></div>
 <div type="commentary" level="2">
-<ab type="prose">/翦/翦/規/規/成/大/錯/。/欲/將/心意/學/修行/。/大虗/豈/解/生/頭/角/。/</ab></div>
+<ab type="prose">/翦/翦/規/規/成/大/錯/。/欲/將/心意/學/修行/。/大/虗/豈/解/生/頭/角/。/</ab></div>
 <div type="orig" level="2">
 <ab type="prose">/寂滅/性/中/隨/飲/啄/。/</ab></div>
 <div type="commentary" level="2">
@@ -179,31 +179,31 @@
 <div type="orig" level="2">
 <ab type="prose">/諸/行/無常/一切/空/。/</ab></div>
 <div type="commentary" level="2">
-<ab type="prose">/緣起/緣/終性/本/同/。/欲/捨/緣/生/求/實義/。/猶如/問/北/却/行/東/。/</ab></div>
+<ab type="prose">/緣起/緣/終性/本/同/。/欲/捨/緣生/求/實義/。/猶如/問/北/却/行/東/。/</ab></div>
 <div type="orig" level="2">
-<ab type="prose">/即是/如來/大圓覺/。/</ab></div>
+<ab type="prose">/即是/如來/大/圓覺/。/</ab></div>
 <div type="commentary" level="2">
 <ab type="prose">/更/無/一/物/可/雌/黃/。/倚/簷山/色/連/雲/翠/。/出/檻/花/枝/帶/露/香/。/</ab></div>
 <div type="orig" level="2">
 <ab type="prose">/決定/說/。/</ab></div>
 <div type="commentary" level="2">
-<ab type="prose">/莫/狐疑/。/直/下/承/當/已/是/遲/。/香/嚴/當/日/成/何/事/。/擊/竹徒/言/上上/機/。/</ab></div>
+<ab type="prose">/莫/狐疑/。/直/下/承/當/已/是/遲/。/香/嚴/當/日/成/何/事/。/擊/竹徒/言/上/上機/。/</ab></div>
 <div type="orig" level="2">
 <ab type="prose">/表/真/乘/。/</ab></div>
 <div type="commentary" level="2">
-<ab type="prose">/不/虗偽/。/攝/盡/塵沙/無量義/。/堅密/長/如/百/鍊/金/。/剛鎚/猛/燄/徒/相/試/。/</ab></div>
+<ab type="prose">/不/虗/偽/。/攝/盡/塵沙/無量義/。/堅密/長/如/百/鍊/金/。/剛鎚/猛/燄/徒/相/試/。/</ab></div>
 <div type="orig" level="2">
 <ab type="prose">/有/人/不/肯/任/情/徵/。/</ab></div>
 <div type="commentary" level="2">
-<ab type="prose">/意/句/交/馳/千萬/狀/。/園/裏/花/枝/任/短長/。/青帝/春風/還/一/樣/。/</ab></div>
+<ab type="prose">/意/句/交/馳/千萬/狀/。/園/裏/花/枝/任/短長/。/青帝/春/風/還/一/樣/。/</ab></div>
 <div type="orig" level="2">
 <ab type="prose">/直/截/根源/佛/所/印/。/</ab></div>
 <div type="commentary" level="2">
-<ab type="prose">/電/轉/風/行/頃/刻/間/。/火/急/歸來/莫/迴/顧/。/須臾/寒/日/下/西山/。/</ab></div>
+<ab type="prose">/電/轉/風/行/頃/刻間/。/火/急/歸/來/莫/迴/顧/。/須臾/寒日/下/西山/。/</ab></div>
 <div type="orig" level="2">
 <ab type="prose">/摘/葉/尋/枝/我/不能/。/</ab></div>
 <div type="commentary" level="2">
-<ab type="prose">/數/去/飜/來/何/所/得/。/可憐/遊子/逐/芳菲/。/不/覺/紅塵/蠧/顏色/。/</ab></div>
+<ab type="prose">/數/去/飜/來/何/所/得/。/可憐/遊子/逐/芳菲/。/不/覺/紅/塵/蠧/顏色/。/</ab></div>
 <div type="orig" level="2">
 <ab type="prose">/摩尼珠/。/</ab></div>
 <div type="commentary" level="2">
@@ -215,19 +215,19 @@
 <div type="orig" level="2">
 <ab type="prose">/如來藏/裏/親/収/得/。/</ab></div>
 <div type="commentary" level="2">
-<ab type="prose">/要/識/如來藏/也/麼/。/酸酒/冷茶/三/五/醆/。/長江/風/急/浪/花/多/。/</ab></div>
+<ab type="prose">/要/識/如來藏/也/麼/。/酸酒/冷茶/三/五/醆/。/長/江風/急/浪/花/多/。/</ab></div>
 <div type="orig" level="2">
 <ab type="prose">/六/般神/用/空/不/空/。/</ab></div>
 <div type="commentary" level="2">
 <ab type="prose">/在/聖/在/凡/無異/質/。/不二/門/開任/往還/。/何/須/更/問/維摩詰/。/</ab></div>
 <div type="orig" level="2">
-<ab type="prose">/一/顆/圓/光色/非/色/。/</ab></div>
+<ab type="prose">/一/顆/圓/光色/非色/。/</ab></div>
 <div type="commentary" level="2">
 <ab type="prose">/那律/能/觀/不/易/觀/。/正/體/從/來/誰/得/見/。/風/高/天地/雪/霜/寒/。/</ab></div>
 <div type="orig" level="2">
 <ab type="prose">/淨/五/眼/。/</ab></div>
 <div type="commentary" level="2">
-<ab type="prose">/異/還/同/。/萬/別/千/差/畢竟空/。/誰/知/塵/劫/無窮/事/。/如/視/菴摩/在/掌/中/。/</ab></div>
+<ab type="prose">/異/還/同/。/萬/別/千/差/畢竟/空/。/誰/知/塵劫/無窮/事/。/如/視/菴摩/在/掌/中/。/</ab></div>
 <div type="orig" level="2">
 <ab type="prose">/得/五力/。/</ab></div>
 <div type="commentary" level="2">
@@ -243,7 +243,7 @@
 <div type="orig" level="2">
 <ab type="prose">/水/中/捉/月/爭/拈/得/。/</ab></div>
 <div type="commentary" level="2">
-<ab type="prose">/真/月/何/甞/在/水/中/。/但/得/癡/猨/狂/解/息/。/江河/淮濟/一時/通/。/</ab></div>
+<ab type="prose">/真月/何/甞/在/水/中/。/但/得/癡/猨/狂/解/息/。/江河/淮濟/一時/通/。/</ab></div>
 <div type="orig" level="2">
 <ab type="prose">/常/獨/行/。/</ab></div>
 <div type="commentary" level="2">
@@ -259,19 +259,19 @@
 <div type="orig" level="2">
 <ab type="prose">/調古/神/清風/自高/。/</ab></div>
 <div type="commentary" level="2">
-<ab type="prose">/若/涉/絲毫/未/相/許/。/妙峯頂/上/忽/逢/時/。/不/與/白雲/為/伴侶/。/</ab></div>
+<ab type="prose">/若/涉/絲毫/未/相/許/。/妙峯/頂/上/忽/逢/時/。/不/與/白雲/為/伴侶/。/</ab></div>
 <div type="orig" level="2">
-<ab type="prose">/貌/顇/骨/剛/人/不/顧/。/</ab></div>
+<ab type="prose">/貌/顇/骨剛/人/不/顧/。/</ab></div>
 <div type="commentary" level="2">
 <ab type="prose">/取/相/凡夫/豈/易/猜/。/子貢/不/知/蔾/藿味/。/空/馳/駟馬/入/門/來/。/</ab></div>
 <div type="orig" level="2">
 <ab type="prose">/窮/釋/子/。/</ab></div>
 <div type="commentary" level="2">
-<ab type="prose">/續/真/風/。/三世/如來/格/調同/。/莫/訝/通/身/無所有/。/伊/家/活/計/本來/空/。/</ab></div>
+<ab type="prose">/續/真風/。/三世/如來/格/調同/。/莫/訝/通/身/無所有/。/伊家/活/計/本來/空/。/</ab></div>
 <div type="orig" level="2">
 <ab type="prose">/口/稱/貧/。/</ab></div>
 <div type="commentary" level="2">
-<ab type="prose">/心/煥爾/。/城/市/山林/無/所/止/。/著/箇/孃/生/破/布/衫/。/幾/經/劫火/長/如此/。/</ab></div>
+<ab type="prose">/心/煥爾/。/城/市/山林/無/所/止/。/著/箇/孃/生/破/布衫/。/幾/經/劫/火/長/如此/。/</ab></div>
 <div type="orig" level="2">
 <ab type="prose">/實/是/身/貧道/不/貧/。/</ab></div>
 <div type="commentary" level="2">
@@ -279,7 +279,7 @@
 <div type="orig" level="2">
 <ab type="prose">/貧/即/身/常/披/縷褐/。/</ab></div>
 <div type="commentary" level="2">
-<ab type="prose">/相逢/不/用/笑/繿縿/。/有時/抖擻/閑提/起/。/勝/得/空/披/錦/綉/衫/。/</ab></div>
+<ab type="prose">/相逢/不/用/笑/繿/縿/。/有時/抖擻/閑提/起/。/勝/得/空/披/錦/綉/衫/。/</ab></div>
 <div type="orig" level="2">
 <ab type="prose">/道/即/心/藏/無價/珍/。/</ab></div>
 <div type="commentary" level="2">
@@ -287,7 +287,7 @@
 <div type="orig" level="2">
 <ab type="prose">/無價/珍/。/</ab></div>
 <div type="commentary" level="2">
-<ab type="prose">/寶/之/寶/。/搜徧/龍宮/無/處/討/。/直/饒/舶/主/善/機宜/。/開/口/論/量/定/相惱/。/</ab></div>
+<ab type="prose">/寶/之/寶/。/搜徧/龍宮/無/處/討/。/直饒/舶主/善/機宜/。/開/口/論/量/定/相/惱/。/</ab></div>
 <div type="orig" level="2">
 <ab type="prose">/用/無盡/。/</ab></div>
 <div type="commentary" level="2">
@@ -295,7 +295,7 @@
 <div type="orig" level="2">
 <ab type="prose">/利/物/應/形/終悋/。/</ab></div>
 <div type="commentary" level="2">
-<ab type="prose">/還/似/龍王/降/雨/初/。/舉/意/風雲/天下/遍/。/有/何/花/木/不/沾濡/。/</ab></div>
+<ab type="prose">/還/似/龍王/降/雨/初/。/舉/意/風/雲/天下/遍/。/有/何/花/木/不/沾濡/。/</ab></div>
 <div type="orig" level="2">
 <ab type="prose">/三/身/四/智/體/中/圓/。/</ab></div>
 <div type="commentary" level="2">
@@ -307,11 +307,11 @@
 <div type="orig" level="2">
 <ab type="prose">/上士/一/決/一切/了/。/</ab></div>
 <div type="commentary" level="2">
-<ab type="prose">/勢/若/崩/山/不/小/留/。/豈/似/刻/舟/求/劍/者/。/舟移/猶自/守/船/頭/。/</ab></div>
+<ab type="prose">/勢/若/崩/山/不/小/留/。/豈/似/刻/舟/求/劍/者/。/舟/移/猶/自/守/船/頭/。/</ab></div>
 <div type="orig" level="2">
 <ab type="prose">/中/下/多聞/多/不/信/。/</ab></div>
 <div type="commentary" level="2">
-<ab type="prose">/只/為/離/家/歲月/長/。/勸/爾/從/今/息/求索/。/自/有/珍/財/滿/故/鄉/。/</ab></div>
+<ab type="prose">/只/為/離/家/歲/月/長/。/勸/爾/從/今/息/求索/。/自/有/珍/財/滿/故/鄉/。/</ab></div>
 <div type="orig" level="2">
 <ab type="prose">/但/自/懷/中/解/垢/衣/。/</ab></div>
 <div type="commentary" level="2">
@@ -319,7 +319,7 @@
 <div type="orig" level="2">
 <ab type="prose">/誰/能/向/外/誇/精進/。/</ab></div>
 <div type="commentary" level="2">
-<ab type="prose">/取捨/心/生/染汙/人/。/桃源/洞/裏/花/開/處/。/不/待/東/風/自/有/春/。/</ab></div>
+<ab type="prose">/取捨/心/生/染汙/人/。/桃源/洞/裏/花/開/處/。/不/待/東風/自/有/春/。/</ab></div>
 <div type="orig" level="2">
 <ab type="prose">/從/他/謗/。/</ab></div>
 <div type="commentary" level="2">
@@ -329,7 +329,7 @@
 <div type="commentary" level="2">
 <ab type="prose">/非/亦/是/。/非/是/何/曾/達/了義/。/了義/將/何/為/指/陳/。/春/深/花/落/莓/苔/地/。/</ab></div>
 <div type="orig" level="2">
-<ab type="prose">/把/火/燒/天/徒自/疲/。/</ab></div>
+<ab type="prose">/把/火/燒/天徒/自/疲/。/</ab></div>
 <div type="commentary" level="2">
 <ab type="prose">/蒼蒼/豈/解/生/煩惱/。/若/將/自己/合/虗/空/。/即是/如來/真實/道/。/</ab></div>
 <div type="orig" level="2">
@@ -343,23 +343,23 @@
 <div type="orig" level="2">
 <ab type="prose">/觀/惡言/。/</ab></div>
 <div type="commentary" level="2">
-<ab type="prose">/若/了/無/言/理/不/偏/。/幾/度/江風/連日/起/。/未/聞/沈/却/釣/魚/船/。/</ab></div>
+<ab type="prose">/若/了/無/言/理/不/偏/。/幾/度/江風/連日/起/。/未/聞/沈却/釣/魚/船/。/</ab></div>
 <div type="orig" level="2">
 <ab type="prose">/是/功德/。/</ab></div>
 <div type="commentary" level="2">
-<ab type="prose">/慧劍/親揮/煩惱賊/。/煙/塵埽/盡/却/歸來/。/一/色/一/香/皆/淨/國/。/</ab></div>
+<ab type="prose">/慧劍/親揮/煩惱賊/。/煙塵/埽/盡/却/歸/來/。/一/色/一/香/皆/淨/國/。/</ab></div>
 <div type="orig" level="2">
 <ab type="prose">/此/即/成/吾/善知識/。/</ab></div>
 <div type="commentary" level="2">
 <ab type="prose">/忍心/如幻/攪/無/痕/。/達多/親/授/靈山/記/。/銘/骨/如何/報/此/恩/。/</ab></div>
 <div type="orig" level="2">
-<ab type="prose">/不/因/訕/謗/起/怨親/。/</ab></div>
+<ab type="prose">/不/因/訕謗/起/怨親/。/</ab></div>
 <div type="commentary" level="2">
 <ab type="prose">/爭/識/曹溪路/上人/。/曾/渡/流沙/天/未/曉/。/至/今/滿/面/是/埃塵/。/</ab></div>
 <div type="orig" level="2">
 <ab type="prose">/何/表/無生/慈忍/力/。/</ab></div>
 <div type="commentary" level="2">
-<ab type="prose">/無生/自/證/忍/還/忘/。/年/來/老/大/歸/何/處/。/剎/剎/塵/塵/是故/鄉/。/</ab></div>
+<ab type="prose">/無生/自/證/忍/還/忘/。/年/來/老/大/歸/何/處/。/剎剎/塵/塵/是故/鄉/。/</ab></div>
 <div type="orig" level="2">
 <ab type="prose">/宗/亦/通/。/</ab></div>
 <div type="commentary" level="2">
@@ -367,7 +367,7 @@
 <div type="orig" level="2">
 <ab type="prose">/說/亦/通/。/</ab></div>
 <div type="commentary" level="2">
-<ab type="prose">/義/無量/。/應感/隨機/為/宣暢/。/若/得/因/言/達/本/根/。/止/啼/黃葉/知/虗妄/。/</ab></div>
+<ab type="prose">/義/無量/。/應感/隨機/為/宣暢/。/若/得/因/言/達/本/根/。/止/啼/黃葉/知/虗/妄/。/</ab></div>
 <div type="orig" level="2">
 <ab type="prose">/定/慧/圓明/不/滯/空/。/</ab></div>
 <div type="commentary" level="2">
@@ -377,9 +377,9 @@
 <div type="commentary" level="2">
 <ab type="prose">/是/我/何/甞/落/見知/。/有/我/直/應/還/未/達/。/若/言/無我/更/愚癡/。/</ab></div>
 <div type="orig" level="2">
-<ab type="prose">/恒/沙/諸/佛/體/皆/同/。/</ab></div>
+<ab type="prose">/恒沙/諸/佛/體/皆/同/。/</ab></div>
 <div type="commentary" level="2">
-<ab type="prose">/此/體/從來/無/間斷/。/欲/知/此/體/為/君/宣/。/漁人/笑/立/蘆花/岸/。/</ab></div>
+<ab type="prose">/此/體/從來/無間斷/。/欲/知/此/體/為/君/宣/。/漁人/笑/立/蘆花/岸/。/</ab></div>
 <div type="orig" level="2">
 <ab type="prose">/師子吼/。/</ab></div>
 <div type="commentary" level="2">
@@ -387,13 +387,13 @@
 <div type="orig" level="2">
 <ab type="prose">/無畏/說/。/</ab></div>
 <div type="commentary" level="2">
-<ab type="prose">/不/迂/斜/。/凡聖/都/如/病/眼/花/。/荊棘/林/中/啟/行路/。/相將/共/到/法王/家/。/</ab></div>
+<ab type="prose">/不/迂斜/。/凡聖/都/如/病/眼/花/。/荊棘/林/中/啟/行/路/。/相/將/共/到/法王/家/。/</ab></div>
 <div type="orig" level="2">
 <ab type="prose">/百/獸/聞/之/皆/腦裂/。/</ab></div>
 <div type="commentary" level="2">
-<ab type="prose">/還/如/魔眾/聞/真/說/。/愁怖/歸來/失/舊/容/。/不/知/本自/無/生滅/。/</ab></div>
+<ab type="prose">/還/如/魔眾/聞/真/說/。/愁怖/歸來/失/舊/容/。/不/知/本/自/無/生滅/。/</ab></div>
 <div type="orig" level="2">
-<ab type="prose">/香象/奔波/失/却/威/。/</ab></div>
+<ab type="prose">/香象/奔/波失/却/威/。/</ab></div>
 <div type="commentary" level="2">
 <ab type="prose">/二乘/證性/還/如此/。/不/知/煩惱/即/菩提/。/自/取/泥洹/厭/生死/。/</ab></div>
 <div type="orig" level="2">
@@ -407,15 +407,15 @@
 <div type="orig" level="2">
 <ab type="prose">/涉/山川/。/</ab></div>
 <div type="commentary" level="2">
-<ab type="prose">/楖/𣗖/曾/分/野路/煙/。/今日/誰/知/當/日/事/。/有時/閑/倚/草/堂/前/。/</ab></div>
+<ab type="prose">/楖/𣗖/曾/分/野路/煙/。/今日/誰/知/當/日/事/。/有時/閑倚/草堂/前/。/</ab></div>
 <div type="orig" level="2">
-<ab type="prose">/尋/師/訪道/為/參禪/。/</ab></div>
+<ab type="prose">/尋/師/訪/道/為/參禪/。/</ab></div>
 <div type="commentary" level="2">
-<ab type="prose">/何/事玄沙/不/出/嶺/。/嗟爾/今/人/若/自/欺/。/撞/破/頟/頭/猶/未/省/。/</ab></div>
+<ab type="prose">/何/事/玄沙/不/出/嶺/。/嗟爾/今/人/若/自/欺/。/撞/破/頟/頭/猶/未/省/。/</ab></div>
 <div type="orig" level="2">
 <ab type="prose">/自/從/認/得/曹溪路/。/</ab></div>
 <div type="commentary" level="2">
-<ab type="prose">/鉢/袋/針筒/日日/開/。/若/見/當/年/奔逐/者/。/為/傳/盧老/待/君/來/。/</ab></div>
+<ab type="prose">/鉢/袋/針筒/日日/開/。/若/見/當/年/奔逐/者/。/為/傳盧/老/待/君/來/。/</ab></div>
 <div type="orig" level="2">
 <ab type="prose">/了知/生死/不/相干/。/</ab></div>
 <div type="commentary" level="2">
@@ -437,9 +437,9 @@
 <div type="commentary" level="2">
 <ab type="prose">/蘊/空/已/證/即/亡/身/。/臨/危/莫/訝/無/憂怖/。/祖父/同/家/是/此/人/。/</ab></div>
 <div type="orig" level="2">
-<ab type="prose">/假/饒/毒藥/也/閑閑/。/</ab></div>
+<ab type="prose">/假饒/毒藥/也/閑閑/。/</ab></div>
 <div type="commentary" level="2">
-<ab type="prose">/曾/得/金人/護/生/訣/。/只/聞/凍/水怯/春風/。/未/見/濁/泥汙/明月/。/</ab></div>
+<ab type="prose">/曾/得/金人/護/生/訣/。/只/聞/凍/水怯/春風/。/未/見/濁/泥/汙/明月/。/</ab></div>
 <div type="orig" level="2">
 <ab type="prose">/我/師/得/見/然燈/佛/。/</ab></div>
 <div type="commentary" level="2">
@@ -451,11 +451,11 @@
 <div type="orig" level="2">
 <ab type="prose">/幾/迴/生/。/</ab></div>
 <div type="commentary" level="2">
-<ab type="prose">/長夜/冥冥/信/脚/行/。/改/頭/換面/無窮/日/。/忘/却/當/年/舊/姓名/。/</ab></div>
+<ab type="prose">/長夜/冥冥/信/脚/行/。/改/頭/換面/無窮日/。/忘却/當/年/舊/姓名/。/</ab></div>
 <div type="orig" level="2">
 <ab type="prose">/幾/迴/死/。/</ab></div>
 <div type="commentary" level="2">
-<ab type="prose">/積/骨/如/山/猶/未/已/。/山/前/野/老/若/相逢/。/蛙/步/不/移/歸/故/里/。/</ab></div>
+<ab type="prose">/積/骨/如/山/猶/未/已/。/山/前/野/老/若/相逢/。/蛙步/不/移/歸/故/里/。/</ab></div>
 <div type="orig" level="2">
 <ab type="prose">/生死/悠悠/無/定/止/。/</ab></div>
 <div type="commentary" level="2">
@@ -463,11 +463,11 @@
 <div type="orig" level="2">
 <ab type="prose">/自從/頓悟/了/無生/。/</ab></div>
 <div type="commentary" level="2">
-<ab type="prose">/性/種/熏/成/斷/憎愛/。/是/名/是/相/絕/纖毫/。/海/闊/山/高/人/不/會/。/</ab></div>
+<ab type="prose">/性/種/熏/成/斷/憎愛/。/是/名/是/相/絕/纖毫/。/海闊/山/高/人/不/會/。/</ab></div>
 <div type="orig" level="2">
-<ab type="prose">/於/諸/榮辱/何/憂/喜/。/</ab></div>
+<ab type="prose">/於/諸/榮辱/何/憂喜/。/</ab></div>
 <div type="commentary" level="2">
-<ab type="prose">/如/石/逢/春/不/變春/。/試/問/庭/前/桃/李樹/。/花/開/花/落/為/誰/人/。/</ab></div>
+<ab type="prose">/如/石/逢/春/不/變春/。/試/問/庭/前桃/李樹/。/花/開/花/落/為/誰/人/。/</ab></div>
 <div type="orig" level="2">
 <ab type="prose">/入/深/山/。/</ab></div>
 <div type="commentary" level="2">
@@ -479,9 +479,9 @@
 <div type="orig" level="2">
 <ab type="prose">/岑崟/幽邃/長/松/下/。/</ab></div>
 <div type="commentary" level="2">
-<ab type="prose">/一/念/凝然/萬/慮/灰/。/塵/中/一/徑/連/峯/頂/。/誰/解/偷/閒/向/此/來/。/</ab></div>
+<ab type="prose">/一/念/凝然/萬/慮/灰/。/塵/中/一/徑/連/峯/頂/。/誰/解/偷閒/向/此/來/。/</ab></div>
 <div type="orig" level="2">
-<ab type="prose">/優遊/靜/坐/野/僧/家/。/</ab></div>
+<ab type="prose">/優遊靜/坐/野/僧/家/。/</ab></div>
 <div type="commentary" level="2">
 <ab type="prose">/困/即/閒/眠渴/即/茶/。/暑/往/寒/來/何/所有/。/一/條/雲/衲/是/生涯/。/</ab></div>
 <div type="orig" level="2">
@@ -499,15 +499,15 @@
 <div type="orig" level="2">
 <ab type="prose">/一切/有為法/不/同/。/</ab></div>
 <div type="commentary" level="2">
-<ab type="prose">/好/滌/心源/求/出離/。/露滴/漚沈瞬息/間/。/浮生/萬物/皆/如是/。/</ab></div>
+<ab type="prose">/好/滌/心/源/求/出離/。/露滴/漚沈/瞬息/間/。/浮生/萬物/皆/如是/。/</ab></div>
 <div type="orig" level="2">
 <ab type="prose">/住/相/布施/生/天福/。/</ab></div>
 <div type="commentary" level="2">
-<ab type="prose">/玉/殿/花/臺任/意/過/。/休/言/拂/石/能/堅久/。/若/比/無生/是/剎那/。/</ab></div>
+<ab type="prose">/玉殿/花臺/任/意/過/。/休/言/拂/石/能/堅久/。/若/比/無生/是/剎那/。/</ab></div>
 <div type="orig" level="2">
 <ab type="prose">/猶如/仰/箭/射/虗/空/。/</ab></div>
 <div type="commentary" level="2">
-<ab type="prose">/是/箭/無/由/空/裏/奠/。/須/求/實相/趣/菩提/。/免/向/三途/換/頭面/。/</ab></div>
+<ab type="prose">/是/箭/無/由/空/裏/奠/。/須/求/實相/趣/菩提/。/免/向/三/途/換/頭面/。/</ab></div>
 <div type="orig" level="2">
 <ab type="prose">/勢力/盡/。/</ab></div>
 <div type="commentary" level="2">
@@ -517,7 +517,7 @@
 <div type="commentary" level="2">
 <ab type="prose">/極/方/休/。/識/浪/飄/飄/若/散/漚/。/還/隨/習/業/重/牽/去/。/到/此/何/甞/得/自由/。/</ab></div>
 <div type="orig" level="2">
-<ab type="prose">/招/得/來/生/不/如意/。/</ab></div>
+<ab type="prose">/招/得/來/生/不如/意/。/</ab></div>
 <div type="commentary" level="2">
 <ab type="prose">/為/因/不/正/果/還/頗/。/行/檀/須/使/三輪/淨/。/罪福/雖/靈/柰/爾/何/。/</ab></div>
 <div type="orig" level="2">
@@ -535,11 +535,11 @@
 <div type="orig" level="2">
 <ab type="prose">/莫/愁末/。/</ab></div>
 <div type="commentary" level="2">
-<ab type="prose">/世界/無窮/都/一/撮/。/折/脚/鐺/兒/不/借/人/。/煑/粥/煎/茶/自/提/掇/。/</ab></div>
+<ab type="prose">/世界/無窮/都/一/撮/。/折/脚/鐺/兒/不/借/人/。/煑/粥/煎/茶/自提/掇/。/</ab></div>
 <div type="orig" level="2">
 <ab type="prose">/如/淨/琉璃/含/寶月/。/</ab></div>
 <div type="commentary" level="2">
-<ab type="prose">/體/用/相/交璨/爾/明/。/有/眼/不能/窺/髣髴/。/無心/方/見/本/圓成/。/</ab></div>
+<ab type="prose">/體/用/相/交/璨/爾/明/。/有/眼/不能/窺/髣髴/。/無心/方/見/本/圓成/。/</ab></div>
 <div type="orig" level="2">
 <ab type="prose">/我/今/解/此/如意珠/。/</ab></div>
 <div type="commentary" level="2">
@@ -547,7 +547,7 @@
 <div type="orig" level="2">
 <ab type="prose">/自/利/利/他/終/不/竭/。/</ab></div>
 <div type="commentary" level="2">
-<ab type="prose">/悲/水/心/花/半夜/開/。/金殿/玉堂/留/不/住/。/披/毛/戴/角/又/重/來/。/</ab></div>
+<ab type="prose">/悲/水/心/花/半/夜/開/。/金殿/玉堂/留/不/住/。/披/毛/戴/角/又/重/來/。/</ab></div>
 <div type="orig" level="2">
 <ab type="prose">/江月/照/。/</ab></div>
 <div type="commentary" level="2">
@@ -581,7 +581,7 @@
 <div type="commentary" level="2">
 <ab type="prose">/只/此/圓通/為/指南/。/若/見/觀音/真/住處/。/方/知/不/在/寶陀嵓/。/</ab></div>
 <div type="orig" level="2">
-<ab type="prose">/不/是/標/形/虗/事/持/。/</ab></div>
+<ab type="prose">/不是/標/形/虗/事/持/。/</ab></div>
 <div type="commentary" level="2">
 <ab type="prose">/欲/使/因/聞/自/迴向/。/忽/於/聽/處/覓/無/蹤/。/更/看/迦葉/古/時/樣/。/</ab></div>
 <div type="orig" level="2">
@@ -595,27 +595,27 @@
 <div type="orig" level="2">
 <ab type="prose">/不/斷/妄/。/</ab></div>
 <div type="commentary" level="2">
-<ab type="prose">/妄/與/真源/同一/相/。/曾/看/江/上/弄/潮/人/。/未/聞/愛/水/嫌/波浪/。/</ab></div>
+<ab type="prose">/妄/與/真源/同/一/相/。/曾/看/江/上/弄/潮/人/。/未/聞/愛/水/嫌/波浪/。/</ab></div>
 <div type="orig" level="2">
 <ab type="prose">/了知/二/法/空/無相/。/</ab></div>
 <div type="commentary" level="2">
 <ab type="prose">/真/妄/忘/來/妄/是/真/。/若/謂/是/真/還/是/妄/。/若/忘/真/妄/更/愁/人/。/</ab></div>
 <div type="orig" level="2">
-<ab type="prose">/無相/無/空/無不/空/。/</ab></div>
+<ab type="prose">/無相/無/空無/不/空/。/</ab></div>
 <div type="commentary" level="2">
-<ab type="prose">/無/去/無/來/無/所/止/。/松/下/清/風/埽/盡/苔/。/茅菴/依舊/白/雲/裏/。/</ab></div>
+<ab type="prose">/無/去/無/來/無/所/止/。/松/下/清風/埽/盡/苔/。/茅菴/依/舊/白/雲/裏/。/</ab></div>
 <div type="orig" level="2">
-<ab type="prose">/即是/如來/真實/相/。/</ab></div>
+<ab type="prose">/即是/如來/真實相/。/</ab></div>
 <div type="commentary" level="2">
 <ab type="prose">/明月/蘆花色/莫/齊/。/普/眼/當時/無/覓/處/。/夜/來/和/雨/宿/寒溪/。/</ab></div>
 <div type="orig" level="2">
 <ab type="prose">/心/鏡/明/。/</ab></div>
 <div type="commentary" level="2">
-<ab type="prose">/耀/遐邇/。/杲/日/昇/空/難/可/比/。/一/片/寒/光湛/不/流/。/大千沙界/從/茲/起/。/</ab></div>
+<ab type="prose">/耀/遐邇/。/杲/日/昇/空/難/可/比/。/一/片/寒/光/湛/不/流/。/大千沙界/從/茲/起/。/</ab></div>
 <div type="orig" level="2">
 <ab type="prose">/鑒/無礙/。/</ab></div>
 <div type="commentary" level="2">
-<ab type="prose">/絕/毫釐/。/萬/牀/千/形/共/不/知/。/寂寂/光/中/人/去/後/。/鼻/似/眉毛/是/阿誰/。/</ab></div>
+<ab type="prose">/絕/毫釐/。/萬/牀/千/形/共/不/知/。/寂寂/光/中/人/去/後/。/鼻/似/眉/毛/是/阿誰/。/</ab></div>
 <div type="orig" level="2">
 <ab type="prose">/廓然/瑩徹/周沙界/。/</ab></div>
 <div type="commentary" level="2">
@@ -635,9 +635,9 @@
 <div type="orig" level="2">
 <ab type="prose">/撥/因果/。/</ab></div>
 <div type="commentary" level="2">
-<ab type="prose">/更/堪/傷/。/迷失/夷/途/暗/且/狂/。/苦楚/他/時/親/受/處/。/始/知/善惡/業難/忘/。/</ab></div>
+<ab type="prose">/更/堪/傷/。/迷/失/夷/途/暗/且/狂/。/苦/楚/他/時/親/受/處/。/始/知/善惡/業/難/忘/。/</ab></div>
 <div type="orig" level="2">
-<ab type="prose">/漭/漭/蕩/蕩/招/殃禍/。/</ab></div>
+<ab type="prose">/漭/漭/蕩蕩/招/殃禍/。/</ab></div>
 <div type="commentary" level="2">
 <ab type="prose">/惡/不/加/悛/善/不/修/。/無/悟/無/迷/開/口/是/。/泥/犂/未/到/卒/難/休/。/</ab></div>
 <div type="orig" level="2">
@@ -655,7 +655,7 @@
 <div type="orig" level="2">
 <ab type="prose">/取/真理/。/</ab></div>
 <div type="commentary" level="2">
-<ab type="prose">/片/甲/纖鱗/未/為/美/。/木/女/穿/雲/笑/不/休/。/大/洋海/底/紅/塵/起/。/</ab></div>
+<ab type="prose">/片甲/纖鱗/未/為/美/。/木/女/穿/雲/笑/不/休/。/大/洋海/底/紅/塵/起/。/</ab></div>
 <div type="orig" level="2">
 <ab type="prose">/取捨/之/心/成/巧偽/。/</ab></div>
 <div type="commentary" level="2">
@@ -663,7 +663,7 @@
 <div type="orig" level="2">
 <ab type="prose">/學人/不/了/用/修行/。/</ab></div>
 <div type="commentary" level="2">
-<ab type="prose">/了/得/修行/豈/虗/妄/。/若/將/瓮/響/作/鐘聲/。/不/獨/無/實/兼/自/誑/。/</ab></div>
+<ab type="prose">/了/得/修行/豈/虗/妄/。/若/將/瓮/響/作/鐘聲/。/不/獨/無/實/兼/自誑/。/</ab></div>
 <div type="orig" level="2">
 <ab type="prose">/深/成/認/賊/將/為/子/。/</ab></div>
 <div type="commentary" level="2">
@@ -691,7 +691,7 @@
 <div type="orig" level="2">
 <ab type="prose">/大丈夫/。/</ab></div>
 <div type="commentary" level="2">
-<ab type="prose">/威且/愛/。/草/偃/風/行/無/窒礙/。/不/止/賢愚/作/羽儀/。/險/惡/途/中/人/所/賴/。/</ab></div>
+<ab type="prose">/威/且/愛/。/草/偃/風/行/無/窒礙/。/不/止/賢愚/作/羽儀/。/險/惡/途/中/人/所/賴/。/</ab></div>
 <div type="orig" level="2">
 <ab type="prose">/秉/慧劍/。/</ab></div>
 <div type="commentary" level="2">
@@ -699,15 +699,15 @@
 <div type="orig" level="2">
 <ab type="prose">/般若/鋒/兮/金剛/𦦨/。/</ab></div>
 <div type="commentary" level="2">
-<ab type="prose">/堅/猛/能/燒/亂/相林/。/一/埽/更/無/毫髮/許/。/傍人/獨/笑/老/婆/心/。/</ab></div>
+<ab type="prose">/堅猛/能/燒/亂/相林/。/一/埽/更/無/毫髮/許/。/傍人/獨/笑/老婆/心/。/</ab></div>
 <div type="orig" level="2">
-<ab type="prose">/非但/能/摧/外道心/。/</ab></div>
+<ab type="prose">/非但/能/摧/外道/心/。/</ab></div>
 <div type="commentary" level="2">
 <ab type="prose">/戴/盆/鍱/腹/何/窮數/。/靈山/據/坐/略/搖/鞭/。/良/馬/追/風/自/迴/去/。/</ab></div>
 <div type="orig" level="2">
-<ab type="prose">/早/曾/落/却/天魔/膽/。/</ab></div>
+<ab type="prose">/早/曾/落/却/天/魔膽/。/</ab></div>
 <div type="commentary" level="2">
-<ab type="prose">/邪/正/相/交勢/可/知/。/自/是/汝曹/憎愛/重/。/非/于/佛子/不/慈悲/。/</ab></div>
+<ab type="prose">/邪正/相/交勢/可/知/。/自/是/汝曹/憎愛/重/。/非/于/佛子/不/慈悲/。/</ab></div>
 <div type="orig" level="2">
 <ab type="prose">/震/法/雷/。/</ab></div>
 <div type="commentary" level="2">
@@ -717,23 +717,23 @@
 <div type="commentary" level="2">
 <ab type="prose">/西天/此/土/親/規矩/。/癡/人/睡/重/自/無/聞/。/不是/觀音/心/未/普/。/</ab></div>
 <div type="orig" level="2">
-<ab type="prose">/布/慈/雲/兮/洒/甘露/。/</ab></div>
+<ab type="prose">/布/慈雲/兮/洒/甘露/。/</ab></div>
 <div type="commentary" level="2">
 <ab type="prose">/人間/天上/絕/纖塵/。/濛濛/一味/無差別/。/洗/出/萌芽/萬/種/新/。/</ab></div>
 <div type="orig" level="2">
-<ab type="prose">/龍象/蹴/踏潤/無邊/。/</ab></div>
+<ab type="prose">/龍象/蹴/踏/潤/無邊/。/</ab></div>
 <div type="commentary" level="2">
-<ab type="prose">/自在/從/橫/勿/羇絆/。/眾生/未/盡/證/菩提/。/終/不/輕/離/煩惱/岸/。/</ab></div>
+<ab type="prose">/自在/從/橫/勿/羇/絆/。/眾生/未/盡/證/菩提/。/終/不/輕離/煩惱/岸/。/</ab></div>
 <div type="orig" level="2">
-<ab type="prose">/三乘/五/性/皆/醒悟/。/</ab></div>
+<ab type="prose">/三乘/五性/皆/醒悟/。/</ab></div>
 <div type="commentary" level="2">
-<ab type="prose">/舒/即/參差/卷/即/同/。/鷰雀/鸞凰/飛/各/異/。/到/頭/終/不/離/虗/空/。/</ab></div>
+<ab type="prose">/舒/即/參差/卷/即/同/。/鷰雀/鸞/凰/飛/各/異/。/到/頭/終/不/離/虗/空/。/</ab></div>
 <div type="orig" level="2">
 <ab type="prose">/雪山/肥膩/更/無/雜/。/</ab></div>
 <div type="commentary" level="2">
-<ab type="prose">/時/雨/時/風/不/露根/。/莫/謂/綿/綿/無/一/事/。/曾/傳/消息/到/王/孫/。/</ab></div>
+<ab type="prose">/時/雨/時/風/不/露根/。/莫/謂/綿/綿/無/一/事/。/曾/傳/消息/到/王孫/。/</ab></div>
 <div type="orig" level="2">
-<ab type="prose">/純/出/醍醐/我/常納/。/</ab></div>
+<ab type="prose">/純/出/醍醐/我/常/納/。/</ab></div>
 <div type="commentary" level="2">
 <ab type="prose">/若/非/寶/器/貯/應/難/。/舉/世/何/人/知/此/味/。/寒山/撫/掌/笑/豐干/。/</ab></div>
 <div type="orig" level="2">
@@ -749,7 +749,7 @@
 <div type="commentary" level="2">
 <ab type="prose">/非/邇/非/遐/體/自/常/。/南北/東西/分/影/去/。/亭亭天/外/有/餘/光/。/</ab></div>
 <div type="orig" level="2">
-<ab type="prose">/一切/水月/一/月/攝/。/</ab></div>
+<ab type="prose">/一切/水月/一月/攝/。/</ab></div>
 <div type="commentary" level="2">
 <ab type="prose">/月/不/分/形/水/不/孤/。/時/人/未/透/清波路/。/只/道/寒/光/滿/太虗/。/</ab></div>
 <div type="orig" level="2">
@@ -767,15 +767,15 @@
 <div type="orig" level="2">
 <ab type="prose">/非/色/非/心/非/行業/。/</ab></div>
 <div type="commentary" level="2">
-<ab type="prose">/戲論/言詞/總/不如/。/唯/有/華山/潘/處/士/。/途/中/吟/望倒/騎/驢/。/</ab></div>
+<ab type="prose">/戲論/言詞/總/不如/。/唯/有/華山/潘/處/士/。/途/中/吟/望/倒/騎/驢/。/</ab></div>
 <div type="orig" level="2">
 <ab type="prose">/彈指/圓成/八萬/門/。/</ab></div>
 <div type="commentary" level="2">
 <ab type="prose">/八萬/法門/唯/一處/。/若/迷/一處/謾/馳/求/。/一處/若/明/無/本/據/。/</ab></div>
 <div type="orig" level="2">
-<ab type="prose">/剎那/滅/却/三祇/劫/。/</ab></div>
+<ab type="prose">/剎那/滅/却/三/祇劫/。/</ab></div>
 <div type="commentary" level="2">
-<ab type="prose">/一念/無生/一/亦/非/。/大地/盡/同/銀/色界/。/有/何/岐路/不/同歸/。/</ab></div>
+<ab type="prose">/一念/無生/一/亦/非/。/大地/盡/同/銀/色界/。/有/何/岐路/不/同/歸/。/</ab></div>
 <div type="orig" level="2">
 <ab type="prose">/一切/數/句/非/數/句/。/</ab></div>
 <div type="commentary" level="2">
@@ -807,7 +807,7 @@
 <div type="orig" level="2">
 <ab type="prose">/取/不得/。/</ab></div>
 <div type="commentary" level="2">
-<ab type="prose">/雲/生/電/轉/寰/區/黑/。/臨濟/途/中/空/手/迴/。/被/人/剛/喚/白/拈/賊/。/</ab></div>
+<ab type="prose">/雲/生/電/轉/寰/區/黑/。/臨濟/途/中/空/手/迴/。/被/人/剛喚/白/拈/賊/。/</ab></div>
 <div type="orig" level="2">
 <ab type="prose">/捨/不得/。/</ab></div>
 <div type="commentary" level="2">
@@ -815,7 +815,7 @@
 <div type="orig" level="2">
 <ab type="prose">/不可/得/中/只麼/得/。/</ab></div>
 <div type="commentary" level="2">
-<ab type="prose">/無/葉/無/根/到/處/生/。/昨日/開簾/隨/雨/過/。/今/朝/當/路礙/人/行/。/</ab></div>
+<ab type="prose">/無/葉/無/根/到/處/生/。/昨日/開簾/隨/雨/過/。/今/朝/當/路/礙/人/行/。/</ab></div>
 <div type="orig" level="2">
 <ab type="prose">/默/時/說/。/</ab></div>
 <div type="commentary" level="2">
@@ -823,17 +823,17 @@
 <div type="orig" level="2">
 <ab type="prose">/說/時/默/。/</ab></div>
 <div type="commentary" level="2">
-<ab type="prose">/絕/夤/緣/。/縮/□/舌頭/始/解/宣/。/四十九/年/無/一/字/。/龍宮/海/藏/若/為/傳/。/</ab></div>
+<ab type="prose">/絕/夤/緣/。/縮/□/舌頭/始/解/宣/。/四十九年/無/一/字/。/龍宮/海/藏/若/為/傳/。/</ab></div>
 <div type="orig" level="2">
 <ab type="prose">/大/施/門/開/無/擁塞/。/</ab></div>
 <div type="commentary" level="2">
-<ab type="prose">/不/厭/流泉/不/愛/山/。/面/對/塵/灰/頭/似/雪/。/步行/騎/馬/過/潼關/。/</ab></div>
+<ab type="prose">/不/厭/流泉/不/愛山/。/面/對/塵/灰/頭/似/雪/。/步行/騎/馬/過/潼關/。/</ab></div>
 <div type="orig" level="2">
 <ab type="prose">/有/人/問/我/解/何/宗/。/</ab></div>
 <div type="commentary" level="2">
-<ab type="prose">/不/惜/眉毛/略/為/通/。/東嶺/雲/生/西嶺/白/。/前/山/花/發/後/山/紅/。/</ab></div>
+<ab type="prose">/不/惜/眉/毛略/為/通/。/東嶺/雲/生/西嶺/白/。/前/山/花/發/後/山/紅/。/</ab></div>
 <div type="orig" level="2">
-<ab type="prose">/報/道/摩訶/般若/力/。/</ab></div>
+<ab type="prose">/報/道/摩訶/般若力/。/</ab></div>
 <div type="commentary" level="2">
 <ab type="prose">/古/□/今/佛/真/秘密/。/謝/三/本/是/釣/魚/人/。/□/得/溪/求/脚/不/□/。/</ab></div>
 <div type="orig" level="2">
@@ -851,7 +851,7 @@
 <div type="orig" level="2">
 <ab type="prose">/不/是/等/閒/相/誑惑/。/</ab></div>
 <div type="commentary" level="2">
-<ab type="prose">/從/來/真偽/豈/相/干/。/虎/皮/羊/質/知/多少/。/要/識/真/金/火/裏/看/。/</ab></div>
+<ab type="prose">/從/來/真偽/豈/相干/。/虎/皮/羊/質/知/多少/。/要/識/真/金/火/裏/看/。/</ab></div>
 <div type="orig" level="2">
 <ab type="prose">/建/法幢/。/</ab></div>
 <div type="commentary" level="2">
@@ -859,7 +859,7 @@
 <div type="orig" level="2">
 <ab type="prose">/立/宗旨/。/</ab></div>
 <div type="commentary" level="2">
-<ab type="prose">/左/凹/右/凸/誰/相/委/。/海門/船子/過/楊州/。/八臂那吒/姦/似/鬼/。/</ab></div>
+<ab type="prose">/左/凹/右凸/誰/相/委/。/海門/船子/過/楊州/。/八臂那吒/姦/似/鬼/。/</ab></div>
 <div type="orig" level="2">
 <ab type="prose">/明明/佛/敕/曹溪/是/。/</ab></div>
 <div type="commentary" level="2">
@@ -875,11 +875,11 @@
 <div type="orig" level="2">
 <ab type="prose">/入/此/土/。/</ab></div>
 <div type="commentary" level="2">
-<ab type="prose">/信/機緣/。/五/葉/花/開/豈/偶/然/。/無/聖/廓然/人/不/會/。/九年/孤坐/鼻撩天/。/</ab></div>
+<ab type="prose">/信/機緣/。/五/葉/花/開/豈/偶/然/。/無/聖廓/然/人/不/會/。/九年/孤坐/鼻撩天/。/</ab></div>
 <div type="orig" level="2">
 <ab type="prose">/菩提/達磨/為/初祖/。/</ab></div>
 <div type="commentary" level="2">
-<ab type="prose">/謾/道/西/來/欲/付/衣/。/却羨/梁王/真/慷慨/。/寒江/趁/過/不/容/歸/。/</ab></div>
+<ab type="prose">/謾/道/西/來/欲/付/衣/。/却/羨/梁王/真/慷慨/。/寒江/趁/過/不/容/歸/。/</ab></div>
 <div type="orig" level="2">
 <ab type="prose">/六代/傳/衣/天下/聞/。/</ab></div>
 <div type="commentary" level="2">
@@ -891,7 +891,7 @@
 <div type="orig" level="2">
 <ab type="prose">/真/不/立/。/</ab></div>
 <div type="commentary" level="2">
-<ab type="prose">/白駒/未/似/流/波急/。/當/日/文王/却/識/珍/。/卞和/堪/笑/空/垂泣/。/</ab></div>
+<ab type="prose">/白/駒/未/似/流波/急/。/當/日/文王/却/識/珍/。/卞和/堪/笑/空/垂泣/。/</ab></div>
 <div type="orig" level="2">
 <ab type="prose">/妄/本/空/。/</ab></div>
 <div type="commentary" level="2">
@@ -907,7 +907,7 @@
 <div type="orig" level="2">
 <ab type="prose">/一/性/如來/體/自/同/。/</ab></div>
 <div type="commentary" level="2">
-<ab type="prose">/同/中/無/路/任/西/東/。/井底/蝦蟇/吹/鼓/角/。/門/前/露/柱/笑/燈籠/。/</ab></div>
+<ab type="prose">/同/中/無/路/任/西/東/。/井/底/蝦/蟇/吹/鼓/角/。/門/前/露/柱/笑/燈籠/。/</ab></div>
 <div type="orig" level="2">
 <ab type="prose">/心/是/根/。/</ab></div>
 <div type="commentary" level="2">
@@ -915,13 +915,13 @@
 <div type="orig" level="2">
 <ab type="prose">/法/是/塵/。/</ab></div>
 <div type="commentary" level="2">
-<ab type="prose">/一/點才/生/即/喪真/。/勿/謂/名/中/無/實義/。/紛紛/全露/本來/身/。/</ab></div>
+<ab type="prose">/一/點/才/生/即/喪/真/。/勿/謂/名/中/無/實義/。/紛紛/全露/本來/身/。/</ab></div>
 <div type="orig" level="2">
 <ab type="prose">/兩/種/猶如/鏡/上/痕/。/</ab></div>
 <div type="commentary" level="2">
-<ab type="prose">/障/覆/靈/明類/心垢/。/山河/大地/勿/絲毫/。/誰/掛/高臺/辨/妍/醜/。/</ab></div>
+<ab type="prose">/障/覆/靈/明/類/心垢/。/山河/大地/勿/絲毫/。/誰/掛/高臺/辨/妍/醜/。/</ab></div>
 <div type="orig" level="2">
-<ab type="prose">/痕/垢/盡/除/光/始/現/。/</ab></div>
+<ab type="prose">/痕垢/盡/除/光/始/現/。/</ab></div>
 <div type="commentary" level="2">
 <ab type="prose">/孤明/獨/露/大千/寒/。/無/塵/未/許/傳/衣鉢/。/弄/影/須/知/不/易/觀/。/</ab></div>
 <div type="orig" level="2">
@@ -935,13 +935,13 @@
 <div type="orig" level="2">
 <ab type="prose">/惡/時/世/。/</ab></div>
 <div type="commentary" level="2">
-<ab type="prose">/近/三/灾/。/煩惱/眾生/喚/不/迴/。/刀兵/飢饉/千/般/苦/。/盡/是/人/心/造/出來/。/</ab></div>
+<ab type="prose">/近/三/灾/。/煩惱/眾生/喚/不/迴/。/刀兵/飢饉/千/般苦/。/盡/是/人/心/造/出來/。/</ab></div>
 <div type="orig" level="2">
 <ab type="prose">/眾生/薄福/難/調/制/。/</ab></div>
 <div type="commentary" level="2">
 <ab type="prose">/險詖/奔騰/若/踔/猨/。/岸/樹/欲/崩/魚/少/水/。/悲/哉/不/悟/昔/人/言/。/</ab></div>
 <div type="orig" level="2">
-<ab type="prose">/去/聖/遠/兮/邪見/深/。/</ab></div>
+<ab type="prose">/去/聖遠/兮/邪見/深/。/</ab></div>
 <div type="commentary" level="2">
 <ab type="prose">/我慢/纏綿/昧/真/佛/。/導師/悲濟/幾/辛勤/。/愛河/暫/出/還/沈沒/。/</ab></div>
 <div type="orig" level="2">
@@ -951,7 +951,7 @@
 <div type="orig" level="2">
 <ab type="prose">/聞說/如來/頓/教門/。/</ab></div>
 <div type="commentary" level="2">
-<ab type="prose">/半/笑/半/瞋/情/不悅/。/一朝/歸去/見/慈/親/。/方/知/自/昔/同/家業/。/</ab></div>
+<ab type="prose">/半/笑/半/瞋/情/不悅/。/一朝/歸去/見/慈親/。/方/知/自/昔/同/家業/。/</ab></div>
 <div type="orig" level="2">
 <ab type="prose">/恨/不/滅除/令/瓦碎/。/</ab></div>
 <div type="commentary" level="2">
@@ -967,7 +967,7 @@
 <div type="orig" level="2">
 <ab type="prose">/不/須/怨/訴/更/尤/人/。/</ab></div>
 <div type="commentary" level="2">
-<ab type="prose">/自/智/不/明/乃/昏塞/。/菩提/煩惱/舊/無/根/。/只/在/回/心/一/頃刻/。/</ab></div>
+<ab type="prose">/自/智/不/明/乃/昏塞/。/菩提/煩惱/舊/無/根/。/只/在/回/心/一/頃/刻/。/</ab></div>
 <div type="orig" level="2">
 <ab type="prose">/欲/得/不/招/無間業/。/</ab></div>
 <div type="commentary" level="2">
@@ -975,19 +975,19 @@
 <div type="orig" level="2">
 <ab type="prose">/莫/謗/如來/正/法輪/。/</ab></div>
 <div type="commentary" level="2">
-<ab type="prose">/匱/法/因緣/苦難/究/。/縱/經/空/劫/寄/他/方/。/此/界/成/時/復/來/受/。/</ab></div>
+<ab type="prose">/匱法/因緣/苦難/究/。/縱/經/空/劫/寄/他/方/。/此/界/成/時/復/來/受/。/</ab></div>
 <div type="orig" level="2">
 <ab type="prose">/栴檀林/。/</ab></div>
 <div type="commentary" level="2">
-<ab type="prose">/極/目/蕭蕭/一/徑/深/。/遊子/幾/聞/香/撲/鼻/。/等/閒/失/却/本/來/心/。/</ab></div>
+<ab type="prose">/極/目/蕭蕭/一/徑/深/。/遊子/幾/聞/香/撲/鼻/。/等/閒/失/却/本來/心/。/</ab></div>
 <div type="orig" level="2">
 <ab type="prose">/無/雜/樹/。/</ab></div>
 <div type="commentary" level="2">
-<ab type="prose">/葉/葉/枝/枝/同/雨露/。/執/熱/行人/喚/不/歸/。/四時/空/把/青/陰布/。/</ab></div>
+<ab type="prose">/葉/葉/枝/枝/同/雨露/。/執/熱/行人/喚/不/歸/。/四時/空/把/青/陰/布/。/</ab></div>
 <div type="orig" level="2">
 <ab type="prose">/鬱密森沈/師子/住/。/</ab></div>
 <div type="commentary" level="2">
-<ab type="prose">/舉目/長/騰/百丈/威/。/遺迹/不/交林/外見/。/更/容/何/物/此/中/歸/。/</ab></div>
+<ab type="prose">/舉/目/長/騰/百/丈/威/。/遺迹/不/交林/外見/。/更/容/何/物/此/中/歸/。/</ab></div>
 <div type="orig" level="2">
 <ab type="prose">/境/靜/林/閒/獨自/遊/。/</ab></div>
 <div type="commentary" level="2">
@@ -997,17 +997,17 @@
 <div type="commentary" level="2">
 <ab type="prose">/四顧/寥寥/一/境/空/。/豈/是/從來/無/侶/伴/。/為/他/毛色/不/相/同/。/</ab></div>
 <div type="orig" level="2">
-<ab type="prose">/師子兒/。/</ab></div>
+<ab type="prose">/師子/兒/。/</ab></div>
 <div type="commentary" level="2">
 <ab type="prose">/奮/振/全/威/也/太奇/。/入/窟/藏/身/獨/得/妙/。/從/來/不/許/象王/知/。/</ab></div>
 <div type="orig" level="2">
 <ab type="prose">/眾/隨/後/。/</ab></div>
 <div type="commentary" level="2">
-<ab type="prose">/牙/爪/難/藏/威/已/就/。/空/山/遊戲/有/多/端/。/飜/身/一/擲/無/新舊/。/</ab></div>
+<ab type="prose">/牙/爪/難/藏/威/已/就/。/空山/遊戲/有/多/端/。/飜/身/一/擲/無/新舊/。/</ab></div>
 <div type="orig" level="2">
 <ab type="prose">/三/歲/便/能/大/哮吼/。/</ab></div>
 <div type="commentary" level="2">
-<ab type="prose">/種性/無/差/勢力/全/。/坐/斷/東西/無/過路/。/巍巍/長/在/碧嵓/前/。/</ab></div>
+<ab type="prose">/種性/無/差/勢力/全/。/坐/斷/東西/無/過路/。/巍巍/長/在/碧/嵓/前/。/</ab></div>
 <div type="orig" level="2">
 <ab type="prose">/若/是/野干/逐/法王/。/</ab></div>
 <div type="commentary" level="2">
@@ -1019,9 +1019,9 @@
 <div type="orig" level="2">
 <ab type="prose">/圓頓/教/。/</ab></div>
 <div type="commentary" level="2">
-<ab type="prose">/全/龍/出/海/休/籠/罩/。/霹靂/才轟/雨/似/傾/。/無限/人/天/夢/中/覺/。/</ab></div>
+<ab type="prose">/全/龍/出/海/休/籠/罩/。/霹靂/才/轟/雨/似/傾/。/無限/人/天/夢/中/覺/。/</ab></div>
 <div type="orig" level="2">
-<ab type="prose">/勿/人情/。/</ab></div>
+<ab type="prose">/勿/人/情/。/</ab></div>
 <div type="commentary" level="2">
 <ab type="prose">/若/著/人情/道/不/成/。/南陽國/老/區區/甚/。/只/蹋/毗盧/頂/上/行/。/</ab></div>
 <div type="orig" level="2">
@@ -1039,7 +1039,7 @@
 <div type="orig" level="2">
 <ab type="prose">/非/不/非/。/</ab></div>
 <div type="commentary" level="2">
-<ab type="prose">/看/取/靈苗/未/發/時/。/大鵬/舉/翼摩/霄漢/。/肯/學/寒/蟬/戀/死/枝/。/</ab></div>
+<ab type="prose">/看/取/靈苗/未/發/時/。/大/鵬/舉/翼摩/霄漢/。/肯/學/寒/蟬/戀/死/枝/。/</ab></div>
 <div type="orig" level="2">
 <ab type="prose">/是/不是/。/</ab></div>
 <div type="commentary" level="2">
@@ -1051,7 +1051,7 @@
 <div type="orig" level="2">
 <ab type="prose">/是/即/龍女/頓/成佛/。/</ab></div>
 <div type="commentary" level="2">
-<ab type="prose">/修行/不/待/歷/三祇/。/今/人/可/嘆/多/迷妄/。/日/到/南方/自/不/知/。/</ab></div>
+<ab type="prose">/修行/不/待/歷/三祇/。/今/人/可/嘆/多/迷/妄/。/日/到/南方/自/不/知/。/</ab></div>
 <div type="orig" level="2">
 <ab type="prose">/非/即/善/星/生/陷墜/。/</ab></div>
 <div type="commentary" level="2">
@@ -1059,7 +1059,7 @@
 <div type="orig" level="2">
 <ab type="prose">/吾/早/年/來/積/學問/。/</ab></div>
 <div type="commentary" level="2">
-<ab type="prose">/寸/陰/長恨/急難/留/。/源源/恰/似/寒/溪/水/。/不/到/滄/溟/肯/便/休/。/</ab></div>
+<ab type="prose">/寸/陰/長/恨/急/難/留/。/源/源/恰/似/寒溪/水/。/不/到/滄/溟/肯/便/休/。/</ab></div>
 <div type="orig" level="2">
 <ab type="prose">/亦/曾/討疏/尋/經論/。/</ab></div>
 <div type="commentary" level="2">
@@ -1067,7 +1067,7 @@
 <div type="orig" level="2">
 <ab type="prose">/分別/名相/不/知/休/。/</ab></div>
 <div type="commentary" level="2">
-<ab type="prose">/猶如/隔/雲/望/天/日/。/相/盡/名/亡真/示/君/。/新羅/附/子/金州/漆/。/</ab></div>
+<ab type="prose">/猶如/隔/雲/望/天日/。/相/盡/名/亡真/示/君/。/新羅/附/子/金州/漆/。/</ab></div>
 <div type="orig" level="2">
 <ab type="prose">/入/海/算/沙徒/自困/。/</ab></div>
 <div type="commentary" level="2">
@@ -1075,15 +1075,15 @@
 <div type="orig" level="2">
 <ab type="prose">/却/被/如來/苦/訶責/。/</ab></div>
 <div type="commentary" level="2">
-<ab type="prose">/馳/求/外/物/幾時/停/。/衣/珠/無價/雖/然/在/。/爭/柰昏/昏醉/未/醒/。/</ab></div>
+<ab type="prose">/馳/求/外/物/幾時/停/。/衣/珠/無價/雖/然/在/。/爭/柰/昏/昏醉/未/醒/。/</ab></div>
 <div type="orig" level="2">
 <ab type="prose">/數/他/珍寶/有/何/益/。/</ab></div>
 <div type="commentary" level="2">
 <ab type="prose">/自己/家/財/却/棄捐/。/兩/手/擎/來/如/得/用/。/不須/辛苦/走/山川/。/</ab></div>
 <div type="orig" level="2">
-<ab type="prose">/從/前/蹭蹬/覺/虗/行/。/</ab></div>
+<ab type="prose">/從/前/蹭/蹬/覺/虗/行/。/</ab></div>
 <div type="commentary" level="2">
-<ab type="prose">/直/到/天南/及/天/北/。/幾/迴/淥/水/青山/邊/。/撞/著/祖師/還/不/識/。/</ab></div>
+<ab type="prose">/直/到/天南/及/天北/。/幾/迴/淥/水/青山/邊/。/撞/著/祖師/還/不/識/。/</ab></div>
 <div type="orig" level="2">
 <ab type="prose">/多/年/枉/作/風塵客/。/</ab></div>
 <div type="commentary" level="2">
@@ -1099,11 +1099,11 @@
 <div type="orig" level="2">
 <ab type="prose">/不/達/如來/圓頓/制/。/</ab></div>
 <div type="commentary" level="2">
-<ab type="prose">/只/將/空/有/競頭/爭/。/葉公/好/畫/還/如此/。/才/見/真龍/却/自/驚/。/</ab></div>
+<ab type="prose">/只/將/空/有/競/頭/爭/。/葉/公/好/畫/還/如此/。/才/見/真龍/却/自/驚/。/</ab></div>
 <div type="orig" level="2">
 <ab type="prose">/二乘/精進/勿/道心/。/</ab></div>
 <div type="commentary" level="2">
-<ab type="prose">/自/證/偏/空/求/出離/。/三途/諸/子/日/焚燒/。/不/肯/迴/心/用/悲/智/。/</ab></div>
+<ab type="prose">/自證/偏/空/求/出離/。/三途/諸/子/日/焚燒/。/不/肯/迴/心/用/悲/智/。/</ab></div>
 <div type="orig" level="2">
 <ab type="prose">/外道/聰明/無/智慧/。/</ab></div>
 <div type="commentary" level="2">
@@ -1111,7 +1111,7 @@
 <div type="orig" level="2">
 <ab type="prose">/亦/愚癡/。/</ab></div>
 <div type="commentary" level="2">
-<ab type="prose">/起坐/都/如/木/偶/兒/。/自/有/生涯/傳/祖父/。/草/鞋/踏/盡/不曾/知/。/</ab></div>
+<ab type="prose">/起坐/都/如/木/偶/兒/。/自/有/生/涯傳/祖父/。/草/鞋/踏/盡/不曾/知/。/</ab></div>
 <div type="orig" level="2">
 <ab type="prose">/亦/小騃/。/</ab></div>
 <div type="commentary" level="2">
@@ -1127,11 +1127,11 @@
 <div type="orig" level="2">
 <ab type="prose">/根/境/法/中/虗/揑怪/。/</ab></div>
 <div type="commentary" level="2">
-<ab type="prose">/影/事/交羅/昧/正修/。/可笑/幻師/逢/幻物/。/自/看/疑/怖/不/知/休/。/</ab></div>
+<ab type="prose">/影/事/交羅/昧/正/修/。/可/笑/幻師/逢/幻物/。/自/看/疑/怖/不/知/休/。/</ab></div>
 <div type="orig" level="2">
 <ab type="prose">/不/見/一/法/即/如來/。/</ab></div>
 <div type="commentary" level="2">
-<ab type="prose">/春/至/羣/花/冐/雨/開/。/是/色/是/心/人/不/會/。/撞/鐘/擊/鼓/上/高/臺/。/</ab></div>
+<ab type="prose">/春/至/羣/花/冐/雨/開/。/是/色/是/心/人/不/會/。/撞/鐘/擊/鼓/上/高臺/。/</ab></div>
 <div type="orig" level="2">
 <ab type="prose">/方/得/名為/觀自在/。/</ab></div>
 <div type="commentary" level="2">
@@ -1139,15 +1139,15 @@
 <div type="orig" level="2">
 <ab type="prose">/了/即/業障/本來/空/。/</ab></div>
 <div type="commentary" level="2">
-<ab type="prose">/法法/無/根/妄/分別/。/心/生/即是/法/生/時/。/心/若/無生/法/自/滅/。/</ab></div>
+<ab type="prose">/法法/無/根/妄/分別/。/心/生/即是/法/生/時/。/心/若/無生法/自/滅/。/</ab></div>
 <div type="orig" level="2">
 <ab type="prose">/未/了/還/須/償/宿/債/。/</ab></div>
 <div type="commentary" level="2">
-<ab type="prose">/金/鏘/馬麥/更/何/疑/。/誰/言/祖/佛/無/迯/處/。/日/捨/全身/尚/未/知/。/</ab></div>
+<ab type="prose">/金/鏘/馬/麥/更/何/疑/。/誰/言/祖/佛/無/迯/處/。/日/捨/全身/尚/未/知/。/</ab></div>
 <div type="orig" level="2">
-<ab type="prose">/飢/逢/王饍/不能/餐/。/</ab></div>
+<ab type="prose">/飢逢/王饍/不能/餐/。/</ab></div>
 <div type="commentary" level="2">
-<ab type="prose">/高下/心/生/自/離間/。/呼/來/與/食/尚/如斯/。/嗟哉/餓/死人/何/限/。/</ab></div>
+<ab type="prose">/高下/心/生/自/離/間/。/呼/來/與/食/尚/如斯/。/嗟哉/餓/死人/何/限/。/</ab></div>
 <div type="orig" level="2">
 <ab type="prose">/病遇/醫王/爭/得/瘥/。/</ab></div>
 <div type="commentary" level="2">
@@ -1155,11 +1155,11 @@
 <div type="orig" level="2">
 <ab type="prose">/在/欲/行/禪/知見/力/。/</ab></div>
 <div type="commentary" level="2">
-<ab type="prose">/居/塵/終日/自/無/塵/。/安心/不必/論/華野/。/踏/著/眉毛/是/處/真/。/</ab></div>
+<ab type="prose">/居/塵/終日/自/無/塵/。/安心/不必/論/華野/。/踏/著/眉/毛/是/處/真/。/</ab></div>
 <div type="orig" level="2">
-<ab type="prose">/火/裏/生/蓮/終/不/壞/。/</ab></div>
+<ab type="prose">/火/裏/生/蓮終/不/壞/。/</ab></div>
 <div type="commentary" level="2">
-<ab type="prose">/花/似/須彌/葉/似/空/。/普散/清香/三界/內/。/不/憂/容/易/落/西/風/。/</ab></div>
+<ab type="prose">/花/似/須彌/葉/似/空/。/普散/清香/三界/內/。/不/憂/容/易/落/西風/。/</ab></div>
 <div type="orig" level="2">
 <ab type="prose">/勇施/犯/重/悟/無生/。/</ab></div>
 <div type="commentary" level="2">
@@ -1171,7 +1171,7 @@
 <div type="orig" level="2">
 <ab type="prose">/師子吼/。/</ab></div>
 <div type="commentary" level="2">
-<ab type="prose">/三十三/人/盡/驚走/。/畫瓶/打/破/却/歸來/。/青山/流水/還/依舊/。/</ab></div>
+<ab type="prose">/三十三/人/盡/驚走/。/畫/瓶/打/破/却/歸/來/。/青山/流水/還/依/舊/。/</ab></div>
 <div type="orig" level="2">
 <ab type="prose">/無畏/說/。/</ab></div>
 <div type="commentary" level="2">
@@ -1179,11 +1179,11 @@
 <div type="orig" level="2">
 <ab type="prose">/深嗟/懵/憧頑/皮靼/。/</ab></div>
 <div type="commentary" level="2">
-<ab type="prose">/故/國/非/遙/不/肯/過/。/還/似/浮/萍/根/蔕/斷/。/悠悠/生死/信/風波/。/</ab></div>
+<ab type="prose">/故/國/非/遙/不/肯/過/。/還/似/浮萍/根/蔕/斷/。/悠悠/生死/信/風波/。/</ab></div>
 <div type="orig" level="2">
-<ab type="prose">/只/知/犯/重障/菩提/。/</ab></div>
+<ab type="prose">/只/知/犯/重/障/菩提/。/</ab></div>
 <div type="commentary" level="2">
-<ab type="prose">/罪/性/如/波結/氷/起/。/癡/人/渴/死/不/低頭/。/豈/識/凝氷/全/是/水/。/</ab></div>
+<ab type="prose">/罪性/如/波結/氷/起/。/癡/人/渴/死/不/低頭/。/豈/識/凝氷/全/是/水/。/</ab></div>
 <div type="orig" level="2">
 <ab type="prose">/不/見/如來/開/秘/訣/。/</ab></div>
 <div type="commentary" level="2">
@@ -1201,21 +1201,21 @@
 <div type="commentary" level="2">
 <ab type="prose">/三/處/無/心/略/輕據/。/番/人/捉/得/騏/麟兒/。/放/入/祇園/無/覓/處/。/</ab></div>
 <div type="orig" level="2">
-<ab type="prose">/猶如/赫日/消/霜雪/。/</ab></div>
+<ab type="prose">/猶如/赫日/消/霜/雪/。/</ab></div>
 <div type="commentary" level="2">
 <ab type="prose">/雪/霜/消/盡/見/青春/。/誰/向/靈/雲/開/眼/處/。/認/得/桃花/舊/主人/。/</ab></div>
 <div type="orig" level="2">
 <ab type="prose">/不思議/。/</ab></div>
 <div type="commentary" level="2">
-<ab type="prose">/謾/度量/。/善惡/無/從/性/本/常/。/香/嚴/童子/虗/開/口/。/舉/足/何/曾/識/道塲/。/</ab></div>
+<ab type="prose">/謾/度量/。/善惡/無/從/性/本/常/。/香嚴/童子/虗/開/口/。/舉/足/何/曾/識/道塲/。/</ab></div>
 <div type="orig" level="2">
 <ab type="prose">/解脫力/。/</ab></div>
 <div type="commentary" level="2">
 <ab type="prose">/若/高風/。/無/影/無/形/觸/處/通/。/萬里浮/雲/消/散/盡/。/一/輪/明月/在/寒/空/。/</ab></div>
 <div type="orig" level="2">
-<ab type="prose">/妙/用/恒沙/也/無極/。/</ab></div>
+<ab type="prose">/妙/用/恒/沙/也/無極/。/</ab></div>
 <div type="commentary" level="2">
-<ab type="prose">/昔/有/深/緣/得/暫/逢/。/飜/想/未/淘/真/化/日/。/幾/迴/流浪/若/飄蓬/。/</ab></div>
+<ab type="prose">/昔/有/深/緣/得/暫/逢/。/飜/想/未/淘/真/化/日/。/幾/迴/流/浪/若/飄蓬/。/</ab></div>
 <div type="orig" level="2">
 <ab type="prose">/四/事/供養/敢/辭/勞/。/</ab></div>
 <div type="commentary" level="2">
@@ -1235,15 +1235,15 @@
 <div type="orig" level="2">
 <ab type="prose">/法/中/王/。/</ab></div>
 <div type="commentary" level="2">
-<ab type="prose">/只/者/是/。/十/體/三身/不/相似/。/自/有/靈光/照/古今/。/何必/胸/前/題/卍/字/。/</ab></div>
+<ab type="prose">/只/者/是/。/十/體/三/身/不/相似/。/自/有/靈光/照/古今/。/何必/胸/前/題/卍/字/。/</ab></div>
 <div type="orig" level="2">
 <ab type="prose">/最/高勝/。/</ab></div>
 <div type="commentary" level="2">
-<ab type="prose">/若/為/宣/。/靈山/少室/盡/虗/傅/。/無/言/童子/能/宣說/。/來/來/棄/你/草/鞋/錢/。/</ab></div>
+<ab type="prose">/若/為/宣/。/靈山/少/室/盡/虗/傅/。/無/言/童子/能/宣說/。/來/來/棄/你/草/鞋/錢/。/</ab></div>
 <div type="orig" level="2">
 <ab type="prose">/恒沙/如來/同共/證/。/</ab></div>
 <div type="commentary" level="2">
-<ab type="prose">/更/無/別/法/可/傳持/。/海/天/明月/初生處/。/嵓/樹/啼/猨/正/歇/時/。/</ab></div>
+<ab type="prose">/更/無/別/法/可/傳持/。/海/天/明月/初/生/處/。/嵓樹/啼猨/正歇/時/。/</ab></div>
 <div type="orig" level="2">
 <ab type="prose">/我/今/解/此/如意珠/。/</ab></div>
 <div type="commentary" level="2">
@@ -1259,11 +1259,11 @@
 <div type="orig" level="2">
 <ab type="prose">/無/一/物/。/</ab></div>
 <div type="commentary" level="2">
-<ab type="prose">/□/□/□/。/□/□/□/□/劫/火/燒/。/越/王/任/有/傾/吳/口/。/范蠡/孤舟/不/易/招/。/</ab></div>
+<ab type="prose">/□/□/□/。/□/□/□/□/劫/火/燒/。/越/王/任/有/傾吳/口/。/范蠡/孤舟/不/易/招/。/</ab></div>
 <div type="orig" level="2">
 <ab type="prose">/亦/無/人/。/</ab></div>
 <div type="commentary" level="2">
-<ab type="prose">/唯/有/虗/空/是/舊/隣/。/幻/滅/幻/生/皆/不/有/。/更/從/何/處/覓/疎親/。/</ab></div>
+<ab type="prose">/唯/有/虗/空/是/舊/隣/。/幻/滅/幻/生/皆/不/有/。/更/從/何/處/覓/疎/親/。/</ab></div>
 <div type="orig" level="2">
 <ab type="prose">/亦/無/佛/。/</ab></div>
 <div type="commentary" level="2">
@@ -1279,7 +1279,7 @@
 <div type="orig" level="2">
 <ab type="prose">/假使/鐵/輪/頂/上/旋/。/</ab></div>
 <div type="commentary" level="2">
-<ab type="prose">/任運/隨緣/無/所/作/。/火蕩/風/搖/萬物/空/。/未/見/青/天/解/摧落/。/</ab></div>
+<ab type="prose">/任運/隨/緣/無/所/作/。/火/蕩/風/搖/萬物/空/。/未/見/青/天/解/摧落/。/</ab></div>
 <div type="orig" level="2">
 <ab type="prose">/定/慧/圓明/終/不/失/。/</ab></div>
 <div type="commentary" level="2">
@@ -1287,21 +1287,21 @@
 <div type="orig" level="2">
 <ab type="prose">/日/可/冷/。/</ab></div>
 <div type="commentary" level="2">
-<ab type="prose">/真/金/豈/解/重/為/鑛/。/魔工/煽鞴/不能/施/。/萬/古/徒/勞心/耿耿/。/</ab></div>
+<ab type="prose">/真/金/豈/解/重/為/鑛/。/魔工/煽鞴/不能/施/。/萬古徒/勞心/耿耿/。/</ab></div>
 <div type="orig" level="2">
 <ab type="prose">/月/可/熱/。/</ab></div>
 <div type="commentary" level="2">
-<ab type="prose">/此/體/如/空/非/斷滅/。/人間/妄/見/有/虧盈/。/天/外/孤光/無/閒歇/。/</ab></div>
+<ab type="prose">/此/體/如/空/非/斷滅/。/人間/妄/見/有/虧盈/。/天外/孤光/無/閒歇/。/</ab></div>
 <div type="orig" level="2">
-<ab type="prose">/眾/魔/不能/壞/真/說/。/</ab></div>
+<ab type="prose">/眾/魔/不能/壞/真說/。/</ab></div>
 <div type="commentary" level="2">
-<ab type="prose">/真/說/長/如/栢/在/庭/。/幾/見/雪/霜/凋萬/木/。/盤空/聳/檻/更/青/青/。/</ab></div>
+<ab type="prose">/真/說/長/如/栢/在/庭/。/幾/見/雪/霜/凋/萬/木/。/盤/空/聳/檻/更/青/青/。/</ab></div>
 <div type="orig" level="2">
 <ab type="prose">/象/駕/崢/嶸漫/進/途/。/</ab></div>
 <div type="commentary" level="2">
 <ab type="prose">/真/體/如/空/無/所/礙/。/雲/盡/扶/桑日/已/生/。/爝/火/不/停/欲/何/待/。/</ab></div>
 <div type="orig" level="2">
-<ab type="prose">/誰/見/螗蜋/能/拒轍/。/</ab></div>
+<ab type="prose">/誰/見/螗蜋/能/拒/轍/。/</ab></div>
 <div type="commentary" level="2">
 <ab type="prose">/須臾/粉/碎/意/猶/獰/。/嗟爾/不及/蟬/依/木/。/飲露/嘶/風/過/一生/。/</ab></div>
 <div type="orig" level="2">
@@ -1309,19 +1309,19 @@
 <div type="commentary" level="2">
 <ab type="prose">/彈/偏/拆/小/豈/徒然/。/無/中/有/路/如/能/入/。/金/鎖/玄關/盡/棄捐/。/</ab></div>
 <div type="orig" level="2">
-<ab type="prose">/大悟/不/拘/於/小/節/。/</ab></div>
+<ab type="prose">/大悟/不/拘/於/小節/。/</ab></div>
 <div type="commentary" level="2">
-<ab type="prose">/相/取/心/修/達/者/嗤/。/舉/止/若/無/西子/態/。/効/顰/取/醜/更/堪/悲/。/</ab></div>
+<ab type="prose">/相取心/修達/者/嗤/。/舉/止/若/無/西子/態/。/効/顰/取/醜/更/堪/悲/。/</ab></div>
 <div type="orig" level="2">
 <ab type="prose">/莫/將/管/見/謗/蒼蒼/。/</ab></div>
 <div type="commentary" level="2">
-<ab type="prose">/漏管/雖/窮/天/豈/小/。/心智/開明/妄/見/空/。/始/知/法界/無邊/表/。/</ab></div>
+<ab type="prose">/漏/管/雖/窮/天/豈/小/。/心智/開明/妄/見/空/。/始/知/法界/無邊/表/。/</ab></div>
 <div type="orig" level="2">
 <ab type="prose">/未/了/吾/今/為/君/決/。/</ab></div>
 <div type="commentary" level="2">
 <ab type="prose">/此/意/明/明/不/易/傳/。/誰/肯/歸來/古/嵓/下/。/任/他/滄海/變/桑田/。/</ab></div>
 <div type="xu" level="2"><head>/No/./1291/-/B/</head>
-<ab type="prose">/夫/法/不可/見聞/覺知/。/而/見聞/覺知/亦/不/外/於/法/。/迷/之/則/凡/。/了/之/則/聖/。/故/古/之/得道/者/。/非/即/非/離/。/不/縛/不/脫/。/應/機/顯用/。/言/或/不能/免/。/而/其/自在/。/則/雖/終日/言/。/而/未甞/言/。/昔/永嘉/之/見/六祖/。/振/錫/而/立/。/目/擊/而/道/存/矣/。/小/駐/一/宿/。/因/為/之/證/道歌/。/道/本/無/證/。/證/之/以/歌/。/雖/不/免/於/有/言/。/而/卒/無/所/累/者/也/。/則/後世/由/其/歌/而/悟入/。/悟入/者/不/知/其/幾何/也/。/又/從/而/為/之/註/釋/者/。/亦/不/知/其/幾何/也/。/然/真/得/永嘉/之/趣/者/。/蓋/難/其/人/矣/。/泉公禪師/。/穎/出/其/類/。/千/頃/領徒/之/暇/。/於/其/歌句/句/之/間/。/分/為/之/頌/。/大/抵/隨/色/而/言/空/。/即/定/而/言/慧/。/不/見/一/相/。/而/充滿/法界/。/不/離/一/塵/。/而/圓具/佛性/。/其/詞/洒落/。/其/旨/宏/遠/。/昭/昭然/。/發/永嘉/之/心/。/於/數百/年/曠絕/之/後/。/予/竊/幸/叩師/之/緒/餘/。/而/因/以/開明/。/故/覽/師/之/頌/。/慕/其/清風/。/而/不能/自/已/。/命/之/鏤/板/。/用/廣/其/傳/。/庶/使/礙/者/通/。/冥/者/明/。/而/一/超頓/以/悟/。/乃/師/之/賜/也/。/</ab>
+<ab type="prose">/夫/法/不可/見聞/覺知/。/而/見聞/覺知/亦/不/外/於/法/。/迷/之/則/凡/。/了/之/則/聖/。/故/古/之/得道/者/。/非/即/非/離/。/不/縛/不/脫/。/應/機/顯用/。/言/或/不能/免/。/而/其/自在/。/則/雖/終日/言/。/而/未甞/言/。/昔/永嘉/之/見/六祖/。/振/錫/而/立/。/目/擊/而/道/存/矣/。/小/駐/一/宿/。/因/為/之/證/道歌/。/道/本/無/證/。/證/之/以/歌/。/雖/不/免/於/有/言/。/而/卒/無/所/累/者/也/。/則/後世/由/其/歌/而/悟入/。/悟入/者/不/知/其/幾/何/也/。/又/從/而/為/之/註/釋/者/。/亦/不/知/其/幾/何/也/。/然/真/得/永嘉/之/趣/者/。/蓋/難/其/人/矣/。/泉公禪師/。/穎/出/其/類/。/千/頃/領徒/之/暇/。/於/其/歌句/句/之/間/。/分/為/之/頌/。/大/抵/隨/色/而/言/空/。/即/定/而/言/慧/。/不/見/一/相/。/而/充滿/法界/。/不/離/一/塵/。/而/圓具/佛性/。/其/詞/洒落/。/其/旨/宏/遠/。/昭/昭然/。/發/永嘉/之/心/。/於/數/百/年/曠絕/之/後/。/予/竊/幸/叩師/之/緒/餘/。/而/因/以/開明/。/故/覽/師/之/頌/。/慕/其/清風/。/而/不能/自/已/。/命/之/鏤/板/。/用/廣/其/傳/。/庶/使/礙/者/通/。/冥/者/明/。/而/一/超頓/以/悟/。/乃/師/之/賜/也/。/</ab>
 <ab type="prose">/熈寧/九年/七月/十日/　/括蒼/　/祝況/　/後/序/</ab></div></div>
     </body>
   </text>

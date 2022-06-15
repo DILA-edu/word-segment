@@ -19,9 +19,14 @@
 * 需先安裝 [CRF++](https://taku910.github.io/crfpp/)，轉檔程式會呼叫 command line 的 crf_test 命令。
 * 執行 `ruby seg-taf.rb`
 * 花費時間：使用 6個 CPU, 全部 CBETA 跑完大約 2小時。
-* 結果輸出到 config.yml 裡定義的 seged_taf
+* Input: config.yml 裡定義的 cbeta_taf_xml
+* 結果輸出到 config.yml 裡定義的 seged
+  * seged-taf
 
 ## 將自動分詞後的 TAFxml 轉為純文字
 
 * 執行 `ruby x2t.rb`
-* 結果輸出到 config.yml 裡定義的 seged_txt
+* 結果輸出到 config.yml 裡定義的 seged
+  * seged-txt
+    * one-text-as-a-file
+    * one-fascile-as-a-file

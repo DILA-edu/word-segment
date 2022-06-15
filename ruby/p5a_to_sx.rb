@@ -3,7 +3,7 @@ require 'nokogiri'
 require 'cbeta'
 
 # 內容不輸出的元素
-PASS = %w[back docNumber graphic milestone mulu orig rdg sg sic teiHeader trailer]
+PASS = %w[back docNumber graphic mulu orig rdg sg sic teiHeader trailer]
 
 # 忽略下一層的 white space
 IGNORE=['TEI', 'text']
@@ -90,6 +90,7 @@ class P5aToSimpleXML
         r += close_ab
       end
     end
+    r.sub!(/(<div level='1'>)(<milestone[^>]*?>)/, '\2\1')
     r
   end
   
@@ -181,6 +182,14 @@ class P5aToSimpleXML
     r
   end
 
+  def e_milestone(e)
+    r = ''
+    if e['unit'] == "juan"
+      r = e.to_xml
+    end
+    r
+  end
+
   def e_note(e)
     r = ''
     if e.key?('place') and e['place'] == 'inline'
@@ -252,6 +261,7 @@ class P5aToSimpleXML
     when 'lb'      then e_lb(e)
     when 'lg'      then e_lg(e)
     when 'list'    then e_list(e)
+    when 'milestone' then e_milestone(e)
     when 'note'    then e_note(e)
     when 'p'       then e_p(e)
     when 'row'     then ab('row', e)
@@ -279,9 +289,7 @@ class P5aToSimpleXML
 
   def traverse(e)
     r = ''
-    e.children.each { |c| 
-      r += handle_node(c)
-    }
+    e.children.each { |c| r += handle_node(c) }
     r
   end
 

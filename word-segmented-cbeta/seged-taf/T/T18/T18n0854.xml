@@ -29,7 +29,7 @@
           <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
           <pubPlace>臺灣‧臺北</pubPlace>
           <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-          <date>2021-12-15</date>
+          <date>2022-06-14</date>
           <biblScope type="vol">T18</biblScope>
           <idno type="Taisho">T18n0854</idno>
         </bibl>
@@ -38,8 +38,8 @@
   </teiHeader>
   <text>
     <body>
-    <div level="1">
-<ab type="juan" subtype="open">/胎藏/梵字/真言/上卷/</ab>
+<milestone n="1" unit="juan"/><div level="1">
+<ab type="juan" subtype="open">/胎藏/梵字/真言/上/卷/</ab>
 <div type="jing" level="2">
 <ab type="prose">/灑/淨/真言/：/</ab>
 <ab type="dharani">􇖵namaḥsamantabuddhānāṃ􇟄apratisame􇟄gaganasame􇟄samantānugate􇟄prakṛtiviśuddhe􇟄dharmadhātuviśodhani􇟄svāhā􇖴</ab>
@@ -51,7 +51,7 @@
 <ab type="dharani">namaḥsamantabuddhānāṃaḥmahāśāntigataśāntikara􇟄praśamadharmanirjjata􇟄abhāvasvāhāvadharsasa􈍇nāprāpta􇟄svāhā􇖴</ab>
 <ab type="prose">/大力/大/護/明/妃/真言/曰/：/</ab>
 <ab type="dharani">namaḥsarvatathāgatebhyo􇟄sarvabhayavigatebhyaḥ􇟄viśvamukhebhyaḥ􇟄sarvathā􇟄haṃkhaṃ􇟄rakṣamahāvale􇟄sarvatathāgata􇟄puryenijjatehūṃhūṃtrāṭtrāṭ􇟄apranihate􇟄svāhā􇖴</ab>
-<ab type="prose">/入/佛/三昧/耶/真言/曰/：/</ab>
+<ab type="prose">/入/佛/三昧/耶真/言/曰/：/</ab>
 <ab type="dharani">namaḥsamantabuddhānāṃ􇟄asametrisame􇟄samayesvāhā􇖴</ab>
 <ab type="prose">/法界/生/真言/曰/：/</ab>
 <ab type="dharani">namaḥsamantabuddhānāṃ􇟄dharmadhatu􇟄svāhāvakohaṃ􇖴</ab>
@@ -77,11 +77,11 @@
 <ab type="dharani">namaḥsamantabuddhānāṃ􇟄gaganānantaspharaṇa􇟄viśuddhadharmanijjatesvāhā􇖴</ab>
 <ab type="prose">/如來/甲/真言/曰/：/</ab>
 <ab type="dharani">namaḥsamantabuddhānāṃ􇟄pracaṇḍavajrajvāla􇟄visphurahūṃ􇖴</ab>
-<ab type="prose">/如來/舌/真言/：/</ab>
+<ab type="prose">/如來/舌/真/言/：/</ab>
 <ab type="dharani">namaḥsamantabuddhānāṃ􇟄mahāmahātathāgatājihva􇟄satyadharmapratiṣṭitasvāhā􇖴</ab>
 <ab type="prose">/如來/圓光/真言/曰/：/</ab>
 <ab type="dharani">namaḥsamantabuddhānāṃ􇟄jvālāmālini􇟄tathāgatārcisvāhā􇖴</ab>
-<ab type="prose">/無礙力/真言/曰/（/押/紙/云/：/已/下/第二/卷/，/普/通/真言/藏/品/）/：/</ab>
+<ab type="prose">/無礙/力/真言/曰/（/押/紙/云/：/已/下/第二/卷/，/普/通/真言/藏/品/）/：/</ab>
 <ab type="dharani">namaḥsamantabuddhānāṃ􇟄samatānugatavarajadharmanirjata􇟄mahāmahasvāhā􇖴</ab>
 <ab type="prose">/彌勒/菩薩/真言/曰/：/</ab>
 <ab type="dharani">namaḥsamantabuddhānāṃ􇟄ajitaṃjaye􇟄sarvasatvāśayānugata􇟄svāhā􇖴</ab>
@@ -93,7 +93,7 @@
 <ab type="dharani">namaḥsamantabuddhānāṃ􇟄sarvatathāgatāvalokita􇟄karūṇamaya􇟄rararahūṃjaḥsvāhā􇖴</ab>
 <ab type="prose">/得大勢至真/言/曰/：/</ab>
 <ab type="dharani">namaḥsamantabuddhānāṃ􇟄jajasaḥsvāhā􇖴</ab>
-<ab type="prose">/多羅尊/真言/曰/：/</ab>
+<ab type="prose">/多羅/尊/真言/曰/：/</ab>
 <ab type="dharani">namaḥsamantabuddhānāṃ􇟄karūṇedbhave􇟄tāretāriṇi􇟄svāhā􇖴</ab>
 <ab type="prose">/毘俱胝/真言/曰/：/</ab>
 <ab type="dharani">namaḥsamantabuddhānāṃ􇟄sarvabhayatrā􈍇􈍇hūṃsphaṭyasvāhā􇖴</ab>
@@ -145,7 +145,7 @@
 <ab type="dharani">namaḥsamantabuddhānāṃ􇟄vaivasvatāya􇟄svāhā􇖴</ab>
 <ab type="prose">/三/死王/真言/曰/：/</ab>
 <ab type="dharani">namaḥsamantabuddhānāṃ􇟄mṛtyavesvāhā􇖴</ab>
-<ab type="prose">/黑/夜/神/真言/曰/：/</ab>
+<ab type="prose">/黑夜/神/真言/曰/：/</ab>
 <ab type="dharani">namaḥsamantabuddhānāṃ􇟄kālarāttrīye􇟄svāhā􇖴</ab>
 <ab type="prose">/七/母/等/真言/曰/：/</ab>
 <ab type="dharani">namaḥsamantabuddhānāṃ􇟄matṛbhyaḥ􇟄svāhā􇖴</ab>
@@ -218,7 +218,7 @@
 <ab type="dharani">mahāvīraḥ􇟄khaṃ􇖴</ab>
 <ab type="prose">/水/自在/真言/曰/：/</ab>
 <ab type="dharani">jalaiśvarā􇟄jaṃ􇖴</ab>
-<ab type="prose">/多羅尊/真言/曰/：/</ab>
+<ab type="prose">/多羅/尊/真言/曰/：/</ab>
 <ab type="dharani">tārādevī􇟄taṃ􇖴</ab>
 <ab type="prose">/毘俱胝/真言/曰/：/</ab>
 <ab type="dharani">bhyaḥ􇟄bhṛkuṭī􇖴</ab>
@@ -236,15 +236,15 @@
 <ab type="dharani">jaṃ􇟄jalinīprabha􇖴</ab>
 <ab type="prose">/釋迦牟尼/真言/曰/：/</ab>
 <ab type="dharani">bhaḥ􇟄śakyamuni􇖴</ab>
-<ab type="prose">/□/佛頂/真言/曰/：/</ab>
+<ab type="prose">/□/佛/頂/真言/曰/：/</ab>
 <ab type="dharani">hūṃhūṃsaṃhuṃ􇟄hūṃṭrūṃ􇟄uṣṇīṣatrayaṃ􇖴</ab>
 <ab type="prose">/白/傘蓋/佛頂/真言/曰/：/</ab>
 <ab type="dharani">laṃ􇟄sitātapatra􇖴</ab>
-<ab type="prose">/勝/佛頂/真言/曰/：/</ab>
+<ab type="prose">/勝/佛/頂/真言/曰/：/</ab>
 <ab type="dharani">śaṃ􇟄jayoṣṇīṣa􇖴</ab>
 <ab type="prose">/最勝/佛頂/真言/曰/：/</ab>
 <ab type="dharani">śīsī􇟄vijayoṣṇīṣa􇖴</ab>
-<ab type="prose">/光/聚/佛頂/真言/：/</ab>
+<ab type="prose">/光/聚/佛/頂/真言/：/</ab>
 <ab type="dharani">trīṃ􇟄tejerāśi􇖴</ab>
 <ab type="prose">/除/障/佛頂/真言/：/</ab>
 <ab type="dharani">hraṃ􇟄vikiraṇapaṃcoṣṇīṣa􇖴</ab>
@@ -272,7 +272,7 @@
 <ab type="dharani">􈍇sanaṃ􇟄􈍇</ab>
 <ab type="prose">/大慈/生/真言/：/</ab>
 <ab type="dharani">ṭhaṃ􇟄mahāmaitryabhyudgata􇖴</ab>
-<ab type="prose">/大□/纏/真言/曰/：/</ab>
+<ab type="prose">/大/□/纏/真言/曰/：/</ab>
 <ab type="dharani">yaṃ􇟄mahākarūṇāpratita􇖴</ab>
 <ab type="prose">/除/一切/熱惱/真言/曰/：/</ab>
 <ab type="dharani">ī􈍇rvadāhapraśamina􇖴</ab>
@@ -286,7 +286,7 @@
 <ab type="dharani">ṣa􇟄ratnapāṇi􇖴</ab>
 <ab type="prose">/持/地/真言/曰/：/</ab>
 <ab type="dharani">ṅaṃ􇟄dharaṇinvarañaṃ􇖴</ab>
-<ab type="prose">/寶印手/真言/曰/：/</ab>
+<ab type="prose">/寶/印/手/真言/曰/：/</ab>
 <ab type="dharani">phaṃ􇟄ratnamudrāhasta􇖴</ab>
 <ab type="prose">/堅固/意/真言/曰/：/</ab>
 <ab type="dharani">ṇāṃ􇟄dṛḍhadhyāśaya􇖴</ab>
@@ -308,11 +308,11 @@
 <ab type="dharani">namoramadharmasaṃbhavabibhava􇟄kathanasaṃsaṃsatesvāhā􇖴</ab>
 <ab type="prose">/淨居天/真言/曰/：/</ab>
 <ab type="dharani">śuddhovahā􇖴</ab>
-<ab type="prose">/羅剎娑/真言/曰/：/</ab>
+<ab type="prose">/羅剎/娑真/言/曰/：/</ab>
 <ab type="dharani">kraṃkeri􇟄rākṣasa􇖴</ab>
 <ab type="prose">/諸/荼吉尼/真言/曰/：/</ab>
 <ab type="dharani">hrīḥhaḥ􇟄ḍakinīnāṃ􇖴</ab>
-<ab type="prose">/藥叉/女真/言/曰/：/</ab>
+<ab type="prose">/藥叉/女/真言/曰/：/</ab>
 <ab type="dharani">yakṣabidyādhari􇟄yakṣiṇīnāṃ􇖴</ab>
 <ab type="prose">/諸/毘舍遮/真言/曰/：/</ab>
 <ab type="dharani">picipici􇟄piśācinīnāṃ􇖴</ab>
@@ -334,7 +334,7 @@
 <ab type="dharani">namaḥsarvatathāgatebhyo􇟄viśvamukhebhyaḥ􇟄sarvathākhaṃ􇟄udgatespharahīmaṃ􇟄gaganakaṃ􇟄svāhā􇖴</ab>
 <ab type="prose">/滿足/一切/金剛/字句/真言/曰/：/</ab>
 <ab type="dharani">namaḥsamantabuddhānāṃ􇟄aḥbirahūṃkhaṃ􇖴</ab>
-<ab type="prose">/無礙力/明/妃/真言/曰/（/押/紙/云/：/已/下/第三/卷/轉/字/輪/マ/タ/ラ/行/品/）/：/</ab>
+<ab type="prose">/無礙/力/明/妃/真言/曰/（/押/紙/云/：/已/下/第三/卷/轉/字/輪マ/タ/ラ/行/品/）/：/</ab>
 <ab type="dharani">tadyathāgaganasame􇟄apratisame􇟄sarvatathāgatāsantatṛga􇟄gaganasama􇟄　varalakṣaṇe􇟄svāhā􇖴</ab>
 <ab type="prose">/救世/者/真言/曰/：/</ab>
 <ab type="dharani">namaḥsamantabuddhānāṃ􇟄a􇖴</ab>
@@ -342,7 +342,7 @@
 <ab type="dharani">namaḥsarvatathāgatebhyaḥ􇟄sarvamukhebhyaḥ􇟄asameparame􇟄acale􇟄gagane􇟄smaraṇe􇟄sarvatrānugate􇟄svāhā􇖴</ab>
 <ab type="prose">/置/字句/：/</ab>
 <ab type="dharani">namaḥsamantabuddhānāṃmaṃ􇖴</ab>
-<ab type="prose">/已/下/第四/卷/。/</ab>
+<ab type="prose">/已/下/第四/卷/。/</ab><milestone n="2" unit="juan"/>
 <ab type="juan" subtype="open">/胎藏/梵字/真言/下/卷/</ab>
 <ab type="prose">/力/三昧/：/</ab>
 <ab type="dharani">namaḥsamantabuddhānāṃ􇟄asame􇟄trisame􇟄samayesvāhā􇖴</ab>
@@ -356,7 +356,7 @@
 <ab type="dharani">namaḥsamantabuddhānāṃ􇟄aṃ􇖴</ab>
 <ab type="prose">/蓮花/：/</ab>
 <ab type="dharani">namaḥsamantabuddhānāṃ􇟄aḥ􇖴</ab>
-<ab type="prose">/金剛/大惠/：/</ab>
+<ab type="prose">/金剛/大/惠/：/</ab>
 <ab type="dharani">namaḥsamantavajraṇaṃhūṃ􇖴</ab>
 <ab type="prose">/如來/頂/：/</ab>
 <ab type="dharani">namaḥsamantabuddhānāṃhūṃhūṃ􇖴</ab>
@@ -368,7 +368,7 @@
 <ab type="dharani">namaḥsamantabuddhānāṃ􇟄sarvathā􇟄jinajinabhayanāśana􇟄svāhā􇖴</ab>
 <ab type="prose">/與/願/：/</ab>
 <ab type="dharani">namaḥsamantabuddhānāṃ􇟄varadavajratmakasvāhā􇖴</ab>
-<ab type="prose">/怖/魔/：/</ab>
+<ab type="prose">/怖魔/：/</ab>
 <ab type="dharani">namaḥsamantabuddhānāṃ􇟄mahāvamivati􇟄daśavalodbhave􇟄mahāmetryabhyadgatasvāhā􇖴</ab>
 <ab type="prose">/悲/生/願/：/</ab>
 <ab type="dharani">namaḥsamantabuddhānāṃ􇟄gaganavatalakṣaṇa􇟄karuḍomaya􇟄tathāgatacakṣuḥ􇟄svāhā􇖴</ab>
@@ -424,7 +424,7 @@
 <ab type="dharani">namaḥsamantabuddhānāṃ􇟄sarvabhayatrāsani􇟄hūṃsphaṭya􇟄svāhā􇖴</ab>
 <ab type="prose">/白/處/尊/：/</ab>
 <ab type="dharani">namaḥsamantabuddhānāṃ􇟄tathāgatabiṣayasabhave􇟄padmamālini􇟄svāhā􇖴</ab>
-<ab type="prose">/何/耶󰵲哩婆/：/</ab>
+<ab type="prose">/何耶/󰵲哩婆/：/</ab>
 <ab type="dharani">namaḥsamantabuddhānāṃ􇟄hūṃkhadayaḍhaṃjasphaṭya􇟄svāhā􇖴</ab>
 <ab type="prose">/地藏/菩薩/：/</ab>
 <ab type="dharani">namaḥsamantabuddhānāṃ􇟄hahahasutanu􇟄svāhā􇟄</ab>
@@ -468,7 +468,7 @@
 <ab type="dharani">namaḥsamantabuddhānāṃ􇟄raḍo􈍇svāhā􇖴</ab>
 <ab type="prose">/持/地/：/</ab>
 <ab type="dharani">namaḥsamantabuddhānāṃdharaṇiṃdhara􇟄svāhā􇖴</ab>
-<ab type="prose">/寶印手/：/</ab>
+<ab type="prose">/寶/印/手/：/</ab>
 <ab type="dharani">narasamantabuddhānāṃ􇟄ratnanijita􇟄svāhā􇖴</ab>
 <ab type="prose">/堅固/意/：/</ab>
 <ab type="dharani">namaḥsamantabuddhānāṃ􇟄vajrasaṃbhava􇟄svāhā􇖴</ab>
@@ -488,7 +488,7 @@
 <ab type="dharani">namaḥsamantabuddhānāṃ􇟄vajrakara􇟄svāhā􇖴</ab>
 <ab type="prose">/執/金剛/：/</ab>
 <ab type="dharani">namaḥsamantavajraṇaṃcaṇḍa􈍇hāroṣa􈍇􈍇</ab>
-<ab type="prose">/金剛拳/：/</ab>
+<ab type="prose">/金剛/拳/：/</ab>
 <ab type="dharani">namaḥsamantavajraṇa􇟄sphoṭayavajrasaṃbhave􇟄svāhā􇖴</ab>
 <ab type="prose">/無/能/勝/：/</ab>
 <ab type="dharani">namaḥsamantavajraṇaṃ􇟄durvarṣamahāroṣaṇa􇟄khadayasarvāṃstathāgarājñāṃkuru􇟄svāhā􇖴</ab>

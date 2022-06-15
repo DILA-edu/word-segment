@@ -29,7 +29,7 @@
           <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
           <pubPlace>臺灣‧臺北</pubPlace>
           <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-          <date>2021-12-15</date>
+          <date>2022-06-14</date>
           <biblScope type="vol">ZW07</biblScope>
           <idno type="Taisho">ZW07na040</idno>
         </bibl>
@@ -38,10 +38,10 @@
   </teiHeader>
   <text>
     <body>
-    <div level="1"><head>/目錄/</head>
+<milestone unit="juan" n="1"/><div level="1"><head>/目錄/</head>
 <ab type="table"/>
 <ab type="row"/>
-<ab type="cell">/卷首/語/</ab>
+<ab type="cell">/卷/首/語/</ab>
 <ab type="cell">/（/1/）/</ab>
 <ab type="row"/>
 <ab type="cell">/Foreword/</ab>
@@ -58,7 +58,7 @@
 <ab type="row"/>
 <ab type="cell">/三藏/論疏/</ab>
 <ab type="row"/>
-<ab type="cell">/注/心要/法門/</ab>
+<ab type="cell">/注/心/要/法門/</ab>
 <ab type="cell">/（/39/）/</ab>
 <ab type="row"/>
 <ab type="cell">/佛教/儀軌/</ab>
@@ -66,7 +66,7 @@
 <ab type="cell">/金剛/五/禮/</ab>
 <ab type="cell">/（/52/）/</ab>
 <ab type="row"/>
-<ab type="cell">/金剛禮/</ab>
+<ab type="cell">/金剛/禮/</ab>
 <ab type="cell">/（/63/）/</ab>
 <ab type="row"/>
 <ab type="cell">/阿吒力/教/典籍/</ab>
@@ -74,13 +74,13 @@
 <ab type="cell">/護國/司南抄/</ab>
 <ab type="cell">/（/68/）/</ab>
 <ab type="row"/>
-<ab type="cell">/佛/說/消災/延/壽/藥師/灌頂/章句/儀/</ab>
+<ab type="cell">/佛/說/消/災延/壽/藥師/灌頂/章句/儀/</ab>
 <ab type="cell">/（/114/）/</ab>
 <ab type="row"/>
 <ab type="cell">/藥師/道場/解/經/頌/文/灌頂/章句/教誡/儀/文/</ab>
 <ab type="cell">/（/115/）/</ab>
 <ab type="row"/>
-<ab type="cell">/佛/說/消災/延/壽/藥師/灌頂/章句/一時/儀/文/</ab>
+<ab type="cell">/佛/說/消/災延/壽/藥師/灌頂/章句/一時/儀文/</ab>
 <ab type="cell">/（/133/）/</ab>
 <ab type="row"/>
 <ab type="cell">/佛/說/藥師/二/時/科儀/文/</ab>
@@ -89,7 +89,7 @@
 <ab type="cell">/佛/說/藥師/三/時/儀/文/</ab>
 <ab type="cell">/（/166/）/</ab>
 <ab type="row"/>
-<ab type="cell">/藥師/灌頂/章句/拔/苦/過罪/生死/得/度/綱/目/</ab>
+<ab type="cell">/藥師/灌頂/章句/拔/苦/過/罪/生死/得/度/綱/目/</ab>
 <ab type="cell">/（/199/）/</ab>
 <ab type="row"/>
 <ab type="cell">/佛/說/藥師/三時/密咒/</ab>
@@ -112,13 +112,13 @@
 <ab type="cell">/佛/說/淨/度/三昧/經/卷/第三/</ab>
 <ab type="cell">/（/292/）/</ab>
 <ab type="row"/>
-<ab type="cell">/附/：/《/淨/度/三昧/經/》/的編/纂與/撰述/</ab>
+<ab type="cell">/附/：/《/淨/度/三昧/經/》/的/編纂/與/撰述/</ab>
 <ab type="cell">/（/327/）/</ab>
 <ab type="row"/>
-<ab type="cell">/地藏/菩薩/十/齋日/</ab>
+<ab type="cell">/地藏/菩薩/十齋日/</ab>
 <ab type="cell">/（/348/）/</ab>
 <ab type="row"/>
-<ab type="cell">/附/：/關/於/《/地藏/菩薩/十/齋日/》/</ab>
+<ab type="cell">/附/：/關/於/《/地藏/菩薩/十齋日/》/</ab>
 <ab type="cell">/（/363/）/</ab>
 <ab type="row"/>
 <ab type="cell">/西夏/佚典/</ab>

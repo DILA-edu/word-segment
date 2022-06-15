@@ -29,7 +29,7 @@
           <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
           <pubPlace>臺灣‧臺北</pubPlace>
           <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-          <date>2021-12-15</date>
+          <date>2022-06-14</date>
           <biblScope type="vol">T21</biblScope>
           <idno type="Taisho">T21n1410</idno>
         </bibl>
@@ -38,11 +38,11 @@
   </teiHeader>
   <text>
     <body>
-    
+<milestone n="1" unit="juan"/>
 <div type="jing" level="1">
 <ab type="juan" subtype="open">/佛/說/勝/幡/瓔珞/陀羅尼/經/</ab>
 <byline>/西天/譯經/三藏/朝散大夫/試/鴻臚/少卿/傳法/大師/臣/施護/奉/　/詔/譯/</byline>
-<ab type="prose">/如是我聞/。/一時/佛/在/喜樂山頂/。/天宮/不/遠/仙人/住處/與/大/比丘/眾/千二百五十/人/俱/。/復/有/菩薩/摩訶薩/。/文殊師利/童子/及/賢護/菩薩/等/。/十六/大士/皆/來/集會/。/</ab>
+<ab type="prose">/如是我聞/。/一時/佛/在/喜樂/山頂/。/天宮/不/遠/仙人/住處/與/大/比丘/眾/千二百五十/人/俱/。/復/有/菩薩/摩訶薩/。/文殊師利/童子/及/賢護/菩薩/等/。/十六/大士/皆/來/集會/。/</ab>
 <ab type="prose">/爾時/世尊/三昧/正受/。/觀/彼/天上/人間/。/而/欲/說法/平等/施與/。/當/使/有情/得/聞法/已/。/稱讚/殊勝/咸/令/歡喜/。/</ab>
 <ab type="prose">/爾時/大梵天王/及/天/龍/夜叉/乾闥婆/阿修羅/迦樓羅/緊曩羅/摩睺羅伽/人/非人/等/亦/來/集會/。/</ab>
 <ab type="prose">/是時/大梵天王/前/詣/佛/所/。/稽首/佛/足/合掌/恭肅/而/白/佛/言/世尊/。/一切/有情/造/種種/罪業/。/身/壞/命/終/墮/於/惡趣/。/或/墮/焰/魔界/或/墮/餓鬼/界/或/墮/畜生界/。/既/墮/如是/諸/惡趣/已/受/種種/苦/。/及/彼/色/等/輪迴/亦/然/。/世尊/大慈大悲/無量/善巧/願/施/方便/。/破壞/如是/一切/有情/。/罪業/果報/使/得/解脫/。/</ab>

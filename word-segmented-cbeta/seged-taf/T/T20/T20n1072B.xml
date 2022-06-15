@@ -29,7 +29,7 @@
           <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
           <pubPlace>臺灣‧臺北</pubPlace>
           <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-          <date>2021-12-15</date>
+          <date>2022-06-14</date>
           <biblScope type="vol">T20</biblScope>
           <idno type="Taisho">T20n1072B</idno>
         </bibl>
@@ -38,7 +38,7 @@
   </teiHeader>
   <text>
     <body>
-    <div level="1">
+<milestone n="1" unit="juan"/><div level="1">
 <ab type="juan" subtype="open">/馬頭/觀音/心/陀羅尼/</ab>
 <div type="dharani" level="2">
 <ab type="dharani">􇖵namoratnatrayaya􇟄namaḥāryāvalokiteśvarāya􇟄bodhisatvaya􇟄mahāsatvāya􇟄mahākāruṇikāya􇟄ebhyonamaskṛtvā􇟄īdaṃmāryāvalokiteśvara􇟄muśoṅgiṇḍaṃhayagrīvahṛdaya　movantaṃyipyāmi􇖴ehyehimahā􇟄vajra􇥗vajranakha􇖴vajrāroma􇟄vajrakeśa􇟄vajrakhura􇥗vajradaṃṣṭra􇟄hana􇥗􇟄daha􇥗􇟄paca􇥗􇟄gahṇa􇥗􇟄vanva􇥗􇟄radgā􇥗􇟄hasa􇥗jalma􇥗􇟄ñaṭra􇥗dhuna􇥗vidhuna􇥗mathā􇥗kamya􇥗kapha􇥗sarvadevāṃsarvanāgāṃsarvayakṣāṃ􇟄sarvavihiheṭhakāṃ􇟄sarvaviṣāṃpraviśa􇥗􇟄hayagrīvaviṣaṣriya􇟄prajvala􇥗āviśa􇥗viśavajrakhuramavilaṃ􇟄buddhadharmmasaṃghavacana􇟄manusmarajatimanusmarahṛdaya􇟄manusmaravikīra􇟄garja􇥗nadāṃ􇥗madagucri􇥗vinihanahanahūṃhūṃphaṭaphaṭsvāhā􇖴</ab></div>

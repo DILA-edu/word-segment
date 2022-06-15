@@ -29,7 +29,7 @@
           <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
           <pubPlace>臺灣‧臺北</pubPlace>
           <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-          <date>2021-12-15</date>
+          <date>2022-06-14</date>
           <biblScope type="vol">ZW08</biblScope>
           <idno type="Taisho">ZW08na045</idno>
         </bibl>
@@ -38,10 +38,10 @@
   </teiHeader>
   <text>
     <body>
-    <div level="1"><head>/目錄/</head>
+<milestone unit="juan" n="1"/><div level="1"><head>/目錄/</head>
 <ab type="table"/>
 <ab type="row"/>
-<ab type="cell">/卷首/語/</ab>
+<ab type="cell">/卷/首/語/</ab>
 <ab type="cell">/（/1/）/</ab>
 <ab type="row"/>
 <ab type="cell">/目錄/</ab>
@@ -75,7 +75,7 @@
 <ab type="cell">/如來/廣孝/十/種/報/恩/道場/紀讚/</ab>
 <ab type="cell">/（/123/）/</ab>
 <ab type="row"/>
-<ab type="cell">/附/：/十/種/報/恩/讚/</ab>
+<ab type="cell">/附/：/十/種/報/恩讚/</ab>
 <ab type="cell">/（/142/）/</ab>
 <ab type="row"/>
 <ab type="cell">/如來/廣孝/十/種/報/恩/道場/儀/文/卷/中/</ab>
@@ -104,18 +104,18 @@
 <ab type="cell">/佛/說/太陽經/</ab>
 <ab type="cell">/（/362/）/</ab>
 <ab type="row"/>
-<ab type="cell">/佛/說/月光/經/</ab>
+<ab type="cell">/佛/說/月光經/</ab>
 <ab type="cell">/（/363/）/</ab>
 <ab type="row"/>
 <ab type="cell">/佛/說/太陰/經/</ab>
 <ab type="cell">/（/364/）/</ab>
 <ab type="row"/>
-<ab type="cell">/金剛/般若波羅蜜/經纂/</ab>
+<ab type="cell">/金剛/般若波羅蜜/經/纂/</ab>
 <ab type="cell">/（/368/）/</ab>
 <ab type="row"/>
 <ab type="cell">/研/究/論/文/</ab>
 <ab type="row"/>
-<ab type="cell">/敦煌/寺院/所/藏/大藏經/概貌/</ab>
+<ab type="cell">/敦煌寺/院/所/藏/大藏經/概貌/</ab>
 <ab type="cell">/（/372/）/</ab>
 <ab type="row"/>
 <ab type="cell">/《/慧琳/音/義/》/與/唐代/大藏經/</ab>

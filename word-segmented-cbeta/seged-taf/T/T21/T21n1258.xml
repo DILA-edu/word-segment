@@ -29,7 +29,7 @@
           <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
           <pubPlace>臺灣‧臺北</pubPlace>
           <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-          <date>2021-12-15</date>
+          <date>2022-06-14</date>
           <biblScope type="vol">T21</biblScope>
           <idno type="Taisho">T21n1258</idno>
         </bibl>
@@ -38,7 +38,7 @@
   </teiHeader>
   <text>
     <body>
-    
+<milestone n="1" unit="juan"/>
 <div type="jing" level="1">
 <ab type="juan" subtype="open">/摩利支/菩薩/略/念/誦/法/</ab>
 <byline>/大興善寺/三藏/沙門/大/廣/智/不/空/奉/　/詔/譯/</byline>

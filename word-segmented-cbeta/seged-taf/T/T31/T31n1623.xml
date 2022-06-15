@@ -29,7 +29,7 @@
           <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
           <pubPlace>臺灣‧臺北</pubPlace>
           <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-          <date>2021-12-15</date>
+          <date>2022-06-14</date>
           <biblScope type="vol">T31</biblScope>
           <idno type="Taisho">T31n1623</idno>
         </bibl>
@@ -38,8 +38,8 @@
   </teiHeader>
   <text>
     <body>
-    
-<ab type="juan" subtype="open">/觀/總相/論/頌/一/卷/</ab>
+<milestone unit="juan" n="1"/>
+<ab type="juan" subtype="open">/觀/總相/論頌/一/卷/</ab>
 <byline>/陳那/菩薩/造/</byline>
 <byline>/三藏/法師/義淨/奉/　/制/譯/</byline>
 <div type="jing" level="1">
@@ -54,19 +54,19 @@
 /聲/義/及/智/義/，/　/故/略/造/斯/論/。/
 /問/名/義/連屬/，/　/是/俗/說/為/本/，/
 /何以/故/今/云/，/　/但/唯/辦/聲/義/？/
-/答/曰/不/如此/，/　/縱/有/連/屬/聲/，/
-/唯/名/與/義/二/。/　/諸/有/許/共相/，/
+/答/曰/不/如此/，/　/縱/有/連屬/聲/，/
+/唯/名/與/義二/。/　/諸/有/許/共相/，/
 /所/詮/及/能/詮/，/　/此/中/理/印持/，/
 /咸/攝/入/於/此/。/　/謂/不/相/離/性/，/
 /方/許/相/連屬/，/　/故/今/不/別/說/。/
 /由/能/詮/名/等/，/　/唯/局/連/屬/門/，/
-/了/彼/所/詮/義/。/　/故/以/總相/性/，/
+/了/彼/所/詮/義/。/　/故/以/總/相性/，/
 /方/得/解了/者/，/　/後/當/以/廣說/。/
 /故/唯/聲/義/智/，/　/連屬/道理/成/。/
 /有/餘/復/意樂/，/　/此/中/名/義二/，/
 /有/三/種/差別/，/　/謂/聲/并/義/二/。/
 </ab>
-<ab type="juan" subtype="close">/觀/總相/論/頌/一/卷/</ab></div>
+<ab type="juan" subtype="close">/觀/總相/論頌/一/卷/</ab></div>
     </body>
   </text>
 </TEI>

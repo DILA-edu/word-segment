@@ -29,7 +29,7 @@
           <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
           <pubPlace>臺灣‧臺北</pubPlace>
           <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-          <date>2021-12-15</date>
+          <date>2022-06-14</date>
           <biblScope type="vol">T20</biblScope>
           <idno type="Taisho">T20n1197</idno>
         </bibl>
@@ -38,13 +38,13 @@
   </teiHeader>
   <text>
     <body>
-    <div level="1">
+<milestone n="1" unit="juan"/><div level="1">
 <ab type="juan" subtype="open">/佛/說/文殊師利/一百八/名/梵讚/</ab>
 <byline>/西天/譯經/三藏/朝散大夫/試/鴻臚卿/傳教/大師/臣/法天/奉/　/詔/譯/</byline>
 <div type="jing" level="2">
 <ab type="verse">/我/今/宣說/　/文殊師利/　/一百八/名/
 /殊勝/功德/　/一/日/三/時/　/受持/讀誦/
-/所/求/意願/　/決定/現前/　/依法/課持/
+/所/求/意願/　/決定/現前/　/依/法/課/持/
 /身/恒/清淨/　/罪障/消除/　/或/入/軍陣/
 /諸/怖畏/中/　/文殊/現/身/　/為/作/守護/
 /若/常/誦念/　/速證/菩提/

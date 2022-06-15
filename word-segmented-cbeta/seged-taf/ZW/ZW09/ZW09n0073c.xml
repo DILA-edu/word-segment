@@ -29,7 +29,7 @@
           <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
           <pubPlace>臺灣‧臺北</pubPlace>
           <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-          <date>2021-12-15</date>
+          <date>2022-06-14</date>
           <biblScope type="vol">ZW09</biblScope>
           <idno type="Taisho">ZW09n0073c</idno>
         </bibl>
@@ -38,7 +38,7 @@
   </teiHeader>
   <text>
     <body>
-    <div level="1"><head>/〔/錄/文/三/〕/</head>
+<milestone unit="juan" n="1"/><div level="1"><head>/〔/錄/文/三/〕/</head>
 <ab type="prose">/（/前/殘/）/</ab>
 <ab type="prose">/經/云/：/「/有/持戒/修/福/者/」/</ab>
 <ab type="verse">/尸羅/得/清淨/，/　/無量/劫/來/因/。/
@@ -54,12 +54,12 @@
 <ab type="verse">/如/能/發心/者/，/　/應當/遠/二/邊/。/
 /涅槃/無有/相/，/　/菩薩/離/能/詮/。/
 /無/乘/及/乘/者/，/　/人/法/兩/俱/捐/。/
-/欲/達/無生忍/，/　/應當/絕/大源/。/
+/欲/達/無生忍/，/　/應當/絕/大/源/。/
 </ab>
 <ab type="prose">/經/云/：/「/如是/」/至/「/第一/波羅蜜/」/</ab>
 <ab type="verse">/波羅/稱/彼岸/，/　/於/中/十/種/名/。/
-/高卑/緣/妄/識/，/　/次第/為/迷情/。/
-/燄/裏/尋求/水/，/　/琴/中/覓/響聲/。/
+/高/卑/緣/妄/識/，/　/次第/為/迷情/。/
+/燄/裏/尋/求/水/，/　/琴/中/覓/響聲/。/
 /真/如何/得失/，/　/今/乃/號/圓成/。/
 </ab>
 <ab type="prose">/經/云/：/「/如/我/昔/為/歌利王/」/至/「/應/生/嗔恨/」/</ab>
@@ -71,7 +71,7 @@
 <ab type="prose">/經/云/：/「/不應/住/色/生/心/，/不應/住/色/布施/」/</ab>
 <ab type="verse">/菩薩/行/深/智/，/　/何/曾/不/帶/悲/。/
 /投/身/飼/餓/虎/，/　/割/肉/濟/鷹/饑/。/
-/精勤/三/大劫/，/　/曾/無/一/念/疲/。/
+/精勤/三/大劫/，/　/曾/無/一念/疲/。/
 /如/能/行/此/行/，/　/皆/作/四生師/。/
 </ab>
 <ab type="prose">/經/云/：/「/真語/，/不/異/語/」/</ab>

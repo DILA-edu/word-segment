@@ -29,7 +29,7 @@
           <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
           <pubPlace>臺灣‧臺北</pubPlace>
           <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-          <date>2021-12-15</date>
+          <date>2022-06-14</date>
           <biblScope type="vol">T21</biblScope>
           <idno type="Taisho">T21n1316</idno>
         </bibl>
@@ -38,7 +38,7 @@
   </teiHeader>
   <text>
     <body>
-    
+<milestone n="1" unit="juan"/>
 <ab type="juan" subtype="open">/佛/說/甘露/經/陀羅尼/呪/</ab>
 <div type="dharani" level="1">
 <ab type="dharani">南無素嚕皤耶(一)怛他揭多(去聲呼之)耶(二)怛姪他(三)唵(四)素嚕素嚕(五)皤囉素嚕(六)皤羅素嚕(七)莎呵(八)</ab>

@@ -29,7 +29,7 @@
           <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
           <pubPlace>臺灣‧臺北</pubPlace>
           <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-          <date>2021-12-15</date>
+          <date>2022-06-14</date>
           <biblScope type="vol">T08</biblScope>
           <idno type="Taisho">T08n0250</idno>
         </bibl>
@@ -38,9 +38,9 @@
   </teiHeader>
   <text>
     <body>
-    
+<milestone n="1" unit="juan"/>
 <ab type="juan" subtype="open">/摩訶/般若波羅蜜/大/明/呪/經/</ab>
-<byline>/姚秦/天竺/三藏/鳩摩羅什/譯/</byline>
+<byline>/姚/秦/天竺/三藏/鳩摩羅什/譯/</byline>
 <div type="jing" level="1">
 <ab type="prose">/觀世音/菩薩/行/深/般若波羅蜜/時/，/照/見/五陰/空/，/度/一切/苦厄/。/</ab>
 <ab type="prose">/「/舍利弗/！/色/空/故/無/惱/壞/相/，/受/空/故/無/受/相/，/想/空/故/無/知/相/，/行/空/故/無/作/相/，/識/空/故/無/覺/相/。/何以/故/？/舍利弗/！/非/色/異/空/，/非/空/異/色/。/色/即是/空/，/空/即是/色/。/受/、/想/、/行/、/識/亦/如是/。/</ab>

@@ -42,6 +42,8 @@ end
 t1 = Time.now
 $process_counter = 0
 $config = YAML.load_file('config.yml')
-seg_folder($config['cbeta_taf_xml'], $config['seged_taf'])
+
+dest = File.join($config['seged'], 'one-text-as-a-file', 'seged-taf')
+seg_folder($config['cbeta_taf_xml'], dest)
 Process.waitall
 puts "花費時間：" + ChronicDuration.output(Time.now - t1)

@@ -29,7 +29,7 @@
           <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
           <pubPlace>臺灣‧臺北</pubPlace>
           <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-          <date>2021-12-15</date>
+          <date>2022-06-14</date>
           <biblScope type="vol">T08</biblScope>
           <idno type="Taisho">T08n0257</idno>
         </bibl>
@@ -38,8 +38,8 @@
   </teiHeader>
   <text>
     <body>
-    
-<ab type="juan" subtype="open">/佛/說/聖/佛母/般若波羅蜜多/經/</ab>
+<milestone n="1" unit="juan"/>
+<ab type="juan" subtype="open">/佛/說/聖/佛/母/般若波羅蜜多/經/</ab>
 <byline>/西天/譯經/三藏/朝奉大夫/試/光祿卿/傳法/大師/賜紫/臣/施護/奉/　/詔/譯/</byline>
 <div type="jing" level="1">
 <ab type="prose">/如是我聞/：/</ab>
@@ -55,7 +55,7 @@
 <ab type="prose">/「/舍利子/！/諸/菩薩/摩訶薩/，/若/能/誦/是/般若波羅蜜多/明/句/，/是/即/修學/甚深/般若波羅蜜多/。/」/</ab>
 <ab type="prose">/爾時/，/世尊/從/三摩地/安詳/而/起/，/讚/觀自在/菩薩/摩訶薩/言/：/「/善哉/，/善哉/！/善男子/！/如/汝/所/說/，/如是/，/如是/！/般若波羅蜜多/當/如是/學/，/是/即/真實/最上/究竟/，/一切/如來/亦/皆/隨喜/。/」/</ab>
 <ab type="prose">/佛/說/此/經/已/，/觀自在/菩薩/摩訶薩/并/諸/苾芻/，/乃至/世間/天/、/人/、/阿修羅/、/乾闥婆/等/一切/大眾/，/聞/佛/所/說/，/皆大歡喜/，/信受奉行/。/</ab></div>
-<ab type="juan" subtype="close">/佛/說/聖/佛母/般若波羅蜜多/經/</ab>
+<ab type="juan" subtype="close">/佛/說/聖/佛/母/般若波羅蜜多/經/</ab>
     </body>
   </text>
 </TEI>

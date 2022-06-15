@@ -29,7 +29,7 @@
           <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
           <pubPlace>臺灣‧臺北</pubPlace>
           <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-          <date>2021-12-15</date>
+          <date>2022-06-14</date>
           <biblScope type="vol">T01</biblScope>
           <idno type="Taisho">T01n0056</idno>
         </bibl>
@@ -38,7 +38,7 @@
   </teiHeader>
   <text>
     <body>
-    
+<milestone n="1" unit="juan"/>
 <div type="jing" level="1">
 <ab type="juan" subtype="open">/佛/說/樂/想/經/</ab>
 <byline>/西晉/月支國/三藏/竺法護/譯/</byline>

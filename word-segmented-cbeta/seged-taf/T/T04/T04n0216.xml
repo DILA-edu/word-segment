@@ -29,7 +29,7 @@
           <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
           <pubPlace>臺灣‧臺北</pubPlace>
           <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-          <date>2021-12-15</date>
+          <date>2022-06-14</date>
           <biblScope type="vol">T04</biblScope>
           <idno type="Taisho">T04n0216</idno>
         </bibl>
@@ -38,7 +38,7 @@
   </teiHeader>
   <text>
     <body>
-    
+<milestone n="1" unit="juan"/>
 <ab type="juan" subtype="open">/佛/說/大/魚/事/經/</ab>
 <byline>/東晉/天竺/三藏/竺曇無蘭/譯/</byline>
 <div type="jing" level="1">
@@ -53,7 +53,7 @@
 <ab type="prose">/「/小/魚/答/大/魚/曰/：/『/我等/至/彼/，/不/為/人/所/捕/，/然/遙/見/長/線/尋/我/後/。/』/</ab>
 <ab type="prose">/「/大/魚/便/語/小/魚/曰/：/『/汝等/以為/所/害/，/所以/然/者/，/汝/所/遙/見/線/尋/後/來/者/，/昔/先祖/父母/，/盡/為/此/線/所/害/。/汝/今/必/為/所/害/，/汝/非/我/兒/。/』/</ab>
 <ab type="prose">/「/爾時/小/魚/，/盡/為/魚師/所/捕/，/舉/著/岸/上/，/如是/小/魚/大/魚/有/死/者/。/</ab>
-<ab type="prose">/「/此/亦/如是/。/或/有/一/比丘/，/在/他/聚落/遊行/，/著衣/持/鉢/，/周行/乞食/，/福度/眾生/；/不/守護/身/，/不/守護/口/、/意/，/不/具足/諸/根/，/意/不/專一/，/即/於/彼/村落/乞食/。/</ab>
+<ab type="prose">/「/此/亦/如是/。/或/有/一/比丘/，/在/他/聚落/遊行/，/著衣/持/鉢/，/周行/乞食/，/福/度/眾生/；/不/守護/身/，/不/守護/口/、/意/，/不/具足/諸/根/，/意/不/專一/，/即/於/彼/村落/乞食/。/</ab>
 <ab type="prose">/「/時/見/諸/女人/端正/無雙/，/色/猶/桃華/，/見/已/便/起/婬心/，/以/此/婬心/，/身/、/口/、/意/熾然/。/</ab>
 <ab type="prose">/「/彼/以/身/、/口/、/意/熾然/，/即/於/村落/乞食/，/還/所/止/處/，/故/發/欲想/。/</ab>
 <ab type="prose">/「/便/往/尊/比丘/所/，/以/此/因緣/，/具/向/諸/比丘/說/。/</ab>

@@ -29,7 +29,7 @@
           <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
           <pubPlace>臺灣‧臺北</pubPlace>
           <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-          <date>2021-12-15</date>
+          <date>2022-06-14</date>
           <biblScope type="vol">ZW03</biblScope>
           <idno type="Taisho">ZW03na019</idno>
         </bibl>
@@ -38,7 +38,7 @@
   </teiHeader>
   <text>
     <body>
-    <div level="1"><head>/鳴謝/</head>
+<milestone unit="juan" n="1"/><div level="1"><head>/鳴謝/</head>
 <ab type="list">
 /本/輯/資助/單位/
 /　/</ab>
@@ -46,14 +46,14 @@
 /　/
 <ab type="prose">/香/港/志/蓮淨苑/</ab>
 /　/
-<ab type="prose">/山/西/佛教/文化/事業/總公司/</ab>
+<ab type="prose">/山/西/佛教/文化/事業/總/公司/</ab>
 /個/人/捐/助/
 /　/
 <ab type="prose">/釋/依/昱/（/台灣/高雄/）/　/　/1000元/</ab>
 /　/
-<ab type="prose">/黃祝荷/（/湖南/茶陵/）/　/　/46元/</ab>
+<ab type="prose">/黃/祝/荷/（/湖南/茶陵/）/　/　/4/6元/</ab>
 /　/
-<ab type="prose">/李/向/上/（/甘肅/甘谷/）/　/　/3/2元/</ab></div>
+<ab type="prose">/李向/上/（/甘肅/甘谷/）/　/　/3/2元/</ab></div>
     </body>
   </text>
 </TEI>

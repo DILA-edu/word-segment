@@ -29,7 +29,7 @@
           <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
           <pubPlace>臺灣‧臺北</pubPlace>
           <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-          <date>2021-12-15</date>
+          <date>2022-06-14</date>
           <biblScope type="vol">X02</biblScope>
           <idno type="Taisho">X02n0183</idno>
         </bibl>
@@ -38,7 +38,7 @@
   </teiHeader>
   <text>
     <body>
-    
+<milestone unit="juan" n="1"/>
 <ab type="juan" subtype="open">/二十八/夜叉/大軍/王/名號/</ab>
 <byline>/三藏/法師/僧伽/婆羅/譯/抄/之/</byline>
 <div type="" level="1">
@@ -57,20 +57,20 @@
 <ab type="prose">/阿難/西方/復/有/四/夜叉/住/在/西方/守護/西方/其/名/如是/。/</ab>
 <ab type="list">
 /訶利/(/梁/言/師子/)/
-訶利枳舍/(/梁/言/師子/髮/)/
-/波羅赴/(/梁/言/自在/)/
+/訶利枳舍/(/梁/言/師子/髮/)/
+/波羅赴/(/梁言/自在/)/
 /冰伽羅/(/梁/言/蒼色/)/</ab>
 <ab type="prose">/阿難/北方/復/有/四/夜叉/住/在/北方/常/守護/北方/其/名/如是/。/</ab>
 <ab type="list">
 陀羅那/(/梁/言/持/)/
 陀羅難陀/(/梁/言/歡喜/)/
-/鬱庾伽波羅/(/梁/言/勤守/)/
-/別/他/那/(/梁/言/圍/)/</ab>
+/鬱庾伽波羅/(/梁言/勤守/)/
+/別/他那/(/梁/言/圍/)/</ab>
 <ab type="prose">/阿難/四維/有/四/夜叉/住/在/四維/常/守護/四維/其/名/如是/。/</ab>
 <ab type="list">
 /般止/柯遮/(/梁/言/五/)/
 /般遮羅/旃陀/(/梁/言/五/可畏/)/
-/莎多祁梨/(/梁/言/七/山/主/)/
+/莎/多/祁梨/(/梁/言/七/山主/)/
 /𨢸/遮波多/(/梁/言/雪山/主/)/</ab>
 <ab type="prose">/阿難/下方/有/四/夜叉/大軍/主/住/在/下方/常/守護/下方/其/名/如是/。/</ab>
 <ab type="list">
@@ -82,7 +82,7 @@
 <ab type="list">
 /蘇摩/(/梁/言/月/)/
 /修/利/(/梁/言/日/)/
-/惡祁尼/(/梁/言/火/)/
+/惡/祁尼/(/梁/言/火/)/
 /婆牖/(/梁/言/風/)/</ab>
 <ab type="prose">/佛/為/阿難/說/二十八部/夜叉/大軍/主/大/威神/利益/相/已/此/法/名為/鎮護/國法/。/</ab>
 <ab type="juan" subtype="close">/二十八/夜叉/大軍/王/名號/</ab></div>

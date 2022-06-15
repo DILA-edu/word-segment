@@ -29,7 +29,7 @@
           <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
           <pubPlace>臺灣‧臺北</pubPlace>
           <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-          <date>2021-12-15</date>
+          <date>2022-06-14</date>
           <biblScope type="vol">T16</biblScope>
           <idno type="Taisho">T16n0706</idno>
         </bibl>
@@ -38,13 +38,13 @@
   </teiHeader>
   <text>
     <body>
-    
+<milestone n="1" unit="juan"/>
 <ab type="juan" subtype="open">/佛/說/五/大/施/經/</ab>
 <byline>/西天/譯經/三藏/朝奉大夫/試/光祿卿/傳法/大師/賜紫/沙門/臣/施護/等/奉/　/詔/譯/</byline>
 <div type="jing" level="1">
 <ab type="prose">/佛/、/世尊/一時/在/舍衛國/祇樹/給孤獨/園/，/與/苾芻/眾/俱/。/</ab>
 <ab type="prose">/佛/告/諸/苾芻/言/：/「/有/五/種/大/施/，/今/為/汝/說/。/何等/為/五/？/所謂/：/一/、/不/殺生/，/是/為/大/施/；/二/、/不/偷盜/；/三/、/不/邪染/；/四/、/不/妄語/；/五/、/不/飲酒/。/是/為/大/施/。/</ab>
-<ab type="prose">/「/以/何/義/故/，/持/不/殺/行/而/名/大施/？/謂/不/殺/故/，/能/與/無量/有情/施/其/無畏/。/以/無畏/故/，/無/怨/、/無/憎/、/無害/。/由/彼/無量/有情/得/無畏/已/，/無/怨憎/害/已/，/乃/於/天上/、/人間/得/安隱/樂/。/是故/不/殺/名為/大/施/。/不/偷盜/、/不/邪染/、/不/妄語/、/不/飲酒/，/亦復/如是/。/」/</ab></div>
+<ab type="prose">/「/以/何/義/故/，/持/不/殺/行/而/名/大施/？/謂/不/殺/故/，/能/與/無量/有情/施/其/無畏/。/以/無畏/故/，/無/怨/、/無/憎/、/無/害/。/由/彼/無量/有情/得/無畏/已/，/無/怨憎/害/已/，/乃/於/天上/、/人間/得/安隱/樂/。/是故/不/殺/名為/大/施/。/不/偷盜/、/不/邪染/、/不/妄語/、/不/飲酒/，/亦復/如是/。/」/</ab></div>
 <ab type="juan" subtype="close">/佛/說/五/大/施/經/</ab>
     </body>
   </text>

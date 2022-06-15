@@ -29,7 +29,7 @@
           <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
           <pubPlace>臺灣‧臺北</pubPlace>
           <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-          <date>2021-12-15</date>
+          <date>2022-06-14</date>
           <biblScope type="vol">ZW03</biblScope>
           <idno type="Taisho">ZW03na016</idno>
         </bibl>
@@ -38,7 +38,7 @@
   </teiHeader>
   <text>
     <body>
-    <div level="1"><head>/《/藏/外/佛教/文獻/》/第一/輯/、/第二/輯/要/目/</head>
+<milestone unit="juan" n="1"/><div level="1"><head>/《/藏/外/佛教/文獻/》/第一/輯/、/第二/輯/要/目/</head>
 <ab type="prose">/敦煌/禪籍/專欄/</ab>
 <ab type="prose">/第一/輯/：/《/天竺國/菩提達摩禪師/論/》/、/《/禪策/問答/》/、/《/息/諍論/》/；/</ab>
 <ab type="prose">/第二/輯/：/《/七祖/法寶/記/下/卷/》/、/《/天竺國/菩提達摩禪師/論/》/。/</ab>
@@ -46,7 +46,7 @@
 <ab type="prose">/第一/輯/：/《/八/種/粗/重/犯/墮/》/。/</ab>
 <ab type="prose">/三藏/論疏/專欄/</ab>
 <ab type="prose">/第一/輯/：/《/天/請問/經疏/》/、/《/〈/行/事/鈔/〉/中/分門/圖錄/》/、/《/阿毗達磨/俱舍論/實義/疏/》/；/</ab>
-<ab type="prose">/第二/輯/：/《/淨名/經集/解/關/中/疏/卷/上/》/、/《/法華經/文/外/義/》/。/</ab>
+<ab type="prose">/第二/輯/：/《/淨名/經/集/解/關/中/疏/卷/上/》/、/《/法華經/文/外/義/》/。/</ab>
 <ab type="prose">/疑/偽/經/專欄/</ab>
 <ab type="prose">/第一/輯/：/《/佛/為/心王/菩薩/說/頭陀經/》/、/《/佛/說/孝順/子/修行/成/佛經/》/、/《/最/妙/勝/定/經/》/、/《/水月/觀音/經/》/、/《/佛/說/金剛經/纂/》/、/《/大方廣/華嚴/十惡/品/經/》/、/《/天公/經/》/、/《/佛/母/經/》/。/</ab>
 <ab type="prose">/天竺/要典/專欄/</ab>
@@ -54,8 +54,8 @@
 <ab type="prose">/遺珠/集/粹/專欄/</ab>
 <ab type="prose">/第二/輯/：/《/〈/瑜伽/師/地/論/〉/披/尋/記/敘/》/。/</ab>
 <ab type="prose">/研/究/論/文/專欄/</ab>
-<ab type="prose">/第一/輯/：/《/關/於/禪藏/與/敦煌禪/籍的/若干/問/題/》/；/</ab>
-<ab type="prose">/第二/輯/：/大藏經/編纂/及/電/腦化/研/討/會/論/文特/集/，/共/十一/篇/。/</ab></div>
+<ab type="prose">/第一/輯/：/《/關/於/禪藏/與/敦煌/禪籍/的/若干/問/題/》/；/</ab>
+<ab type="prose">/第二/輯/：/大藏經/編纂/及/電腦/化/研/討/會/論/文特/集/，/共/十一/篇/。/</ab></div>
     </body>
   </text>
 </TEI>

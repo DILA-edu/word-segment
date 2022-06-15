@@ -38,7 +38,7 @@
   </teiHeader>
   <text>
     <body>
-    %{body}
+%{body}
     </body>
   </text>
 </TEI>

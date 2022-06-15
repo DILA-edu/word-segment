@@ -29,7 +29,7 @@
           <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
           <pubPlace>臺灣‧臺北</pubPlace>
           <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-          <date>2021-12-15</date>
+          <date>2022-06-14</date>
           <biblScope type="vol">T85</biblScope>
           <idno type="Taisho">T85n2840</idno>
         </bibl>
@@ -38,7 +38,7 @@
   </teiHeader>
   <text>
     <body>
-    <div level="1">
+<milestone n="1" unit="juan"/><div level="1">
 <ab type="juan" subtype="open">/三界/圖/</ab>
 <ab type="table"/>
 <ab type="row"/>
@@ -63,7 +63,7 @@
 <ab type="cell">/貪/</ab>
 <ab type="cell">/疑/</ab>
 <ab type="cell">/戒禁/</ab>
-<ab type="cell">/見取/</ab>
+<ab type="cell">/見/取/</ab>
 <ab type="cell">/邪見/</ab>
 <ab type="cell"/>
 <ab type="cell"/>
@@ -76,7 +76,7 @@
 <ab type="cell">/貪/</ab>
 <ab type="cell">/疑/</ab>
 <ab type="cell"/>
-<ab type="cell">/見取/</ab>
+<ab type="cell">/見/取/</ab>
 <ab type="cell">/邪見/</ab>
 <ab type="cell"/>
 <ab type="cell"/>
@@ -89,7 +89,7 @@
 <ab type="cell">/貪/</ab>
 <ab type="cell">/疑/</ab>
 <ab type="cell"/>
-<ab type="cell">/見取/</ab>
+<ab type="cell">/見/取/</ab>
 <ab type="cell">/邪見/</ab>
 <ab type="cell"/>
 <ab type="cell"/>
@@ -102,7 +102,7 @@
 <ab type="cell">/貪/</ab>
 <ab type="cell">/疑/</ab>
 <ab type="cell">/戒禁/</ab>
-<ab type="cell">/見取/</ab>
+<ab type="cell">/見/取/</ab>
 <ab type="cell">/邪見/</ab>
 <ab type="cell">/邊見/</ab>
 <ab type="cell">/身見/</ab>
@@ -130,7 +130,7 @@
 <ab type="cell">/貪/</ab>
 <ab type="cell">/疑/</ab>
 <ab type="cell">/戒禁/</ab>
-<ab type="cell">/見取/</ab>
+<ab type="cell">/見/取/</ab>
 <ab type="cell">/邪見/</ab>
 <ab type="cell"/>
 <ab type="cell"/>
@@ -143,7 +143,7 @@
 <ab type="cell">/貪/</ab>
 <ab type="cell">/疑/</ab>
 <ab type="cell"/>
-<ab type="cell">/見取/</ab>
+<ab type="cell">/見/取/</ab>
 <ab type="cell">/邪見/</ab>
 <ab type="cell"/>
 <ab type="cell"/>
@@ -156,7 +156,7 @@
 <ab type="cell">/貪/</ab>
 <ab type="cell">/疑/</ab>
 <ab type="cell"/>
-<ab type="cell">/見取/</ab>
+<ab type="cell">/見/取/</ab>
 <ab type="cell">/邪見/</ab>
 <ab type="cell"/>
 <ab type="cell"/>
@@ -169,7 +169,7 @@
 <ab type="cell">/貪/</ab>
 <ab type="cell">/疑/</ab>
 <ab type="cell">/戒禁/</ab>
-<ab type="cell">/見取/</ab>
+<ab type="cell">/見/取/</ab>
 <ab type="cell">/邪見/</ab>
 <ab type="cell">/邊見/</ab>
 <ab type="cell">/身見/</ab>
@@ -197,7 +197,7 @@
 <ab type="cell">/貪/</ab>
 <ab type="cell">/疑/</ab>
 <ab type="cell">/戒禁/</ab>
-<ab type="cell">/見取/</ab>
+<ab type="cell">/見/取/</ab>
 <ab type="cell">/邪見/</ab>
 <ab type="cell"/>
 <ab type="cell"/>
@@ -210,7 +210,7 @@
 <ab type="cell">/貪/</ab>
 <ab type="cell">/疑/</ab>
 <ab type="cell"/>
-<ab type="cell">/見取/</ab>
+<ab type="cell">/見/取/</ab>
 <ab type="cell">/邪見/</ab>
 <ab type="cell"/>
 <ab type="cell"/>
@@ -223,7 +223,7 @@
 <ab type="cell">/貪/</ab>
 <ab type="cell">/疑/</ab>
 <ab type="cell"/>
-<ab type="cell">/見取/</ab>
+<ab type="cell">/見/取/</ab>
 <ab type="cell">/邪見/</ab>
 <ab type="cell"/>
 <ab type="cell"/>
@@ -236,7 +236,7 @@
 <ab type="cell">/貪/</ab>
 <ab type="cell">/疑/</ab>
 <ab type="cell">/戒禁/</ab>
-<ab type="cell">/見取/</ab>
+<ab type="cell">/見/取/</ab>
 <ab type="cell">/邪見/</ab>
 <ab type="cell">/邊見/</ab>
 <ab type="cell">/身見/</ab>
@@ -245,8 +245,8 @@
 <ab type="prose">/欲界/見/斷/煩惱/三十二/修/斷/煩惱/有/四/。/</ab>
 <ab type="prose">/色界/見/斷/二十八/修/斷/有/三/。/</ab>
 <ab type="prose">/無色界/亦/然/。/三界/共/計/有/九十八/。/</ab>
-<ab type="prose">/謂/彼/四諦/十六/門/差別/違/立/名/安諦/。/十六/門/者/。/即/四諦/下/各/四/行相/。/苦諦/四/者/謂/即/非常/苦空/無我/。/集諦/四/者/因/集/生/緣/。/滅諦/四/者/滅/淨妙/離/。/道諦/四/者/道/如/行/出/。/釋/云/。/有/生滅/故/非/常/。/逼迫/性/故/苦/。/違/我/所/見/故/空/。/違/我/見/故/非/我/。/能/生/法/故/因/。/有/多/種/故/集/。/恒/資產/故/生/。/各/別/助/故/緣/。/諸/蘊/盡/故/滅/。/三/相息/故/淨/。/無/眾/患/故/妙/。/脫/眾/災/故/離/。/通行/義/故/道/。/契/正/理/故/如/。/正/趣/向/故/行/。/能/永/超/故/出/。/</ab>
-<ab type="prose">/苦諦/有/四/智/。/一/苦/法忍/。/二/苦/法智/。/三/苦/類/忍/。/四/苦/類/智/。/對治/身見/等/十/種/煩惱/。/餘/三諦/亦/然/。/集/法忍/集/法智/集/類/忍/集/類/智/。/對治/邪見/等/七使/。/滅/法忍/滅/法智/滅/類/忍/滅/類/智/。/對治/滅諦/煩惱/。/道法忍/道法/智/道/類/忍/道/類/智/。/對治/道諦/煩惱/。/修/斷/者/。/於/四諦/上/各各/比/忍/比/智/。/對治/欲界/貪/瞋/慢/無明/四/箇/煩惱/。/</ab>
+<ab type="prose">/謂/彼/四諦/十六/門/差別/違/立/名/安諦/。/十六/門/者/。/即/四諦/下/各/四/行相/。/苦諦/四/者/謂/即/非/常/苦空/無我/。/集諦/四/者/因/集/生/緣/。/滅諦/四/者/滅/淨妙/離/。/道諦/四/者/道/如/行/出/。/釋/云/。/有/生滅/故/非/常/。/逼迫/性/故/苦/。/違/我/所/見/故/空/。/違/我見/故/非/我/。/能/生/法/故/因/。/有/多/種/故/集/。/恒/資產/故/生/。/各/別/助/故/緣/。/諸/蘊/盡/故/滅/。/三/相息/故/淨/。/無/眾/患/故/妙/。/脫/眾/災/故/離/。/通/行/義/故/道/。/契/正/理/故/如/。/正/趣向/故/行/。/能/永/超/故/出/。/</ab>
+<ab type="prose">/苦諦/有/四/智/。/一/苦/法忍/。/二/苦/法智/。/三/苦/類/忍/。/四/苦/類/智/。/對治/身見/等/十/種/煩惱/。/餘/三諦/亦/然/。/集/法忍/集/法智/集類/忍/集/類/智/。/對治/邪見/等/七使/。/滅/法忍/滅/法智/滅/類/忍/滅/類/智/。/對治/滅諦/煩惱/。/道法忍/道法/智/道/類/忍/道/類/智/。/對治/道諦/煩惱/。/修/斷/者/。/於/四諦/上/各各/比/忍/比/智/。/對治/欲界/貪/瞋慢/無明/四/箇/煩惱/。/</ab>
 <ab type="prose"/></div>
     </body>
   </text>

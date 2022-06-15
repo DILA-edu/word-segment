@@ -29,7 +29,7 @@
           <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
           <pubPlace>臺灣‧臺北</pubPlace>
           <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-          <date>2021-12-15</date>
+          <date>2022-06-14</date>
           <biblScope type="vol">T54</biblScope>
           <idno type="Taisho">T54n2133A</idno>
         </bibl>
@@ -38,572 +38,572 @@
   </teiHeader>
   <text>
     <body>
-    <div level="1">
-<ab type="juan" subtype="open">/梵/語/千/字/文/并/序/</ab>
+<milestone n="1" unit="juan"/><div level="1">
+<ab type="juan" subtype="open">/梵語千/字/文/并/序/</ab>
 <byline>/三藏/法師/義淨/撰/</byline>
 <div type="xu" level="2">
 <ab type="prose">/為/欲/向/西國/人/。/作/學/語/樣/。/仍/各/註/中/。/梵音/下/題/漢/字/。/其/無/字/者/。/以/音/正/之/。/並/是/當/途/要/字/。/但/學/得/此/則/餘/語/皆/通/。/不/同/舊/千/字/文/。/若/兼/悉/曇章/讀/梵本/。/一/兩/年/間/即/堪/翻譯/矣/。/</ab></div>
-<ab type="prose">/s/v/a/r/g/a/􈍕/　/p/ṛ/t/h/i/b/ī/􈍕/　/s/ū/r/y/a/􈍕/　/c/a/n/d/r/a/􈍕/　/cc/hā/yā/􈎺ā/t/a/p/a/ḥ􈍕/　/
+<ab type="prose">/s/v/a/r/g/a/􈍕/　/p/ṛ/t/h/i/b/ī/􈍕/　/s/ū/r/y/a/􈍕/　/c/a/n/d/r/a/􈍕/　/c/c/h/ā/y/ā/􈎺/ā/t/a/p/a/ḥ/􈍕/　/
 /天/　/地/　/日/　/月/　/陰/　/陽/　/
-/p/a/r/i/p/ū/r/ṇ/u/􈍕/　/a/d/e/ś/a/􈍕/　/di/vā/a/ḥ􈍕/　/r/a/t/t/r/i􈍕/　/
+/p/a/r/i/p/ū/r/ṇ/u/􈍕/　/a/d/e/ś/a/􈍕/　/d/i/v/ā/a/ḥ/􈍕/　/r/a/t/t/r/i/􈍕/　/
 /圓/　/矩/　/晝/　/夜/　/
-/ā/l/o/k/a/ḥ/􈍕/　/a/n/d/h/a/k/a/r/a/ḥ/􈍕/　/d/e/v/a/g/a/r/j/a/t/i􈍕/　/b/i/m/y/u/􈍕/　/
+/ā/l/o/k/a/ḥ/􈍕/　/a/n/d/h/a/k/a/r/a/ḥ/􈍕/　/d/e/v/a/g/a/r/j/a/t/i/􈍕/　/b/i/m/y/u/􈍕/　/
 /明/　/闇/　/雷/　/電/　/
-/v/ā/y/u/􈍕/　/v/a/r/ṣ/a/􈍕/　/tā/r/a/k/a/􈍕/　/s/r/o/t/a/􈍕/　/m/e/g/h/a􈍕/　/bi/d/a/n/i/t/a/􈍕/　/
+/v/ā/y/u/􈍕/　/v/a/r/ṣ/a/􈍕/　/t/ā/r/a/k/a/􈍕/　/s/r/o/t/a/􈍕/　/m/e/g/h/a/􈍕/　/b/i/d/a/n/i/t/a/􈍕/　/
 /風/　/雨/　/星/　/流/　/雲/　/散/(/去/)/　/
-/y/a/t/i􈍕/　/āi/ś/a/􈍕/　/g/a/t/a/􈍕/　/l/a/i/g/ṛ/h/ṇ/a/􈍕/　/
+/y/a/t/i/􈍕/　/ā/i/ś/a/􈍕/　/g/a/t/a/􈍕/　/l/a/i/g/ṛ/h/ṇ/a/􈍕/　/
 /往/　/來/　/去/　/取/　/
 /p/ū/r/v/a/􈍕/　/p/a/ś/c/i/m/a/􈍕/　/d/a/k/ṣ/i/ṇ/a/􈍕/　/u/t/t/a/r/a/􈍕/　/u/p/a/r/a/􈍕/　/
 /東/　/西/　/南/　/北/　/上/　/
-/h/e/ṣ/ṭ/e/􈍕/　/p/a/r/a/s/m/a/r/a/􈍕/　/p/r/a/t/i/v/a/d/d/h/a􈍕/　/d/e/v/a/p/u/t/r/a/􈍕/　/
+/h/e/ṣ/ṭ/e/􈍕/　/p/a/r/a/s/m/a/r/a/􈍕/　/p/r/a/t/i/v/a/d/d/h/a/􈍕/　/d/e/v/a/p/u/t/r/a/􈍕/　/
 /下/　/相/　/輔/　/皇/(/又/天子/)/　/
-/m/a/n/t/r/i􈍕/　/dā/s/a/􈍕/　/di/b/ī/r/a/􈍕/　/m/a/h/a/r/g/h/a􈍕/　/s/a/m/a/r/g/h/a􈍕/　/
+/m/a/n/t/r/i/􈍕/　/d/ā/s/a/􈍕/　/d/i/b/ī/r/a/􈍕/　/m/a/h/a/r/g/h/a/􈍕/　/s/a/m/a/r/g/h/a/􈍕/　/
 /臣/　/僕/　/吏/　/貴/　/賤/　/
-/k/u/m/ā/r/a/􈍕/　/vā/l/a/u/b/h/ra/(/（/？/）/)/􈍕/　/ni/y/a/t/a/􈍕/　/śā/nt/a􈍕/　/
+/k/u/m/ā/r/a/􈍕/　/v/ā/l/a/u/b/h/r/a/(/（/？/）/)/􈍕/　/n/i/y/a/t/a/􈍕/　/ś/ā/n/t/a/􈍕/　/
 /童/　/豎/(/立/)/　/刊/　/定/　/
-/p/a/r/i/v/a/r/t/t/a/􈍕/　/d/r/a/v/y/a/􈍕/　/a/b/h/i/ṣ/e/k/a􈍕/　/s/t/h/i/t/a/􈍕/　/ma/hā/n/a/g/a/r/a/􈍕/　/
+/p/a/r/i/v/a/r/t/t/a/􈍕/　/d/r/a/v/y/a/􈍕/　/a/b/h/i/ṣ/e/k/a/􈍕/　/s/t/h/i/t/a/􈍕/　/m/a/h/ā/n/a/g/a/r/a/􈍕/　/
 /品/　/物/　/策/　/立/　/州/(/大王城/)/　/
-/s/v/ā/m/i􈍕/　/s/a/r/a/s/v/a/t/i􈍕/　/śi/kṣ/āc/a􈍕/　/n/ī/t/i􈍕/　/
+/s/v/ā/m/i/􈍕/　/s/a/r/a/s/v/a/t/i/􈍕/　/ś/i/k/ṣ/ā/c/a/􈍕/　/n/ī/t/i/􈍕/　/
 /主/　/辯/　/教/　/禮/　/
-/l/i/k/h/a/ḥ/􈍕/　/st/hā/pi/t/a/􈍕/　/u/r/u/􈍕/　/sa/hā/ṃ/g/a/(/（/？/）/)/􈍕/　/ni/g/a/m/a/􈍕/　/
-書/　/置/　/設/　/衙/　/府/　/
-/p/i/t/ā􈍕/　/mā/t/ā􈍕/　/j/y/e/ṣ/ṭ/a/b/h/r/ā/t/a/􈍕/　/k/a/n/y/a/m/ā/b/h/r/ā/t/a/􈍕/　/
+/l/i/k/h/a/ḥ/􈍕/　/s/t/h/ā/p/i/t/a/􈍕/　/u/r/u/􈍕/　/sa/hā/ṃ/g/a/(/（/？/）/)/􈍕/　/n/i/g/a/m/a/􈍕/　/
+/書/　/置/　/設/　/衙/　/府/　/
+/p/i/t/ā􈍕/　/m/ā/t/ā􈍕/　/j/y/e/ṣ/ṭ/a/b/h/r/ā/t/a/􈍕/　/k/a/n/y/a/m/ā/b/h/r/ā/t/a/􈍕/　/
 /父/　/母/　/兄/　/弟/　/
-/ś/o/k/a􈍕/　/a/r/t/h/a􈍕/　/v/ṛ/h/a/t/ū/􈍕/　/p/r/a/sā/d/a/􈍕/　/b/hā/gi/n/e/y/a/􈍕/　/
+/ś/o/k/a/􈍕/　/a/r/t/h/a/􈍕/　/v/ṛ/h/a/t/ū/􈍕/　/p/r/a/s/ā/d/a/􈍕/　/b/h/ā/g/i/n/e/y/a/􈍕/　/
 /孝/　/義/　/弘/　/撫/　/甥/　/
-/s/a/l/a/􈍕/　/p/ṛ/t/h/a/k􈍕/　/p/a/r/i/v/e/ṣ/i/j/y/e/ṣ/ṭ/a/􈍕/　/pi/t/ṛ/y/a/􈍕/　/
+/s/a/l/a/􈍕/　/p/ṛ/t/h/a/k􈍕/　/p/a/r/i/v/e/ṣ/i/j/y/e/ṣ/ṭ/a/􈍕/　/p/i/t/ṛ/y/a/􈍕/　/
 /舅/　/異/　/隣/　/伯/　/叔/　/
-/e/k/a/s/t/h/ā􈍕/　/m/e/l/a/􈍕/　/p/r/a/ṇ/a/m/a/􈍕/　/kā/r/i􈍕/　/mi/t/r/a/􈍕/　/
+/e/k/a/s/t/h/ā􈍕/　/m/e/l/a/􈍕/　/p/r/a/ṇ/a/m/a/􈍕/　/kā/r/i/􈍕/　/m/i/t/r/a/􈍕/　/
 /同/　/聚/　/奉/　/事/　/友/　/
-/m/a/k/ṣ/a/􈍕/　/k/a/r/u/ṇ/a/􈍕/　/p/r/i/y/a/􈍕/　/d/a/r/i/d/r/ā􈍕/　/a/d/r/a/v/y/a/􈍕/　/
+/m/a/k/ṣ/a/􈍕/　/k/a/r/u/ṇ/a/􈍕/　/p/r/i/y/a/􈍕/　/d/a/r/i/d/r/ā/􈍕/　/a/d/r/a/v/y/a/􈍕/　/
 /朋/　/矜/　/愛/　/貧/　/寠/　/
-/p/a/r/v/a/t/a/􈍕/　/a/ṃ/g/a/ṇ/a/􈍕/　/m/a/n/d/u/r/ā􈍕/　/u/c/c/h/r/a/p/i/t/a/􈍕/　/
+/p/a/r/v/a/t/a/􈍕/　/a/ṃ/g/a/ṇ/a/􈍕/　/m/a/n/d/u/r/ā/􈍕/　/u/c/c/h/r/a/p/i/t/a/􈍕/　/
 /山/　/庭/　/蔽/　/軒/　/
-/c/c/h/a/t/t/r/a/􈍕/　/ś/u/c/i􈍕/　/a/ṭ/a/v/ī/􈍕/　/ci/hn/a􈍕/　/p/u/ṣ/p/a/􈍕/　/s/t/a/m/b/h/a􈍕/　/
+/c/c/h/a/t/t/r/a/􈍕/　/ś/u/c/i/􈍕/　/a/ṭ/a/v/ī/􈍕/　/c/i/h/n/a/􈍕/　/p/u/ṣ/p/a/􈍕/　/s/t/a/m/b/h/a/􈍕/　/
 /蓋/　/淨/　/野/　/標/　/花/　/柱/　/
-/m/ṛ/ṣ/ṭ/a/􈍕/　/s/v/e/t/a/􈍕/　/sa/mā/p/t/a/􈍕/　/sa/ha/sr/a􈍕/　/ś/a/r/a/􈍬/d/a/􈍭/􈍕/　/
+/m/ṛ/ṣ/ṭ/a/􈍕/　/s/v/e/t/a/􈍕/　/s/a/m/ā/p/t/a/􈍕/　/s/a/h/a/s/r/a/􈍕/　/ś/a/r/a/􈍬/d/a/􈍭/􈍕/　/
 /美/　/素/　/竟/　/千/　/秋/　/
 /k/u/ś/a/l/e/􈍕/　/ś/a/v/d/a/􈍕/　/s/a/ṃ/c/ā/r/a/􈎾/　/p/r/a/b/h/e/d/a/􈍕/　/
 /嘉/　/聲/　/傳/　/萬/　/
 /p/u/r/a/ṇ/a/􈍕/　/p/u/r/u/ṣ/a/􈍕/　/s/t/r/ī/􈍕/　/p/r/a/t/y/ā/g/a/m/a/n/a/􈍕/　/v/i/v/a/h/a/􈍕/　/
 /古/　/男/　/女/　/迎/　/嫁/　/
-/h/a/k/k/a/r/a/􈍕/　/j/ī/v/i/t/a/ṃ􈍕/　/ni/mi/t/t/a/􈍕/　/ā/k/a/r/ṣ/a/􈍕/　/
+/h/a/k/k/a/r/a/􈍕/　/j/ī/v/i/t/a/ṃ/􈍕/　/n/i/m/i/t/t/a/􈍕/　/ā/k/a/r/ṣ/a/􈍕/　/
 /喚/　/命/　/招/　/追/　/
-/v/i/k/r/ī/ṇ/a/􈍕/　/k/r/i/ṇ/a/􈍕/　/ni/k/k/a/l/a/􈍕/　/p/r/a/v/i/ś/a/􈍕/　/g/ṛ/h/ī/􈍕/　/
+/v/i/k/r/ī/ṇ/a/􈍕/　/k/r/i/ṇ/a/􈍕/　/n/i/k/k/a/l/a/􈍕/　/p/r/a/v/i/ś/a/􈍕/　/g/ṛ/h/ī/􈍕/　/
 /賣/　/買/　/出/　/入/　/俗/　/
-/k/a/r/a/ṇ/ī/y/a/􈍕/　/j/a/v/a/􈍕/　/s/a/ṃ/v/y/a/v/a/h/a/r/a/􈍕/　/ha/ṭṭ/a􈍕/　/
+/k/a/r/a/ṇ/ī/y/a/􈍕/　/j/a/v/a/􈍕/　/s/a/ṃ/v/y/a/v/a/h/a/r/a/􈍕/　/h/a/ṭ/ṭ/a/􈍕/　/
 務/　/馳/　/交/　/市/　/
-/p/r/a/sā/r/a/􈍕/　/v/a/ṇ/i/j/a/􈍕/　/bi/k/r/ī/􈍬/ṇ/a/􈍭/􈍕/　/p/rā/sā/di/k/a􈍕/　/
+/p/r/a/s/ā/r/a/􈍕/　/v/a/ṇ/i/j/a/􈍕/　/b/i/k/r/ī/􈍬/ṇ/a/􈍭/􈍕/　/p/r/ā/s/ā/d/i/k/a/􈍕/　/
 /店/　/商/　/貨/　/妍/　/
-/d/u/r/v/a/r/ṇ/u/􈍕/　/v/a/l/a/v/a/d/u/ḥ/􈍕/　/d/u/r/v/a/l/a/􈍕/　/p/ū/r/v/a/􈍕/　/p/r/a/sā/d/a/􈍕/　/
+/d/u/r/v/a/r/ṇ/u/􈍕/　/v/a/l/a/v/a/d/u/ḥ/􈍕/　/d/u/r/v/a/l/a/􈍕/　/p/ū/r/v/a/􈍕/　/p/r/a/s/ā/d/a/􈍕/　/
 /醜/　/強/　/羸/　/先/　/蒙/　/
-/s/t/o/k/a􈍕/　/p/h/o/v/a/n/i􈍕/　/a/d/y/a/􈍕/　/p/r/a/t/i/p/ū/j/a/􈍕/　/
+/s/t/o/k/a/􈍕/　/p/h/o/v/a/n/i/􈍕/　/a/d/y/a/􈍕/　/p/r/a/t/i/p/ū/j/a/􈍕/　/
 /少/　/贈/　/今/　/用/　/
-/g/u/r/u/􈎺/h/o/v/a/ṇ/ī/􈍕/　/e/k/a􈍕/　/ś/r/ū/t/a/􈍕/　/ś/i/l/ā􈍕/　/s/a/i/l/a/􈍕/　/
+/g/u/r/u/􈎺/h/o/v/a/ṇ/ī/􈍕/　/e/k/a/􈍕/　/ś/r/ū/t/a/􈍕/　/ś/i/l/ā/􈍕/　/s/a/i/l/a/􈍕/　/
 /重/　/遺/　/一/　/聞/　/砥/　/礪/　/
-/p/u/n/a􈍕/　/s/a/ṃ/j/ñ/ā􈍕/　/g/a/r/h/a/ṇ/a/􈍕/　/n/ī/t/i􈍕/　/s/a/i/r/a/v/a/􈍕/　/
+/p/u/n/a/􈍕/　/s/a/ṃ/j/ñ/ā/􈍕/　/g/a/r/h/a/ṇ/a/􈍕/　/n/ī/t/i/􈍕/　/s/a/i/r/a/v/a/􈍕/　/
 /再/　/想/　/箴/　/規/　/保/　/
-/ś/a/r/ī/r/a/􈍕/　/p/a/r/d/h/v/a/􈍕/　/d/u/r/b/hi/kṣ/ā􈍕/　/v/i/g/a/t/a/􈍕/　/ī/h/a􈍕/　/
+/ś/a/r/ī/r/a/􈍕/　/p/a/r/d/h/v/a/􈍕/　/d/u/r/b/h/i/k/ṣ/ā/􈍕/　/v/i/g/a/t/a/􈍕/　/ī/h/a/􈍕/　/
 /身/　/節/　/儉/　/離/　/此/　/
-/a/t/a/􈍕/　/k/o􈍕/　/ni/ṣṭ/a􈍕/　/v/a/r/a/􈍕/　/v/i/r/ū/p/a/􈍕/　/ni/r/n/ṛ/t/a/􈍕/　/
+/a/t/a/􈍕/　/k/o/􈍕/　/n/i/ṣ/ṭ/a/􈍕/　/v/a/r/a/􈍕/　/v/i/r/ū/p/a/􈍕/　/n/i/r/n/ṛ/t/a/􈍕/　/
 /而/　/誰/　/終/　/希/　/惡/　/滅/　/
-/s/a/r/v/a/kā/l/a/􈍕/　/g/u/r/u/ś/r/a/d/d/h/ā􈍕/　/p/u/ṇ/y/a/􈍕/　/s/v/a/s/t/h/i/t/a/􈍕/　/
+/s/a/r/v/a/k/ā/l/a/􈍕/　/g/u/r/u/ś/r/a/d/d/h/ā􈍕/　/p/u/ṇ/y/a/􈍕/　/s/v/a/s/t/h/i/t/a/􈍕/　/
 /恒/(/又/一切/時/)/　/敦/(/又/重/信/)/　/福/　/綏/　/
-/p/ī/ṭ/a􈍕/　/y/a/t/h/ā􈍕/　/p/r/a/t/i/ś/a/v/d/a/􈍕/　/p/r/a/d/y/u/t/t/a/r/a/􈍕/　/k/u/ś/a/l/a/􈍕/　/
+/p/ī/ṭ/a/􈍕/　/y/a/t/h/ā􈍕/　/p/r/a/t/i/ś/a/v/d/a/􈍕/　/p/r/a/d/y/u/t/t/a/r/a/􈍕/　/k/u/ś/a/l/a/􈍕/　/
 /禍/　/如/　/響/　/應/　/善/　/
-/y/a/d/i/􈍕/　/c/c/h/a/y/a/􈍕/　/a/n/u/p/a/􈍕/　/c/i/t/r/a/k/a/r/m/m/a/􈍕/　/nā/m/a/􈍕/　/
+/y/a/d/i/􈍕/　/c/c/h/a/y/a/􈍕/　/a/n/u/p/a/􈍕/　/c/i/t/r/a/k/a/r/m/m/a/􈍕/　/n/ā/m/a/􈍕/　/
 /若/　/影/(/陰/)/　/隨/　/圖/　/名/　/
-/m/u/k/t/ā􈍕/　/k/u/ṭ/a/􈍕/　/t/v/a/y/ā􈍕/　/g/u/r/u/􈍕/　/bi/da/ḥ􈍕/　/p/r/a/j/ñ/ā􈍕/　/
+/m/u/k/t/ā􈍕/　/k/u/ṭ/a/􈍕/　/t/v/a/y/ā/􈍕/　/g/u/r/u/􈍕/　/b/i/d/a/ḥ/􈍕/　/p/r/a/j/ñ/ā/􈍕/　/
 /璀/　/積/　/汝/　/欽重/　/叡/　/哲/　/
-/y/a/t/h/ā􈍕/　/g/u/ñ/j/ā􈍕/　/d/h/e/n/i/t/a/􈍕/　/ār/a􈍕/　/y/a/k/i/ṃ/c/i􈍕/　/
+/y/a/t/h/ā􈍕/　/g/u/ñ/j/ā/􈍕/　/d/h/e/n/i/t/a/􈍕/　/ār/a􈍕/　/y/a/k/i/ṃ/c/i/􈍕/　/
 /猶/　/囊/　/裏/　/錐/　/咸/　/
-/m/a/h/ā􈍕/　/g/a/u/r/a/v/a/􈍕/　/ś/i/l/ā􈍕/　/g/u/ṇ/a/􈍕/　/k/a/c/c/h/a/p/a/􈍕/　/
-/京/　/遵/　/碩/(/石/)/　/德/　/龜/　/
-/s/a/r/a/g/a/􈍕/　/u/d/g/hā/ṭ/a􈍕/　/d/e/v/a/t/a/􈍕/　/ś/a/s/t/ā􈍕/　/y/a/d/i/􈍕/　/
+/m/a/h/ā􈍕/　/g/a/u/r/a/v/a/􈍕/　/ś/i/l/ā/􈍕/　/g/u/ṇ/a/􈍕/　/k/a/c/c/h/a/p/a/􈍕/　/
+京/　/遵/　/碩/(/石/)/　/德/　/龜/　/
+/s/a/r/a/g/a/􈍕/　/u/d/g/h/ā/ṭ/a/􈍕/　/d/e/v/a/t/a/􈍕/　/ś/a/s/t/ā􈍕/　/y/a/d/i/􈍕/　/
 /洛/　/啟/　/神/　/師/　/既/　/
-/ś/a/k/y/a/􈍕/　/t/u/ṣ/ṭ/a/􈍕/　/rā/t/t/r/i/􈎺/t/u/􈍕/　/m/ṛ/t/a/􈍕/　/k/a/m/a/t/a/􈍕/　/
+/ś/a/k/y/a/􈍕/　/t/u/ṣ/ṭ/a/􈍕/　/r/ā/t/t/r/i/􈎺/t/u/􈍕/　/m/ṛ/t/a/􈍕/　/k/a/m/a/t/a/􈍕/　/
 /能/　/歡/　/夕/　/殞/　/何/　/
-/p/r/ā/p/t/a/􈍕/　/d/u/ḥ/k/h/a􈍕/　/p/r/a/t/y/u/ṣ/a/􈍕/　/b/h/u/k/ṣ/ā􈍕/　/v/yā/kh/yā/na/ṃ􈍕/　/p/a/t/h/a􈍕/　/
+/p/r/ā/p/t/a/􈍕/　/d/u/ḥ/k/h/a/􈍕/　/p/r/a/t/y/u/ṣ/a/􈍕/　/b/h/u/k/ṣ/ā/􈍕/　/v/y/ā/k/h/y/ā/n/a/ṃ/􈍕/　/p/a/t/h/a/􈍕/　/
 /得/　/苦/　/朝/　/飢/　/講/　/道/　/
 /ś/a/s/t/r/a/􈍕/　/m/a/ṃ/j/u/􈍕/　/</ab>
 /論/　/妙/　/
 
-<ab type="prose">/ā/s/p/h/o/ṭ/a/􈍕/　/d/y/o/t/a/􈍕/　/v/y/a/v/a/hā/r/a/􈍕/　/a/r/t/h/a􈍕/　/a/k/ṣ/a/r/a/􈍕/　/
+<ab type="prose">/ā/s/p/h/o/ṭ/a/􈍕/　/d/y/o/t/a/􈍕/　/v/y/a/v/a/h/ā/r/a/􈍕/　/a/r/t/h/a/􈍕/　/a/k/ṣ/a/r/a/􈍕/　/
 /激/　/揚/　/理/　/致/　/文/　/
-/ā/s/t/hā/y/i􈍕/　/u/p/u/r/ā/p/a􈍕/　/t/a/l/a/s/i/􈍕/　/p/r/a/j/ñ/ā􈍕/　/
+/ā/s/t/h/ā/y/i/􈍕/　/u/p/u/r/ā/p/a/􈍕/　/t/a/l/a/s/i/􈍕/　/p/r/a/j/ñ/ā/􈍕/　/
 /參/　/疊/　/席/　/聰/　/
-/a/t/i/k/rā/nt/ā􈍕/　/d/ṛ/ṣ/ṭ/i􈍕/　/c/a/t/v/ā/r/a/􈍕/　/ha/ṭṭ/a􈍕/　/mu/sā/r/a/􈍕/　/
+/a/t/i/k/r/ā/n/t/ā􈍕/　/d/ṛ/ṣ/ṭ/i/􈍕/　/c/a/t/v/ā/r/a/􈍕/　/h/a/ṭ/ṭ/a/􈍕/　/m/u/s/ā/r/a/􈍕/　/
 /過/　/閱/　/肆/　/市/　/玉/　/
-/r/a/c/a/n/a/􈍕/　/m/r/e/r/a/􈍕/　/b/h/a/d/r/a/􈍕/　/pā/ṣā/ṇ/a􈍕/　/vā/h/a􈍕/　/
+/r/a/c/a/n/a/􈍕/　/m/r/e/r/a/􈍕/　/b/h/a/d/r/a/􈍕/　/p/ā/ṣ/ā/ṇ/a/􈍕/　/v/ā/h/a/􈍕/　/
 /砌/　/權/　/賢/　/石/　/渠/　/
-/a/n/a/t/i/k/r/a/m/a/􈍕/　/bi/cā/r/a/􈍕/　/p/r/a/t/y/a/k/ṣ/a/􈍕/　/ho/t/i􈍕/　/
-/次/　/檢/　/驗/　/是/　/
-/a/n/y/a/t/h/ā􈍕/　/p/r/a/v/i/j/a/y/a/􈍕/　/s/a/m/a/􈍕/　/m/ū/r/k/h/a􈍕/　/j/ñ/ā/n/a􈍕/　/
+/a/n/a/t/i/k/r/a/m/a/􈍕/　/b/i/c/ā/r/a/􈍕/　/p/r/a/t/y/a/k/ṣ/a/􈍕/　/h/o/t/i/􈍕/　/
+次/　/檢/　/驗/　/是/　/
+/a/n/y/a/t/h/ā􈍕/　/p/r/a/v/i/j/a/y/a/􈍕/　/s/a/m/a/􈍕/　/m/ū/r/k/h/a/􈍕/　/j/ñ/ā/n/a/􈍕/　/
 /非/　/提/　/撕/　/愚/　/智/　/
-/kā/k/a/l/i/􈍕/　/p/a/t/i/t/a/􈍕/　/p/r/a/v/a/􈍕/　/p/u/ṣ/p/a/􈍕/　/kā/k/a/v/y/a/　/
+/k/ā/k/a/l/i/􈍕/　/p/a/t/i/t/a/􈍕/　/p/r/a/v/a/􈍕/　/p/u/ṣ/p/a/􈍕/　/kā/k/a/v/y/a/　/
 /紙/　/落/　/浮/　/花/　/詩/　/
-/n/i/ṣ/p/a/n/n/a􈍕/　/m/a/r/y/ā/d/ā􈍕/　/su/rā/g/a/􈍕/　/ka/lā/m/a/􈍕/　/a/􈎺/n/a􈍕/　/
+/n/i/ṣ/p/a/n/n/a/􈍕/　/m/a/r/y/ā/d/ā􈍕/　/s/u/r/ā/g/a/􈍕/　/k/a/l/ā/m/a/􈍕/　/a/􈎺/n/a/􈍕/　/
 /成/　/含/　/翠/　/筆/　/不/　/
-/a/c/c/h/a􈍕/　/r/o/m/a/􈍕/　/ū/r/ṇ/a/􈍕/　/p/a/d/a/􈍕/　/ni/r/u/p/a/t/r/a/v/a/􈍕/　/
+/a/c/c/h/a/􈍕/　/r/o/m/a/􈍕/　/ū/r/ṇ/a/􈍕/　/p/a/d/a/􈍕/　/n/i/r/u/p/a/t/r/a/v/a/􈍕/　/
 /停/　/毫/　/　/句/　/寧/　/
 /p/a/r/i/v/a/r/t/t/a/􈍕/　/a/k/ṣ/a/r/a/􈍕/　/a/b/h/i/p/r/ā/y/a/􈍕/　/s/a/ṃ/k/e/t/a/􈍕/　/
-/易/　/字/　/意/　/存/　/
-/r/i/j/a/􈍕/　/s/p/r/a/ṣ/ṭ/a/􈍕/　/m/a/􈎺/p/r/a/t/i/ṣ/e/d/h/a􈍕/　/ap/i􈍕/　/
+易/　/字/　/意/　/存/　/
+/r/i/j/a/􈍕/　/s/p/r/a/ṣ/ṭ/a/􈍕/　/m/a/􈎺/p/r/a/t/i/ṣ/e/d/h/a/􈍕/　/a/p/i/􈍕/　/
 忠/　/直/　/弗/　/尚/　/
-/m/i/t/h/y/ā􈍕/　/p/r/o/sā/k/a􈍕/　/k/e/v/a/l/a/􈍕/　/p/r/a/v/i/v/e/k/a􈍕/　/g/a/m/b/h/ī/r/a/􈍕/　/
+/m/i/t/h/y/ā/􈍕/　/p/r/o/s/ā/k/a/􈍕/　/k/e/v/a/l/a/􈍕/　/p/r/a/v/i/v/e/k/a/􈍕/　/g/a/m/b/h/ī/r/a/􈍕/　/
 /邪/　/媚/　/獨/　/暢/　/幽/(/深/)/　/
-/s/a/t/v/a/􈍕/　/a/v/a/n/a/t/a/􈍕/　/ā/k/a/r/ṣ/a/􈍕/　/p/r/a/ś/n/i/k/a􈍕/　/
+/s/a/t/v/a/􈍕/　/a/v/a/n/a/t/a/􈍕/　/ā/k/a/r/ṣ/a/􈍕/　/p/r/a/ś/n/i/k/a/􈍕/　/
 /情/　/偏/　/抽/(/追/)/　/雅/　/
-/c/i/n/t/a/􈍕/　/k/h/a/ṇ/ḍ/a/􈍕/　/p/r/ā/r/t/h/a/n/a/􈍕/　/j/a/n/a/􈍕/　/sv/ām/i􈍕/　/p/u/t/t/r/a/􈍕/　/
+/c/i/n/t/a/􈍕/　/k/h/a/ṇ/ḍ/a/􈍕/　/p/r/ā/r/t/h/a/n/a/􈍕/　/j/a/n/a/􈍕/　/s/v/ā/m/i/􈍕/　/p/u/t/t/r/a/􈍕/　/
 /思/　/片/　/淑/　/仁/　/君/(/主/)/　/子/　/
-/m/a/􈍕/　/b/hā/j/a/n/a/􈍕/　/b/hā/g/a/􈍕/　/v/i/j/ñ/ā/n/a􈍕/　/m/a/􈎺/k/r/ā/g/u/g/h/ā􈍕/　/
+/m/a/􈍕/　/b/h/ā/j/a/n/a/􈍕/　/b/h/ā/g/a/􈍕/　/v/i/j/ñ/ā/n/a/􈍕/　/m/a/􈎺/k/r/ā/g/u/g/h/ā􈍕/　/
 /匪/　/器/　/寸/　/伎/　/勿/　/嫌/　/
 /k/h/a/r/k/h/a/ṭ/a/􈍕/　/d/u/ṣ/k/a/􈍬/r/a/􈍭/􈍕/　/s/a/ṃ/m/a/n/t/a/􈍕/　/s/a/ṃ/m/a/n/t/a/􈍕/　/
 /固/　/難/　/周/(/普/)/　/備/　/
-/s/a/p/t/a/􈍕/　/k/r/a/m/a/􈍕/　/ni/m/a/g/n/a􈍕/　/va/k􈍕/　/d/ū/r/a/􈍕/　/
+/s/a/p/t/a/􈍕/　/k/r/a/m/a/􈍕/　/n/i/m/a/g/n/a/􈍕/　/va/k􈍕/　/d/ū/r/a/􈍕/　/
 /七/　/步/(/進/)/　/沈/　/辭/　/遠/　/
-/t/r/ī/ṇ/i􈍕/　/s/a/ṃ/k/ṣ/e/p/a/􈍕/　/d/u/r/a/v/a/v/o/d/h/a/t/i􈍕/　/m/e/d/hā/v/ī/􈍕/　/
+/t/r/ī/ṇ/i/􈍕/　/s/a/ṃ/k/ṣ/e/p/a/􈍕/　/d/u/r/a/v/a/v/o/d/h/a/t/i/􈍕/　/m/e/d/h/ā/v/ī/􈍕/　/
 /三/　/略/　/玄/　/英/　/
 /g/u/h/y/a/􈍕/　/u/c/i/t/a/􈍕/　/t/u/l/y/a/􈍕/　/ś/r/a/d/d/h/ā􈍕/　/s/t/h/i/t/a/􈍕/　/
 /祕/　/銓/　/衝/　/信/　/立/　/
-/j/a/n/a/􈎺/m/a/n/u/ṣ/y/a/􈍕/　/a/b/h/i/p/r/a/s/a/ṃ/n/a􈍕/　/ka/ṣṭ/a􈍕/　/n/a/􈎺/t/ā/v/a/g/ī/􈍕/　/
+/j/a/n/a/􈎺/m/a/n/u/ṣ/y/a/􈍕/　/a/b/h/i/p/r/a/s/a/ṃ/n/a/􈍕/　/k/a/ṣ/ṭ/a/􈍕/　/n/a/􈎺/t/ā/v/a/g/ī/􈍕/　/
 /人/　/誠/　/哉/　/未/　/
-/s/r/a/v/a/t/i􈍕/　/p/a/t/i/t/a/􈍕/　/</ab>
+/s/r/a/v/a/t/i/􈍕/　/p/a/t/i/t/a/􈍕/　/</ab>
 /淪/　/墜/　/
 
-<ab type="prose">/k/a/t/v/a/v/ā/r/a/􈍕/　/ā/y/u/d/h/a/ś/a/s/t/r/a/􈍕/　/s/e/t/u/􈍕/　/ś/u/l/a/􈍕/　/y/o/d/h/a􈍕/　/
+<ab type="prose">/k/a/t/v/a/v/ā/r/a/􈍕/　/ā/y/u/d/h/a/ś/a/s/t/r/a/􈍕/　/s/e/t/u/􈍕/　/ś/u/l/a/􈍕/　/y/o/d/h/a/􈍕/　/
 /兵/　/戎/　/偃/　/戟/　/武/　/
-/k/ṣ/a/t/r/ī/y/a/􈍕/　/a/b/h/u/h/u/t/a/􈍕/　/d/y/o/t/a/􈍕/　/r/i/d/d/h/i􈍕/　/r/a/t/h/y/a/􈍕/　/
-/帝/　/騰/　/輝/　/通/　/衢/　/
-/d/hā/v/a/􈍕/　/st/hā/na/śā/l/a/􈍕/　/g/r/a/n/t/h/a􈍕/　/k/ṣ/u/ṇ/ṇ/a/v/a/r/m/m/a/􈍕/　/
+/k/ṣ/a/t/r/ī/y/a/􈍕/　/a/b/h/u/h/u/t/a/􈍕/　/d/y/o/t/a/􈍕/　/r/i/d/d/h/i/􈍕/　/r/a/t/h/y/a/􈍕/　/
+帝/　/騰/　/輝/　/通/　/衢/　/
+/d/h/ā/v/a/􈍕/　/s/t/h/ā/n/a/ś/ā/l/a/􈍕/　/g/r/a/n/t/h/a/􈍕/　/k/ṣ/u/ṇ/ṇ/a/v/a/r/m/m/a/􈍕/　/
 /走/　/驛/　/結/　/陌/　/
-/p/a/r/i/v/e/ṣ/ṭ/e/􈍕/　/d/h/v/a/j/a/􈍕/　/n/a/v/a/􈍕/　/ma/hā/n/a/d/y/a/􈍕/　/p/a/k/ṣ/a/􈍕/　/
+/p/a/r/i/v/e/ṣ/ṭ/e/􈍕/　/d/h/v/a/j/a/􈍕/　/n/a/v/a/􈍕/　/m/a/h/ā/n/a/d/y/a/􈍕/　/p/a/k/ṣ/a/􈍕/　/
 /縈/　/旗/　/九/　/大/江河/　/羽鳥/　/
-/c/a/t/v/ā/r/a/􈍕/　/s/a/m/u/d/r/a/􈍕/　/d/a/r/ś/a/y/a/􈍕/　/t/e/j/a/nā/ṃ􈍕/　/tā/ṃ/m/r/a/􈍕/　/
+/c/a/t/v/ā/r/a/􈍕/　/s/a/m/u/d/r/a/􈍕/　/d/a/r/ś/a/y/a/􈍕/　/t/e/j/a/nā/ṃ􈍕/　/t/ā/ṃ/m/r/a/􈍕/　/
 /四/　/海/　/呈/　/威/　/銅/　/
 /g/ṛ/h/a/v/a/ṃ/g/a/􈍕/　/c/c/h/i/t/ṛ/􈍕/　/p/r/a/p/ā/t/a/􈍕/　/k/h/a/ṅ/g/a/􈍕/　/
 梁/　/截/　/險/　/釰/　/
-/d/h/a/v/a/l/a/g/h/a/r/a/􈍕/　/p/r/a/y/o/j/a/n/a/􈍕/　/v/a/n/mī/(/（/？/）/)/􈍕/　/b/h/a/l/l/a/􈍕/　/
+/d/h/a/v/a/l/a/g/h/a/r/a/􈍕/　/p/r/a/y/o/j/a/n/a/􈍕/　/v/a/n/m/ī/(/（/？/）/)/􈍕/　/b/h/a/l/l/a/􈍕/　/
 閣/　/要/　/機/　/好/　/
-/a/v/a/s/k/a/n/d/a/􈍕/　/v/i/d/h/a/v/ī/􈍕/　/vi/nā/ś/a/􈍕/　/a/n/t/a/􈍕/　/
+/a/v/a/s/k/a/n/d/a/􈍕/　/v/i/d/h/a/v/ī/􈍕/　/v/i/n/ā/ś/a/􈍕/　/a/n/t/a/􈍕/　/
 /謀/　/宣/　/敗/　/臨/　/
-/t/v/a/􈍽/􈍕/　/ka/dā/c/i􈍕/　/p/a/r/a/m/a/􈍕/　/j/a/y/a/􈍕/　/ka/ñj/ā􈍕/　/ma/hā/􈍕/　/
+/t/v/a/􈍽/􈍕/　/k/a/d/ā/c/i/􈍕/　/p/a/r/a/m/a/􈍕/　/j/a/y/a/􈍕/　/k/a/ñ/j/ā/􈍕/　/m/a/h/ā􈍕/　/
 /敵/　/慮/　/微/　/勝/　/懷/　/大/　/
-/b/h/a/y/a/􈍕/　/d/a/d/ā/m/i􈍕/　/s/v/a/l/p/a/􈍕/　/n/a/􈍕/　/p/a/r/i/b/h/a/v/a/􈍕/　/
+/b/h/a/y/a/􈍕/　/d/a/d/ā/m/i/􈍕/　/s/v/a/l/p/a/􈍕/　/n/a/􈍕/　/p/a/r/i/b/h/a/v/a/􈍕/　/
 /懼/　/雖/　/劣/　/莫/　/欺/　/
-/m/a/t/s/y/a/􈍕/　/vi/t/a/r/k/a􈍕/　/k/e/v/a/l/a/􈍕/　/k/r/a/m/a/􈍕/　/k/r/a/u/j/j/a/􈍕/　/
+/m/a/t/s/y/a/􈍕/　/v/i/t/a/r/k/a/􈍕/　/k/e/v/a/l/a/􈍕/　/k/r/a/m/a/􈍕/　/k/r/a/u/j/j/a/􈍕/　/
 /魚/　/麗/　/隻/　/進/(/步/)/　/鶴/　/
-/p/h/a/l/g/a/n/a/p/a/k/ṣ/a/􈍕/　/y/u/g/a/l/a/􈍕/　/u/t/a/y/a/t/i􈍕/　/r/a/k/t/a/􈍕/　/
+/p/h/a/l/g/a/n/a/p/a/k/ṣ/a/􈍕/　/y/u/g/a/l/a/􈍕/　/u/t/a/y/a/t/i/􈍕/　/r/a/k/t/a/􈍕/　/
 /翼/　/雙/　/飛/　/赤/　/
-/c/i/n/t/a/􈍕/　/jā/l/a/􈍕/　/k/a/v/a/ṭ/a/􈍕/　/p/ī/t/a/l/a/ṃ􈍕/　/u/d/b/h/e/d/a/􈍕/　/
+/c/i/n/t/a/􈍕/　/j/ā/l/a/􈍕/　/k/a/v/a/ṭ/a/􈍕/　/p/ī/t/a/l/a/ṃ/􈍕/　/u/d/b/h/e/d/a/􈍕/　/
 /心/　/罔/　/詐/　/黃/　/泉/　/
-/a/ṃ/g/u/ṣ/ṭ/a/􈍕/　/p/r/a/t/y/e/k/a􈍕/　/ād/i􈍕/　/p/r/a/t/h/a/m/a/􈍕/　/t/u/ṣ/ṭ/a/􈍕/　/
+/a/ṃ/g/u/ṣ/ṭ/a/􈍕/　/p/r/a/t/y/e/k/a/􈍕/　/ād/i􈍕/　/p/r/a/t/h/a/m/a/􈍕/　/t/u/ṣ/ṭ/a/􈍕/　/
 /指/　/期/　/初/　/首/　/欣/　/
-/u/t/sā/h/a􈍕/　/dā/y/a/􈍕/　/st/hā/na/ṃ􈍕/　/a/n/u/t/n/a/t/a/􈍕/　/vi/ci/ki/ts/ā􈍕/　/
+/u/t/s/ā/h/a/􈍕/　/d/ā/y/a/􈍕/　/st/hā/na/ṃ􈍕/　/a/n/u/t/n/a/t/a/􈍕/　/v/i/c/i/k/i/t/s/ā/􈍕/　/
 /効/　/賞/　/職/　/靡/　/疑/　/
-/v/ā/h/u􈍕/　/ū/r/ū/􈍕/　/y/a/t/n/a􈍕/　/d/ṛ/ḍ/h/a􈍕/　/s/a/k/hā/y/a/􈍕/　/
+/v/ā/h/u/􈍕/　/ū/r/ū/􈍕/　/y/a/t/n/a/􈍕/　/d/ṛ/ḍ/h/a/􈍕/　/s/a/k/h/ā/y/a/􈍕/　/
 /肱/　/股/　/竭/　/操/　/佐/　/
 /p/a/r/i/c/ā/r/a/k/a/􈍕/　/d/e/v/a/􈍕/　/so/pā/nā/ṃ􈍕/　/p/r/e/ṣ/a/y/a/􈍕/　/p/r/e/ṣ/a/k/a/􈍕/　/
 /弼/　/乾/(/天/)/　/基/　/送/　/使/　/
-/b/h/o/m/a/d/e/v/a/t/a/􈍕/　/s/a/ṃ/ś/l/a/ṣ/a/􈍕/　/ni/h/a/t/a/􈍕/　/b/h/r/a/m/y/a/t/i􈍕/　/
+/b/h/o/m/a/d/e/v/a/t/a/􈍕/　/s/a/ṃ/ś/l/a/ṣ/a/􈍕/　/n/i/h/a/t/a/􈍕/　/b/h/r/a/m/y/a/t/i/􈍕/　/
 祇/　/連/　/伏/　/旋/　/
-/c/i/h/n/a􈍕/　/n/a/k/ṣ/a/t/r/a/􈍕/　/b/h/ī/r/u/v/ā/r/a/􈍕/　/ś/a/r/a/ṇ/a/􈍕/　/
+/c/i/h/n/a/􈍕/　/n/a/k/ṣ/a/t/r/a/􈍕/　/b/h/ī/r/u/v/ā/r/a/􈍕/　/ś/a/r/a/ṇ/a/􈍕/　/
 /旌/　/宿/(/星/)/　/慎/　/歸/　/
-/ś/ā/n/t/a/􈍕/　/s/k/a/n/d/h/a􈍕/　/b/h/u/j/a/􈍕/　/v/a/k/ṣ/a/􈍕/　/a/b/h/y/a/n/t/a/r/a/􈍕/　/y/u/d/v/a/ḥ/􈍕/　/
+/ś/ā/n/t/a/􈍕/　/s/k/a/n/d/h/a/􈍕/　/b/h/u/j/a/􈍕/　/v/a/k/ṣ/a/􈍕/　/a/b/h/y/a/n/t/a/r/a/􈍕/　/y/u/d/v/a/ḥ/􈍕/　/
 /息/(/靜/)/　/肩/　/　/胸/　/裏/　/戰/　/
 /a/d/d/h/a/l/a/􈍕/　/m/o/ṭ/ṭa/　/</ab>
 /遂/　/肥/　/
 
-<ab type="prose">/pā/n/a/k/a/p/i/v/a/􈍕/　/ā/h/a/r/a/􈍕/　/b/h/a/k/t/a/􈍕/　/śā/k/a􈍕/　/l/a/v/a/ṇ/a/􈍕/　/
+<ab type="prose">/pā/n/a/k/a/p/i/v/a/􈍕/　/ā/h/a/r/a/􈍕/　/b/h/a/k/t/a/􈍕/　/ś/ā/k/a/􈍕/　/l/a/v/a/ṇ/a/􈍕/　/
 /飲/　/食/　/飯/　/菜/　/鹽/　/
-/ś/u/k/t/a/􈍕/　/t/ī/v/a/l/ā􈍕/　/d/r/a/v/a/􈍕/　/m/a/ṇ/ḍ/a/􈍕/　/p/h/a/l/a/􈍕/　/
+/ś/u/k/t/a/􈍕/　/t/ī/v/a/l/ā/􈍕/　/d/r/a/v/a/􈍕/　/m/a/ṇ/ḍ/a/􈍕/　/p/h/a/l/a/􈍕/　/
 /酢/　/羹/　/臛/　/餅/　/菓/　/
-/m/o/d/a/y/a/􈍕/　/l/a/t/u/k/a􈍕/　/g/u/ḍ/a/􈍕/　/i/k/ṣ/u/􈍕/　/ās/vā/d/a/􈍕/　/
+/m/o/d/a/y/a/􈍕/　/l/a/t/u/k/a/􈍕/　/g/u/ḍ/a/􈍕/　/i/k/ṣ/u/􈍕/　/ā/s/v/ā/d/a/􈍕/　/
 /喜/　/團/　/糖/　/蔗/　/噉/　/
-/c/a/r/v/a/􈍕/　/sā/d/r/a/r/k/a􈍕/　/t/u/ṃ/b/u/r/u/b/h/a/l/u/􈍕/　/m/a/r/i/c/a/􈍕/　/r/a/r/t/h/ī/􈍕/　/
+/c/a/r/v/a/􈍕/　/sā/d/r/a/r/k/a/􈍕/　/t/u/ṃ/b/u/r/u/b/h/a/l/u/􈍕/　/m/a/r/i/c/a/􈍕/　/r/a/r/t/h/ī/􈍕/　/
 /嚼/　/薑/　/椒/　/胡椒/　/芥/　/
-/s/a/r/ṣ/a/p/a/􈍕/　/p/i/ṇ/ḍ/a/l/a/􈍕/　/p/a/c/a/􈍕/　/p/a/k/k/a􈍕/　/a/n/u/m/ā/n/a􈍕/　/
+/s/a/r/ṣ/a/p/a/􈍕/　/p/i/ṇ/ḍ/a/l/a/􈍕/　/p/a/c/a/􈍕/　/p/a/k/k/a/􈍕/　/a/n/u/m/ā/n/a/􈍕/　/
 /白/芥/　/芋/　/煮/　/熟/　/斟/　/
 /r/v/i/u/u/t/t/o/l/a/􈍕/　/g/a/u/r/a/v/a/􈍕/　/ā/p/e/k/ṣ/a/􈍕/　/d/h/a/r/a/􈍕/　/
 酌/　/恭/(/謹/)/　/敬/　/持/　/
-/d/ī/y/a/tā/ṃ􈍕/　/phela/(/（/？/）/)/􈍕/　/pā/tr/a􈍕/　/e/kā/nt/a􈍕/　/
+/d/ī/y/a/t/ā/ṃ/􈍕/　/phela/(/（/？/）/)/􈍕/　/p/ā/t/r/a/􈍕/　/e/k/ā/n/t/a/􈍕/　/
 /與/　/盤盂/　/鉢/　/屏/　/
-/p/h/e/ḍ/a/􈍕/　/s/v/a/s/t/i/kā/s/a/r/a/􈍕/　/v/e/ś/ś/a/􈍕/　/a/g/h/i/l/a/􈍕/　/k/h/a/ṭ/ṭ/a/􇟄/　/
+/p/h/e/ḍ/a/􈍕/　/s/v/a/s/t/i/k/ā/s/a/r/a/􈍕/　/v/e/ś/ś/a/􈍕/　/a/g/h/i/l/a/􈍕/　/k/h/a/ṭ/ṭ/a/􇟄/　/
 /却/　/踞/　/坐/　/小/　/床/　/
-/g/r/a/n/t/h/i􈍕/　/v/a/n/d/h/a􈍕/　/v/a/s/t/r/a/􈍕/　/ko/ṇ/a/􈍕/　/b/h/u/ṃ/j/a/􈍕/　/s/a/m/a/p/t/a/􈍕/　/
+/g/r/a/n/t/h/i/􈍕/　/v/a/n/d/h/a/􈍕/　/v/a/s/t/r/a/􈍕/　/k/o/ṇ/a/􈍕/　/b/h/u/ṃ/j/a/􈍕/　/s/a/m/a/p/t/a/􈍕/　/
 /返/　/繫/　/衣/　/角/　/飡/　/罷/竟/　/
-/s/a/ṃ/c/ā/r/a/􈍕/　/st/hā/n/a􈍕/　/d/a/n/t/a/􈍕/　/kā/ṣṭ/a􈍕/　/k/a/ṃ/k/a/d/a/􈍕/　/
+/s/a/ṃ/c/ā/r/a/􈍕/　/s/t/h/ā/n/a/􈍕/　/d/a/n/t/a/􈍕/　/kā/ṣ/ṭ/a/􈍕/　/k/a/ṃ/k/a/d/a/􈍕/　/
 /遷/　/位/(/職/)/　/齒/　/木/　/梳/　/
-/d/h/o/v/a/􈍕/　/gā/v/a/􈍕/　/ś/a/k/ṛ/g/ī/􈍕/　/p/r/a/l/e/p/a/􈍕/　/p/u/ṃ/c/c/h/i/d/a/􈍕/　/
+/d/h/o/v/a/􈍕/　/g/ā/v/a/􈍕/　/ś/a/k/ṛ/g/ī/􈍕/　/p/r/a/l/e/p/a/􈍕/　/p/u/ṃ/c/c/h/i/d/a/􈍕/　/
 濯/　/牛/　/糞/　/塗/　/拭/　/
-/ś/o/c/a/􈍕/　/p/r/a/k/ṣ/a/l/i/t/a/􈍕/　/a/l/ā/c/i􈍕/　/c/a/ṅ/ṭ/u/􈍕/　/ko/ṣ/ṭ/i/k/a􈍕/　/
+/ś/o/c/a/􈍕/　/p/r/a/k/ṣ/a/l/i/t/a/􈍕/　/a/l/ā/c/i/􈍕/　/c/a/ṅ/ṭ/u/􈍕/　/k/o/ṣ/ṭ/i/k/a/􈍕/　/
 /洗/　/滌/　/匙/　/杓/　/倉/　/
-/g/a/ṃ/j/a/􈍕/　/r/a/n/v/a/n/a/ś/a/l/a/􈍕/　/śā/l/a/􈍕/　/m/a/ṇ/ḍ/a/pi/　/
+/g/a/ṃ/j/a/􈍕/　/r/a/n/v/a/n/a/ś/a/l/a/􈍕/　/ś/ā/l/a/􈍕/　/m/a/ṇ/ḍ/a/pi/　/
 庫/　/厨/　/廳/　/　/
-/s/a/ṃ/c/a/y/a/􈍕/　/ṭ/h/a/v/a/s/u/k/h/a􈍕/　/st/hā/l/ī/􈍕/　/h/a/n/m/ī/k/a/ṭ/ṭ/a/h/a/􈍕/　/
+/s/a/ṃ/c/a/y/a/􈍕/　/ṭ/h/a/v/a/s/u/k/h/a/􈍕/　/s/t/h/ā/l/ī/􈍕/　/h/a/n/m/ī/k/a/ṭ/ṭ/a/h/a/􈍕/　/
 /儲/　/安/　/釜/　/鑊/　/
-/h/ū/ri/(/（/？/）/)/ā/y/u/d/h/a􈍕/　/dā/t/r/a/ṃ􈍕/　/g/h/a/ṭ/a/􈍕/　/k/u/d/b/h/a􈍕/　/
+/h/ū/ri/(/（/？/）/)/ā/y/u/d/h/a/􈍕/　/d/ā/t/r/a/ṃ/􈍕/　/g/h/a/ṭ/a/􈍕/　/k/u/d/b/h/a/􈍕/　/
 /刀/　/(/又/仗突/)/　/鎌/　/珁/(/𤬪/)/　/瓮/　/
-/k/u/ṭā/r/ī/􈍕/　/ś/ū/r/p/a/􈍕/　/rajju/　/v/a/r/a/t/r/a/ṃ􈍕/　/a/t/i/k/r/a/m/a/􈍕/　/
+/k/u/ṭ/ā/r/ī/􈍕/　/ś/ū/r/p/a/􈍕/　/rajju/　/v/a/r/a/t/r/a/ṃ/􈍕/　/a/t/i/k/r/a/m/a/􈍕/　/
 /斧/　/箕/　/繩/　/索/　/違/　/
-/v/i/l/o/m/a/􈍕/　/rā/ja/śā/s/a/n/a/􈍕/　/rā/jā/jñ/ā􈍕/　/e/k/e/k/a􈍕/　/
+/v/i/l/o/m/a/􈍕/　/r/ā/j/a/ś/ā/s/a/n/a/􈍕/　/r/ā/j/ā/j/ñ/ā/􈍕/　/e/k/e/k/a/􈍕/　/
 /拒/　/勅/(/王/教/)/　/王/智/　/條/　/
-/r/a/j/a/k/u/l/a/􈍕/　/a/d/h/i/k/a/r/a/ṇ/a/􈍕/　/g/r/ā/h/a􈍕/　/bandhapari/　/
+/r/a/j/a/k/u/l/a/􈍕/　/a/d/h/i/k/a/r/a/ṇ/a/􈍕/　/g/r/ā/h/a/􈍕/　/bandhapari/　/
 官/　/司/　/執/　/縛/(/繫/)/　/
-/p/ā/l/a/􈍕/　/ś/a/r/ī/r/a/􈍕/　/j/a/n/ī/h/i􈍕/　/m/a/n/d/a/􈍕/　/m/ū/l/a/􈍕/　/
+/p/ā/l/a/􈍕/　/ś/a/r/ī/r/a/􈍕/　/j/a/n/ī/h/i/􈍕/　/m/a/n/d/a/􈍕/　/m/ū/l/a/􈍕/　/
 /養/　/躬/(/身/)/　/知/　/患/　/本/　/
-/s/a/hā/y/a/􈍕/　/śā/nt/i􈍕/　/e/kā/k/ī/m/u/k/t/a/􈍕/　/v/a/n/a/􈍕/　/e/kā/g/r/a/m/a/k/t/a/􈍕/　/
+/s/a/h/ā/y/a/􈍕/　/ś/ā/n/t/i/􈍕/　/e/k/ā/k/ī/m/u/k/t/a/􈍕/　/v/a/n/a/􈍕/　/e/k/ā/g/r/a/m/a/k/t/a/􈍕/　/
 /遂/　/靜息/　/栖/　/林/　/專/(/又/一/)/　/
-/c/a/r/y/ā􈍕/　/s/v/a/b/h/ū/m/i/􈍕/　/p/r/a/b/h/ū/t/a/􈍕/　/e/k/a/c/i/n/t/a/t/a/n/u/􈍕/　/
+/c/a/r/y/ā/􈍕/　/s/v/a/b/h/ū/m/i/􈍕/　/p/r/a/b/h/ū/t/a/􈍕/　/e/k/a/c/i/n/t/a/t/a/n/u/􈍕/　/
 /崇/(/又/行/)/　/社/　/多/　/志心/　/
 /ś/ī/g/h/r/a/􈍕/　/s/a/ṃ/p/r/e/ṣ/a/􈍕/　/e/t/a/􈍕/　/s/ī/v/a/n/a/􈍕/　/
 /急/　/遣/　/斯/　/封/　/
-/l/a/g/h/n/a􈍕/　/</ab>
+/l/a/g/h/n/a/􈍕/　/</ab>
 /着/　/
 
-<ab type="prose">/v/a/s/a/n/t/a/􈍕/　/ha/l/a/􈍕/　/vā/v/i􈍕/　/v/a/v/a/ḥ/􈍕/　/āh/eṭ/a􈍕/　/k/ṣ/e/t/t/r/a/􈍕/　/
+<ab type="prose">/v/a/s/a/n/t/a/􈍕/　/h/a/l/a/􈍕/　/v/ā/v/i/􈍕/　/v/a/v/a/ḥ/􈍕/　/ā/h/e/ṭ/a/􈍕/　/k/ṣ/e/t/t/r/a/􈍕/　/
 /春/　/耕/　/種/　/植/　/畎/　/畝/　/
-/s/a/m/ā/r/a/􈍕/　/k/ṛ/ṣ/i􈍕/　/u/d/g/h/a/ṭ/a/􈍕/　/p/u/ṣ/k/a/r/a/ṇ/ī/􈍕/　/
+/s/a/m/ā/r/a/􈍕/　/k/ṛ/ṣ/i/􈍕/　/u/d/g/h/a/ṭ/a/􈍕/　/p/u/ṣ/k/a/r/a/ṇ/ī/􈍕/　/
 /營/　/農/　/決/(/開/)/　/池/　/
-/a/v/a/t/ā/r/a/􈍕/　/ha/l/a/􈍕/　/m/a/t/h/i􈍕/　/dā/n/a􈍕/　/ś/r/a/m/a/t/v/a/(/（/？/）/)/􈍕/　/
+/a/v/a/t/ā/r/a/􈍕/　/h/a/l/a/􈍕/　/m/a/t/h/i/􈍕/　/d/ā/n/a/􈍕/　/ś/r/a/m/a/t/v/a/(/（/？/）/)/􈍕/　/
 /降/　/澤犁/　/撈/　/施/　/功/　/
-/s/ā/l/a/s/y/a/􈍕/　/k/a/t/vā/vā/r/a/􈍕/　/s/ū/r/y/o/d/a/y/a/􈍕/　/ś/a/y/a/t/i􈍕/　/
+/s/ā/l/a/s/y/a/􈍕/　/k/a/t/v/ā/v/ā/r/a/􈍕/　/s/ū/r/y/o/d/a/y/a/􈍕/　/ś/a/y/a/t/i/􈍕/　/
 /嬾/　/夫/　/晨/　/寐/(/臥/)/　/
-/u/d/y/u/k/t/a/􈍕/　/s/a/t/y/u/r/u/ṣ/a/􈍕/　/rā/t/r/ī/􈍕/　/u/d/i/t/a/􈍕/　/
+/u/d/y/u/k/t/a/􈍕/　/s/a/t/y/u/r/u/ṣ/a/􈍕/　/r/ā/t/r/ī/􈍕/　/u/d/i/t/a/􈍕/　/
 /勤/　/仕/　/霄/(/夜/)/　/興/(/起/)/　/
-/m/a/s/t/r/ā/k/a􈍕/　/c/a/m/m/a/l/a/t/a/􈍕/　/l/a/k/u/ṭ/a/􈍕/　/ś/a/k/a/ṭ/a/􈍕/　/
+/m/a/s/t/r/ā/k/a/􈍕/　/c/a/m/m/a/l/a/t/a/􈍕/　/l/a/k/u/ṭ/a/􈍕/　/ś/a/k/a/ṭ/a/􈍕/　/
 /鞭/　/皮/　/杖/　/車/　/
-/y/u/g/a/􈍕/　/k/h/a/r/a/􈍕/　/b/hā/r/a/􈍕/　/a/ś/c/a/􈍕/　/yā/n/a􈍕/　/p/h/a/l/a/􈍕/　/
+/y/u/g/a/􈍕/　/k/h/a/r/a/􈍕/　/b/h/ā/r/a/􈍕/　/a/ś/c/a/􈍕/　/y/ā/n/a/􈍕/　/p/h/a/l/a/􈍕/　/
 /轝/　/驢/　/馱/　/馬/　/乘/　/排/　/
-/ś/a/k/t/i􈍕/　/d/h/a/n/u/ṣ/i􈍕/　/kā/ṇḍ/a􈍕/　/ś/a/t/r/u/􈍕/　/a/ḍ/a/l/o/m/a/􈍕/　/
+/ś/a/k/t/i/􈍕/　/d/h/a/n/u/ṣ/i/􈍕/　/kā/ṇ/ḍ/a/􈍕/　/ś/a/t/r/u/􈍕/　/a/ḍ/a/l/o/m/a/􈍕/　/
 /槊/　/弓/　/箭/　/逆/　/順/　/
-/b/h/a/g/a/􈍕/　/p/a/t/i/t/a/􈍕/　/d/hā/ny/a􈍕/　/ti/l/a/􈍕/　/sa/sy/a􈍕/　/g/o/d/h/ū/m/a/􈍕/　/
+/b/h/a/g/a/􈍕/　/p/a/t/i/t/a/􈍕/　/d/h/ā/n/y/a/􈍕/　/t/i/l/a/􈍕/　/s/a/s/y/a/􈍕/　/g/o/d/h/ū/m/a/􈍕/　/
 /分/(/寸/)/　/崩/　/稻/(/又/種子/)/　/麻/　/豆/　/麥/　/
-/k/a/r/a/􈍕/　/b/h/a/r/a/􈍕/　/v/a/r/ṣ/a/􈍕/　/mā/r/g/a/y/a/􈍕/　/ś/a/l/a/k/a/􈍕/　/
+/k/a/r/a/􈍕/　/b/h/a/r/a/􈍕/　/v/a/r/ṣ/a/􈍕/　/m/ā/r/g/a/y/a/􈍕/　/ś/a/l/a/k/a/􈍕/　/
 /課/　/役/　/年/(/雨/)/　/徵/　/籌/　/
 /m/ā/v/a/􈍕/　/d/a/ś/a/􈍕/　/ā/p/h/a/k/a/􈍕/　/g/a/ṇ/a/n/t/a/􈍕/　/g/a/ṇ/a/n/a/􈍕/　/
 量/　/　/斛/　/數/　/計/　/
 /g/a/ṇ/i/t/a/􈍕/　/ā/p/h/a/k/a/􈍕/　/p/r/a/s/t/a/􈍕/　/p/a/ṭ/ṭ/a/􈍕/　/b/h/a/ṅ/g/a/􈍕/　/
 /算/　/斗/　/升/　/絹/　/布/　/
-/h/a/s/t/a/􈍕/　/v/i/d/a/s/t/i􈍕/　/b/h/ṛ/t/a/k/a/􈍕/　/ā/r/g/h/a􈍕/　/ā/ś/r/a/y/a/􈍕/　/
+/h/a/s/t/a/􈍕/　/v/i/d/a/s/t/i/􈍕/　/b/h/ṛ/t/a/k/a/􈍕/　/ā/r/g/h/a/􈍕/　/ā/ś/r/a/y/a/􈍕/　/
 /肘/　/度/　/雇/　/價/　/依/　/
-/p/r/a/t/y/a/y/a/􈍕/　/p/a/ṭ/ṭ/a/􈍕/　/s/ū/t/r/a/ṃ/􈍬/r/a/􈍭/􈍕/　/pi/ṭ/a/k/a/􈍕/　/
+/p/r/a/t/y/a/y/a/􈍕/　/p/a/ṭ/ṭ/a/􈍕/　/s/ū/t/r/a/ṃ/􈍬/r/a/􈍭/􈍕/　/p/i/ṭ/a/k/a/􈍕/　/
 /憑/　/絲/　/縷/　/箱/　/
-/p/i/ḍ/ā/y/ī/􈍕/　/s/ū/c/ī/􈍕/　/s/ū/t/r/a/ṃ􈍕/　/ka/gh/a􈍕/　/s/ī/v/a/􈍕/　/v/ī/t/h/ī/􈍕/　/
+/p/i/ḍ/ā/y/ī/􈍕/　/s/ū/c/ī/􈍕/　/s/ū/t/r/a/ṃ/􈍕/　/k/a/g/h/a/􈍕/　/s/ī/v/a/􈍕/　/v/ī/t/h/ī/􈍕/　/
 /筐/　/針/　/綖/　/裁/　/縫/　/街/　/
-/g/ī/t/i􈍕/　/b/ī/d/h/i/r/a/c/c/h/a􈍕/　/nā/d/a/􈍕/　/r/u/ṣ/ṭ/a/􈍕/　/ha/si/t/a/􈍕/　/
+/g/ī/t/i/􈍕/　/b/ī/d/h/i/r/a/c/c/h/a/􈍕/　/nā/d/a/􈍕/　/r/u/ṣ/ṭ/a/􈍕/　/h/a/s/i/t/a/􈍕/　/
 /吟/　/卷/　/吼/　/嗔/　/㗛/　/
 /m/a/ṅ/g/a/l/y/a/􈍕/　/a/m/a/ṅ/g/a/l/y/a/􈍕/　/c/c/h/i/n/d/a/􈍕/　/ś/i/k/h/a/r/a/􈍕/　/n/a/v/a/􈍕/　/
 /吉/　/凶/　/絕/　/嶺/　/新/　/
-/a/ṃ/k/u/r/a/􈍕/　/āk/āś/a􈍕/　/v/a/r/ṇ/a/􈍕/　/p/ī/ṭ/ā􈍕/　/k/u/ṃ/j/a/􈍕/　/
+/a/ṃ/k/u/r/a/􈍕/　/ā/k/ā/ś/a/􈍕/　/v/a/r/ṇ/a/􈍕/　/p/ī/ṭ/ā􈍕/　/k/u/ṃ/j/a/􈍕/　/
 芝/　/碧/空/　/色/　/危/　/巒/　/
-/p/u/r/ā/ṇ/a􈍕/　/ke/s/a/r/a/􈍕/　/k/u/s/u/d/b/h/a/v/a/r/ṇ/a/􈍕/　/u/d/g/hā/ḍ/a/􈍕/　/
+/p/u/r/ā/ṇ/a/􈍕/　/k/e/s/a/r/a/􈍕/　/k/u/s/u/d/b/h/a/v/a/r/ṇ/a/􈍕/　/u/d/g/h/ā/ḍ/a/􈍕/　/
 /舊/　/蘃/(/鬚/)/　/紅/　/解/開/　/
 /v/a/d/h/a/n/a/􈍕/　/p/a/t/h/y/a/􈍕/　/ā/k/a/r/ṣ/a/􈍕/　/b/h/a/g/g/a/􈍕/　/sā/m/a/n/y/a/􈍕/　/
 /帶/　/宜/　/攀/　/折/　/共/　/
-/ā/s/a/r/b/ha/(/（/？/）/)/􈍕/　/k/ṣ/e/t/r/a/ṃ􈍕/　/g/h/a/r/a/􈍕/　/p/ī/t/ā􈍕/　/ma/hā/􈍕/　/
+/ā/s/a/r/b/ha/(/（/？/）/)/􈍕/　/k/ṣ/e/t/r/a/ṃ/􈍕/　/g/h/a/r/a/􈍕/　/p/ī/t/ā􈍕/　/m/a/h/ā􈍕/　/
 /鄙/　/田/　/家/　/翁/　/　/
-/d/e/y/a/􈍕/　/ār/ām/a􈍕/　/r/i/ṣ/i􈍕/　/v/ṛ/k/ṣ/a/􈍕/　/m/ṛ/g/a/􈍕/　/u/d/y/ā/n/a􈍕/　/
+/d/e/y/a/􈍕/　/ā/r/ā/m/a/􈍕/　/r/i/ṣ/i/􈍕/　/v/ṛ/k/ṣ/a/􈍕/　/m/ṛ/g/a/􈍕/　/u/d/y/ā/n/a/􈍕/　/
 /給/　/園/　/仙/　/樹/　/鹿/　/苑/　/
-/r/ā/j/a/􈍕/　/ko/ṭṭ/a􈍕/　/k/u/t/y/a/􈍕/　/g/ṛ/h/a􈍕/　/ṭā/ṅg/a􈍕/　/
+/r/ā/j/a/􈍕/　/k/o/ṭ/ṭ/a/􈍕/　/k/u/t/y/a/􈍕/　/g/ṛ/h/a/􈍕/　/ṭā/ṅ/g/a/􈍕/　/
 /王/　/城/　/薜/　/舍/　/梨/　/
-/v/i/ṣ/a/y/a/􈍕/　/k/a/l/p/a/􈍕/　/a/n/u/m/ā/n/a􈍕/　/c/a/l/l/a/n/i􈍕/　/sā/d/h/a/n/a/􈍕/　/
+/v/i/ṣ/a/y/a/􈍕/　/k/a/l/p/a/􈍕/　/a/n/u/m/ā/n/a/􈍕/　/c/a/l/l/a/n/i/􈍕/　/sā/d/h/a/n/a/􈍕/　/
 /國/　/劫/　/比/　/羅/　/營/　/
-/m/a/r/i/v/a/r/t/t/a/􈍕/　/a/v/a/l/o/k/a􈍕/　/p/r/ī/t/i􈍕/　/a/n/y/a/􈍕/　/
+/m/a/r/i/v/a/r/t/t/a/􈍕/　/a/v/a/l/o/k/a/􈍕/　/p/r/ī/t/i/􈍕/　/a/n/y/a/􈍕/　/
 /迴轉/(/又/易/)/　/顧/　/戀/　/別/　/
-/p/a/kā/r/a/􈍕/　/ā/k/a/ṃ/k/ṣ/a/􈍕/　/p/r/a/sā/d/a/􈍕/　/jā/t/a/􈍕/　/k/u/k/k/u/ṭ/a/􈍕/　/
+/p/a/k/ā/r/a/􈍕/　/ā/k/a/ṃ/k/ṣ/a/􈍕/　/p/r/a/s/ā/d/a/􈍕/　/j/ā/t/a/􈍕/　/k/u/k/k/u/ṭ/a/􈍕/　/
 /報/　/望/　/恩/　/生/　/雞/　/
-/ś/i/k/h/a/r/a/􈍕/　/a/n/t/a/r/v/ā/n/a􈍕/　/a/s/t/h/i/k/a􈍕/　/nā/g/a/􈍕/　/c/c/h/i/d/r/a/􈍕/　/
+/ś/i/k/h/a/r/a/􈍕/　/a/n/t/a/r/v/ā/n/a/􈍕/　/a/s/t/h/i/k/a/􈍕/　/nā/g/a/􈍕/　/c/c/h/i/d/r/a/􈍕/　/
 峯/　/隱/　/骨/　/龍/　/穴/　/
-/a/d/ṛ/ś/y/a/􈍕/　/s/a/ṃ/s/t/hā/n/a􈍕/　/dh/yā/n/a􈍕/　/n/a/d/ī/􈍕/　/pā/n/ī/y/a/ṃ􈍕/　/
+/a/d/ṛ/ś/y/a/􈍕/　/s/a/ṃ/s/t/h/ā/n/a/􈍕/　/d/h/y/ā/n/a/􈍕/　/n/a/d/ī/􈍕/　/pā/n/ī/y/a/ṃ/􈍕/　/
 /潛/　/形/　/禪/　/河/　/水/　/
-/g/a/m/b/h/ī/r/a/􈍕/　/ś/ī/l/a/􈍕/　/g/i/r/i􈍕/　/m/ū/r/d/h/a/􈎺/s/a/i/l/a/􈍕/　/
+/g/a/m/b/h/ī/r/a/􈍕/　/ś/ī/l/a/􈍕/　/g/i/r/i/􈍕/　/m/ū/r/d/h/a/􈎺/s/a/i/l/a/􈍕/　/
 /𤀹/　/戒/　/巘/　/巖/　/
-/s/v/a/c/c/h/a􈍕/　/k/u/v/j/a/􈍕/　/k/a/r/u/ṇ/a/􈍕/　/r/a/j/a/􈍕/　/ś/ī/m/ā􈍕/　/y/a/t/h/ā􈎺/　/
+/s/v/a/c/c/h/a/􈍕/　/k/u/v/j/a/􈍕/　/k/a/r/u/ṇ/a/􈍕/　/r/a/j/a/􈍕/　/ś/ī/m/ā􈍕/　/y/a/t/h/ā􈎺/　/
 /清/　/俯/　/悲/　/塵/　/界/　/猶/　/
-/m/a/r/y/ā/d/a/􈍕/　/ni/vā/r/a/y/a/􈍕/　/i/c/c/h/a/t/i􈍕/　/m/a/i/t/r/ī/􈍕/　/pa/tā/k/a􇟄/　/
+/m/a/r/y/ā/d/a/􈍕/　/n/i/v/ā/r/a/y/a/􈍕/　/i/c/c/h/a/t/i/􈍕/　/m/a/i/t/r/ī/􈍕/　/p/a/t/ā/k/a/􇟄/　/
 /准/式/　/遮/　/聽/　/慈/　/幡/　/
-/s/a/d/ā􈍕/　/k/a/m/p/a/􈍕/　/p/r/a/j/ñ/ā/m/a/t/i􈍕/　/ū/l/k/a􈍕/　/d/ī/r/g/h/a􈍕/　/
+/s/a/d/ā/􈍕/　/k/a/m/p/a/􈍕/　/p/r/a/j/ñ/ā/m/a/t/i/􈍕/　/ū/l/k/a/􈍕/　/d/ī/r/g/h/a/􈍕/　/
 /永/　/振/　/慧/　/炬/　/長/　/
-/p/r/a/b/h/a􈍕/　/a/ḍ/a/l/a/g/n/a􈍕/　/s/ī/m/a/s/a/n/v/i􈍕/　/ṣa/ṭ􈍕/　/g/a/t/i􈍕/　/
+/p/r/a/b/h/a/􈍕/　/a/ḍ/a/l/a/g/n/a/􈍕/　/s/ī/m/a/s/a/n/v/i/􈍕/　/ṣa/ṭ􈍕/　/g/a/t/i/􈍕/　/
 /熒/(/光/)/　/扶/　/關/　/六/　/趣/　/
-/ū/d/g/hā/ḍ/a/􈍕/　/dhephita/(/（/？/）/)/􈍕/　/d/a/ś/a/􈍕/　/a/n/d/h/a/kā/r/a/􈍕/　/
+/ū/d/g/h/ā/ḍ/a/􈍕/　/dhephita/(/（/？/）/)/􈍕/　/d/a/ś/a/􈍕/　/a/n/d/h/a/k/ā/r/a/􈍕/　/
 /開/　/圍/　/十/　/冥/　/
-/a/p/a/n/a/y/a/􈍕/　/b/h/e/t/a/􈍕/　/ś/ī/t/a/j/v/a/r/a/􈍕/　/bi/ṣ/a/􈍕/　/
+/a/p/a/n/a/y/a/􈍕/　/b/h/e/t/a/􈍕/　/ś/ī/t/a/j/v/a/r/a/􈍕/　/b/i/ṣ/a/􈍕/　/
 /祛/　/除却/　/虐/　/毒/　/
-/h/a/s/t/a/􈍕/　/n/a/k/ṣ/a/t/r/a/􈍕/　/k/ṣ/a/n/t/i􈍕/　/k/ṛ/ṣ/ṇ/a/􈍕/　/ś/a/p/a/􈎺/ā/ś/c/a/r/y/a/􈍕/　/
+/h/a/s/t/a/􈍕/　/n/a/k/ṣ/a/t/r/a/􈍕/　/k/ṣ/a/n/t/i/􈍕/　/k/ṛ/ṣ/ṇ/a/􈍕/　/ś/a/p/a/􈎺/ā/ś/c/a/r/y/a/􈍕/　/
 /軫/　/宿星/　/忍/　/黔/(/黑/)/　/靈/　/
-/v/y/ū/h/a􈍕/　/ī/r/y/a/p/a/t/h/a􈍕/　/p/r/a/t/i/m/ā􈍕/　/g/a/n/d/h/a/k/u/ṭ/i/m/a/ṇ/ḍ/a/p/a/􈍕/　/
+/v/y/ū/h/a/􈍕/　/ī/r/y/a/p/a/t/h/a/􈍕/　/p/r/a/t/i/m/ā/􈍕/　/g/a/n/d/h/a/k/u/ṭ/i/m/a/ṇ/ḍ/a/p/a/􈍕/　/
 /嚴/　/儀/　/像/　/殿/　/
-/l/i/k/h/a􈍕/　/y/o/d/h/a/t/i􈍕/　/ś/r/e/ṣ/ṭ/a/􈍕/　/s/ū/t/r/a/􈍕/　/b/u/d/d/h/a􈍕/　/
+/l/i/k/h/a/􈍕/　/y/o/d/h/a/t/i/􈍕/　/ś/r/e/ṣ/ṭ/a/􈍕/　/s/ū/t/r/a/􈍕/　/b/u/d/d/h/a/􈍕/　/
 寫/　/勘/　/尊/　/經/　/佛陀/　/
-/d/h/a/r/m/a/􈍕/　/st/hā/n/a􈍕/　/s/a/ṃ/g/h/a􈍕/　/a/n/u/s/m/a/r/a/ṇ/a/􈍕/　/
+/d/h/a/r/m/a/􈍕/　/s/t/h/ā/n/a/􈍕/　/s/a/ṃ/g/h/a/􈍕/　/a/n/u/s/m/a/r/a/ṇ/a/􈍕/　/
 /法/　/處/　/僧/　/念/　/
-/ā/p/a/t/t/i􈍕/　/l/a/g/h/u/k/a􈍕/　/p/r/ā/r/t/h/a􈍕/　/t/a/t/kā/l/a/􈍕/　/p/r/a/k/r/a/m/a/􈍕/　/
+/ā/p/a/t/t/i/􈍕/　/l/a/g/h/u/k/a/􈍕/　/p/r/ā/r/t/h/a/􈍕/　/t/a/t/k/ā/l/a/􈍕/　/p/r/a/k/r/a/m/a/􈍕/　/
 /罪/　/輕/　/幸/　/當/　/循/　/
-/v/y/a/v/a/s/t/hā/􈎺/ś/a/k/a/ṭ/a/p/a/t/h/a􈍕/　/ni/y/a/t/a/􈍕/　/p/h/o/k/k/a􈍕/　/ti/r/v/ā/ṇ/a􈍕/　/
-/軌轍/　/車/道/　/畢/　/至/　/涅盤/　/
-/n/a/g/a/r/a/ṃ􈍕/　/kā/ṣ/a/y/a/􈍕/　/c/ī/v/a/r/a/􈍕/　/k/a/r/a/k/a/􈍕/　/
+/v/y/a/v/a/s/t/h/ā/􈎺/ś/a/k/a/ṭ/a/p/a/t/h/a/􈍕/　/n/i/y/a/t/a/􈍕/　/p/h/o/k/k/a/􈍕/　/t/i/r/v/ā/ṇ/a/􈍕/　/
+/軌轍/　/車道/　/畢/　/至/　/涅盤/　/
+/n/a/g/a/r/a/ṃ/􈍕/　/kā/ṣ/a/y/a/􈍕/　/c/ī/v/a/r/a/􈍕/　/k/a/r/a/k/a/􈍕/　/
 /坰/城/　/袈裟/　/衣/　/瓶/　/
 /p/r/ā/t/r/a/􈍕/　/ś/a/y/a/n/a/􈍕/　/a/s/a/n/a/􈍕/　/v/a/s/t/r/a/􈍕/　/p/a/r/h/y/a/ṇ/a/􈍕/　/
 /鉢/　/臥/　/具/　/衣/　/裳/　/
-/g/h/a/n/a/􈍕/　/rā/t/r/o/p/h/a/n/a/􈍕/　/b/h/a/r/a/ṇ/a/􈍕/　/t/a/v/a/n/a/􈍕/　/
+/g/h/a/n/a/􈍕/　/r/ā/t/r/o/p/h/a/n/a/􈍕/　/b/h/a/r/a/ṇ/a/􈍕/　/t/a/v/a/n/a/􈍕/　/
 /厚/　/被/　/盛/　/櫃/　/
-/e/k/a/p/u/ṭ/a/􈍕/　/ś/a/ṭ/a/􈍕/　/p/r/a/s/e/v/a/􈍕/　/g/o/p/a/t/r/i􈍕/　/p/r/ā/ṇ/a/k/a/􈍕/　/
+/e/k/a/p/u/ṭ/a/􈍕/　/ś/a/ṭ/a/􈍕/　/p/r/a/s/e/v/a/􈍕/　/g/o/p/a/t/r/i/􈍕/　/p/r/ā/ṇ/a/k/a/􈍕/　/
 /單/　/裙/　/帒/　/藏/　/蟲/　/
-/m/ū/ṣ/a/k/a/􈍕/　/t/r/a/s/t/a/􈍕/　/ca/􈅧􈍕/　/d/h/a/u/v/a/n/a/􈍕/　/s/o/ṣ/a/ṇ/a/􈍕/　/
+/m/ū/ṣ/a/k/a/􈍕/　/t/r/a/s/t/a/􈍕/　/c/a/􈅧/􈍕/　/d/h/a/u/v/a/n/a/􈍕/　/s/o/ṣ/a/ṇ/a/􈍕/　/
 /鼠/　/恐/　/齧/　/浣/　/曬/　/
-/p/r/a/sā/r/a/􈍕/　/bi/k/a/s/a/􈍕/　/v/a/r/ṇ/a/k/a/m/v/a/l/a/􈍕/　/p/ṛ/ṅ/g/a/􈍕/　/
-舒/　/張/　/氍/毹/　/綾/　/
+/p/r/a/s/ā/r/a/􈍕/　/b/i/k/a/s/a/􈍕/　/v/a/r/ṇ/a/k/a/m/v/a/l/a/􈍕/　/p/ṛ/ṅ/g/a/􈍕/　/
+/舒/　/張/　/氍/毹/　/綾/　/
 /c/i/t/r/a/􈍕/　/s/ū/c/i/k/a/r/m/m/a/􈍕/　/t/ū/l/a/y/i/􈍕/　/p/r/a/ṇ/ī/t/a/􈍕/　/p/r/a/ṇ/ā/l/a/􈍕/　/
 /錦/　/繡/　/褥/　/芬芳/　/簷/　/
-/g/ṛ/h/a􈍕/　/v/a/n/y/a/􈍕/　/si/ṃ/c/y/a/􈍕/　/m/a/n/d/a/􈍕/　/k/ṣ/e/m/a/ṇa/　/
+/g/ṛ/h/a/􈍕/　/v/a/n/y/a/􈍕/　/s/i/ṃ/c/y/a/􈍕/　/m/a/n/d/a/􈍕/　/k/ṣ/e/m/a/ṇa/　/
 宇/　/蕭/　/灑/　/緩/　/掉/　/
-/s/u/v/a/r/ṇ/u/􈍕/　/ś/a/v/y/a/ḥ/􈍕/　/a/s/t/i/􈎺/l/a/j/j/a/􈍕/　/g/a/n/v/i/l/i/k/a􈍕/　/
+/s/u/v/a/r/ṇ/u/􈍕/　/ś/a/v/y/a/ḥ/􈍕/　/a/s/t/i/􈎺/l/a/j/j/a/􈍕/　/g/a/n/v/i/l/i/k/a/􈍕/　/
 /鏗/　/鏘/　/有/　/恥/　/艾/　/
-/d/u/r/g/a/n/d/h/a􈍕/　/nā/st/i􈍕/　/j/u/g/u/p/s/ā􈍕/　/ka/s/t/o/r/ī/􈍕/　/d/h/ū/m/a/􈍕/　/
+/d/u/r/g/a/n/d/h/a/􈍕/　/nā/st/i􈍕/　/j/u/g/u/p/s/ā/􈍕/　/k/a/s/t/o/r/ī/􈍕/　/d/h/ū/m/a/􈍕/　/
 /臭/　/無/　/嫌/　/麝/　/香/　/
-/s/t/o/t/r/a/􈍕/　/s/t/a/v/ā/d/i􈍕/　/gā/y/i􈍕/　/t/ū/r/i􈍕/　/b/i/m/u/l/a/􈍕/　/
+/s/t/o/t/r/a/􈍕/　/s/t/a/v/ā/d/i/􈍕/　/g/ā/y/i/􈍕/　/t/ū/r/i/􈍕/　/b/i/m/u/l/a/􈍕/　/
 /讚/　/詠/　/歌/　/管/　/愽/　/
-/j/ū/t/a/􈍕/　/s/u/r/ā􈍕/　/kā/ṃj/i􈍕/　/v/r/a/h/m/a/􈍕/　/s/a/r/a/􈍕/　/cc/ho/ṭi/k/a􈍕/　/
+/j/ū/t/a/􈍕/　/s/u/r/ā/􈍕/　/kā/ṃ/j/i/􈍕/　/v/r/a/h/m/a/􈍕/　/s/a/r/a/􈍕/　/c/c/h/o/ṭ/i/k/a/􈍕/　/
 奕/　/酒/　/醬/　/梵/　/音/　/彈/　/
-/j/i/h/v/a/􈍕/　/bi/s/m/a/r/a/􈍕/　/p/r/a/ṇ/i/d/hā/n/a􈍕/　/e/t/a/􈍕/　/l/a/b/h/a􈍕/　/
+/j/i/h/v/a/􈍕/　/b/i/s/m/a/r/a/􈍕/　/p/r/a/ṇ/i/d/h/ā/n/a/􈍕/　/e/t/a/􈍕/　/l/a/b/h/a/􈍕/　/
 /舌/　/忘/　/願/　/茲/　/利/　/
-/p/r/a/s/v/e/d/a/􈍕/　/s/a/r/v/a/􈍕/　/s/ī/m/ā􈍕/　/t/a/v/ā􈍕/　/a/ṅ/g/a/􈍕/　/a/ṣ/ṭ/a/􈍕/　/
+/p/r/a/s/v/e/d/a/􈍕/　/s/a/r/v/a/􈍕/　/s/ī/m/ā􈍕/　/t/a/v/ā/􈍕/　/a/ṅ/g/a/􈍕/　/a/ṣ/ṭ/a/􈍕/　/
 /閏/(/汙/)/　/惣/(/又/一切/)/　/疆/　/且/　/題/　/八/　/
-/ś/a/t/a/􈍕/　/a/n/y/a/􈍕/　/s/a/m/a/n/ā􈍕/　/ni/p/u/ṇ/a/􈍕/　/p/r/a/t/y/a/v/e/k/ṣ/a/􈍕/　/
+/ś/a/t/a/􈍕/　/a/n/y/a/􈍕/　/s/a/m/a/n/ā􈍕/　/n/i/p/u/ṇ/a/􈍕/　/p/r/a/t/y/a/v/e/k/ṣ/a/􈍕/　/
 /百/　/餘/　/皆/　/審/　/詳/　/
-/ś/ī/g/h/r/a/􈍕/　/kā/ry/ā􈍕/　/a/b/h/y/ā/s/a/􈍕/　/a/d/b/h/u/t/a/􈍕/　/v/y/a/k/h/y/ā/n/a􈍕/　/
+/ś/ī/g/h/r/a/􈍕/　/kā/ry/ā􈍕/　/a/b/h/y/ā/s/a/􈍕/　/a/d/b/h/u/t/a/􈍕/　/v/y/a/k/h/y/ā/n/a/􈍕/　/
 /早/　/湏/　/習/　/奇/　/說/　/
-/ā/d/i􈍕/　/v/a/r/t/t/a/t/e/􈍕/　/p/r/a/t/i/p/a/n/n/a/ś/a/􈍕/　/p/a/r/a/􈍕/　/
+/ā/d/i/􈍕/　/v/a/r/t/t/a/t/e/􈍕/　/p/r/a/t/i/p/a/n/n/a/ś/a/􈍕/　/p/a/r/a/􈍕/　/
 /始/　/可/　/向/　/他/　/
-/d/e/ś/a/􈍕/　/k/ṣ/a/ṇ/i/k/a􈍕/　/ś/a/r/ī/r/a/p/r/a/kā/śa/ḥ􈍕/　/śi/kṣ/ā􈍕/　/
+/d/e/ś/a/􈍕/　/k/ṣ/a/ṇ/i/k/a/􈍕/　/ś/a/r/ī/r/a/p/r/a/k/ā/ś/a/ḥ/􈍕/　/ś/i/k/ṣ/ā/􈍕/　/
 鄉/　/聊/　/申/　/學/　/
-/b/hā/ṣ/a/􈍕/　/ā/d/a/r/ś/a/􈍕/　/ī/c/c/h/a􇟄/　/i/c/c/h/a􈍕/　/ś/a/y/a/􈍕/　/l/e/k/h/a􈍕/　/
+/b/h/ā/ṣ/a/􈍕/　/ā/d/a/r/ś/a/􈍕/　/ī/c/c/h/a/􇟄/　/i/c/c/h/a/􈍕/　/ś/a/y/a/􈍕/　/l/e/k/h/a/􈍕/　/
 /語/　/樣/　/豈/　/欲/　/耽/　/文/　/
 /l/i/k/h/a/ḥ/􈍕/　/</ab>
 /章/(/已/上/重/字/二百/言/矣/)/　/
 
-<ab type="prose">/ād/i􈍕/　/he/t/u/􈍕/　/k/a/r/m/m/a/􈍕/　/bi/pā/k/a/􈎺/p/r/a/t/y/u/v/ā/c/a/􈍕/　/
+<ab type="prose">/ād/i􈍕/　/h/e/t/u/􈍕/　/k/a/r/m/m/a/􈍕/　/b/i/p/ā/k/a/􈎺/p/r/a/t/y/u/v/ā/c/a/􈍕/　/
 /初/　/因/　/業/　/報/　/
-/ā/ś/ṛ/t/a/􈍕/　/p/r/a/t/i/b/i/m/b/a/􈍕/　/mā/t/u/􈍕/　/g/a/r/b/h/a􈍕/　/ā/b/i/d/y/ā􈍕/　/
+/ā/ś/ṛ/t/a/􈍕/　/p/r/a/t/i/b/i/m/b/a/􈍕/　/m/ā/t/u/􈍕/　/g/a/r/b/h/a/􈍕/　/ā/b/i/d/y/ā/􈍕/　/
 託/　/形/　/母/　/胎/　/無明/　/
-/􈍬/b/i/d/yā/􈍭􈍕/　/v/ī/j/a/􈍕/　/p/u/t/r/a/􈍕/　/k/ṛ/y/ā􈍕/　/kā/r/a/k/a/􈍕/　/
+/􈍬/b/i/d/y/ā/􈍭/􈍕/　/v/ī/j/a/􈍕/　/p/u/t/r/a/􈍕/　/k/ṛ/y/ā/􈍕/　/kā/r/a/k/a/􈍕/　/
 /〔/明/〕/　/種/　/子/　/造/　/作/　/
-/m/ū/l/a/􈍕/　/vā/b/i􈍕/　/bi/j/ñ/ā/n/a􈍕/　/s/a/m/ṛ/h/a􈍕/　/he/t/u/􈍕/　/
-/根/　/栽/　/識/　/聚/　/因/　/
-/u/t/t/h/i/t/a/􈍕/　/nā/m/a/􈍕/　/l/a/k/ṣ/a/ṇ/a/􈍕/　/mā/ś/r/a/t/y/a/􈍕/　/ṣ/a/ḍ/ā􈍕/　/
+/m/ū/l/a/􈍕/　/v/ā/b/i/􈍕/　/b/i/j/ñ/ā/n/a/􈍕/　/s/a/m/ṛ/h/a/􈍕/　/h/e/t/u/􈍕/　/
+根/　/栽/　/識/　/聚/　/因/　/
+/u/t/t/h/i/t/a/􈍕/　/n/ā/m/a/􈍕/　/l/a/k/ṣ/a/ṇ/a/􈍕/　/m/ā/ś/r/a/t/y/a/􈍕/　/ṣ/a/ḍ/ā/􈍕/　/
 /起/　/名/　/相/　/依/　/六/　/
-/y/a/t/a/n/a/􈍕/　/b/h/a/v/a/t/i􈍕/　/ka/gh/a􈍕/　/s/p/a/r/ś/a/􈍕/　/a/ṅ/g/a/􈍕/　/p/u/n/a/r/a/p/i􈍕/　/
+/y/a/t/a/n/a/􈍕/　/b/h/a/v/a/t/i/􈍕/　/k/a/g/h/a/􈍕/　/s/p/a/r/ś/a/􈍕/　/a/ṅ/g/a/􈍕/　/p/u/n/a/r/a/p/i/􈍕/　/
 /處/　/既/　/剖/　/觸/　/支/　/復/　/
-/p/h/e/ḍ/a/􈍕/　/v/a/i/d/a/n/ā􈍕/　/i/ṣ/ṭ/a/􈍕/　/t/ṛ/ṣ/ṭ/ā􈍕/　/bi/ṣ/a/y/a/􈍕/　/
+/p/h/e/ḍ/a/􈍕/　/v/a/i/d/a/n/ā􈍕/　/i/ṣ/ṭ/a/􈍕/　/t/ṛ/ṣ/ṭ/ā􈍕/　/b/i/ṣ/a/y/a/􈍕/　/
 /推/　/受/　/愛/　/貪/　/境/　/
-/g/ṛ/h/t/u/􈍕/　/a/s/t/i􈍕/　/e/t/a/g/ī/􈍕/　/u/ṅ/g/h/a/ḍ/a/􈍕/　/d/ṛ/ṣ/ṭ/a/􈍕/　/
+/g/ṛ/h/t/u/􈍕/　/a/s/t/i/􈍕/　/e/t/a/g/ī/􈍕/　/u/ṅ/g/h/a/ḍ/a/􈍕/　/d/ṛ/ṣ/ṭ/a/􈍕/　/
 /取/　/有/　/斯/　/開/　/見/　/
-/j/a/t/a/􈍕/　/v/y/a/k/t/a/􈍕/　/t/u/ṣ/ṭ/a/􈍕/　/v/ṛ/d/d/h/a􈍕/　/m/ṛ/t/a/􈍕/　/ni/v/a/r/t/t/a/􈍕/　/
+/j/a/t/a/􈍕/　/v/y/a/k/t/a/􈍕/　/t/u/ṣ/ṭ/a/􈍕/　/v/ṛ/d/d/h/a/􈍕/　/m/ṛ/t/a/􈍕/　/n/i/v/a/r/t/t/a/􈍕/　/
 /生/　/雖/　/喜/　/老/　/死/　/還/　/
-/r/u/d/a/n/a/􈍕/　/u/d/v/e/g/a/􈍕/　/k/a/r/u/ṇ/i􈍕/　/p/ū/r/v/a/􈎺/a/n/ā/d/i􈍕/　/
+/r/u/d/a/n/a/􈍕/　/u/d/v/e/g/a/􈍕/　/k/a/r/u/ṇ/i/􈍕/　/p/ū/r/v/a/􈎺/a/n/ā/d/i/􈍕/　/
 /哀/　/憂/　/悲/　/始/　/
-/g/a/t/a/􈍕/　/d/u/ḥ/k/h/a􈍕/　/k/l/e/ś/a/􈍕/　/a/n/t/a/􈍕/　/ā/g/a/t/a/􈍕/　/
+/g/a/t/a/􈍕/　/d/u/ḥ/k/h/a/􈍕/　/k/l/e/ś/a/􈍕/　/a/n/t/a/􈍕/　/ā/g/a/t/a/􈍕/　/
 /去/　/苦/　/惱/　/終/　/來/　/
-/y/a/t/h/ā􈍕/　/c/a/k/r/a/􈍕/　/g/h/a/ṭ/a/k/a/􈍕/　/sy/a􈍕/　/p/a/r/i/v/a/r/t/t/a/􈍕/　/
+/y/a/t/h/ā􈍕/　/c/a/k/r/a/􈍕/　/g/h/a/ṭ/a/k/a/􈍕/　/s/y/a/􈍕/　/p/a/r/i/v/a/r/t/t/a/􈍕/　/
 /如/　/輪/　/環/　/之/　/轉/　/
-/y/a/d/i/􈍕/　/ka/ṇḍ/a􈍕/　/sy/a􈍕/　/ś/ī/g/h/r/a/ḥ/􈍕/　/k/u/ś/a/l/a/􈍕/　/vā/s/a/􈍕/　/
+/y/a/d/i/􈍕/　/k/a/ṇ/ḍ/a/􈍕/　/s/y/a/􈍕/　/ś/ī/g/h/r/a/ḥ/􈍕/　/k/u/ś/a/l/a/􈍕/　/v/ā/s/a/􈍕/　/
 /若/　/箭/　/之/　/催/　/善/　/居/　/
-/d/e/v/a/􈍕/　/u/d/y/ā/n/a􈍕/　/bi/r/ū/p/a/􈍕/　/st/hā/n/a􈍕/　/u/ṣ/ṇ/a/􈎺/k/ṣ/a/r/a/ḥ/􈍕/　/
+/d/e/v/a/􈍕/　/u/d/y/ā/n/a/􈍕/　/b/i/r/ū/p/a/􈍕/　/s/t/h/ā/n/a/􈍕/　/u/ṣ/ṇ/a/􈎺/k/ṣ/a/r/a/ḥ/􈍕/　/
 /天/　/苑/　/惡/　/處/　/煻煨/　/
-/b/i/d/y/ā􈍕/　/a/v/a/ś/y/a/ṃ􈍕/　/ś/r/a/d/d/h/ā􈍕/　/v/a/h/ū/d/a/k/a/ś/a/v/a/􈍕/　/
+/b/i/d/y/ā/􈍕/　/a/v/a/ś/y/a/ṃ/􈍕/　/ś/r/a/d/d/h/ā􈍕/　/v/a/h/ū/d/a/k/a/ś/a/v/a/􈍕/　/
 /明/　/可/　/信/　/浩浩/　/
-/k/ṣ/e/m/a/􈎺/t/a/r/k/a􈍕/　/c/a/t/v/ā/r/a/􈍕/　/j/a/t/i􈍕/　/p/u/n/a􈍕/　/
+/k/ṣ/e/m/a/􈎺/t/a/r/k/a/􈍕/　/c/a/t/v/ā/r/a/􈍕/　/j/a/t/i/􈍕/　/p/u/n/a/􈍕/　/
 /寧/　/猜/　/四/　/生/　/頻/　/
-/p/a/t/a/t/i􈍕/　/t/a/ṭ/a/k/a/􈍕/　/ṣ/a/t/y/o/n/i􈍕/　/k/a/t/i􈍕/　/ā/v/a/r/t/t/a/􈍕/　/
+/p/a/t/a/t/i/􈍕/　/t/a/ṭ/a/k/a/􈍕/　/ṣ/a/t/y/o/n/i/􈍕/　/k/a/t/i/􈍕/　/ā/v/a/r/t/t/a/􈍕/　/
 落/　/泊/　/趣/　/幾/　/徘/　/
-/n/i/v/a/r/t/t/a/􈍕/　/s/v/a/s/u/h/a􈍕/　/v/a/c/a/n/a/ṃ􈍕/　/p/r/a/k/a/ś/a/􈍕/　/j/ñ/ā/n/a􈍕/　/
+/n/i/v/a/r/t/t/a/􈍕/　/s/v/a/s/u/h/a/􈍕/　/v/a/c/a/n/a/ṃ/􈍕/　/p/r/a/k/a/ś/a/􈍕/　/j/ñ/ā/n/a/􈍕/　/
 徊/　/眷/　/言/　/明/　/智/　/
-/v/a/n/t/a/v/a/s/t/r/a/􈍕/　/v/y/a/k/t/a/􈍕/　/g/h/a/t/i/t/a/􈍕/　/ka/ṣṭ/a􈍕/　/</ab>
+/v/a/n/t/a/v/a/s/t/r/a/􈍕/　/v/y/a/k/t/a/􈍕/　/g/h/a/t/i/t/a/􈍕/　/k/a/ṣ/ṭ/a/􈍕/　/</ab>
 /者/斯/事/　/可/　/傷/　/哉/　/
 
-<ab type="prose">/ś/ī/r/a/􈍕/　/a/k/ṣ/i􈍕/　/ka/rṇ/a􈍕/　/nasa􈍕/　/o/ṣ/ṭ/a/􈍕/　/a/s/y/a/􈍕/　/
+<ab type="prose">/ś/ī/r/a/􈍕/　/a/k/ṣ/i/􈍕/　/k/a/r/ṇ/a/􈍕/　/n/a/s/a/􈍕/　/o/ṣ/ṭ/a/􈍕/　/a/s/y/a/􈍕/　/
 /頭/　/目/　/耳/　/鼻/　/脣/　/口/　/
-/d/a/ṃ/ṣ/ṭ/r/a/􈍕/　/m/a/l/a/􈍕/　/l/a/l/a/ṭ/a/􈍕/　/g/r/ī/v/ā􈍕/　/r/o/m/ā􈍕/　/vā/l/a/􈍕/　/
+/d/a/ṃ/ṣ/ṭ/r/a/􈍕/　/m/a/l/a/􈍕/　/l/a/l/a/ṭ/a/􈍕/　/g/r/ī/v/ā􈍕/　/r/o/m/ā/􈍕/　/v/ā/l/a/􈍕/　/
 /牙/　/咽/　/額/　/項/　/毛/　/髮/　/
-/j/ā/h/v/a/􈍕/　/m/e/d/e/ṭ/a/􈍕/　/kr/oḍ/a􈍕/　/l/a/m/v/i/t/a/􈍕/　/tā/l/u/􈍕/　/
+/j/ā/h/v/a/􈍕/　/m/e/d/e/ṭ/a/􈍕/　/k/r/o/ḍ/a/􈍕/　/l/a/m/v/i/t/a/􈍕/　/t/ā/l/u/􈍕/　/
 /舌/　/卷/　/胸/　/懸/　/喉/　/
-/b/h/i/n/n/a􈍕/　/s/k/a/n/d/h/a􈍕/　/na/kh/a􈍕/　/v/a/h/u/􈍕/　/m/a/n/d/h/i􈍕/　/p/a/r/a/s/m/a/r/a/􈍕/　/
+/b/h/i/n/n/a/􈍕/　/s/k/a/n/d/h/a/􈍕/　/n/a/k/h/a/􈍕/　/v/a/h/u/􈍕/　/m/a/n/d/h/i/􈍕/　/p/a/r/a/s/m/a/r/a/􈍕/　/
 /缺/　/肩/　/甲/　/臂/　/腕/　/相/　/
-/l/a/g/n/a􈍕/　/sn/āy/u􈍕/　/si/rā/􈎺/v/r/a/ṇ/a/􈍕/　/pā/m/a/􈍕/　/
+/l/a/g/n/a/􈍕/　/s/n/ā/y/u/􈍕/　/s/i/r/ā/􈎺/v/r/a/ṇ/a/􈍕/　/p/ā/m/a/􈍕/　/
 連/　/筋/　/脈/　/瘡/　/疥/　/
-/a/ṅ/g/a/l/i/􈍕/　/p/a/r/v/a/􈍕/　/sa/hi/ṇ/a/􈍕/　/s/t/a/n/a/􈍕/g/h/a/r/a/􈍕/　/ka/ṭi/􈍕/　/
-/指/　/節/　/纖/　/駢/乳/(/又/嬭房/)/　/腰/　/
-/p/ā/r/ś/v/a/􈍕/　/v/ṛ/k/k/a􈍕/　/a/ṅ/g/u/ś/a/􈍕/　/ā/k/a/r/ṣ/a/􈍕/　/nā/bh/i􈍕/　/
+/a/ṅ/g/a/l/i/􈍕/　/p/a/r/v/a/􈍕/　/s/a/h/i/ṇ/a/􈍕/　/s/t/a/n/a/􈍕/g/h/a/r/a/􈍕/　/k/a/ṭ/i/􈍕/　/
+/指/　/節/　/纖/　/駢/乳/(/又/嬭/房/)/　/腰/　/
+/p/ā/r/ś/v/a/􈍕/　/v/ṛ/k/k/a/􈍕/　/a/ṅ/g/u/ś/a/􈍕/　/ā/k/a/r/ṣ/a/􈍕/　/nā/bh/i􈍕/　/
 /肋/　/腎/　/勾/　/牽/　/臍/　/
-/p/ṛ/ṣ/ṭ/a/􈍕/　/d/r/a/u/ḥ/􈍕/　/pā/r/ś/v/a/􈍕/　/a/t/u/􈍕/　/pe/ṭṭ/ā􈍕/　/e/k/a􈍕/　/pā/r/ś/v/a/􈍕/　/
+/p/ṛ/ṣ/ṭ/a/􈍕/　/d/r/a/u/ḥ/􈍕/　/p/ā/r/ś/v/a/􈍕/　/a/t/u/􈍕/　/p/e/ṭ/ṭ/ā􈍕/　/e/k/a/􈍕/　/p/ā/r/ś/v/a/􈍕/　/
 /背/　/面/　/脇/　/膓/　/肚/　/一/　/邊/　/
-/g/ū/t/h/a􈍕/　/m/ṛ/t/r/a/􈍕/　/b/h/a/r/i/t/a/􈍕/　/s/t/h/i/j/a/􈍕/　/ka/ṭi/pā/r/ś/v/a/􈍕/　/
+/g/ū/t/h/a/􈍕/　/m/ṛ/t/r/a/􈍕/　/b/h/a/r/i/t/a/􈍕/　/s/t/h/i/j/a/􈍕/　/k/a/ṭ/i/p/ā/r/ś/v/a/􈍕/　/
 /屎/　/尿/　/充塞/　/臗/　/胯/　/
-/t/i/r/i􈍕/　/bi/s/a/n/a/􈍕/　/c/a/r/m/m/a/􈍕/　/m/a/ṃ/ś/a/􈍕/　/a/s/t/h/i􈍕/　/
+/t/i/r/i/􈍕/　/b/i/s/a/n/a/􈍕/　/c/a/r/m/m/a/􈍕/　/m/a/ṃ/ś/a/􈍕/　/a/s/t/h/i/􈍕/　/
 /㿲/　/偏/　/皮/　/肉/　/骨/　/
-/m/a/j/j/ā􈍕/　/pā/k/a􈍕/　/r/u/d/h/i/r/a/􈍕/　/s/a/m/a/n/t/a/􈍕/　/p/r/a/t/y/a/y/a/􈍕/　/
+/m/a/j/j/ā/􈍕/　/pā/k/a/􈍕/　/r/u/d/h/i/r/a/􈍕/　/s/a/m/a/n/t/a/􈍕/　/p/r/a/t/y/a/y/a/􈍕/　/
 /髓/　/膿/(/又/熟/)/　/瘡/血/　/周/　/緣/　/
-/k/u/r/u/􈍕/　/j/a/g/a/􈍕/　/jā/n/u/􈎺/m/a/ḍ/o/l/a/􈍕/　/g/u/l/p/a/􈍕/　/c/a/k/r/a/􈍕/　/
+/k/u/r/u/􈍕/　/j/a/g/a/􈍕/　/j/ā/n/u/􈎺/m/a/ḍ/o/l/a/􈍕/　/g/u/l/p/a/􈍕/　/c/a/k/r/a/􈍕/　/
 /䏶/腿/　/𨄔/　/膝/　/脛/　/腂/　/腡/　/
-/p/ī/ṣ/a/􈍕/　/ha/st/a􈍕/　/pā/d/a/􈍕/　/ni/s/v/e/t/a/n/a/􈍕/　/p/r/a/s/u/p/t/i/k/a􈍕/　/
+/p/ī/ṣ/a/􈍕/　/h/a/s/t/a/􈍕/　/pā/d/a/􈍕/　/n/i/s/v/e/t/a/n/a/􈍕/　/p/r/a/s/u/p/t/i/k/a/􈍕/　/
 /研/　/手/　/足/　/頑/　/痺/　/
-/s/a/r/v/a/b/hā/l/a/􈍕/　/v/a/h/a/t/i􈍕/　/s/r/e/ṣ/m/a/􈍕/　/lā/l/a/􈍕/　/a/h/o/k/a/ṣ/ṭ/a/􈍕/　/
+/s/a/r/v/a/b/h/ā/l/a/􈍕/　/v/a/h/a/t/i/􈍕/　/s/r/e/ṣ/m/a/􈍕/　/l/ā/l/a/􈍕/　/a/h/o/k/a/ṣ/ṭ/a/􈍕/　/
 /恒/　/流/　/唾/　/涎/　/嗚呼/　/
-/d/u/r/g/a/n/d/h/a􈍕/　/p/u/r/ī/ṣ/a/􈍕/　/ś/a/r/ī/r/a/ṃ􈍕/　/a/p/ū/r/v/a/􈍕/　/
+/d/u/r/g/a/n/d/h/a/􈍕/　/p/u/r/ī/ṣ/a/􈍕/　/ś/a/r/ī/r/a/ṃ/􈍕/　/a/p/ū/r/v/a/􈍕/　/
 /臭/　/穢/　/體/　/奇/哉/　/
-/m/a/n/u/ṣ/a/􈍕/　/s/a/m/a/􈍕/　/p/r/ī/t/i􈍕/　/p/r/a/r/t/h/a/n/a/􈍕/　/jā/n/a/t/i􈍕/　/
+/m/a/n/u/ṣ/a/􈍕/　/s/a/m/a/􈍕/　/p/r/ī/t/i/􈍕/　/p/r/a/r/t/h/a/n/a/􈍕/　/j/ā/n/a/t/i/􈍕/　/
 /人/　/並/　/憐/　/請/　/知/　/
-/j/ā/t/a/􈍕/　/a/s/t/i􈍕/　/a/p/a/r/ā/d/h/a􈍕/　/m/a/􈍕/　/t/a/h/i􈍕/　/
+/j/ā/t/a/􈍕/　/a/s/t/i/􈍕/　/a/p/a/r/ā/d/h/a/􈍕/　/m/a/􈍕/　/t/a/h/i/􈍕/　/
 /生/　/有/　/過/　/莫/　/向/　/
-/m/ṛ/t/a/􈍕/　/rā/jā/􈍕/　/a/g/r/a/t/a/􈍕/􈎾/􈃹/􈎾/　/</ab>
+/m/ṛ/t/a/􈍕/　/r/ā/j/ā􈍕/　/a/g/r/a/t/a/􈍕/􈎾/􈃹/􈎾/　/</ab>
 /死/　/王/　/前/　/
 
-<ab type="prose">/cī/nā/k/ṣ/a/r/a/s/a/h/a/s/r/a/mā/lā/ā/r/y/a/b/hā/ṣā/v/ṛ/t/t/i/s/a/m/ā/p/tā/　/</ab>
+<ab type="prose">/c/ī/n/ā/k/ṣ/a/r/a/s/a/h/a/s/r/a/m/ā/l/ā/ā/r/y/a/b/h/ā/ṣ/ā/v/ṛ/t/t/i/s/a/m/ā/p/tā/　/</ab>
 /唐/　/字/　/千/　/鬘/　/聖/　/語/　/竟/　/
 
 <ab type="prose">/􈎾/􈃹/􈎾/</ab>
 <div type="w" level="2"><head>/〔/識/語/〕/</head>
-<ab type="prose">/kṛ/ti/rā/cā/r/y/a/b/a/h/u/ś/r/ū/t/a/ḥ/t/r/i/p/i/ṭ/a/􈍬/k/a/􈍭/b/h/a/d/a/n/t/a/p/a/作/　/阿闍梨/多/　/聞/　/三藏/　/法師/　/勝/K/ṛ/t/i/r/Ā/c/ā/r/y/a/-/bahu/-/ś/r/u/t/a/-/t/r/i/p/i/ṭ/a/[/ka/]/bhadanta/-/p/a/r/a/m/:/r/a/m/ā/r/t/hā/d/e/v/a/s/y/a/y/a/d/a/t/r/a/p/u/ṇ/y/a/ṃ/t/a/d/b/h/a/v/a/t/u/mā/tā/pi/義天/　/之/　/福/　/生/　/母/　/父/ā/r/t/h/a/d/e/v/a/s/ya/yad/atra/pu/ṇy/aṁ/tad/bhavatu/mā/tā/pi/:/t/rā/cā/r/y/o/p/ā/d/h/y/ā/y/a/p/ū/r/v/a/ṃ/g/a/m/a/s/a/r/v/a/s/a/t/v/ā/n/u/t/t/a/rasa師/　/和上/　/先/　/行/　/一切/　/有情/　/無上/t/rā/cā/r/y/o/pā/dh/yā/ya/-/p/ū/r/v/a/ṁ/g/a/ma/-/s/a/r/v/a/s/a/t/t/v/ā/n/u/t/t/a/r/a/s/a/:/m/y/a/k/s/a/ṃ/b/o/d/h/a/y/e/v/ī/r/y/a/d/e/v/e/n/a/l/i/k/h/i/t/a/ṃ/s/a/t/v/a/h/i/t/e/y/a/正等正覺/　/精進天/　/寫/　/有情/利益/m/y/a/k/s/a/ṁ/b/o/d/h/a/y/e/V/ī/r/y/a/d/e/v/e/n/a/e/i/k/h/i/t/a/ṁ/s/a/t/t/v/a/h/i/t/e/d/a/t/r/a/k/u/ś/a/l/a/ṃ/j/ā/t/a/ṃ/t/a/d/m/e/h/y/ā/d/a/g/r/a/b/o/d/h/a/y/e/􈎾/􈃹/􈎾/y/ad/atra/ku/ś/a/l/a/ṁ/j/ā/t/aṁ/tad/me/sy/ād/agrabodhaye/</ab></div>
+<ab type="prose">/k/ṛ/t/i/r/ā/c/ā/r/y/a/b/a/h/u/ś/r/ū/t/a/ḥ/t/r/i/p/i/ṭ/a/􈍬/k/a/􈍭/b/h/a/d/a/n/t/a/p/a/作/　/阿闍梨/多/　/聞/　/三藏/　/法師/　/勝/K/ṛ/t/i/r/Ā/c/ā/r/y/a/-/bahu/-/ś/r/u/t/a/-/t/r/i/p/i/ṭ/a/[/ka/]/bhadanta/-/p/a/r/a/m/:/r/a/m/ā/r/t/h/ā/d/e/v/a/s/y/a/y/a/d/a/t/r/a/p/u/ṇ/y/a/ṃ/t/a/d/b/h/a/v/a/t/u/m/ā/t/ā/p/i義天/　/之/　/福/　/生/　/母/　/父/ā/r/t/h/a/d/e/v/a/s/ya/yad/atra/pu/ṇy/aṁ/tad/bhavatu/mā/t/ā/p/i/:/t/r/ā/c/ā/r/y/o/p/ā/d/h/y/ā/y/a/p/ū/r/v/a/ṃ/g/a/m/a/s/a/r/v/a/s/a/t/v/ā/n/u/t/t/a/r/a/s/a/師/　/和上/　/先/　/行/　/一切/　/有情/　/無上/t/r/ā/c/ā/r/y/o/p/ā/d/h/y/ā/y/a/-/p/ū/r/v/a/ṁ/g/a/ma/-/s/a/r/v/a/s/a/t/t/v/ā/n/u/t/t/a/r/a/s/a/:/m/y/a/k/s/a/ṃ/b/o/d/h/a/y/e/v/ī/r/y/a/d/e/v/e/n/a/l/i/k/h/i/t/a/ṃ/s/a/t/v/a/h/i/t/e/y/a/正等正覺/　/精進天/　/寫/　/有情/利益/m/y/a/k/s/a/ṁ/b/o/d/h/a/y/e/V/ī/r/y/a/d/e/v/e/n/a/e/i/k/h/i/t/a/ṁ/s/a/t/t/v/a/h/i/t/e/d/a/t/r/a/k/u/ś/a/l/a/ṃ/j/ā/t/a/ṃ/t/a/d/m/e/h/y/ā/d/a/g/r/a/b/o/d/h/a/y/e/􈎾/􈃹/􈎾/y/ad/atra/ku/ś/a/l/a/ṁ/j/ā/t/aṁ/tad/me/sy/ād/agrabodhaye/</ab></div>
 <div type="w" level="2"><head>/〔/梵唐/消息/〕/</head>
 <ab type="prose">/􇖵ā/kā/􈎺/ś/a/d/e/v/a/􈍕/　/p/ṛ/t/h/i/v/ī/􈍕/　/ā/d/i/t/y/a/􈍕/　/c/a/n/d/r/a/􈍕/　/
 /天/　/地/　/日/　/月/　/
-/n/a/k/ṣ/a/t/r/a/􈍕/　/vā/t/a/􈍕/　/v/ṛ/ṣ/ṭ/i􈍕/　/hi/m/a/􈍕/　/a/b/h/r/a/􈍕/　/n/i/r/m/a/l/a/􈍕/　/
+/n/a/k/ṣ/a/t/r/a/􈍕/　/v/ā/t/a/􈍕/　/v/ṛ/ṣ/ṭ/i/􈍕/　/hi/m/a/􈍕/　/a/b/h/r/a/􈍕/　/n/i/r/m/a/l/a/􈍕/　/
 /星/　/風/　/雨/　/雪/　/陰/　/晴/　/
-/ś/ī/t/a/􈍕/　/u/ṣ/ṇ/a/􈍕/　/p/a/r/v/a/t/a/􈍕/　/v/ṛ/k/ṣ/a/􈍕/　/kā/ṣṭ/a􈍕/　/
+/ś/ī/t/a/􈍕/　/u/ṣ/ṇ/a/􈍕/　/p/a/r/v/a/t/a/􈍕/　/v/ṛ/k/ṣ/a/􈍕/　/kā/ṣ/ṭ/a/􈍕/　/
 /寒/　/熱/　/山/　/樹/　/木/　/
-/p/a/t/r/a/􈍕/　/p/u/ṣ/p/a/􈍕/　/pā/ṇ/a/ṣ/ā􈍕/　/pā/s/u/m/ṛ/t/t/i/k/ā􈍕/　/n/a/d/i/􈍕/　/
+/p/a/t/r/a/􈍕/　/p/u/ṣ/p/a/􈍕/　/pā/ṇ/a/ṣ/ā/􈍕/　/pā/s/u/m/ṛ/t/t/i/k/ā􈍕/　/n/a/d/i/􈍕/　/
 /葉/　/花/　/石/　/土/　/河/　/
-/s/a/m/u/d/r/a/􈍕/　/u/d/a/k/a/􈍕/　/si/k/a/t/a/􈍕/　/u/t/m/a/􈍕/　/
+/s/a/m/u/d/r/a/􈍕/　/u/d/a/k/a/􈍕/　/s/i/k/a/t/a/􈍕/　/u/t/m/a/􈍕/　/
 /海/　/水/　/沙/　/上/　/
-/adhatara/(/（/？/）/)/􈍕/　/ma/hā/􈍕/　/a/l/p/a/􈍕/　/bā/l/a/􈎺/kā/n/y/a/s/a/􈍕/　/b/h/a/l/l/a/􈍕/　/
+/adhatara/(/（/？/）/)/􈍕/　/m/a/h/ā􈍕/　/a/l/p/a/􈍕/　/b/ā/l/a/􈎺/k/ā/n/y/a/s/a/􈍕/　/b/h/a/l/l/a/􈍕/　/
 /下/　/大/　/小/　/　/好/　/
 /b/i/r/ū/m/a/􈍕/　/s/m/a/ṣ/ṭ/a/􈍕/　/s/a/m/y/a/k/ī/d/ṛ/c/c/ha/(/（/？/）/)/􈍕/　/p/a/r/ś/v/a/􈍕/　/
 /惡/　/平/　/正/　/側/　/偏/　/
-/a/g/h/r/ī/sā/di/k/a􈍕/　/r/ū/p/a/v/ā/ṃ/􈍕/s/o/b/h/a/ṇ/a/􈍕/　/ś/a/r/a/ṇ/a/􈍕/　/
+/a/g/h/r/ī/s/ā/d/i/k/a/􈍕/　/r/ū/p/a/v/ā/ṃ/􈍕/s/o/b/h/a/ṇ/a/􈍕/　/ś/a/r/a/ṇ/a/􈍕/　/
 /醜/　/端正/　/屋/　/
-/g/ṛ/h/a􈍕/　/d/v/ā/r/a/􈍕/　/ga/vā/kṣ/a􈍕/　/katpara/(/（/？/）/)/􈍕/　/
+/g/ṛ/h/a/􈍕/　/d/v/ā/r/a/􈍕/　/g/a/v/ā/k/ṣ/a/􈍕/　/katpara/(/（/？/）/)/􈍕/　/
 /宅/　/門/　/牕/　/瓦/　/
-/g/hā/s/a/􈍕/　/p/a/k/k/a/i/ṭ/a/􈍕/　/kā/ṇḍ/a􈍕/　/s/t/a/m/b/h/a􈍕/　/k/u/p/a/k/a/ṣ/a/􈍕/　/
+/g/h/ā/s/a/􈍕/　/p/a/k/k/a/i/ṭ/a/􈍕/　/kā/ṇ/ḍ/a/􈍕/　/s/t/a/m/b/h/a/􈍕/　/k/u/p/a/k/a/ṣ/a/􈍕/　/
 /草/　/磚/　/椽/　/柱/　/井/　/
-/k/a/n/d/a/b/h/a/ṅ/v/ī/􈍕/　/t/a/ṣ/ṭ/a/􈍕/　/ka/lā/c/ī/􇟄/　/k/a/ṅ/v/ī/􈍕/　/y/a/ṅ/g/a/􈍕/　/
+/k/a/n/d/a/b/h/a/ṅ/v/ī/􈍕/　/t/a/ṣ/ṭ/a/􈍕/　/k/a/l/ā/c/ī/􇟄/　/k/a/ṅ/v/ī/􈍕/　/y/a/ṅ/g/a/􈍕/　/
 /竈/　/厨/　/椀/　/匙/　/箸/　/竹/　/
-/n/a/r/a/􈍕/　/k/a/l/a/ś/a/􈍕/　/k/u/m/b/h/a􈍕/　/k/u/ṇ/ḍ/a/l/a/􈍕/　/ś/a/k/a/ṭ/a/r/a/ḥ/t/h/a􈍕/　/
+/n/a/r/a/􈍕/　/k/a/l/a/ś/a/􈍕/　/k/u/m/b/h/a/􈍕/　/k/u/ṇ/ḍ/a/l/a/􈍕/　/ś/a/k/a/ṭ/a/r/a/ḥ/t/h/a/􈍕/　/
 /葦/　/瓶/　/瓮/　/盆/　/車/　/
-/p/a/ś/u/􈍕/　/a/ś/v/a/􈍕/　/ha/y/a/􈍕/　/k/h/a/r/a/􈍕/　/u/ṣ/ṭ/r/a/k/a/k/a/r/a/b/h/a􈍕/　/
+/p/a/ś/u/􈍕/　/a/ś/v/a/􈍕/　/h/a/y/a/􈍕/　/k/h/a/r/a/􈍕/　/u/ṣ/ṭ/r/a/k/a/k/a/r/a/b/h/a/􈍕/　/
 /牛/　/羊/　/馬/　/驢/　/馳/　/
-/ś/c/ā/n/a􈍕/　/pā/j/ī/􈍕/　/s/a/i/ṇ/a/􈍕/　/m/a/k/ṣ/i/ṇ/a/􈍕/　/m/ṛ/g/a/􈍕/　/
+/ś/c/ā/n/a/􈍕/　/p/ā/j/ī/􈍕/　/s/a/i/ṇ/a/􈍕/　/m/a/k/ṣ/i/ṇ/a/􈍕/　/m/ṛ/g/a/􈍕/　/
 /狗/　/鷹/　/鷄/　/鳥/　/獸/　/
-/b/h/ū/t/a/􈍕/　/y/a/k/ṣ/a/􈍕/　/g/a/j/a/􈍕/　/pā/dā/t/a/􈍕/　/u/t/k/ṣ/i/p/a/n/e/h/i􈍕/　/
+/b/h/ū/t/a/􈍕/　/y/a/k/ṣ/a/􈍕/　/g/a/j/a/􈍕/　/pā/dā/t/a/􈍕/　/u/t/k/ṣ/i/p/a/n/e/h/i/􈍕/　/
 /鬼/　/神/　/寫/　/與/　/擎/　/運/　/
-/tā/na/ya/(/（/？/）/)/􈍕/　/mā/r/a/y/a/􈍕/　/j/ī/v/a/ṃ/t/a/􈍕/　/k/ṣ/i/g/h/r/a/􈍕/　/
+/t/ā/n/a/ya/(/（/？/）/)/􈍕/　/m/ā/r/a/y/a/􈍕/　/j/ī/v/a/ṃ/t/a/􈍕/　/k/ṣ/i/g/h/r/a/􈍕/　/
 /打/　/殺/　/活/　/急/　/
-/ś/a/n/a/i/ś/i/t/h/i/l/a/􈍕/　/ṭī/p/a􈍕/　/ka/lā/p/a􈍕/　/v/a/n/d/h/a􈍕/　/ś/i/r/a/􈍕/　/
+/ś/a/n/a/i/ś/i/t/h/i/l/a/􈍕/　/ṭ/ī/p/a/􈍕/　/k/a/l/ā/p/a/􈍕/　/v/a/n/d/h/a/􈍕/　/ś/i/r/a/􈍕/　/
 /緩/　/緊/　/束/　/溥/　/頭/　/
-/b/ā/r/a/k/e/ś/a/􈍕/　/b/h/r/ū/􈍕/　/c/a/k/ṣ/u/􈍕/　/nā/s/a/􈍕/　/ka/rṇ/u􈍕/　/
+/b/ā/r/a/k/e/ś/a/􈍕/　/b/h/r/ū/􈍕/　/c/a/k/ṣ/u/􈍕/　/nā/s/a/􈍕/　/k/a/r/ṇ/u/􈍕/　/
 /髮/　/眉/　/眼/　/鼻/　/耳/　/
-/sā/sy/u􈍕/　/g/a/ṃ/ḍ/a/􈍕/　/o/ṣ/ṭ/a/􈍕/　/ji/hv/a􈍕/　/d/a/ṃ/ṣ/ṭ/r/a/􈍕/　/d/a/n/t/a/􈍕/　/
+/s/ā/s/y/u/􈍕/　/g/a/ṃ/ḍ/a/􈍕/　/o/ṣ/ṭ/a/􈍕/　/j/i/h/v/a/􈍕/　/d/a/ṃ/ṣ/ṭ/r/a/􈍕/　/d/a/n/t/a/􈍕/　/
 /口/　/頰/　/脣/　/舌/　/耳/　/齒/　/
-/m/u/k/h/a􈍕/　/g/r/ī/v/a/􈍕/　/v/a/k/ṣ/u/􈍕/　/ha/st/a􈍕/　/p/a/d/a/􈍕/　/p/ṛ/ṣ/ṭ/i􈍕/　/
+/m/u/k/h/a/􈍕/　/g/r/ī/v/a/􈍕/　/v/a/k/ṣ/u/􈍕/　/h/a/s/t/a/􈍕/　/p/a/d/a/􈍕/　/p/ṛ/ṣ/ṭ/i/􈍕/　/
 /面/　/項/　/胸/　/手/　/脚/　/脊/　/
-/k/u/k/ṣ/i􈍕/　/hṛ/d/a/y/a/􈍕/　/m/a/n/a/􈍕/　/dā/s/a/􈍕/　/d/a/s/i/􈎺/　/
-肚/　/心/　/意/　/奴/　/婢/　/
-/k/a/t/vā/vā/r/a/􈍕/　/s/u/v/a/r/ṇ/u/􈍕/　/r/u/m/y/a/􈍕/　/p/a/ṇ/a/􈍕/　/p/a/ṭ/ṭ/a/􈍕/　/u/ṣ/p/r/ī/􈍕/　/
+/k/u/k/ṣ/i/􈍕/　/h/ṛ/d/a/y/a/􈍕/　/m/a/n/a/􈍕/　/d/ā/s/a/􈍕/　/d/a/s/i/􈎺/　/
+/肚/　/心/　/意/　/奴/　/婢/　/
+/k/a/t/v/ā/v/ā/r/a/􈍕/　/s/u/v/a/r/ṇ/u/􈍕/　/r/u/m/y/a/􈍕/　/p/a/ṇ/a/􈍕/　/p/a/ṭ/ṭ/a/􈍕/　/u/ṣ/p/r/ī/􈍕/　/
 /兵/　/金/　/銀/　/錢/　/絹/　/布/　/
-/c/i/t/t/r/a/􈍕/　/mu/sā/r/a/􈍕/　/r/a/t/n/a􈍕/　/s/v/a/s/t/h/a􈍕/　/p/ṛ/c/c/h/a􈍕/　/pi/t/r/a/􈍕/　/
+/c/i/t/t/r/a/􈍕/　/m/u/s/ā/r/a/􈍕/　/r/a/t/n/a/􈍕/　/s/v/a/s/t/h/a/􈍕/　/p/ṛ/c/c/h/a/􈍕/　/p/i/t/r/a/􈍕/　/
 /錦/　/玉/　/寶/　/安隱/　/問訊/　/父/　/
-/m/ā/t/ā􈍕/　/j/e/ṣ/ṭ/a/b/h/r/ā/t/ā􈍕/　/k/a/n/y/a/s/a/b/h/r/ā/t/ā􈍕/　/j/e/ṣ/ṭ/a/b/h/a/g/i/n/i􈍕/　/
+/m/ā/t/ā􈍕/　/j/e/ṣ/ṭ/a/b/h/r/ā/t/ā􈍕/　/k/a/n/y/a/s/a/b/h/r/ā/t/ā􈍕/　/j/e/ṣ/ṭ/a/b/h/a/g/i/n/i/􈍕/　/
 /母/　/兄/　/弟/　/姊/　/
-/k/a/n/y/a/s/a/b/h/a/g/i/n/i􈍕/　/m/a/d/h/u/r/a/􈍕/　/ti/kt/a􈍕/　/
+/k/a/n/y/a/s/a/b/h/a/g/i/n/i/􈍕/　/m/a/d/h/u/r/a/􈍕/　/t/i/k/t/a/􈍕/　/
 /妹/　/甜/　/苦/　/
 /ā/ṃ/v/ṛ/􈍕/　/t/a/ṅ/g/a/􈍕/　/t/r/a/p/u/s/a/􈍕/　/g/u/y/ā/r/a/􈍕/　/v/a/r/a/h/a/􈍕/　/
 /酢/　/梨/　/黃苽/　/苽/　/猪/　/
-/ś/a/y/a/􈍕/　/m/a/ṣ/i/􈍕/　/ka/lā/m/a/􈍕/　/li/kh/a􈍕/　/g/a/ṇ/a/n/a/􈍕/　/e/k/a􈍕/　/
+/ś/a/y/a/􈍕/　/m/a/ṣ/i/􈍕/　/k/a/l/ā/m/a/􈍕/　/l/i/k/h/a/􈍕/　/g/a/ṇ/a/n/a/􈍕/　/e/k/a/􈍕/　/
 /紙/　/墨/　/筆/　/書/　/算/　/一/　/
 /d/d/h/a/y/a/􈍕/　/t/r/a/y/a/􈍕/　/c/a/t/u/􈍕/　/p/a/ṃ/c/a/􈍕/　/ṣ/a/ṭ/ī/􈍕/　/s/a/p/t/a/􈍕/　/
 /二/　/三/　/四/　/五/　/六/　/七/　/
-/a/ṣ/ṭ/a/􈍕/　/n/a/v/a/􈍕/　/d/a/ś/a/􈍕/　/bi/ś/a/􈍕/　/t/r/i/ṃ/ś/a/􈍕/　/
-八/　/九/　/十/　/廿/　/卅/　/
-/c/ā/t/v/ā/r/i/ṃ/ś/a/􈍕/　/p/a/ṃ/c/ā/ś/a/􈍕/　/ṣ/a/ṣ/ṭ/ī/􈍕/　/s/a/p/r/i􈍕/　/jā/ś/ī/t/ī/􈍕/　/
+/a/ṣ/ṭ/a/􈍕/　/n/a/v/a/􈍕/　/d/a/ś/a/􈍕/　/b/i/ś/a/􈍕/　/t/r/i/ṃ/ś/a/􈍕/　/
+/八/　/九/　/十/　/廿/　/卅/　/
+/c/ā/t/v/ā/r/i/ṃ/ś/a/􈍕/　/p/a/ṃ/c/ā/ś/a/􈍕/　/ṣ/a/ṣ/ṭ/ī/􈍕/　/s/a/p/r/i/􈍕/　/j/ā/ś/ī/t/ī/􈍕/　/
 /四十/　/五十/　/六十/　/七十/　/八十/　/
-/n/a/d/h/a/t/i􈍕/　/ś/a/t/a/􈍕/　/sa/ha/sr/a􈍕/　/n/a/y/u/t/a/􈍕/　/l/a/k/ṣ/a/􈍕/　/
+/n/a/d/h/a/t/i/􈍕/　/ś/a/t/a/􈍕/　/s/a/h/a/s/r/a/􈍕/　/n/a/y/u/t/a/􈍕/　/l/a/k/ṣ/a/􈍕/　/
 /九十/　/百/　/千/　/萬/　/億/　/
-/k/o/ṭ/i􈍕/　/d/h/a/ni/vā/ṃ􈍕/　/k/u/l/ī/n/a􈍕/　/n/ī/c/a/􈍕/　/d/a/r/i/d/r/a/􈍕/　/
+/k/o/ṭ/i􈍕/　/d/h/a/n/i/v/ā/ṃ/􈍕/　/k/u/l/ī/n/a/􈍕/　/n/ī/c/a/􈍕/　/d/a/r/i/d/r/a/􈍕/　/
 /兆/(/十億/為/兆/)/　/富/　/貴/　/賤/　/貧/　/
-/v/a/h/u/􈍕/　/s/t/o/k/a􈍕/　/d/ī/r/g/h/a􈍕/　/h/r/a/s/v/a/􈍕/　/s/ū/ḍ/a/􈍕/　/p/u/t/r/a/􈍕/　/
+/v/a/h/u/􈍕/　/s/t/o/k/a/􈍕/　/d/ī/r/g/h/a/􈍕/　/h/r/a/s/v/a/􈍕/　/s/ū/ḍ/a/􈍕/　/p/u/t/r/a/􈍕/　/
 /多/　/少/　/長/　/短/　/兒/　/子/　/
-/d/u/h/i􈍕/　/b/h/a/r/y/ā􈍕/　/pā/tn/i􈍕/　/rā/j/a/􈍕/　/p/a/r/a/ṇ/a/y/a/k/a/􈍕/　/
+/d/u/h/i/􈍕/　/b/h/a/r/y/ā/􈍕/　/pā/tn/i􈍕/　/r/ā/j/a/􈍕/　/p/a/r/a/ṇ/a/y/a/k/a/􈍕/　/
 /女/　/妻/　/妾/　/王/　/臣/　/
-/ṭ/a/k/k/u/r/a/􈍕/　/p/ṛ/ṅ/g/u/􈍕/　/a/ṭ/a/k/a/ṇ/i􈍕/　/i/d/h/a/n/a/􈍕/　/āṃ/gā/r/a/􈍕/　/
+/ṭ/a/k/k/u/r/a/􈍕/　/p/ṛ/ṅ/g/u/􈍕/　/a/ṭ/a/k/a/ṇ/i/􈍕/　/i/d/h/a/n/a/􈍕/　/ā/ṃ/g/ā/r/a/􈍕/　/
 /宮/　/米/　/麵/　/柴/　/炭/　/
-/b/h/a/s/m/a/􈍕/　/a/g/n/i􈍕/　/t/a/i/l/a/􈍕/　/g/h/ṛ/t/a/􈍕/　/mā/k/ṣ/ī/k/a􈍕/　/
+/b/h/a/s/m/a/􈍕/　/a/g/n/i/􈍕/　/t/a/i/l/a/􈍕/　/g/h/ṛ/t/a/􈍕/　/m/ā/k/ṣ/ī/k/a/􈍕/　/
 /灰/　/火/　/油/　/蘇/　/蜜/　/
-/ś/u/ṇ/ṭ/h/a􈍕/　/nā/r/a/ṃ/g/a/􈍕/　/g/ī/t/a/􈍕/　/n/ṛ/t/y/a/􈍕/　/b/h/e/r/i􈍕/　/v/a/ṃ/ś/a/􈍕/　/
+/ś/u/ṇ/ṭ/h/a/􈍕/　/nā/r/a/ṃ/g/a/􈍕/　/g/ī/t/a/􈍕/　/n/ṛ/t/y/a/􈍕/　/b/h/e/r/i/􈍕/　/v/a/ṃ/ś/a/􈍕/　/
 /薑/　/橘/　/歌/　/舞/　/鼓/　/笛/　/
-/b/ī/n/a􈍕/　/s/u/g/hā/ṣ/a/k/a/􈍕/　/pā/ṇ/ḍ/i/n/y/a/􈍕/　/āy/ās/a􈍕/　/d/u/ḥ/k/h/a􈍕/　/
+/b/ī/n/a/􈍕/　/s/u/g/h/ā/ṣ/a/k/a/􈍕/　/p/ā/ṇ/ḍ/i/n/y/a/􈍕/　/ā/y/ā/s/a/􈍕/　/d/u/ḥ/k/h/a/􈍕/　/
 /箜篌/　/笙/　/學問/　/辛/　/苦/　/
-/d/ū/r/a/􈍕/　/s/a/m/ī/p/a􈍕/　/d/a/i/r/m/a/ṇ/a/s/y/a/􈍕/　/k/a/r/u/ṇ/a/􈍕/　/
+/d/ū/r/a/􈍕/　/s/a/m/ī/p/a/􈍕/　/d/a/i/r/m/a/ṇ/a/s/y/a/􈍕/　/k/a/r/u/ṇ/a/􈍕/　/
 /遠/　/近/　/憂/　/悲/　/
-/r/u/d/a/n/a/􈍕/　/ha/s/a/􈍕/　/v/a/c/a/n/a/􈍕/　/a/b/h/i/g/a/m/a/n/a/􈍕/　/
-/哭/　/㗛/　/語/　/迎/　/
-/a/ḍ/a/v/r/a/j/a/n/a/􈍕/　/b/a/n/d/a/n/e/􈍕/　/namas/kā/r/a/􈍕/　/ā/k/r/o/ś/a/􈍕/　/
+/r/u/d/a/n/a/􈍕/　/h/a/s/a/􈍕/　/v/a/c/a/n/a/􈍕/　/a/b/h/i/g/a/m/a/n/a/􈍕/　/
+哭/　/㗛/　/語/　/迎/　/
+/a/ḍ/a/v/r/a/j/a/n/a/􈍕/　/b/a/n/d/a/n/e/􈍕/　/n/a/m/a/s/k/ā/r/a/􈍕/　/ā/k/r/o/ś/a/􈍕/　/
 /送/　/拜/　/跪/　/罵/　/
-/p/a/r/i/b/hā/ṣ/a/ṇ/a/􈍕/　/d/d/h/e/ṣ/a/􈍕/　/r/o/ṣ/a/􈍕/　/a/h/a/ṃ􈍕/　/d/d/h/a/n/t/u/􈍕/　/
+/p/a/r/i/b/h/ā/ṣ/a/ṇ/a/􈍕/　/d/d/h/e/ṣ/a/􈍕/　/r/o/ṣ/a/􈍕/　/a/h/a/ṃ/􈍕/　/d/d/h/a/n/t/u/􈍕/　/
 辱/　/嗔/　/喜/　/我/　/儞/　/
-/s/v/a/c/c/h/a􈍕/　/k/a/l/n/a/r/ṣ/a/􈍕/　/g/a/ṃ/b/h/ī/r/a/􈍕/　/l/a/v/d/h/a􈍕/　/p/r/ā/p/t/a/􈍕/　/
+/s/v/a/c/c/h/a/􈍕/　/k/a/l/n/a/r/ṣ/a/􈍕/　/g/a/ṃ/b/h/ī/r/a/􈍕/　/l/a/v/d/h/a/􈍕/　/p/r/ā/p/t/a/􈍕/　/
 /清/　/濁/　/深/　/淺/　/滿/　/
-/b/i/n/a/g/a/􈍕/　/mā/t/s/a/r/y/a/􈍕/　/l/o/b/h/a􈍕/　/v/yā/pā/t/a/􈍕/　/a/b/h/i/d/y/a/􈍕/　/
+/b/i/n/a/g/a/􈍕/　/m/ā/t/s/a/r/y/a/􈍕/　/l/o/b/h/a/􈍕/　/v/y/ā/p/ā/t/a/􈍕/　/a/b/h/i/d/y/a/􈍕/　/
 /失/　/慳/　/貪/　/嫉/　/姤/　/
-/b/h/i/k/ṣ/a/􈍕/　/yā/c/a/􈍕/　/p/r/e/k/ṣ/a/􈍕/　/g/a/v/e/ṣ/e/􈍕/　/b/h/a/y/a/􈍕/　/c/c/h/a/b/h/i/t/a/􈍕/　/
+/b/h/i/k/ṣ/a/􈍕/　/y/ā/c/a/􈍕/　/p/r/e/k/ṣ/a/􈍕/　/g/a/v/e/ṣ/e/􈍕/　/b/h/a/y/a/􈍕/　/c/c/h/a/b/h/i/t/a/􈍕/　/
 /乞/　/索/　/求/　/覓/　/恐/　/怖/　/
 /m/ā/r/g/a/􈍕/　/k/u/ś/a/l/a/􈍕/　/s/v/a/r/a/􈍕/　/ś/a/l/a/􈍕/　/ś/a/v/d/a/􈍕/　/
 /道/　/善/　/音/　/聲/　/聲/　/
-/j/ñā/ta/ṃ􈍕/　/n/a/j/a/n/i/t/a/􈍕/　/d/ṛ/ṣ/ṭ/a/􈍕/　/n/a/p/a/ś/y/a/m/i/􇟄/　/pa/ri/jā/hi/􈍕/　/
+/j/ñ/ā/t/a/ṃ/􈍕/　/n/a/j/a/n/i/t/a/􈍕/　/d/ṛ/ṣ/ṭ/a/􈍕/　/n/a/p/a/ś/y/a/m/i/􇟄/　/p/a/r/i/j/ā/h/i/􈍕/　/
 /知/　/不/知/　/見/　/不/見/　/識/　/
-/n/a/b/i/j/ñ/ā/t/a/􈍕/　/ś/r/ū/t/a/􈍕/　/n/a/ś/r/ū/t/a/􈍕/　/bi/v/o/d/h/a􈍕/　/
+/n/a/b/i/j/ñ/ā/t/a/􈍕/　/ś/r/ū/t/a/􈍕/　/n/a/ś/r/ū/t/a/􈍕/　/b/i/v/o/d/h/a/􈍕/　/
 /不/識/　/聞/　/不/聞/　/覺/　/
 /n/a/b/i/b/u/d/d/h/e/􈍕/　/m/a/d/y/a/􈍕/　/m/a/ṃ/ś/a/􈍕/　/m/a/ṇ/ḍ/a/􈍕/　/ś/y/a/k/a/􈍕/　/
 /不/覺/　/酒/　/肉/　/餅/　/菜/　/
-/i/ṣ/ṭ/a/􈍕/　/a/p/r/i/y/a/􈍕/　/ti/nd/a􈍕/　/p/u/t/r/a/􈍕/　/p/a/u/t/r/a/􈍕/　/a/h/ū/y/a/􈍕/　/
+/i/ṣ/ṭ/a/􈍕/　/a/p/r/i/y/a/􈍕/　/t/i/n/d/a/􈍕/　/p/u/t/r/a/􈍕/　/p/a/u/t/r/a/􈍕/　/a/h/ū/y/a/􈍕/　/
 /愛/　/憎/　/嫌/　/子/　/孫/　/喚/　/
-/p/r/a/h/u/ṇ/a/􈍕/　/sv/ām/i􈍕/　/m/a/r/y/ā/d/a/􈍕/　/a/r/t/h/a􈍕/　/ś/r/a/d/d/h/ā􈍕/　/
-客/　/主/　/禮/　/義/　/信/　/
-/ś/ā/t/t/a/􈍕/　/ni/p/a/n/t/r/a/􈍕/　/p/r/a/k/a/ś/a/􈍕/　/a/n/d/h/a/kā/r/a/􈍕/　/ka/ṭi/􈍕/　/
+/p/r/a/h/u/ṇ/a/􈍕/　/s/v/ā/m/i/􈍕/　/m/a/r/y/ā/d/a/􈍕/　/a/r/t/h/a/􈍕/　/ś/r/a/d/d/h/ā􈍕/　/
+/客/　/主/　/禮/　/義/　/信/　/
+/ś/ā/t/t/a/􈍕/　/n/i/p/a/n/t/r/a/􈍕/　/p/r/a/k/a/ś/a/􈍕/　/a/n/d/h/a/k/ā/r/a/􈍕/　/k/a/ṭ/i/􈍕/　/
 /困/　/請/　/明/　/暗/　/腰/　/
-/j/ā/n/u􈍕/　/c/a/ṃ/k/r/a/m/a/􈍕/　/ti/ṣṭ/a􈍕/　/ś/a/i/t/a/􈍕/　/k/h/a/ṭ/ṭ/a/􈍕/　/
+/j/ā/n/u/􈍕/　/c/a/ṃ/k/r/a/m/a/􈍕/　/t/i/ṣ/ṭ/a/􈍕/　/ś/a/i/t/a/􈍕/　/k/h/a/ṭ/ṭ/a/􈍕/　/
 /膝/　/行/　/住/　/臥/　/床/　/
-/t/a/r/a/s/ī/􈍕/　/n/a/v/a/d/a/􈍕/　/bi/tā/n/a􈍕/　/k/h/a/n/a/ṣ/a/􈍕/　/p/ū/l/a/􈍕/　/
+/t/a/r/a/s/ī/􈍕/　/n/a/v/a/d/a/􈍕/　/b/i/t/ā/n/a/􈍕/　/k/h/a/n/a/ṣ/a/􈍕/　/p/ū/l/a/􈍕/　/
 /席/　/氈/　/毾/　/靴/　/鞋/　/
-/m/a/t/s/y/a/m/ī/n/a􈍕/　/p/a/k/ṣ/a/􈍕/　/b/h/u/k/ṣ/a/􈍕/　/b/h/ṛ/p/t/a/􈍕/　/m/a/t/t/a/k/ṣ/ī/v/a/􈍕/　/
+/m/a/t/s/y/a/m/ī/n/a/􈍕/　/p/a/k/ṣ/a/􈍕/　/b/h/u/k/ṣ/a/􈍕/　/b/h/ṛ/p/t/a/􈍕/　/m/a/t/t/a/k/ṣ/ī/v/a/􈍕/　/
 /魚/　/熟/　/飢/　/飽/　/醉/　/
-/n/a/ṣ/ī/d/a/􈍕/　/u/t/t/i/ṣ/ṭ/a/􈍕/　/d/hā/v/a/􈍕/　/m/e/g/h/a􈍕/　/ś/v/e/t/a/􈍕/　/
+/n/a/ṣ/ī/d/a/􈍕/　/u/t/t/i/ṣ/ṭ/a/􈍕/　/d/h/ā/v/a/􈍕/　/m/e/g/h/a/􈍕/　/ś/v/e/t/a/􈍕/　/
 /坐/　/起/　/走/　/雲/　/白/　/
-/k/ṛ/ṣ/ṇ/a/􈍕/　/n/ī/l/a/􈍕/　/lo/hi/t/a/􈍕/　/j/a/ṃ/b/u/r/ā􈍕/　/p/a/l/ā/ś/a/􈍕/　/
+/k/ṛ/ṣ/ṇ/a/􈍕/　/n/ī/l/a/􈍕/　/l/o/h/i/t/a/􈍕/　/j/a/ṃ/b/u/r/ā/􈍕/　/p/a/l/ā/ś/a/􈍕/　/
 /黑/　/青/　/赤/　/紫/　/綠/　/
-/ū/r/d/h/v/a/􈍕/　/a/d/h/a􈍕/　/s/ū/l/l/ī/􈍕/　/c/ī/n/a􈍕/　/r/a/ś/m/i/􈍕/　/k/u/t/t/y/a/􈍕/　/
+/ū/r/d/h/v/a/􈍕/　/a/d/h/a/􈍕/　/s/ū/l/l/ī/􈍕/　/c/ī/n/a/􈍕/　/r/a/ś/m/i/􈍕/　/k/u/t/t/y/a/􈍕/　/
 /上/　/下/　/胡/　/漢/　/光/　/牆/　/
-/p/a/r/y/a/ṇ/a/􈍕/　/pā/p/a􈍕/　/a/p/a/r/ā/d/h/a􈍕/　/p/u/ṇ/y/a/􈍕/　/g/u/ṇ/a/􈍕/　/
+/p/a/r/y/a/ṇ/a/􈍕/　/pā/p/a/􈍕/　/a/p/a/r/ā/d/h/a/􈍕/　/p/u/ṇ/y/a/􈍕/　/g/u/ṇ/a/􈍕/　/
 /院/　/罪/　/過/　/福/　/德/　/
-/u/t/t/a/m/a/􈍕/j/a/y/a/􈍕/　/hī/n/a􈍕/　/d/ṛ/ḍ/h/a􈍕/　/sā/r/a/􈍕/　/s/ū/t/r/a/􈍕/　/
+/u/t/t/a/m/a/􈍕/j/a/y/a/􈍕/　/h/ī/n/a/􈍕/　/d/ṛ/ḍ/h/a/􈍕/　/sā/r/a/􈍕/　/s/ū/t/r/a/􈍕/　/
 /勝/　/劣/　/堅/　/固/　/經/　/
-/b/i/n/a/y/a/􈍕/　/p/ṛ/t/h/a/n/j/a/n/a/􈍕/　/ā/r/y/a/􈍕/　/e/v/a/ṃ􈍕/　/n/a/i/v/a/􈍕/　/
+/b/i/n/a/y/a/􈍕/　/p/ṛ/t/h/a/n/j/a/n/a/􈍕/　/ā/r/y/a/􈍕/　/e/v/a/ṃ/􈍕/　/n/a/i/v/a/􈍕/　/
 /律/　/凡/　/聖/　/是/　/非/　/
-/p/r/a/ṇ/i/d/h/i􈍕/　/ā/g/a/c/c/h/a􈍕/　/g/a/c/c/h/a􈍕/　/v/a/r/t/t/ā/s/u/k/h/a􈍕/　/
+/p/r/a/ṇ/i/d/h/i/􈍕/　/ā/g/a/c/c/h/a/􈍕/　/g/a/c/c/h/a/􈍕/　/v/a/r/t/t/ā/s/u/k/h/a/􈍕/　/
 /願/　/來/　/去/　/消息/　/
 /s/u/t/o/ś/a/􈍕/　/v/a/i/r/a/􈍕/　/p/ū/r/ṇ/u/􈍕/􈎾/􈃹/􈎾/　/</ab></div>
 /歡樂/　/恨/　/滿/　/
 
-<div type="xu" level="2"><head>/梵/語/千/字/文/後/序/</head>
-<ab type="prose">/為/欲/向/西天/者/所/申/梵漢/語/樣/有/三/。/一/曰/義淨/撰/梵語千/字/文/。/或/名/梵唐千/字/文/。/又/稱/唐/字/千鬘/聖語/。/二/曰/梵唐/消息/。/古/寫/本/及/寂明/刊/本/不/見/此/名/。/至/敬/光/刊/本/初/見/之/。/三/曰/全真/撰/唐/梵/文字/。/又/名/唐梵兩國/言/音/文字/。/而/至/三/書/之/內/容/所/同/似/甚/多/矣/。/義淨/之/主/文/八百/語/全/與/全真/之/主/文/相/同/(/第一/二/兩/本/注/曰/已/上/重/字/二百/言/也/是/或/四/言/二百/句/之/意/歟/)/至/其/後/文/。/初/因/業報/乃至/明明/可/信/凡/二十二/句/。/兩/文/略/相似/。/其餘/皆/別/文/也/。/其/梵唐/消息/者/。/唯/集/類/語/三百/而/成/。/除/胡漢/箜篌/等/數/語/。/餘/悉/含/於/千/字/文/矣/。/而/其/意/義/多/不/連續/。/宜/名/梵漢/單/語/篇/也/。/義淨/千/字/文/者/。/四/字/成/句/。/每/至/第二十一/句/。/必/挾/五/言/四句/。/而後/改韻/。/三/井/敬/光/曾/作/譯注/。/斥/寂明/所/言/文字/出沒/布置/錯亂/之/語/。/詳/敘/本/文/押/韻/十/變/之/文意/。/而/尚/疑/義淨/撰/名/。/却/謂/依/全/真/唐/梵/文字/而/製/之/。/託/名/義淨/者/也/。/是/實/不/思/之/甚/也/。/按/斯/千/字/文/之/為/義淨/撰/也/。/無/所/可/疑/。/千/字/文/後/序/曰/。/阿闍梨/多聞/三藏/勝義天/[/P/a/r/a/m/ā/r/t/ha/-/deva/]/之/所/作/而/精進/天/之/所/寫/也/。/玄奘/之/梵/名為/解脫天/[/Moksa/-/deva/]/或/為/大乘天/[/Ma/hā/yā/na/-/deva/]/勝義天/者/蓋/義淨/之/梵/名/也/。/千/字/文/之/內/容/亦/證/之/者/多/多/。/如/山/庭/蔽/軒蓋/。/淨/野/標/華/柱/(/第一/韻/)/之/句/。/非/見/阿育王/所/建/標/柱/者/則/不能/言/。/如/文/參/疊席/。/聰/過/閱肆/(/第三/韻/)/之/句/。/論壇/制/勝/者/之/疊/墮/負/者/之/席/。/事/見/南海/傳/。/玉/砌/石/渠/(/第三/韻/)/之/盛/。/亦/係/其/所/記/。/踞/坐/小/床/。/返/繫/衣/角/之/禮/。/齒/木/梳濯/。/牛糞/塗拭/(/第五/韻/)/之/俗/。/亦/其/所/傳/也/。/給園/(/給孤獨/園/)/仙樹/(/仙人/住處/)/鹿苑/王城/。/薜/舍利/國/。/劫比羅營/(/第七/韻/)/。/則/佛/蹟/之/所/在/。/謂/迴/顧戀/別/報/望/恩/生/(/第七/韻/)/者/。/非/義淨/三藏/而/誰/。/禪河/水濬/(/尼蓮禪師/)/戒/巘/巖/清/(/毘柯羅摩尸羅寺/)/嚴儀/像/殿/。/寫/勘/尊/經/(/第七/韻/)/者/。/非/西天/取/經/之/人/而/何/能/及/之/。/讚咏/歌管/。/梵音/彈舌/(/第八/韻/)/亦/南海/傳/之/所/示/也/。/依/之/觀/之/則/斯/書/之/為/義淨/撰/豈/可/疑/乎/。/全/真/之/梵唐/文字/者/。/依/義淨/千/字/文/而/製/之/。/於/其後/文列/密/教/傳法/之/語/句/。/瑜伽/教/輩/之/語/樣/宜/如此/也/。/故/思/義淨/千/字/文/先/存/。/全/真/梵唐/文字/次/成/。/其/梵唐/消息/者/。/或/義淨/撰/前/之/單/語/篇/歟/。/記/以/竢/後/考/。/</ab>
-<ab type="prose">/第一/　/梵/語/千/字/文/(/傳/慈覺大師/請/來/)/東洋/文庫/所/藏/</ab>
-<ab type="prose">/梵本/橫/書/唯/有/漢譯/而/無/音/譯/。/蓋/元石山寺/藏/。/</ab>
-<ab type="prose">/第二/　/梵/語/千/字/文/　/享保/十二/年/　/瑜伽/乘/沙門/寂明/刊/</ab>
-<ab type="prose">/第三/　/梵/語/千/字/文/(/附譯/注/)/安/永/二年/　/沙彌/敬/光/刊/</ab>
+<div type="xu" level="2"><head>/梵語千/字/文後/序/</head>
+<ab type="prose">/為/欲/向/西天/者/所/申/梵漢/語/樣/有/三/。/一/曰/義淨/撰/梵語千/字/文/。/或/名/梵唐千/字/文/。/又/稱/唐/字/千鬘/聖語/。/二/曰/梵唐/消息/。/古寫/本/及/寂明/刊/本/不/見/此/名/。/至/敬/光/刊/本/初/見/之/。/三/曰/全真/撰/唐/梵/文字/。/又/名/唐梵兩國/言/音/文字/。/而/至/三/書/之/內/容/所/同/似/甚/多/矣/。/義淨/之/主/文/八百/語/全/與/全/真/之/主/文/相/同/(/第一/二/兩/本/注/曰/已/上/重/字/二百/言/也/是/或/四/言/二百/句/之/意/歟/)/至/其/後/文/。/初/因/業報/乃至/明明/可/信/凡/二十二/句/。/兩/文/略/相似/。/其餘/皆/別/文/也/。/其/梵唐/消息/者/。/唯/集/類/語/三百/而/成/。/除/胡漢/箜篌/等/數/語/。/餘/悉/含/於/千/字/文/矣/。/而/其/意/義/多/不/連續/。/宜/名/梵漢/單/語/篇/也/。/義淨/千/字/文/者/。/四/字/成/句/。/每/至/第二十一/句/。/必/挾/五/言/四句/。/而後/改韻/。/三/井/敬/光/曾/作/譯注/。/斥/寂明/所/言/文字/出沒/布/置/錯亂/之/語/。/詳/敘/本/文/押/韻/十/變/之/文意/。/而/尚/疑/義淨/撰/名/。/却/謂/依/全/真/唐/梵/文字/而/製/之/。/託/名/義淨/者/也/。/是/實/不/思/之/甚/也/。/按/斯/千/字/文/之/為/義淨/撰/也/。/無/所/可/疑/。/千/字/文後/序/曰/。/阿闍梨/多聞/三藏/勝義天/[/P/a/r/a/m/ā/r/t/ha/-/deva/]/之/所/作/而/精進/天/之/所/寫/也/。/玄奘/之/梵/名為/解脫天/[/Moksa/-/deva/]/或/為/大乘天/[/Ma/hā/yā/na/-/deva/]/勝義天/者/蓋/義淨/之/梵/名/也/。/千/字/文/之/內/容/亦/證/之/者/多/多/。/如/山/庭/蔽/軒蓋/。/淨/野/標/華/柱/(/第一/韻/)/之/句/。/非/見/阿育王/所/建/標/柱/者/則/不能/言/。/如/文/參/疊席/。/聰/過/閱肆/(/第三/韻/)/之/句/。/論壇/制/勝/者/之/疊/墮/負/者/之/席/。/事/見/南海/傳/。/玉/砌/石/渠/(/第三/韻/)/之/盛/。/亦/係/其/所/記/。/踞/坐/小/床/。/返/繫/衣/角/之/禮/。/齒/木/梳濯/。/牛糞/塗拭/(/第五/韻/)/之/俗/。/亦/其/所/傳/也/。/給園/(/給孤獨/園/)/仙樹/(/仙人/住處/)/鹿苑/王城/。/薜/舍利/國/。/劫比羅營/(/第七/韻/)/。/則/佛/蹟/之/所/在/。/謂/迴/顧戀/別/報/望/恩/生/(/第七/韻/)/者/。/非/義淨/三藏/而/誰/。/禪河/水濬/(/尼蓮禪師/)/戒巘/巖/清/(/毘柯羅/摩尸羅寺/)/嚴儀/像/殿/。/寫/勘/尊/經/(/第七/韻/)/者/。/非/西天/取/經/之/人/而/何/能/及/之/。/讚咏/歌管/。/梵音/彈舌/(/第八/韻/)/亦/南海/傳/之/所/示/也/。/依/之/觀/之/則/斯/書/之/為/義淨/撰/豈/可/疑/乎/。/全/真/之/梵唐/文字/者/。/依/義/淨/千/字/文/而/製/之/。/於/其後/文列/密/教/傳法/之/語/句/。/瑜伽/教/輩/之/語/樣/宜/如此/也/。/故/思/義/淨/千/字/文/先/存/。/全/真/梵唐/文字/次/成/。/其/梵唐/消息/者/。/或/義淨/撰/前/之/單/語/篇/歟/。/記/以/竢/後/考/。/</ab>
+<ab type="prose">/第一/　/梵語千/字/文/(/傳/慈覺大師/請/來/)/東洋/文庫/所/藏/</ab>
+<ab type="prose">/梵本/橫/書/唯/有/漢譯/而/無/音/譯/。/蓋/元/石山寺/藏/。/</ab>
+<ab type="prose">/第二/　/梵語千/字/文/　/享保/十二/年/　/瑜伽/乘/沙門/寂明/刊/</ab>
+<ab type="prose">/第三/　/梵語千/字/文/(/附/譯注/)/安/永/二年/　/沙彌/敬/光/刊/</ab>
 <ab type="prose">/以/上/兩/刊/本跋/曰/。/</ab>
 <ab type="prose">/件書/以/元慶/八年/正月/二十三日/始/經/四/日/寫/惟/海/上/人/之/本/訖/焉/三井寺/唐院/比丘/良/勇記/</ab>
 <ab type="prose">/今/此/第二/三/兩/刊/本/俱揭音/譯/。/第三/者/第二/之/再/刊/而/唯/加/譯注/而已/。/第一/寫/本/唯/有/義/譯/而/無/音/譯/。/是/恐/後/代/學者/之/所/加/也/。/其/梵音/之/的示/。/雖/非/無/錯亂/。/而/極/細密/。/或/淨嚴律師/以後/之/添/注/也/。/今/新/古/兩/本/並/出/。/不敢/加/勘訂/。/為/使/讀/者/窺/其/全/豹/也/。/</ab>
-<ab type="prose">/昭和/三年/十一月/　/　/　/　/雕藏/都鑒識/</ab></div></div>
+<ab type="prose">/昭和/三年/十一月/　/　/　/　/雕藏/都/鑒/識/</ab></div></div>
     </body>
   </text>
 </TEI>

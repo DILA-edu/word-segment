@@ -29,7 +29,7 @@
           <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
           <pubPlace>臺灣‧臺北</pubPlace>
           <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-          <date>2021-12-15</date>
+          <date>2022-06-14</date>
           <biblScope type="vol">ZW07</biblScope>
           <idno type="Taisho">ZW07n0064d</idno>
         </bibl>
@@ -38,14 +38,14 @@
   </teiHeader>
   <text>
     <body>
-    <div level="1"><head>/〔/錄文四/〕/</head>
+<milestone unit="juan" n="1"/><div level="1"><head>/〔/錄/文/四/〕/</head>
 <ab type="prose">/每月/十齋日/：/</ab>
 <ab type="list">
 /月/一/日/，/童子/下/，/此/日/齋/者/，/不/墮/鐵/樹/地獄/；/
-/八/日/，/太子/下/，/此/日/齋/者/，/不/墮/鐵/犁/地獄/；/
+/八/日/，/太子/下/，/此/日/齋/者/，/不/墮/鐵犁/地獄/；/
 /十四日/，/司命/下/，/此/日/齋/者/，/不/墮/鑊湯/地獄/；/
 /十五日/，/五道/大/神/下/，/此/日/齋/者/不/墮/鋸/解/地獄/；/
-/十八/日/，/閻羅王/下/，/此/日/齋/者/，/不/墮/糞屎/地獄/；/
+/十八日/，/閻羅王/下/，/此/日/齋/者/，/不/墮/糞屎/地獄/；/
 /二十三日/，/天/大將軍/下/，/此/日/齋/者/，/不/墮/銅/柱/地獄/；/
 /二十四日/，/察/命/下/，/此/日/齋/者/，/不/墮/黑暗/地獄/；/
 /二十八日/，/太山府/君/下/，/此/日/齋/者/，/不/墮/鐵/床/地獄/；/

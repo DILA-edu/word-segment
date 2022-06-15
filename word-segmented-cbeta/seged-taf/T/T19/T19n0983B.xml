@@ -29,7 +29,7 @@
           <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
           <pubPlace>臺灣‧臺北</pubPlace>
           <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-          <date>2021-12-15</date>
+          <date>2022-06-14</date>
           <biblScope type="vol">T19</biblScope>
           <idno type="Taisho">T19n0983B</idno>
         </bibl>
@@ -38,7 +38,7 @@
   </teiHeader>
   <text>
     <body>
-    <div level="1">
+<milestone n="1" unit="juan"/><div level="1">
 <ab type="juan" subtype="open">/孔雀/經/真言/等/梵本/</ab>
 <div type="pin" level="2"><head>/孔雀/經/上/</head>
 <ab type="dharani">tadyathā􇟄kālikarali􇟄kumbhāṇḍi􇟄śaṃkhini􇟄kamalākṣihārīti􇟄harikeśiśrīmati􇟄haripiṅgalelaṃmbhāpralaṃmbhā􇟄kālapaśe􇟄kalośodari􇟄yaṃmaduti􇟄mahārākṣasibhūtagrasati􇟄pravicchemaṃ􇟄pūṣpuṃdhupuṃ􇟄ganvavalica􇟄dāsmami􇟄rakṣathamama􇟄sapasaparivāraṃ􇟄sarvabhayopadravebhyaḥ􇟄jivatuvarṣaśavaṃ􇟄paśyatu􇟄śaradāṃśataṃ􇟄sidhyantu􇟄mantrapadāsvāhā􇖴tadyathā􇟄iḍi􇟄viḍi􇟄kiḍi􇟄hiḍi􇟄miḍi􇟄nibi􇟄aḍe􇟄ghoḍe􇟄duggāḍo􇟄hariṇi􇟄vaguḍimāṃsupiśacini􇟄arohaṇe􇟄uḍohaṇi􇟄ele􇟄mele􇟄tele􇟄tilitili􇟄mele􇥗􇟄tima􇥗􇟄dume􇥗􇟄iṭṭimiṭṭi􇟄viṣṭithe􇟄capale􇟄vimale􇟄vimale􇟄hulu􇥗􇟄aśvamokhī􇟄kāli􇟄mahāhali􇟄prakilāṇakaśi􇟄kulu􇥗􇟄veghulu􇟄kolu􇥗􇟄hulu􇥗􇟄vahulu􇟄vosāduva􇟄domvā􇥗􇟄duva􇥗􇟄golaya􇟄velaya􇟄ṣiśu􇟄hili􇥗􇟄mili􇥗􇟄tili􇥗􇟄bhili􇥗􇟄culu􇥗􇟄muhu􇥗􇟄suhu􇥗􇟄muhu􇥗􇟄muhu􇟄huhuhuhuhuhuhuhuhuhu􇟄vāvāvāvāvāvāvāvāvāvā􇟄jalajalajalajalajalajalajalajalajalajala􇟄damadamati􇟄tapatapani􇟄jvaladvālani􇟄pacapacani􇟄daṃbhibhi􇟄garjani􇟄varpaṇi􇟄sṛoṭani􇟄tapani􇟄pācati􇟄hāriṇi􇟄dthāriṇi􇟄kariṇi􇟄kaṃpaṇi􇟄madmani􇟄maṇḍitike􇟄makari􇟄śarkkari􇟄karkkari􇟄śārkkari􇟄śaṃkari􇟄jvālati􇟄duma􇟄dumvari􇟄dumedume􇟄golāya􇟄parivalāya􇟄varṣatudevaḥsamantena􇟄irikisī􇟄svāhā􇟄namostubuddhaya􇟄namostuvādhayenamostumuktaya　namostumuktayenamostuśantaye　namostuśantayenamotimuktaya　namodhimuktayenamobuddhāya􇟄namodharmmaya􇟄namaḥsiṃghāya􇟄tadyathā􇟄huhuhuhuhuhu􇟄nāgalele􇟄dumvalele􇟄huyahuya􇟄vijavija􇟄thusuthusu􇟄gulugulu􇟄relāmelā􇟄tirimelā􇟄ilimittre􇟄tilamittre􇟄ilitilimittre􇟄dumva􇟄sadumva􇟄tesute􇟄gelāvela􇟄capala􇟄vimalā　iṭṭiri􇟄bhiṭṭiri􇟄riṭṭiri􇟄viṭṭiri􇟄namostubuddhānāṃ􇟄cilikimi􇟄godohika􇟄namorhataṃ􇟄holadala􇟄varṣatudevā􇟄samatena􇟄daśasudiśāsu􇟄namobuddhānāṃsvāhā</ab>
@@ -61,8 +61,8 @@
 <div type="w" level="2">
 <ab type="prose">/寶曆八/(/戊寅/)/歲/三/月/日/令/沙門王/開/書寫/焉了/</ab>
 <ab type="prose">/南嶽/金剛峯寺/沙門/本/初/v/a/j/ra/密門/hh/ūṃ/謹誌/</ab>
-<ab type="prose">/天保/十二/年/辛丑/秋/八月/廿/三/日/以/新/別/所/圓通/寺/藏/本自/手/書寫/訖/此/本/與/現/本/經/相違/多/在/之/追/而/可/校/耳/。/</ab>
-<ab type="prose">/　/　/　/　/末資/亮/瑞/(/生年/四十三/歲/)/</ab></div></div>
+<ab type="prose">/天保/十二/年/辛丑/秋/八月/廿/三/日/以/新/別/所/圓通/寺/藏/本/自/手/書寫/訖/此/本/與/現/本/經/相違/多/在/之/追/而/可/校/耳/。/</ab>
+<ab type="prose">/　/　/　/　/末資/亮/瑞/(/生/年/四十三/歲/)/</ab></div></div>
     </body>
   </text>
 </TEI>

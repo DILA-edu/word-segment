@@ -29,7 +29,7 @@
           <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
           <pubPlace>臺灣‧臺北</pubPlace>
           <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-          <date>2021-12-15</date>
+          <date>2022-06-14</date>
           <biblScope type="vol">T19</biblScope>
           <idno type="Taisho">T19n1005B</idno>
         </bibl>
@@ -38,7 +38,7 @@
   </teiHeader>
   <text>
     <body>
-    <div level="1">
+<milestone n="1" unit="juan"/><div level="1">
 <ab type="juan" subtype="open">/寶/樓閣/經/梵/字/真言/</ab>
 <ab type="prose">/驚覺/。/</ab>
 <ab type="dharani">􇖵namaḥsarvatathāgatebhyometiṣṭaṃtidaśadiśeoṃmaṇivajrahladayavajremārasainyavidrāpalohanavajragarbhatrāsayatrāsayasarvamārabhavanānihūṃhūṃsaṃdharasadharabuddhāmaitrīsarvatathāgata</ab>
@@ -56,7 +56,7 @@
 <ab type="dharani">oṃmaṇivajayedharadharahūṃsvāhā􇖴</ab>
 <ab type="prose">/結/十方界/。/</ab>
 <ab type="dharani">oṃjvalitamaṇirucirāśya􈍇hūṃhūṃphaṭ􇖴</ab>
-<ab type="prose">/碎毘那夜迦/。/</ab>
+<ab type="prose">/碎/毘那夜迦/。/</ab>
 <ab type="dharani">oṃmaṇiprabhāvatiharaharahūṃhūṃphaṭsvāhā􇖴</ab>
 <ab type="prose">/頂髻/。/</ab>
 <ab type="dharani">oṃvajramaṇitiṣṭatiṣṭahūṃhūṃphaṭ􇖴</ab>
@@ -82,7 +82,7 @@
 <ab type="dharani">oṃpravarāgravatisarasarahūṃhūṃ􇖴</ab>
 <ab type="prose">/閼伽/。/</ab>
 <ab type="dharani">oṃmahāmaṇipūrayadharadharahūṃhūṃ􇖴</ab>
-<ab type="prose">/供/物/及/食/等/。/</ab>
+<ab type="prose">/供物/及/食/等/。/</ab>
 <ab type="dharani">oṃjvalasphuragaganapratāraṇihūṃhūṃ􇖴</ab>
 <ab type="prose">/加持/念/珠/。/</ab>
 <ab type="dharani">oṃruciramaṇipravarttayahūṃ</ab>

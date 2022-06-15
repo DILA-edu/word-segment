@@ -29,7 +29,7 @@
           <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
           <pubPlace>臺灣‧臺北</pubPlace>
           <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-          <date>2021-12-15</date>
+          <date>2022-06-14</date>
           <biblScope type="vol">T14</biblScope>
           <idno type="Taisho">T14n0491</idno>
         </bibl>
@@ -38,7 +38,7 @@
   </teiHeader>
   <text>
     <body>
-    
+<milestone unit="juan" n="1"/>
 <ab type="juan" subtype="open">/六/菩薩/亦/當/誦持/經/</ab>
 <byline>/失譯/附/後漢/錄/</byline>
 <div type="jing" level="1">
@@ -69,7 +69,7 @@
 /辯才/慧/獨/遠/，/　/願/禮/天人師/。/
 </ab>
 <ab type="prose">/別/有/四/菩薩/</ab>
-<ab type="prose">/此/四大士/，/皆/過去/十方/諸/佛/之/師/。/此/四大士/，/初始/造/行/之/時/，/發/大/誓願/言/：/「/我/當/度/一切/眾生/，/至/其/都/得/涅槃/，/然後/當/取/佛/。/」/以/是/故/應/誦念/誦持/，/得/無量/無邊/功德/至/不退轉/。/譬如/三千/世界/盡/虛空/滿/中/紫磨/黃金/，/用/之/布施/；/不如/一/須臾/之/間/誦念/此/四大士/名/，/其/所/得/功德/，/出過/爾/所/黃金/施/上/千億萬/倍/。/其/名/曰/：/</ab>
+<ab type="prose">/此/四大士/，/皆/過去/十方/諸/佛/之/師/。/此/四大士/，/初始/造/行/之/時/，/發/大/誓願/言/：/「/我/當/度/一切/眾生/，/至/其/都/得/涅槃/，/然後/當/取/佛/。/」/以/是/故/應/誦/念/誦持/，/得/無量/無邊/功德/至/不退轉/。/譬如/三千/世界/盡/虛空/滿/中/紫磨/黃金/，/用/之/布施/；/不如/一/須臾/之/間/誦/念/此/四大士/名/，/其/所/得/功德/，/出過/爾/所/黃金/施/上/千億萬/倍/。/其/名/曰/：/</ab>
 <ab type="prose">/棄/陰蓋/菩薩/、/寂根/菩薩/、/慧/威/菩薩/、/不/離/菩薩/。/</ab></div>
 <ab type="juan" subtype="close">/六/菩薩/亦/當/誦持/經/</ab>
     </body>

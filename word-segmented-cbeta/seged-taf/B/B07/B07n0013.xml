@@ -29,7 +29,7 @@
           <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
           <pubPlace>臺灣‧臺北</pubPlace>
           <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-          <date>2021-12-15</date>
+          <date>2022-06-14</date>
           <biblScope type="vol">B07</biblScope>
           <idno type="Taisho">B07n0013</idno>
         </bibl>
@@ -38,11 +38,11 @@
   </teiHeader>
   <text>
     <body>
-    
-<ab type="juan" subtype="open">/吉祥/經/(/出/巴利/三藏/中/之/小部/阿含/)/</ab>
+<milestone unit="juan" n="1"/>
+<ab type="juan" subtype="open">/吉祥/經/(/出/巴利/三藏/中/之/小/部/阿含/)/</ab>
 <byline>/民/國/法舫法師/譯/</byline>
 <div type="" level="1">
-<ab type="prose">/如是我聞/．/一時/．/佛/在/舍衛國/祇樹/給孤獨/園/．/爾時/有/一/天/人/．/於/後夜/分/．/身/諸/光明/徧照/祇樹/園林/．/來/詣/佛/所/．/到/已/頂禮/世尊/．/却住/一面/．/而/以/偈/白/佛/言/．/</ab>
+<ab type="prose">/如是我聞/．/一時/．/佛/在/舍衛國/祇樹/給孤獨/園/．/爾時/有/一/天/人/．/於/後/夜分/．/身/諸/光明/徧照/祇樹/園林/．/來/詣/佛/所/．/到/已/頂禮/世尊/．/却住/一面/．/而/以/偈/白/佛/言/．/</ab>
 <ab type="verse">/諸/天/與/世人/．/　/思維/吉祥/事/．/　/希求/．/　/於/幸/福/．/　/何謂/勝/吉祥/．/一/
 </ab>
 <ab type="verse">/遠離/愚癡/人/．/　/親近/智慧/者/．/　/供養/於/應供/．/　/此/事/勝/吉祥/．/二/
@@ -51,7 +51,7 @@
 </ab>
 <ab type="verse">/凡/學/諸/律儀/．/　/真實/與/工巧/．/　/及/善說/語言/．/　/此/事/勝/吉祥/．/四/
 </ab>
-<ab type="verse">/侍/奉/於/父母/．/　/攝受/妻/與/子/．/　/所/作/無/繫/累/．/　/此/事/勝/吉祥/．/五/
+<ab type="verse">/侍奉/於/父母/．/　/攝受/妻/與/子/．/　/所/作/無/繫累/．/　/此/事/勝/吉祥/．/五/
 </ab>
 <ab type="verse">/布施/與/修持/．/　/攝受/親/眷屬/．/　/諸/業/無/過咎/．/　/此/事/勝/吉祥/．/六/
 </ab>

@@ -29,7 +29,7 @@
           <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
           <pubPlace>臺灣‧臺北</pubPlace>
           <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-          <date>2021-12-15</date>
+          <date>2022-06-14</date>
           <biblScope type="vol">X44</biblScope>
           <idno type="Taisho">X44n0741</idno>
         </bibl>
@@ -38,16 +38,16 @@
   </teiHeader>
   <text>
     <body>
-    
+<milestone unit="juan" n="1"/>
 <ab type="juan" subtype="open">/行/事/鈔/諸/家/記/標/目/</ab>
-<byline>/後學/　/釋/　/戒/月/　/改/錄/</byline>
+<byline>/後學/　/釋/　/戒月/　/改錄/</byline>
 <div type="" level="1">
 <ab type="list">
 /行/事/鈔/記/十/卷/(/未/詳/記/名/)/</ab>
-<ab type="prose">/右/一/部/唐/京/兆/光明寺/智仁律師/著/事/鈔/一/出/諸/家/著/記/以/師/為/始/係/所謂/六十/家/之/外/矣/。/</ab>
+<ab type="prose">/右/一/部/唐/京兆/光明寺/智仁律師/著/事/鈔/一/出/諸/家/著/記/以/師/為/始/係/所謂/六十/家/之/外/矣/。/</ab>
 <ab type="list">
 /行/事/鈔/引/源記/二十一/卷/</ab>
-<ab type="prose">/右/一/部/唐/會/稽雲門寺/靈澈律師/述/亦/係/六十/家/之/外/矣/。/</ab>
+<ab type="prose">/右/一/部/唐會/稽雲門寺/靈澈律師/述/亦/係/六十/家/之/外/矣/。/</ab>
 <ab type="list">
 /行/事/鈔/記/(/未/考/記/名/及/卷/數/)/</ab>
 <ab type="prose">/右/一/部/唐/京師/西明寺/大慈律師/述/。/</ab>
@@ -100,20 +100,20 @@
 /行/事/鈔/折/中/記/六卷/</ab>
 <ab type="prose">/右/一/部/唐/常州/興寧寺/義/宣/(/一/作/超/)/律師/述/。/</ab>
 <ab type="list">
-/行/事/鈔/會正/(/一/作/冒/)/記/(/未/詳/卷/數/)/</ab>
+/行/事/鈔/會/正/(/一/作/冒/)/記/(/未/詳/卷/數/)/</ab>
 <ab type="prose">/右/一/部/唐/志/相/律師/述/。/</ab>
 <ab type="list">
 /行/事/鈔/古今/決/(/一/作/慈和記/)/十/卷/</ab>
 <ab type="prose">/右/一/部/唐/潤州/招隱寺/朗然律師/述/。/</ab>
 <ab type="list">
-/行/事/鈔/關要記/十卷/</ab>
+/行/事/鈔/關/要記/十卷/</ab>
 <ab type="prose">/右/一/部/唐清法律師/述/。/</ab>
 <ab type="list">
 /行/事/鈔/集/正記/(/未/詳/卷/數/)/</ab>
 <ab type="prose">/右/一/部/唐/潤州/惟倩律師/述/。/</ab>
 <ab type="list">
 /行/事/鈔/記/六卷/(/未/考/記/名/)/</ab>
-<ab type="prose">/右/一/部/唐/慧/超/律師/述/。/</ab>
+<ab type="prose">/右/一/部/唐慧超律師/述/。/</ab>
 <ab type="list">
 /行/事/鈔/記/七/卷/(/一/作/六/卷/未/考/記/名/)/</ab>
 <ab type="prose">/右/一/部/唐/杭州/辯常律師/述/。/</ab>
@@ -121,11 +121,11 @@
 /行/事/鈔/靈山/記/(/未/考/卷/數/)/</ab>
 <ab type="prose">/右/一/部/唐/西京/禪定/寺/義/威律師/述/。/</ab>
 <ab type="list">
-/四分律/鈔/批/(/一/作/華嚴記/)/十四/卷/</ab>
+/四分律/鈔/批/(/一/作/華嚴/記/)/十四/卷/</ab>
 <ab type="prose">/右/一/部/唐/杭州/華嚴寺/大覺律師/述/。/</ab>
 <ab type="list">
 /行/事/鈔/搜玄錄/二十/卷/</ab>
-<ab type="prose">/右/一/部唐/吳郡/雙林寺/長壽大師/志/鴻述/。/</ab>
+<ab type="prose">/右/一/部/唐/吳郡/雙林寺/長壽大師/志/鴻述/。/</ab>
 <ab type="list">
 /行/事/鈔/順/正記/十卷/</ab>
 <ab type="prose">/右/一/部/唐/楊州/慧照寺/省躳律師/述/。/</ab>
@@ -140,9 +140,9 @@
 <ab type="prose">/右/一/部/唐/曇慶律師/述/。/</ab>
 <ab type="list">
 /行/事/鈔/顯/宗記/(/未/考/卷/數/)/</ab>
-<ab type="prose">/右/一/部/唐/衛獄寺/曇清律師/述/。/</ab>
+<ab type="prose">/右/一/部/唐衛獄寺/曇清律師/述/。/</ab>
 <ab type="list">
-/行/事/鈔/集/義/記/(/一/作/後/堂/記/)/二十/卷/</ab>
+/行/事/鈔/集/義/記/(/一/作/後堂/記/)/二十/卷/</ab>
 <ab type="prose">/右/一/部/唐/鐘陵/龍興寺/清徹律師/述/。/</ab>
 <ab type="list">
 /行/事/鈔/記/(/未/考/記/名/及/卷/數/)/</ab>
@@ -155,7 +155,7 @@
 <ab type="prose">/右/一/部/總持寺/法寶大師/玄暢/述/。/</ab>
 <ab type="list">
 /行/事/鈔/繼/宗記/(/未/考/卷/數/)/</ab>
-<ab type="prose">/右/一/部/唐/京/兆/從/志/律師/述/。/</ab>
+<ab type="prose">/右/一/部/唐/京兆/從/志/律師/述/。/</ab>
 <ab type="list">
 /行/事/鈔/記/(/未/考/記/名/及/卷/數/)/</ab>
 <ab type="prose">/右/一/部/唐/秀州/德圓律師/述/。/</ab>

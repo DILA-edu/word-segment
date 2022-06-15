@@ -29,7 +29,7 @@
           <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
           <pubPlace>臺灣‧臺北</pubPlace>
           <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-          <date>2021-12-15</date>
+          <date>2022-06-14</date>
           <biblScope type="vol">T10</biblScope>
           <idno type="Taisho">T10n0289</idno>
         </bibl>
@@ -38,9 +38,9 @@
   </teiHeader>
   <text>
     <body>
-    
+<milestone n="1" unit="juan"/>
 <ab type="juan" subtype="open">/顯/無邊/佛土/功德/經/</ab>
-<byline>/大唐/三藏法師/玄奘/譯/</byline>
+<byline>/大唐/三藏/法師/玄奘/譯/</byline>
 <div type="jing" level="1">
 <ab type="prose">/如是我聞/：/</ab>
 <ab type="prose">/一時/薄伽梵/在/摩揭陀國/閑寂/法林/，/坐/妙/菩提/金剛/堅固/無量/妙/寶/共/所/莊嚴/紅/蓮華臺/師子座/上/，/與/十/不可說/俱胝/那庾多/百千/佛土/極/微塵數/大菩薩/俱/，/及/諸/天/、/人/、/阿素洛/等/無量/大眾/前後/圍繞/。/</ab>

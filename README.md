@@ -76,6 +76,8 @@ http://hai.dila.edu.tw/word_seg/index
 * word-segmented-cbeta 資料夾
   * seged-taf 資料夾： TAFxml 格式 (Text Analysis Friendly)
   * seged-txt 資料夾： 純文字格式
+    * one-text-as-a-file 一部典籍一檔
+    * one-fascile-as-a-file 一卷一檔
 
 缺字使用 Unicode PUA.
 

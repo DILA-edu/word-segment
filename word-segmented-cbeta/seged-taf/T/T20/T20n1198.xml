@@ -29,7 +29,7 @@
           <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
           <pubPlace>臺灣‧臺北</pubPlace>
           <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-          <date>2021-12-15</date>
+          <date>2022-06-14</date>
           <biblScope type="vol">T20</biblScope>
           <idno type="Taisho">T20n1198</idno>
         </bibl>
@@ -38,13 +38,13 @@
   </teiHeader>
   <text>
     <body>
-    <div level="1">
+<milestone n="1" unit="juan"/><div level="1">
 <ab type="juan" subtype="open">/聖者/文殊師利/發/菩提心/願/文/</ab>
 <byline>/巴/看/落/目/瓦傳/</byline>
 <byline>/元/甘/泉/馬蹄山/中/川/守/分/真師/姪/智慧/譯/</byline>
 <div type="jing" level="2">
 <ab type="prose">/敬禮/一切/諸/佛/菩薩/。/</ab>
-<ab type="verse">/救護/一切/面前/住/　/究竟/發/於/菩提/心/
+<ab type="verse">/救護/一切/面前/住/　/究竟/發/於/菩提心/
 /一切/有情/作/利益/　/輪迴/有情/至/彼岸/
 /癡心/瞋心/本/自性/　/慳貪/貢高/本/自性/
 /始/從/今日/至/菩提/　/未/證/中間/不復/造/
@@ -58,7 +58,7 @@
 /無邊/惡業/不復/造/
 </ab></div>
 <div type="w" level="2">
-<ab type="prose">/　/(/聖者/文殊師利/往昔/為/啞/馬/國王/時/於/雷音王/佛/處/發/此/菩提/心願/文/)/。/</ab></div></div>
+<ab type="prose">/　/(/聖者/文殊師利/往昔/為/啞/馬/國王/時/於/雷音王/佛/處/發/此/菩提心/願/文/)/。/</ab></div></div>
     </body>
   </text>
 </TEI>

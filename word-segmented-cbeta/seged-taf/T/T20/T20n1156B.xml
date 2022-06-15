@@ -29,7 +29,7 @@
           <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
           <pubPlace>臺灣‧臺北</pubPlace>
           <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-          <date>2021-12-15</date>
+          <date>2022-06-14</date>
           <biblScope type="vol">T20</biblScope>
           <idno type="Taisho">T20n1156B</idno>
         </bibl>
@@ -38,13 +38,13 @@
   </teiHeader>
   <text>
     <body>
-    <div level="1">
+<milestone n="1" unit="juan"/><div level="1">
 <ab type="juan" subtype="open">/宗󰤗/僧/正/於/唐/國師/所/口/受/</ab><head>/大/隨/求/根本/印/第一/</head>
 <ab type="prose">/二/手/內/相叉/。/二/中/指/合/竪/。/二/頭/指/於/中/指/後/微/屈/如/鉤/。/二/小/指/二/大/指/合/竪/微屈/即/成/。/</ab>
 <ab type="prose">/梵/云/嚩日羅/(/二/合/)/　/唐/云/五/股/金剛杵/</ab><head>/一切/如來/心/真言/第二/</head>
 <ab type="prose">/二/手/左/覆/右/仰/背/相/著/。/中/指/互相/背/鉤/竪/如/斧/形/即/成/。/</ab>
-<ab type="prose">/梵/云/跛/羅戌/　/唐/云/鉞斧/(/安/云/二/手/背/立/中/指/相/鉤/)/</ab><head>/一切/如來/心印/真言/第三/</head>
-<ab type="prose">/二/手/內/相叉/二/中/指頭/相/跓/屈/令/圓/即/成/。/</ab>
+<ab type="prose">/梵/云/跛/羅戌/　/唐/云/鉞/斧/(/安/云/二/手/背/立/中/指/相/鉤/)/</ab><head>/一切/如來/心/印/真言/第三/</head>
+<ab type="prose">/二/手/內/相叉/二/中/指/頭/相/跓/屈/令/圓/即/成/。/</ab>
 <ab type="prose">/梵/云/跛羅/播/捨/　/唐/云/索/</ab><head>/一切/如來/金剛/被/甲真/言/印/第四/</head>
 <ab type="prose">/二/手/合掌/。/二/頭/指/屈/中/節/令/平偃/。/頭/相/跓/即/成/。/</ab>
 <ab type="prose">/梵/云/渴誐/　/唐/云/劍/</ab><head>/一切/如來/灌頂/真言/印/(/第五/歟/)/</head>
@@ -56,8 +56,8 @@
 <ab type="prose">/梵/云/進/跢/(/引/)/麼尼/　/唐/云/寶/</ab><head>/一切/如來/隨心/真言/印/(/第八/歟/)/</head>
 <ab type="prose">/以/左/手/仰/於/當/心/展/五指/。/以/右/手/覆/於/左/上/相/合/令/平/即/成/。/</ab>
 <ab type="prose">/梵/云/摩訶尾/儞/也/(/二/合/)/馱羅/抳/(/異/)/　/唐/云/大/明/總持/</ab><head>/慈覺大師/大/隨/求/印/</head>
-<ab type="prose">/內/縛/五/股/印/是/也/。/</ab><head>/尊勝/佛頂/印/</head>
-<ab type="prose">/虛心/合掌/。/屈/二/風甲/相/對/。/以/二/空/捻/二/風/側/如/彈指/勢/也/(/本/軌/文/)/。/</ab><head>/文殊/根本/印/</head>
+<ab type="prose">/內/縛/五/股/印/是/也/。/</ab><head>/尊/勝/佛/頂印/</head>
+<ab type="prose">/虛心/合掌/。/屈/二/風甲/相對/。/以/二/空/捻/二/風/側/如/彈指/勢/也/(/本/軌/文/)/。/</ab><head>/文殊/根本/印/</head>
 <ab type="prose">/虛心/合掌/。/二/火/覆/。/捻/二/水/而/頭/相/拄/屈/二/風/橫/捻/二/空/上/　/又/說/內/縛/二/地/合/竪/屈/二/風/橫/二/空/上/。/</ab><head>/滿足/句/印/</head>
 <ab type="prose">/二/地/合/針/。/二/水/內/鉤/。/二/火/如/寶/。/二/風/屈/捻/二/空/上/。/真言/曰/。/</ab>
 <ab type="dharani">阿尾羅吽欠</ab>

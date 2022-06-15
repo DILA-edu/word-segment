@@ -29,7 +29,7 @@
           <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
           <pubPlace>臺灣‧臺北</pubPlace>
           <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-          <date>2021-12-15</date>
+          <date>2022-06-14</date>
           <biblScope type="vol">T21</biblScope>
           <idno type="Taisho">T21n1327</idno>
         </bibl>
@@ -38,11 +38,11 @@
   </teiHeader>
   <text>
     <body>
-    
+<milestone n="1" unit="juan"/>
 <div type="jing" level="1">
 <ab type="juan" subtype="open">/佛/說/呪齒/經/</ab>
 <byline>/東晉/竺曇無蘭/譯/</byline>
-<ab type="prose">/南無/佛/南無/法/南無/比丘/僧/南無/舍利弗/大目乾連/比丘/。/南無/覺意/。/名聞/邊/北方/健陀摩呵衍山/。/彼/有/虫/王/名/差吼/無/。/在/某/牙齒/中/止/。/今/當/遣/使者/無/敢/食/某/牙/。/及/牙根/中/牙根/中/牙/邊/虫/。/不/即/下/器/中/頭/破/作/七/分/如/鳩羅/勤蟮/。/梵天/勸/是/呪/南無/佛/。/令/我/所/呪/皆/從/如/願/。/</ab>
+<ab type="prose">/南無/佛/南無/法/南無/比丘/僧/南無/舍利弗/大目乾連/比丘/。/南無/覺意/。/名聞/邊/北方/健陀摩呵衍山/。/彼/有/虫/王/名/差吼/無/。/在/某/牙/齒/中/止/。/今/當/遣/使者/無/敢/食/某/牙/。/及/牙根/中/牙根/中/牙/邊/虫/。/不/即/下/器/中/頭/破/作/七/分/如/鳩羅/勤蟮/。/梵天/勸/是/呪/南無/佛/。/令/我/所/呪/皆/從/如/願/。/</ab>
 <ab type="juan" subtype="close">/佛/說/呪齒/經/</ab></div>
     </body>
   </text>

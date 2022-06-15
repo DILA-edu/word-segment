@@ -29,7 +29,7 @@
           <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
           <pubPlace>臺灣‧臺北</pubPlace>
           <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-          <date>2021-12-15</date>
+          <date>2022-06-14</date>
           <biblScope type="vol">T12</biblScope>
           <idno type="Taisho">T12n0373</idno>
         </bibl>
@@ -38,11 +38,11 @@
   </teiHeader>
   <text>
     <body>
-    
+<milestone n="1" unit="juan"/>
 <ab type="juan" subtype="open">/後/出/阿彌陀/佛/偈/</ab>
-<byline>/古/舊/錄/云/闕譯/人名/，/今/紀/後漢/錄/</byline>
+<byline>/古舊錄/云/闕譯/人名/，/今/紀/後漢/錄/</byline>
 <div type="jing" level="1">
-<ab type="verse">/惟念法/比丘/，/　/乃/從/世/饒/王/，/
+<ab type="verse">/惟念法/比丘/，/　/乃/從/世饒王/，/
 /發願/喻/諸/佛/，/　/誓/二十四/章/。/
 /世世/見/諸/佛/，/　/姟數/無有/量/；/
 /不/廢/宿命/行/，/　/功德/遂/具/成/。/
@@ -50,7 +50,7 @@
 /國界/平夷/易/，/　/豐樂/多/上人/。/
 /寶/樹/若干/種/，/　/羅列/叢/相/生/，/
 /本/莖/枝葉/花/，/　/種種/各/異/香/。/
-/順/風/日/三動/，/　/翕/習/如/花/生/，/
+/順/風/日/三動/，/　/翕習/如/花/生/，/
 /墮/地/如/手/布/，/　/雜/廁/上/普平/。/
 /一切/無/諸/山/、/　/海水/及/諸/源/，/
 /但/有/河水/流/，/　/音響/如/說/經/。/
@@ -68,7 +68,7 @@
 /講說/士/難/遇/，/　/受/學人/難/得/。/
 /若/後/遭/末世/，/　/法/欲/衰微/時/，/
 /當/共/建/擁護/，/　/行/佛/無/欲/法/。/
-/佛/能/說/此/要/，/　/各各/勤思/行/；/
+/佛/能/說/此/要/，/　/各各/勤/思/行/；/
 /受/此/無量/福/，/　/世世/稽首/行/。/
 </ab></div>
 <ab type="juan" subtype="close">/後/出/阿彌陀/佛/偈/</ab>

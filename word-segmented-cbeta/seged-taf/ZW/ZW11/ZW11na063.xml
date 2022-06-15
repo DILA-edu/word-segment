@@ -29,7 +29,7 @@
           <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
           <pubPlace>臺灣‧臺北</pubPlace>
           <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-          <date>2021-12-15</date>
+          <date>2022-06-14</date>
           <biblScope type="vol">ZW11</biblScope>
           <idno type="Taisho">ZW11na063</idno>
         </bibl>
@@ -38,10 +38,10 @@
   </teiHeader>
   <text>
     <body>
-    <div level="1"><head>/目錄/</head>
+<milestone unit="juan" n="1"/><div level="1"><head>/目錄/</head>
 <ab type="table"/>
 <ab type="row"/>
-<ab type="cell">/卷首/語/</ab>
+<ab type="cell">/卷/首/語/</ab>
 <ab type="cell">/（/1/）/</ab>
 <ab type="row"/>
 <ab type="cell">/錄/文校/勘/體/例/</ab>
@@ -57,7 +57,7 @@
 <ab type="cell">/如來/九/觀/（/擬/）/</ab>
 <ab type="cell">/（/13/）/</ab>
 <ab type="row"/>
-<ab type="cell">/金剛/峻/經/金剛頂/一切/如來/深妙/秘密/金剛界/大/三昧/耶/修行/四十二/種/壇/法/經/作用/威儀/法則/　/大/毘盧遮那/佛/金剛/心地/法門/密法/戒壇/法/儀則/</ab>
+<ab type="cell">/金剛/峻/經/金剛頂/一切/如來/深妙/秘密/金剛界/大/三昧/耶/修行/四十二/種/壇/法/經/作/用/威儀/法則/　/大/毘盧遮那/佛/金剛/心地/法門/密法/戒壇/法/儀則/</ab>
 <ab type="cell">/（/17/）/</ab>
 <ab type="row"/>
 <ab type="cell">/卷/第一/</ab>
@@ -72,7 +72,7 @@
 <ab type="cell">/卷/第四/</ab>
 <ab type="cell">/（/136/）/</ab>
 <ab type="row"/>
-<ab type="cell">/金剛/峻/經/金剛頂/一切/如來/深妙/秘密/金剛界/大/三昧/耶/修行/四十九/種/壇/法/經/作用/威儀/法則/　/大/毘盧遮那/佛/金剛/心地/法門/密法/戒壇/法/儀則/</ab>
+<ab type="cell">/金剛/峻/經/金剛頂/一切/如來/深妙/秘密/金剛界/大/三昧/耶/修行/四十九/種/壇/法/經/作/用/威儀/法則/　/大/毘盧遮那/佛/金剛/心地/法門/密法/戒壇/法/儀則/</ab>
 <ab type="cell">/（/145/）/</ab>
 <ab type="row"/>
 <ab type="cell">/疑/偽/經/</ab>
@@ -105,10 +105,10 @@
 <ab type="row"/>
 <ab type="cell">/研/究/論/文/</ab>
 <ab type="row"/>
-<ab type="cell">/日/本/的漢/文/大藏經/收藏/及/其/特/色/—/—/以/刻/本/大藏經/為/中心/</ab>
+<ab type="cell">/日/本/的漢/文大藏經/收藏/及/其/特色/—/—/以/刻/本/大藏經/為/中心/</ab>
 <ab type="cell">/（/375/）/</ab>
 <ab type="row"/>
-<ab type="cell">/論/《/高麗/再/雕藏/》/中/所/見/的/《/契丹藏/》/</ab>
+<ab type="cell">/論/《/高麗/再/雕/藏/》/中/所/見/的/《/契丹藏/》/</ab>
 <ab type="cell">/（/409/）/</ab>
 <ab type="row"/>
 <ab type="cell">/徵稿/啟/事/</ab>
